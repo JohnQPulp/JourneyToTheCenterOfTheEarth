@@ -1,0 +1,17 @@
+{
+  "title": "Journey to the Center of the Earth",
+  "shortTitle": "Journey to the Center of the Earth",
+  "author": "Jules Verne",
+  "translator": "F. A. Malleson",
+  "year": 1867,
+  "source": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "words": 72194,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/JourneyToTheCenterOfTheEarth",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/1086176.Journey_to_the_Center_of_the_Earth",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Journey_to_the_Centre_of_the_Earth"
+  },
+  "blurb": "foo",
+  "blurb2": "bar"
+}
