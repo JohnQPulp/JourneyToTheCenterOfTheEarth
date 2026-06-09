@@ -8,10 +8,9 @@
   "words": 72194,
   "pulpDate": null,
   "repo": "https://github.com/JohnQPulp/JourneyToTheCenterOfTheEarth",
-  "links": {
-    "Goodreads": "https://www.goodreads.com/book/show/1086176.Journey_to_the_Center_of_the_Earth",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Journey_to_the_Centre_of_the_Earth"
-  },
+  "wikipedia": "https://en.wikipedia.org/wiki/Journey_to_the_Centre_of_the_Earth",
   "blurb": "foo",
-  "blurb2": "bar"
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
 }
