@@ -1,10 +1,6 @@
-<hgroup>
+Journey to the Center of the Earth<br>Jules Verne
 
-## I
-
-The Professor and His Family
-
-</hgroup>
+## I. The Professor and His Family
 
 On the 24th of May, 1863, my uncle, Professor Liedenbrock, rushed into his little house, No. 19 Königstrasse, one of the oldest streets in the oldest portion of the city of Hamburg.
 
@@ -68,13 +64,7 @@ I freely confess that I was exceedingly fond of geology and all its kindred scie
 
 In a word, a man might live happily enough in the little old house in the Königstrasse, in spite of the restless impatience of its master, for although he was a little too excitable﻿—he was very fond of me. But the man had no notion how to wait; nature herself was too slow for him. In April, after he had planted in the terracotta pots outside his window seedling plants of mignonette and convolvulus, he would go and give them a little pull by their leaves to make them grow faster. In dealing with such a strange individual there was nothing for it but prompt obedience. I therefore rushed after him.
 
-<hgroup>
-
-## II
-
-A Mystery to Be Solved at Any Price
-
-</hgroup>
+## II. A Mystery to Be Solved at Any Price
 
 That study of his was a museum, and nothing else. Specimens of everything known in mineralogy lay there in their places in perfect order, and correctly named, divided into inflammable, metallic, and lithoid minerals.
 
@@ -166,13 +156,7 @@ All this my uncle was going to sacrifice to a bit of old parchment. As an affect
 
 My opinion was, that nothing more serious would happen than an awful scene when my uncle should have discovered that his dinner was devoured. I had come to the last of the fruit when a very loud voice tore me away from the pleasures of my dessert. With one spring I bounded out of the dining-room into the study.
 
-<hgroup>
-
-## III
-
-The Runic Writing Exercises the Professor
-
-</hgroup>
+## III. The Runic Writing Exercises the Professor
 
 “Undoubtedly it is Runic,” said the Professor, bending his brows; “but there is a secret in it, and I mean to discover the key.”
 
@@ -325,13 +309,7 @@ But who could have foretold the result? A violent thump made the furniture rattl
 
 Then darting out like a shot, bowling downstairs like an avalanche, he rushed into the Königstrasse and fled.
 
-<hgroup>
-
-## IV
-
-The Enemy to Be Starved Into Submission
-
-</hgroup>
+## IV. The Enemy to Be Starved Into Submission
 
 “He is gone!” cried Martha, running out of her kitchen at the noise of the violent slamming of doors.
 
@@ -391,13 +369,7 @@ My over-excitement was beyond all description.
 
 There was a little fire left on the hearth. I seized not only the paper but Saknussemm’s parchment; with a feverish hand I was about to fling it all upon the coals and utterly destroy and abolish this dangerous secret, when the study door opened, and my uncle appeared.
 
-<hgroup>
-
-## V
-
-Famine, Then Victory, Followed by Dismay
-
-</hgroup>
+## V. Famine, Then Victory, Followed by Dismay
 
 I had only just time to replace the unfortunate document upon the table.
 
@@ -513,13 +485,7 @@ In reading this, my uncle gave a spring as if he had touched a Leyden jar. His a
 
 “And yours!” replied the indefatigable Professor, entering the dining-room.
 
-<hgroup>
-
-## VI
-
-Exciting Discussions About an Unparalleled Enterprise
-
-</hgroup>
+## VI. Exciting Discussions About an Unparalleled Enterprise
 
 At these words a cold shiver ran through me. Yet I controlled myself; I even resolved to put a good face upon it. Scientific arguments alone could have any weight with Professor Liedenbrock. Now there were good ones against the practicability of such a journey. Penetrate to the centre of the earth! What nonsense! But I kept my dialectic battery in reserve for a suitable opportunity, and I interested myself in the prospect of my dinner, which was not yet forthcoming.
 
@@ -669,13 +635,7 @@ In truth, I was beginning to be shaken by the Professor’s arguments, besides w
 
 “It is certain,” exclaimed my uncle in a tone of triumph. “But silence, do you hear me? Silence upon the whole subject; and let no one get before us in this design of discovering the centre of the earth.”
 
-<hgroup>
-
-## VII
-
-A Woman’s Courage
-
-</hgroup>
+## VII. A Woman’s Courage
 
 Thus ended this memorable séance. That conversation threw me into a fever. I came out of my uncle’s study as if I had been stunned, and as if there was not air enough in all the streets of Hamburg to put me right again. I therefore made for the banks of the Elbe, where the steamer lands her passengers, which forms the communication between the city and the Hamburg railway.
 
@@ -829,13 +789,7 @@ At that moment my uncle was solemnly investing Gräuben with the reins of govern
 
 I pressed her in my arms and took my place in the carriage. Martha and the young girl, standing at the door, waved their last farewell. Then the horses, roused by the driver’s whistling, darted off at a gallop on the road to Altona.
 
-<hgroup>
-
-## VIII
-
-Serious Preparations for Vertical Descent
-
-</hgroup>
+## VIII. Serious Preparations for Vertical Descent
 
 Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.
 
@@ -943,13 +897,7 @@ But I was compelled to rise, to stand up, to look. My first lesson in dizziness 
 
 And it was so; for five days in succession, I was obliged to undergo this anti-vertiginous exercise; and whether I would or not, I made some improvement in the art of “lofty contemplations.”
 
-<hgroup>
-
-## IX
-
-Iceland! But What Next?
-
-</hgroup>
+## IX. Iceland! But What Next?
 
 The day for our departure arrived. The day before it our kind friend M. Thomsen brought us letters of introduction to Count Trampe, the Governor of Iceland, M. Picturssen, the bishop’s suffragan, and M. Finsen, mayor of Reykjavík. My uncle expressed his gratitude by tremendous compressions of both his hands.
 
@@ -1055,13 +1003,7 @@ The women looked as sad and as resigned as the men; their faces were agreeable b
 
 After a good walk I returned to M. Fridrikssen’s house, where I found my uncle already in his host’s company.
 
-<hgroup>
-
-## X
-
-Interesting Conversations with Icelandic Savants
-
-</hgroup>
+## X. Interesting Conversations with Icelandic Savants
 
 Dinner was ready. Professor Liedenbrock devoured his portion voraciously, for his compulsory fast on board had converted his stomach into a vast unfathomable gulf. There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old. It was evident that we were more at home than he was himself.
 
@@ -1199,13 +1141,7 @@ I am glad to think that our host, in the innocence of his Icelandic soul, was bl
 
 This momentous conversation ended in a few minutes with warm acknowledgements paid by the German to the Icelandic Professor. At this dinner my uncle had just elicited important facts, amongst others, the history of Saknussemm, the reason of the mysterious document, that his host would not accompany him in his expedition, and that the very next day a guide would be waiting upon him.
 
-<hgroup>
-
-## XI
-
-A Guide Found to the Centre of the Earth
-
-</hgroup>
+## XI. A Guide Found to the Centre of the Earth
 
 In the evening I took a short walk on the beach and returned at night to my plank-bed, where I slept soundly all night.
 
@@ -1289,13 +1225,7 @@ At six o’clock our preparations were over. M. Fridrikssen shook hands with us.
 >
 > “There ever fortune clears a way, thither our ready footsteps stray.”
 
-<hgroup>
-
-## XII
-
-A Barren Land
-
-</hgroup>
+## XII. A Barren Land
 
 We had started under a sky overcast but calm. There was no fear of heat, none of disastrous rain. It was just the weather for tourists.
 
@@ -1379,13 +1309,7 @@ That favourable moment arrived only with six o’clock; when my uncle, myself, t
 
 In another half hour we had reached the *aðalkirkja* of Gardär.
 
-<hgroup>
-
-## XIII
-
-Hospitality Under the Arctic Circle
-
-</hgroup>
+## XIII. Hospitality Under the Arctic Circle
 
 It ought to have been nighttime, but under the 65th parallel there was nothing surprising in the nocturnal polar light. In Iceland during the months of June and July the sun does not set.
 
@@ -1455,13 +1379,7 @@ June 20. At six p.m. we reached Büdir, a village on the sea shore; and the gui
 
 The soil told of the neighbourhood of the mountain, whose granite foundations rose from the earth like the knotted roots of some huge oak. We were rounding the immense base of the volcano. The Professor hardly took his eyes off it. He tossed up his arms and seemed to defy it, and to declare, “There stands the giant that I shall conquer.” After about four hours’ walking the horses stopped of their own accord at the door of the priest’s house at Stapi.
 
-<hgroup>
-
-## XIV
-
-But Arctics Can Be Inhospitable, Too
-
-</hgroup>
+## XIV. But Arctics Can Be Inhospitable, Too
 
 Stapi is a village consisting of about thirty huts, built of lava, at the south side of the base of the volcano. It extends along the inner edge of a small fjord, enclosed between basaltic walls of the strangest construction.
 
@@ -1551,13 +1469,7 @@ My uncle paid without a remark: a man who is starting for the centre of the eart
 
 This point being settled, Hans gave the signal, and we soon left Stapi behind us.
 
-<hgroup>
-
-## XV
-
-Snæfells at Last
-
-</hgroup>
+## XV. Snæfells at Last
 
 Snæfells is 5,000 feet high. Its double cone forms the limit of a trachytic belt which stands out distinctly in the mountain system of the island. From our starting point we could see the two peaks boldly projected against the dark grey sky; I could see an enormous cap of snow coming low down upon the giant’s brow.
 
@@ -1627,13 +1539,7 @@ Yet Hans did not think it prudent to spend the night upon the sides of the cone.
 
 At last, at eleven in the sunlight night, the summit of Snæfells was reached, and before going in for shelter into the crater I had time to observe the midnight sun, at his lowest point, gilding with his pale rays the island that slept at my feet.
 
-<hgroup>
-
-## XVI
-
-Boldly Down the Crater
-
-</hgroup>
+## XVI. Boldly Down the Crater
 
 Supper was rapidly devoured, and the little company housed themselves as best they could. The bed was hard, the shelter not very substantial, and our position an anxious one, at five thousand feet above the sea level. Yet I slept particularly well; it was one of the best nights I had ever had, and I did not even dream.
 
@@ -1733,13 +1639,7 @@ I looked at Hans, to hear what he would say.
 
 It was thirteen minutes past one.
 
-<hgroup>
-
-## XVII
-
-Vertical Descent
-
-</hgroup>
+## XVII. Vertical Descent
 
 Now began our real journey. Hitherto our toil had overcome all difficulties, now difficulties would spring up at every step.
 
@@ -1825,13 +1725,7 @@ When lying on my back, I opened my eyes and saw a bright sparkling point of ligh
 
 It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor. Then I fell fast asleep.
 
-<hgroup>
-
-## XVIII
-
-The Wonders of Terrestrial Depths
-
-</hgroup>
+## XVIII. The Wonders of Terrestrial Depths
 
 At eight in the morning a ray of daylight came to wake us up. The thousand shining surfaces of lava on the walls received it on its passage, and scattered it like a shower of sparks.
 
@@ -1951,13 +1845,7 @@ The Professor’s calculations were quite correct. We had already attained a dep
 
 The temperature, which ought to have been 81° (178° Fahr.) was scarcely 15° (59° Fahr.) Here was cause for reflection.
 
-<hgroup>
-
-## XIX
-
-Geological Studies *In Situ*
-
-</hgroup>
+## XIX. Geological Studies *In Situ*
 
 Next day, Tuesday, June 30, at 6 a.m., the descent began again.
 
@@ -2057,13 +1945,7 @@ This was only invincible obstinacy. I could hold out no longer. I picked up a pe
 
 “Well, Axel, we will put ourselves upon rations.”
 
-<hgroup>
-
-## XX
-
-The First Signs of Distress
-
-</hgroup>
+## XX. The First Signs of Distress
 
 In fact, we had to ration ourselves. Our provision of water could not last more than three days. I found that out for certain when suppertime came. And, to our sorrow, we had little reason to expect to find a spring in these transition beds.
 
@@ -2137,13 +2019,7 @@ This excursion through the coal mine lasted till night. My uncle scarcely could 
 
 I dared make no answer.
 
-<hgroup>
-
-## XXI
-
-Compassion Fuses the Professor’s Heart
-
-</hgroup>
+## XXI. Compassion Fuses the Professor’s Heart
 
 Next day we started early. We had to hasten forward. It was a three days’ march to the cross roads.
 
@@ -2243,13 +2119,7 @@ In spite of my irritation I was moved with these words, as well as with the viol
 
 “Well,” I said, “do as you will, and God reward your superhuman energy. You have now but a few hours to tempt fortune. Let us start!”
 
-<hgroup>
-
-## XXII
-
-Total Failure of Water
-
-</hgroup>
+## XXII. Total Failure of Water
 
 This time the descent commenced by the new gallery. Hans walked first as was his custom.
 
@@ -2299,13 +2169,7 @@ Why was he leaving us? Was Hans going to forsake us? My uncle was fast asleep. I
 
 But these words were only spoken within me. They went no farther. Yet after the first moment of terror I felt ashamed of suspecting a man of such extraordinary faithfulness. Instead of ascending he was descending the gallery. An evil design would have taken him up not down. This reflection restored me to calmness, and I turned to other thoughts. None but some weighty motive could have induced so quiet a man to forfeit his sleep. Was he on a journey of discovery? Had he during the silence of the night caught a sound, a murmuring of something in the distance, which had failed to affect my hearing?
 
-<hgroup>
-
-## XXIII
-
-Water Discovered
-
-</hgroup>
+## XXIII. Water Discovered
 
 For a whole hour I was trying to work out in my delirious brain the reasons which might have influenced this seemingly tranquil huntsman. The absurdest notions ran in utter confusion through my mind. I thought madness was coming on!
 
@@ -2423,13 +2287,7 @@ No; there was no certainty.
 
 I was forgetting that it was night. The chronometer soon informed me of that fact; and in a very short time, refreshed and thankful, we all three fell into a sound sleep.
 
-<hgroup>
-
-## XXIV
-
-Well Said, Old Mole! Canst Thou Work i’ the Ground So Fast?
-
-</hgroup>
+## XXIV. Well Said, Old Mole! Canst Thou Work i’ the Ground So Fast?
 
 By the next day we had forgotten all our sufferings. At first, I was wondering that I was no longer thirsty, and I was for asking for the reason. The answer came in the murmuring of the stream at my feet.
 
@@ -2489,13 +2347,7 @@ It was all very well for the Professor to call this so simple, but I could not f
 
 Four days later, Saturday, the 18th of July, in the evening, we arrived at a kind of vast grotto; and here my uncle paid Hans his weekly wages, and it was settled that the next day, Sunday, should be a day of rest.
 
-<hgroup>
-
-## XXV
-
-De Profundis
-
-</hgroup>
+## XXV. De Profundis
 
 I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte[9](#endnotes.xhtml_note-9) life. I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface. Being fossils, we looked upon all those things as mere jokes.
 
@@ -2627,13 +2479,7 @@ But I kept this objection to myself, and waited the course of events.
 
 The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of Professor Liedenbrock, and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.
 
-<hgroup>
-
-## XXVI
-
-The Worst Peril of All
-
-</hgroup>
+## XXVI. The Worst Peril of All
 
 It must be confessed that hitherto things had not gone on so badly, and that I had small reason to complain. If our difficulties became no worse, we might hope to reach our end. And to what a height of scientific glory we should then attain! I had become quite a Liedenbrock in my reasonings; seriously I had. But would this state of things last in the strange place we had come to? Perhaps it might.
 
@@ -2675,13 +2521,7 @@ Before starting afresh I thought a wash would do me good. I stooped to bathe my 
 
 To my stupefaction and utter dismay my feet trod only﻿—the rough dry granite. The stream was no longer at my feet.
 
-<hgroup>
-
-## XXVII
-
-Lost in the Bowels of the Earth
-
-</hgroup>
+## XXVII. Lost in the Bowels of the Earth
 
 To describe my despair would be impossible. No words could tell it. I was buried alive, with the prospect before me of dying of hunger and thirst.
 
@@ -2733,13 +2573,7 @@ Then I began to lose my head. I arose with my arms stretched out before me, atte
 
 I shall never know whither my mad career took me. After the lapse of some hours, no doubt exhausted, I fell like a lifeless lump at the foot of the wall, and lost all consciousness.
 
-<hgroup>
-
-## XXVIII
-
-The Rescue in the Whispering Gallery
-
-</hgroup>
+## XXVIII. The Rescue in the Whispering Gallery
 
 When I returned to partial life my face was wet with tears. How long that state of insensibility had lasted I cannot say. I had no means now of taking account of time. Never was solitude equal to this, never had any living being been so utterly forsaken.
 
@@ -2925,13 +2759,7 @@ Soon the swiftness of the descent increased horribly, and threatened to become a
 
 Suddenly there was no ground under me. I felt myself revolving in air, striking and rebounding against the craggy projections of a vertical gallery, quite a well; my head struck against a sharp corner of the rock, and I became unconscious.
 
-<hgroup>
-
-## XXIX
-
-Thalatta! Thalatta!
-
-</hgroup>
+## XXIX. Thalatta! Thalatta!
 
 When I came to myself, I was stretched in half darkness, covered with thick coats and blankets. My uncle was watching over me, to discover the least sign of life. At my first sigh he took my hand; when I opened my eyes he uttered a cry of joy.
 
@@ -3037,13 +2865,7 @@ My curiosity was highly excited, my uncle vainly tried to restrain me. When he s
 
 I dressed in haste. For greater safety I wrapped myself in a blanket, and came out of the grotto.
 
-<hgroup>
-
-## XXX
-
-A New *Mare Internum*
-
-</hgroup>
+## XXX. A New *Mare Internum*
 
 At first I could hardly see anything. My eyes, unaccustomed to the light, quickly closed. When I was able to reopen them, I stood more stupefied even than surprised.
 
@@ -3143,13 +2965,7 @@ My uncle made no doubt about it at all; I both desired and feared.
 
 After spending an hour in the contemplation of this marvellous spectacle, we returned to the shore to regain the grotto, and I fell asleep in the midst of the strangest thoughts.
 
-<hgroup>
-
-## XXXI
-
-Preparations for a Voyage of Discovery
-
-</hgroup>
+## XXXI. Preparations for a Voyage of Discovery
 
 The next morning I awoke feeling perfectly well. I thought a bath would do me good, and I went to plunge for a few minutes into the waters of this mediterranean sea, for assuredly it better deserved this name than any other sea.
 
@@ -3263,13 +3079,7 @@ The bit of wood, after disappearing, returned to the surface and oscillated to a
 
 By next evening, thanks to the industry and skill of our guide, the raft was made. It was ten feet by five; the planks of surturbrand, braced strongly together with cords, presented an even surface, and when launched this improvised vessel floated easily upon the waves of the Liedenbrock Sea.
 
-<hgroup>
-
-## XXXII
-
-Wonders of the Deep
-
-</hgroup>
+## XXXII. Wonders of the Deep
 
 On the 13th of August we awoke early. We were now to begin to adopt a mode of travelling both more expeditious and less fatiguing than hitherto.
 
@@ -3363,13 +3173,7 @@ I shall therefore reproduce here these daily notes, written, so to speak, as the
 >
 > At these words I rose and gazed round upon the horizon, still everywhere bounded by clouds alone.
 
-<hgroup>
-
-## XXXIII
-
-A Battle of Monsters
-
-</hgroup>
+## XXXIII. A Battle of Monsters
 
 > *Saturday, August 15*.﻿—The sea unbroken all round. No land in sight. The horizon seems extremely distant.
 >
@@ -3491,13 +3295,7 @@ A Battle of Monsters
 >
 > As for the ichthyosaurus﻿—has he returned to his submarine cavern? Or will he reappear on the surface of the sea?
 
-<hgroup>
-
-## XXXIV
-
-The Great Geyser
-
-</hgroup>
+## XXXIV. The Great Geyser
 
 > *Wednesday, August 19*.﻿—Fortunately the wind blows violently, and has enabled us to flee from the scene of the late terrible struggle. Hans keeps at his post at the helm. My uncle, whom the absorbing incidents of the combat had drawn away from his contemplations, began again to look impatiently around him.
 >
@@ -3597,13 +3395,7 @@ The Great Geyser
 >
 > But before going any farther I make a few observations, to calculate the distance we have gone over, and note them in my journal. We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.[12](#endnotes.xhtml_note-12)
 
-<hgroup>
-
-## XXXV
-
-An Electric Storm
-
-</hgroup>
+## XXXV. An Electric Storm
 
 > *Friday, August 21*.﻿—On the morrow the magnificent geyser has disappeared. The wind has risen, and has rapidly carried us away from Axel Island. The roarings become lost in the distance.
 >
@@ -3693,13 +3485,7 @@ An Electric Storm
 >
 > A fresh noise is heard! Surely it is the sea breaking upon the rocks! But then﻿ ﻿…
 
-<hgroup>
-
-## XXXVI
-
-Calm Philosophic Discussions
-
-</hgroup>
+## XXXVI. Calm Philosophic Discussions
 
 Here I end what I may call my log, happily saved from the wreck, and I resume my narrative as before.
 
@@ -3825,13 +3611,7 @@ The Professor moved towards the rock upon which Hans had laid down the instrumen
 
 He motioned to me to look. An exclamation of astonishment burst from me. The north pole of the needle was turned to what we supposed to be the south. It pointed to the shore instead of to the open sea! I shook the box, examined it again, it was in perfect condition. In whatever position I placed the box the needle pertinaciously returned to this unexpected quarter. Therefore there seemed no reason to doubt that during the storm there had been a sudden change of wind unperceived by us, which had brought our raft back to the shore which we thought we had left so long a distance behind us.
 
-<hgroup>
-
-## XXXVII
-
-The Liedenbrock Museum of Geology
-
-</hgroup>
+## XXXVII. The Liedenbrock Museum of Geology
 
 How shall I describe the strange series of passions which in succession shook the breast of Professor Liedenbrock? First stupefaction, then incredulity, lastly a downright burst of rage. Never had I seen the man so put out of countenance and so disturbed. The fatigues of our passage across, the dangers met, had all to be begun over again. We had gone backwards instead of forwards!
 
@@ -3891,13 +3671,7 @@ But more was to come, when, with a rush through clouds of bone dust, he laid his
 
 “Yes, nephew. Aha! M. Milne-Edwards! Ah! M. de Quatrefages, how I wish you were standing here at the side of Otto Liedenbrock!”
 
-<hgroup>
-
-## XXXVIII
-
-The Professor in His Chair Again
-
-</hgroup>
+## XXXVIII. The Professor in His Chair Again
 
 To understand this apostrophe of my uncle’s, made to absent French savants, it will be necessary to allude to an event of high importance in a palaeontological point of view, which had occurred a little while before our departure.
 
@@ -3957,13 +3731,7 @@ Another remarkable thing. This fossil body was not the only one in this immense 
 
 In fact it was a wonderful spectacle, that of these generations of men and animals commingled in a common cemetery. Then one very serious question arose presently which we scarcely dared to suggest. Had all those creatures slid through a great fissure in the crust of the earth, down to the shores of the Liedenbrock sea, when they were dead and turning to dust, or had they lived and grown and died here in this subterranean world under a false sky, just like inhabitants of the upper earth? Until the present time we had seen alive only marine monsters and fishes. Might not some living man, some native of the abyss, be yet a wanderer below on this desert strand?
 
-<hgroup>
-
-## XXXIX
-
-Forest Scenery Illuminated by Electricity
-
-</hgroup>
+## XXXIX. Forest Scenery Illuminated by Electricity
 
 For another half hour we trod upon a pavement of bones. We pushed on, impelled by our burning curiosity. What other marvels did this cavern contain? What new treasures lay here for science to unfold? I was prepared for any surprise, my imagination was ready for any astonishment however astounding.
 
@@ -4065,13 +3833,7 @@ There, upon a granite slab, appeared two mysterious graven letters, half eaten a
 
 “A. S.,” shouted my uncle. “Arne Saknussemm! Arne Saknussemm everywhere!”
 
-<hgroup>
-
-## XL
-
-Preparations for Blasting a Passage to the Centre of the Earth
-
-</hgroup>
+## XL. Preparations for Blasting a Passage to the Centre of the Earth
 
 Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise. Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement. Not only were the initials of the learned alchemist visible upon the living rock, but there lay the iron point with which the letters had been engraved. I could no longer doubt of the existence of that wonderful traveller and of the fact of his unparalleled journey, without the most glaring incredulity.
 
@@ -4165,13 +3927,7 @@ A spark would now develop the whole of our preparations into activity.
 
 I had to be resigned and to wait six long hours.
 
-<hgroup>
-
-## XLI
-
-The Great Explosion and the Rush Down Below
-
-</hgroup>
+## XLI. The Great Explosion and the Rush Down Below
 
 The next day, Thursday, August 27, is a well-remembered date in our subterranean journey. It never returns to my memory without sending through me a shudder of horror and a palpitation of the heart. From that hour we had no further occasion for the exercise of reason, or judgement, or skill, or contrivance. We were henceforth to be hurled along, the playthings of the fierce elements of the deep.
 
@@ -4247,13 +4003,7 @@ Suddenly, after a space of time that I could not measure, I felt a shock. The ra
 
 But this sudden flood was not of long duration. In a few seconds I found myself in the air again, which I inhaled with all the force of my lungs. My uncle and Hans were still holding me fast by the arms; and the raft was still carrying us.
 
-<hgroup>
-
-## XLII
-
-Headlong Speed Upward Through the Horrors of Darkness
-
-</hgroup>
+## XLII. Headlong Speed Upward Through the Horrors of Darkness
 
 It might have been, as I guessed, about ten at night. The first of my senses which came into play after this last bout was that of hearing. All at once I could hear; and it was a real exercise of the sense of hearing. I could hear the silence in the gallery after the din which for hours had stunned me. At last these words of my uncle’s came to me like a vague murmuring:
 
@@ -4389,13 +4139,7 @@ Then an unconquerable terror seized upon me, from which I could no longer get fr
 
 The compass had lost its properties! it had ceased to act properly!
 
-<hgroup>
-
-## XLIII
-
-Shot Out of a Volcano at Last!
-
-</hgroup>
+## XLIII. Shot Out of a Volcano at Last!
 
 Yes: our compass was no longer a guide; the needle flew from pole to pole with a kind of frenzied impulse; it ran round the dial, and spun hither and thither as if it were giddy or intoxicated.
 
@@ -4501,13 +4245,7 @@ How often this operation was repeated I cannot say. All I know is, that at each 
 
 I have therefore no exact recollection of what took place during the following hours. I have a confused impression left of continuous explosions, loud detonations, a general shaking of the rocks all around us, and of a spinning movement with which our raft was once whirled helplessly round. It rocked upon the lava torrent, amidst a dense fall of ashes. Snorting flames darted their fiery tongues at us. There were wild, fierce puffs of stormy wind from below, resembling the blasts of vast iron furnaces blowing all at one time; and I caught a glimpse of the figure of Hans lighted up by the fire; and all the feeling I had left was just what I imagine must be the feeling of an unhappy criminal doomed to be blown away alive from the mouth of a cannon, just before the trigger is pulled, and the flying limbs and rags of flesh and skin fill the quivering air and spatter the bloodstained ground.
 
-<hgroup>
-
-## XLIV
-
-Sunny Lands in the Blue Mediterranean
-
-</hgroup>
+## XLIV. Sunny Lands in the Blue Mediterranean
 
 When I opened my eyes again I felt myself grasped by the belt with the strong hand of our guide. With the other arm he supported my uncle. I was not seriously hurt, but I was shaken and bruised and battered all over. I found myself lying on the sloping side of a mountain only two yards from a gaping gulf, which would have swallowed me up had I leaned at all that way. Hans had saved me from death whilst I lay rolling on the edge of the crater.
 
@@ -4633,13 +4371,7 @@ One hour after we had left the grove of olives, we arrived at the little port of
 
 At that moment, if he did not share our natural emotion, at least his countenance expanded in a manner very unusual with him, and while with the ends of his fingers he lightly pressed our hands, I believe he smiled.
 
-<hgroup>
-
-## XLV
-
-All’s Well That Ends Well
-
-</hgroup>
+## XLV. All’s Well That Ends Well
 
 Such is the conclusion of a history which I cannot expect everybody to believe, for some people will believe nothing against the testimony of their own experience. However, I am indifferent to their incredulity, and they may believe as much or as little as they please.
 
