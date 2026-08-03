@@ -76,7 +76,7 @@ But on entering this study now I thought of none of all these wonders; my uncle 
 
 These ejaculations brought to my mind the fact that my uncle was liable to occasional fits of bibliomania; but no old book had any value in his eyes unless it had the virtue of being nowhere else to be found, or, at any rate, of being illegible.
 
-“Well, now; don’t you see it yet? Why I have got a priceless treasure, that I found his morning, in rummaging in old Hevelius’s shop, the Jew.”
+“Well, now; don’t you see it yet? Why I have got a priceless treasure, that I found this morning, in rummaging in old Hevelius’s shop, the Jew.”
 
 “Magnificent!” I replied, with a good imitation of enthusiasm.
 
@@ -96,7 +96,7 @@ While rapidly making these comments my uncle kept opening and shutting the old t
 
 “What!” sharply replied the Professor, “a translation! What should I do with a translation? This is the Icelandic original, in the magnificent idiomatic vernacular, which is both rich and simple, and admits of an infinite variety of grammatical combinations and verbal modifications.”
 
-“Like German.” I happily ventured.
+“Like German,” I happily ventured.
 
 “Yes,” replied my uncle, shrugging his shoulders; “but, in addition to all this, the Icelandic has three numbers like the Greek, and irregular declensions of nouns proper like the Latin.”
 
@@ -519,7 +519,7 @@ I almost regretted having uttered this last word, which dropped from me in an un
 
 “Well, in the first place, I wish to ask what are this Jökull, this Snæfells, and this Scartaris, names which I have never heard before?”
 
-“Nothing easier. I received not long ago a map from my friend, Augustus Petermann, at Liepzig. Nothing could be more apropos. Take down the third atlas in the second shelf in the large bookcase, series *Z*, plate 4.”
+“Nothing easier. I received not long ago a map from my friend, Augustus Petermann, at Leipzig. Nothing could be more apropos. Take down the third atlas in the second shelf in the large bookcase, series *Z*, plate 4.”
 
 I rose, and with the help of such precise instructions could not fail to find the required atlas. My uncle opened it and said:
 
@@ -925,7 +925,7 @@ The *Valkyria* was a splendid sailer, but on a sailing vessel you can place no d
 
 At evening the schooner doubled the Scaw at the northern point of Denmark, in the night passed the Skagerrak, skirted Norway by Cape Lindesnes, and entered the North Sea.
 
-In two days more we sighted the coast of Scotland near Peterhead, and the *Valkyria* turned her lead towards the Faroe Islands, passing between the Orkneys and Shetlands.
+In two days more we sighted the coast of Scotland near Peterhead, and the *Valkyria* turned her head towards the Faroe Islands, passing between the Orkneys and Shetlands.
 
 Soon the schooner encountered the great Atlantic swell; she had to tack against the north wind, and reached the Faroes only with some difficulty. On the 8th the captain made out Mykines, the southernmost of these islands, and from that moment took a straight course for Cape Portland, the most southerly point of Iceland.
 
@@ -983,7 +983,7 @@ The longest of the only two streets that Reykjavík possesses was parallel with 
 
 I had soon explored these melancholy ways; here and there I got a glimpse of faded turf, looking like a worn-out bit of carpet, or some appearance of a kitchen garden, the sparse vegetables of which (potatoes, cabbages, and lettuces), would have figured appropriately upon a Lilliputian table. A few sickly wallflowers were trying to enjoy the air and sunshine.
 
-About the middle of the tin-commercial street I found the public cemetery, enclosed with a mud wall, and where there seemed plenty of room.
+About the middle of the un-commercial street I found the public cemetery, enclosed with a mud wall, and where there seemed plenty of room.
 
 Then a few steps brought me to the Governor’s house, a hut compared with the town hall of Hamburg, a palace in comparison with the cabins of the Icelandic population.
 
@@ -1077,9 +1077,9 @@ My uncle was bathed in delight at hearing his hero thus described. He feasted hi
 
 “Certainly,” replied my uncle; “but I am rather late; or have not others been here before me?”
 
-“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*, and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland. But I assure you there is plenty left.”
+“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*, and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland. But I assure you there is plenty left.”
 
-“Do you think so?” said my uncle, pretending to look very modest, and trying to hide the curiosity was flashing out of his eyes.
+“Do you think so?” said my uncle, pretending to look very modest, and trying to hide the curiosity that was flashing out of his eyes.
 
 “Oh, yes; how many mountains, glaciers, and volcanoes there are to study, which are as yet but imperfectly known! Then, without going any further, that mountain in the horizon. That is Snæfells.”
 
@@ -1203,7 +1203,7 @@ The tools comprised two pickaxes, two spades, a silk rope ladder, three iron-tip
 
 And there were provisions too: this was not a large parcel, but it was comforting to know that of essence of beef and biscuits there were six months’ consumption. Spirits were the only liquid, and of water we took none; but we had flasks, and my uncle depended on springs from which to fill them. Whatever objections I hazarded as to their quality, temperature, and even absence, remained ineffectual.
 
-To complete the exact inventory of all our travelling accompaniments, I must not forget a pocket medicine chest, containing blunt scissors, splints for broken limbs, a piece of tape of unbleached linen, bandages and compresses, lint, a lancet for bleeding, all dreadful articles to take with one. Then there was a row of phials containing dextrine, alcoholic ether, liquid acetate of lead, vinegar, and ammonia drugs which afforded me no comfort. Finally, all the articles needful to supply Ruhmkorff’s apparatus.
+To complete the exact inventory of all our travelling accompaniments, I must not forget a pocket medicine chest, containing blunt scissors, splints for broken limbs, a piece of tape of unbleached linen, bandages and compresses, lint, a lancet for bleeding, all dreadful articles to take with one. Then there was a row of phials containing dextrine, alcoholic ether, liquid acetate of lead, vinegar, and ammonia, drugs which afforded me no comfort. Finally, all the articles needful to supply Ruhmkorff’s apparatus.
 
 My uncle did not forget a supply of tobacco, coarse grained powder, and amadou, nor a leathern belt in which he carried a sufficient quantity of gold, silver, and paper money. Six pairs of boots and shoes, made waterproof with a composition of india rubber and naphtha, were packed amongst the tools.
 
@@ -1221,7 +1221,7 @@ At six o’clock our preparations were over. M. Fridrikssen shook hands with us.
 
 “Et quacumque viam dedent fortuna sequamur.”
 
-“There ever fortune clears a way, thither our ready footsteps stray.”
+“Wherever fortune clears a way, thither our ready footsteps stray.”
 
 ## XII. A Barren Land
 
@@ -1265,7 +1265,7 @@ He was about to make an observation to the guide, who without answering resumed 
 
 Three hours later, still treading on the colourless grass of the pasture land, we had to work round the Kollafjord, a longer way but an easier one than across that inlet. We soon entered into a *pingstaœr* or parish called Ejulberg, from whose steeple twelve o’clock would have struck, if Icelandic churches were rich enough to possess clocks. But they are like the parishioners who have no watches and do without.
 
-There our horses were baited; then taking the narrow path to left between a chain of hills and the sea, they carried us to our next stage, the *aðalkirkja* of Brantär and one mile farther on, to Saurboër “Annexia,” a chapel of ease built on the south shore of the Hvalfiord.
+There our horses were baited; then taking the narrow path to left between a chain of hills and the sea, they carried us to our next stage, the *aðalkirkja* of Brantär and one mile farther on, to Saurboër “Annexia,” a chapel of ease built on the south shore of the Hvalfjord.
 
 It was now four o’clock, and we had gone four Icelandic miles, or twenty-four English miles.
 
@@ -1367,7 +1367,7 @@ That evening, after having forded two rivers full of trout and pike, called Alfa
 
 No particular event marked the next day. Bogs, dead levels, melancholy desert tracks, wherever we travelled. By nightfall we had accomplished half our journey, and we lay at Krösolbt.
 
-On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country *hraun*; the written surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions. Yet here and there were a few jets of steam from hot springs.
+On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country *hraun*; the writhen surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions. Yet here and there were a few jets of steam from hot springs.
 
 We had no time to watch these phenomena; we had to proceed on our way. Soon at the foot of the mountains the boggy land reappeared, intersected by little lakes. Our route now lay westward; we had turned the great bay of Faxa, and the twin peaks of Snæfells rose white into the cloudy sky at the distance of at least five miles.
 
@@ -1403,7 +1403,7 @@ On arriving at the door of the rector’s house, which was not different from th
 
 Our guide in the meanwhile was making the *kyrkoherde* aware of the position of things; when the latter, suspending his labours for a moment, uttered a sound no doubt understood between horses and farriers, and immediately a tall and ugly hag appeared from the hut. She must have been six feet at the least. I was in great alarm lest she should treat me to the Icelandic kiss; but there was no occasion to fear, nor did she do the honours at all too gracefully.
 
-The visitors’ room seemed to me the worst in the whole cabin. It was close, dirty, and evil smelling. But we had to be content. The rector did not to go in for antique hospitality. Very far from it. Before the day was over I saw that we had to do with a blacksmith, a fisherman, a hunter, a joiner, but not at all with a minister of the Gospel. To be sure, it was a weekday; perhaps on a Sunday he made amends.
+The visitors’ room seemed to me the worst in the whole cabin. It was close, dirty, and evil smelling. But we had to be content. The rector did not seem to go in for antique hospitality. Very far from it. Before the day was over I saw that we had to do with a blacksmith, a fisherman, a hunter, a joiner, but not at all with a minister of the Gospel. To be sure, it was a weekday; perhaps on a Sunday he made amends.
 
 I don’t mean to say anything against these poor priests, who after all are very wretched. They receive from the Danish Government a ridiculously small pittance, and they get from the parish the fourth part of the tithe, which does not come to sixty marks a year (about £4). Hence the necessity to work for their livelihood; but after fishing, hunting, and shoeing horses for any length of time, one soon gets into the ways and manners of fishermen, hunters, and farriers, and other rather rude and uncultivated people; and that evening I found out that temperance was not among the virtues that distinguished my host.
 
@@ -1455,7 +1455,7 @@ Here and there I could see puffs and jets of steam curling up into the air, call
 
 “No more; that is sufficient. When science has uttered her voice, let babblers hold their peace.”
 
-I returned to the parsonage, very crestfallen. My uncle had beaten me with the weapons of science. Still I had one hope left, and this was, that when we had reached the bottom of the crater it would be impossible, for want of a passage, to go deeper, in spite of all the Saknussemm’s in Iceland.
+I returned to the parsonage, very crestfallen. My uncle had beaten me with the weapons of science. Still I had one hope left, and this was, that when we had reached the bottom of the crater it would be impossible, for want of a passage, to go deeper, in spite of all the Saknussemms in Iceland.
 
 I spent that whole night in one constant nightmare; in the heart of a volcano, and from the deepest depths of the earth I saw myself tossed up amongst the interplanetary spaces under the form of an eruptive rock.
 
@@ -1575,7 +1575,7 @@ In certain parts of the cone there were glaciers. Here Hans advanced only with e
 
 Yet, notwithstanding the difficulties of the descent, down steeps unknown to the guide, the journey was accomplished without accidents, except the loss of a coil of rope, which escaped from the hands of an Icelander, and took the shortest way to the bottom of the abyss.
 
-At midday we arrived. I raised my head and saw straight above me the upper aperture of the cone, framing a bit of sky of very small circumference, but almost perfectly round. Just upon the edge appeared the snowy peak of Saris, standing out sharp and clear against endless space.
+At midday we arrived. I raised my head and saw straight above me the upper aperture of the cone, framing a bit of sky of very small circumference, but almost perfectly round. Just upon the edge appeared the snowy peak of Scartaris, standing out sharp and clear against endless space.
 
 At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfells had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter. They gaped before us right in our path. I had not the courage to look down either of them. But Professor Liedenbrock had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions. Hans and his comrades, seated upon loose lava rocks, looked at him with as much wonder as they knew how to express, and perhaps taking him for an escaped lunatic.
 
@@ -1687,7 +1687,7 @@ Leaning over the edge of our narrow standing ground, I observed that the bottom 
 
 The same manoeuvre was repeated with the cord, and half an hour after we had descended another two hundred feet.
 
-I don’t suppose the maddest geologist under such circumstances would have studied the nature of the rocks that we were passing. I am sure I did trouble my head about them. Pliocene, Miocene, Eocene, Cretaceous, Jurassic, Triassic, Permian, Carboniferous, Devonian, Silurian, or Primitive was all one to me. But the Professor, no doubt, was pursuing his observations or taking notes, for in one of our halts he said to me:
+I don’t suppose the maddest geologist under such circumstances would have studied the nature of the rocks that we were passing. I am sure I did not trouble my head about them. Pliocene, Miocene, Eocene, Cretaceous, Jurassic, Triassic, Permian, Carboniferous, Devonian, Silurian, or Primitive was all one to me. But the Professor, no doubt, was pursuing his observations or taking notes, for in one of our halts he said to me:
 
 “The farther I go the more confidence I feel. The order of these volcanic formations affords the strongest confirmation to the theories of Davy. We are now among the primitive rocks, upon which the chemical operations took place which are produced by the contact of elementary bases of metals with water. I repudiate the notion of central heat altogether. We shall see further proof of that very soon.”
 
