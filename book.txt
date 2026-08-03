@@ -44,9 +44,9 @@ Now in mineralogy there are many half-Greek and half-Latin terms, very hard to a
 
 It therefore happened that this venial fault of my uncle’s came to be pretty well understood in time, and an unfair advantage was taken of it; the students laid wait for him in dangerous places, and when he began to stumble, loud was the laughter, which is not in good taste, not even in Germans. And if there was always a full audience to honour the Liedenbrock courses, I should be sorry to conjecture how many came to make merry at my uncle’s expense.
 
-Nevertheless my good uncle was a man of deep learning﻿—a fact I am most anxious to assert and reassert. Sometimes he might irretrievably injure a specimen by his too great ardour in handling it; but still he united the genius of a true geologist with the keen eye of the mineralogist. Armed with his hammer, his steel pointer, his magnetic needles, his blowpipe, and his bottle of nitric acid, he was a powerful man of science. He would refer any mineral to its proper place among the six hundred[1](#endnotes.xhtml_note-1) elementary substances now enumerated, by its fracture, its appearance, its hardness, its fusibility, its sonorousness, its smell, and its taste.
+Nevertheless my good uncle was a man of deep learning﻿—a fact I am most anxious to assert and reassert. Sometimes he might irretrievably injure a specimen by his too great ardour in handling it; but still he united the genius of a true geologist with the keen eye of the mineralogist. Armed with his hammer, his steel pointer, his magnetic needles, his blowpipe, and his bottle of nitric acid, he was a powerful man of science. He would refer any mineral to its proper place among the six hundred elementary substances now enumerated, by its fracture, its appearance, its hardness, its fusibility, its sonorousness, its smell, and its taste.
 
-The name of Liedenbrock was honourably mentioned in colleges and learned societies. Humphry Davy,[2](#endnotes.xhtml_note-2) Humboldt, Captain Sir John Franklin, General Sabine, never failed to call upon him on their way through Hamburg. Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for considerable discoveries, for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, *A Treatise Upon Transcendental Chemistry*, with plates; a work, however, which failed to cover its expenses.
+The name of Liedenbrock was honourably mentioned in colleges and learned societies. Humphry Davy, Humboldt, Captain Sir John Franklin, General Sabine, never failed to call upon him on their way through Hamburg. Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for considerable discoveries, for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, *A Treatise Upon Transcendental Chemistry*, with plates; a work, however, which failed to cover its expenses.
 
 To all these titles to honour let me add that my uncle was the curator of the museum of mineralogy formed by M. Struve, the Russian ambassador; a most valuable collection, the fame of which is European.
 
@@ -123,8 +123,6 @@ My uncle pounced upon this shred with incredible avidity. An old document, enclo
 And he laid out upon the table a piece of parchment, five inches by three, and along which were traced certain mysterious characters.
 
 Here is the exact facsimile. I think it important to let these strange signs be publicly known, for they were the means of drawing on Professor Liedenbrock and his nephew to undertake the most wonderful expedition of the nineteenth century.
-
-![Runic glyph, arranged in seven rows and three columns.](images/glyph-1.png)
 
 The Professor mused a few moments over this series of characters; then raising his spectacles he pronounced:
 
@@ -463,7 +461,7 @@ And darting upon the paper, with eyes bedimmed, and voice choked with emotion, h
 
 It was conceived in the following terms:
 
-In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.[3](#endnotes.xhtml_note-3)
+In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.
 
 Which bad Latin may be translated thus:
 
@@ -593,7 +591,7 @@ I saw that he was only laughing at me; but I went on all the same.
 
 As my uncle was now taking his stand upon hypotheses, of course, there was nothing to be said.
 
-“Well, I will tell you that true savants, amongst them Poisson, have demonstrated that if a heat of 360,000 degrees[4](#endnotes.xhtml_note-4) existed in the interior of the globe, the fiery gases arising from the fused matter would acquire an elastic force which the crust of the earth would be unable to resist, and that it would explode like the plates of a bursting boiler.”
+“Well, I will tell you that true savants, amongst them Poisson, have demonstrated that if a heat of 360,000 degrees existed in the interior of the globe, the fiery gases arising from the fused matter would acquire an elastic force which the crust of the earth would be unable to resist, and that it would explode like the plates of a bursting boiler.”
 
 “That is Poisson’s opinion, my uncle, nothing more.”
 
@@ -1079,7 +1077,7 @@ My uncle was bathed in delight at hearing his hero thus described. He feasted hi
 
 “Certainly,” replied my uncle; “but I am rather late; or have not others been here before me?”
 
-“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*,[5](#endnotes.xhtml_note-5) and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland. But I assure you there is plenty left.”
+“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*, and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland. But I assure you there is plenty left.”
 
 “Do you think so?” said my uncle, pretending to look very modest, and trying to hide the curiosity was flashing out of his eyes.
 
@@ -1189,7 +1187,7 @@ The instruments were:
 
 1.  An Eigel’s centigrade thermometer, graduated up to 150 degrees (302 degrees Fahr.), which seemed to me too much or too little. Too much if the internal heat was to rise so high, for in this case we should be baked, not enough to measure the temperature of springs or any matter in a state of fusion.
 
-2.  An aneroid barometer, to indicate extreme pressures of the atmosphere. An ordinary barometer would not have answered the purpose, as the pressure would increase during our descent to a point which the mercurial barometer[6](#endnotes.xhtml_note-6) would not register.
+2.  An aneroid barometer, to indicate extreme pressures of the atmosphere. An ordinary barometer would not have answered the purpose, as the pressure would increase during our descent to a point which the mercurial barometer would not register.
 
 3.  A chronometer, made by Boissonnas Jun., of Geneva, accurately set to the meridian of Hamburg.
 
@@ -1197,7 +1195,7 @@ The instruments were:
 
 5.  A night glass.
 
-6.  Two of Ruhmkorff’s apparatus, which, by means of an electric current, supplied a safe and handy portable light.[7](#endnotes.xhtml_note-7)
+6.  Two of Ruhmkorff’s apparatus, which, by means of an electric current, supplied a safe and handy portable light.
 
 The arms consisted of two of Purdley’s rifles and two brace of pistols. But what did we want arms for? We had neither savages nor wild beasts to fear, I supposed. But my uncle seemed to believe in his arsenal as in his instruments, and more especially in a considerable quantity of gun cotton, which is unaffected by moisture, and the explosive force of which exceeds that of gunpowder.
 
@@ -1591,8 +1589,6 @@ I ran. Hans and the Icelanders never stirred.
 
 And, sharing his astonishment, but I think not his joy, I read on the western face of the block, in Runic characters, half mouldered away with lapse of ages, this thrice-accursed name:
 
-![Runic glyph, arranged in a row.](images/glyph-2.png)
-
 “Arne Saknussemm!” replied my uncle. “Do you yet doubt?”
 
 I made no answer; and I returned in silence to my lava seat in a state of utter speechless consternation. Here was crushing evidence.
@@ -1897,7 +1893,7 @@ Still I had courageously shouldered my burden again, and was rapidly following H
 
 Besides, if the ascending road did become steeper, I was comforted with the thought that it was bringing us nearer to the surface. There was hope in this. Every step confirmed me in it, and I was rejoicing at the thought of meeting my little Gräuben again.
 
-By midday there was a change in the appearance of this wall of the gallery. I noticed it by a diminution of the amount of light reflected from the sides; solid rock was appearing in the place of the lava coating. The mass was composed of inclined and sometimes vertical strata. We were passing through rocks of the Transition or Silurian[8](#endnotes.xhtml_note-8) system.
+By midday there was a change in the appearance of this wall of the gallery. I noticed it by a diminution of the amount of light reflected from the sides; solid rock was appearing in the place of the lava coating. The mass was composed of inclined and sometimes vertical strata. We were passing through rocks of the Transition or Silurian system.
 
 “It is evident,” I cried, “the marine deposits formed in the second period, these shales, limestones, and sandstones. We are turning away from the primary granite. We are just as if we were people of Hamburg going to Lübeck by way of Hanover!”
 
@@ -2349,7 +2345,7 @@ Four days later, Saturday, the 18th of July, in the evening, we arrived at a kin
 
 ## XXV. De Profundis
 
-I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte[9](#endnotes.xhtml_note-9) life. I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface. Being fossils, we looked upon all those things as mere jokes.
+I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte life. I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface. Being fossils, we looked upon all those things as mere jokes.
 
 The grotto was an immense apartment. Along its granite floor ran our faithful stream. At this distance from its spring the water was scarcely tepid, and we drank of it with pleasure.
 
@@ -2889,7 +2885,7 @@ The word cavern does not convey any idea of this immense space; words of human t
 
 Besides I could not tell upon what geological theory to account for the existence of such an excavation. Had the cooling of the globe produced it? I knew of celebrated caverns from the descriptions of travellers, but had never heard of any of such dimensions as this.
 
-If the grotto of Guachara, in Colombia, visited by Humboldt, had not given up the whole of the secret of its depth to the philosopher, who investigated it to the depth of 2,500 feet, it probably did not extend much farther. The immense mammoth cave in Kentucky is of gigantic proportions, since its vaulted roof rises five hundred feet[10](#endnotes.xhtml_note-10) above the level of an unfathomable lake and travellers have explored its ramifications to the extent of forty miles. But what were these cavities compared to that in which I stood with wonder and admiration, with its sky of luminous vapours, its bursts of electric light, and a vast sea filling its bed? My imagination fell powerless before such immensity.
+If the grotto of Guachara, in Colombia, visited by Humboldt, had not given up the whole of the secret of its depth to the philosopher, who investigated it to the depth of 2,500 feet, it probably did not extend much farther. The immense mammoth cave in Kentucky is of gigantic proportions, since its vaulted roof rises five hundred feet above the level of an unfathomable lake and travellers have explored its ramifications to the extent of forty miles. But what were these cavities compared to that in which I stood with wonder and admiration, with its sky of luminous vapours, its bursts of electric light, and a vast sea filling its bed? My imagination fell powerless before such immensity.
 
 I gazed upon these wonders in silence. Words failed me to express my feelings. I felt as if I was in some distant planet Uranus or Neptune﻿—and in the presence of phenomena of which my terrestrial experience gave me no cognisance. For such novel sensations, new words were wanted; and my imagination failed to supply them. I gazed, I thought, I admired, with a stupefaction mingled with a certain amount of fear.
 
@@ -2941,7 +2937,7 @@ But the subterranean vegetation was not confined to these fungi. Farther on rose
 
 I had rushed upon these remains, formed of indestructible phosphates of lime, and without hesitation I named these monstrous bones, which lay scattered about like decayed trunks of trees.
 
-“Here is the lower jaw of a mastodon,”[11](#endnotes.xhtml_note-11) I said. “These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium. It certainly is a menagerie, for these remains were not brought here by a deluge. The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees. Here are entire skeletons. And yet I cannot understand the appearance of these quadrupeds in a granite cavern.”
+“Here is the lower jaw of a mastodon,” I said. “These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium. It certainly is a menagerie, for these remains were not brought here by a deluge. The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees. Here are entire skeletons. And yet I cannot understand the appearance of these quadrupeds in a granite cavern.”
 
 “Why?”
 
@@ -3393,7 +3389,7 @@ For some minutes I am still contemplating the geyser. I notice that it throws up
 
 At last we leave the island, rounding away past the low rocks on its southern shore. Hans has taken advantage of the halt to refit his rudder.
 
-But before going any farther I make a few observations, to calculate the distance we have gone over, and note them in my journal. We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.[12](#endnotes.xhtml_note-12)
+But before going any farther I make a few observations, to calculate the distance we have gone over, and note them in my journal. We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.
 
 ## XXXV. An Electric Storm
 
@@ -3425,7 +3421,7 @@ A deep silence falls on all around. The lately roaring winds are hushed into a d
 
 The words were hardly out of his mouth when a sudden change took place in the southern sky. The piled-up vapours condense into water; and the air, put into violent action to supply the vacuum left by the condensation of the mists, rouses itself into a whirlwind. It rushes on from the farthest recesses of the vast cavern. The darkness deepens; scarcely can I jot down a few hurried notes. The helm makes a bound. My uncle falls full length; I creep close to him. He has laid a firm hold upon a rope, and appears to watch with grim satisfaction this awful display of elemental strife.
 
-Hans stirs not. His long hair blown by the pelting storm, and laid flat across his immovable countenance, makes him a strange figure; for the end of each lock of loose flowing hair is tipped with little luminous radiations. This frightful mask of electric sparks suggests to me, even in this dizzy excitement, a comparison with pre-adamite man, the contemporary of the ichthyosaurus and the Megatherium.[13](#endnotes.xhtml_note-13)
+Hans stirs not. His long hair blown by the pelting storm, and laid flat across his immovable countenance, makes him a strange figure; for the end of each lock of loose flowing hair is tipped with little luminous radiations. This frightful mask of electric sparks suggests to me, even in this dizzy excitement, a comparison with pre-adamite man, the contemporary of the ichthyosaurus and the Megatherium.
 
 The mast yet holds firm. The sail stretches tight like a bubble ready to burst. The raft flies at a rate that I cannot reckon, but not so fast as the foaming clouds of spray which it dashes from side to side in its headlong speed.
 
@@ -3647,7 +3643,7 @@ To understand what followed, it must be borne in mind that, through circumstance
 
 “Now let us start upon fresh discoveries,” I said.
 
-And leaving Hans to his work we started off together. The space between the water and the foot of the cliffs was considerable. It took half an hour to bring us to the wall of rock. We trampled under our feet numberless shells of all the forms and sizes which existed in the earliest ages of the world. I also saw immense carapaces more than fifteen feet in diameter. They had been the coverings of those gigantic glyptodons or armadillos of the Pliocene period, of which the modern tortoise is but a miniature representative.[14](#endnotes.xhtml_note-14) The soil was besides this scattered with stony fragments, boulders rounded by water action, and ridged up in successive lines. I was therefore led to the conclusion that at one time the sea must have covered the ground on which we were treading. On the loose and scattered rocks, now out of the reach of the highest tides, the waves had left manifest traces of their power to wear their way in the hardest stone.
+And leaving Hans to his work we started off together. The space between the water and the foot of the cliffs was considerable. It took half an hour to bring us to the wall of rock. We trampled under our feet numberless shells of all the forms and sizes which existed in the earliest ages of the world. I also saw immense carapaces more than fifteen feet in diameter. They had been the coverings of those gigantic glyptodons or armadillos of the Pliocene period, of which the modern tortoise is but a miniature representative. The soil was besides this scattered with stony fragments, boulders rounded by water action, and ridged up in successive lines. I was therefore led to the conclusion that at one time the sea must have covered the ground on which we were treading. On the loose and scattered rocks, now out of the reach of the highest tides, the waves had left manifest traces of their power to wear their way in the hardest stone.
 
 This might up to a certain point explain the existence of an ocean forty leagues beneath the surface of the globe. But in my opinion this liquid mass would be lost by degrees farther and farther within the interior of the earth, and it certainly had its origin in the waters of the ocean overhead, which had made their way hither through some fissure. Yet it must be believed that that fissure is now closed, and that all this cavern or immense reservoir was filled in a very short time. Perhaps even this water, subjected to the fierce action of central heat, had partly been resolved into vapour. This would explain the existence of those clouds suspended over our heads and the development of that electricity which raised such tempests within the bowels of the earth.
 
@@ -3719,7 +3715,7 @@ I was good enough not to contradict this startling assertion.
 
 Here the Professor laid hold of the fossil skeleton, and handled it with the skill of a dexterous showman.
 
-“You see,” he said, “that it is not six feet long, and that we are still separated by a long interval from the pretended race of giants. As for the family to which it belongs, it is evidently Caucasian. It is the white race, our own. The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws. It presents no appearance of that prognathism which diminishes the facial angle.[15](#endnotes.xhtml_note-15) Measure that angle. It is nearly ninety degrees. But I will go further in my deductions, and I will affirm that this specimen of the human family is of the Japhetic race, which has since spread from the Indies to the Atlantic. Don’t smile, gentlemen.”
+“You see,” he said, “that it is not six feet long, and that we are still separated by a long interval from the pretended race of giants. As for the family to which it belongs, it is evidently Caucasian. It is the white race, our own. The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws. It presents no appearance of that prognathism which diminishes the facial angle. Measure that angle. It is nearly ninety degrees. But I will go further in my deductions, and I will affirm that this specimen of the human family is of the Japhetic race, which has since spread from the Indies to the Atlantic. Don’t smile, gentlemen.”
 
 Nobody was smiling; but the learned Professor was frequently disturbed by the broad smiles provoked by his learned eccentricities.
 
@@ -3761,7 +3757,7 @@ I looked, shaking my head incredulously. But though at first I was unbelieving I
 
 In fact, at a distance of a quarter of a mile, leaning against the trunk of a gigantic kauri, stood a human being, the Proteus of those subterranean regions, a new son of Neptune, watching this countless herd of mastodons.
 
-Immanis pecoris custos, immanior ipse.[16](#endnotes.xhtml_note-16)
+Immanis pecoris custos, immanior ipse.
 
 Yes, truly, huger still himself. It was no longer a fossil being like him whose dried remains we had easily lifted up in the field of bones; it was a giant, able to control those monsters. In stature he was at least twelve feet high. His head, huge and unshapely as a buffalo’s, was half hidden in the thick and tangled growth of his unkempt hair. It most resembled the mane of the primitive elephant. In his hand he wielded with ease an enormous bough, a staff worthy of this shepherd of the antediluvian period.
 
@@ -3828,8 +3824,6 @@ And, wonderfully interested, we peered all along the high wall, peeping into eve
 And so we arrived at a place where the shore was much narrowed. Here the sea came to lap the foot of the steep cliff, leaving a passage no wider than a couple of yards. Between two boldly projecting rocks appeared the mouth of a dark tunnel.
 
 There, upon a granite slab, appeared two mysterious graven letters, half eaten away by time. They were the initials of the bold and daring traveller:
-
-![Runic glyph of the initial A. S.](images/glyph-3.png)
 
 “A. S.,” shouted my uncle. “Arne Saknussemm! Arne Saknussemm everywhere!”
 
@@ -4442,17 +4436,3 @@ A light broke in upon his spirit and mine.
 “Aha! aha!” shouted the Professor with a loud laugh. “So it was just an electric joke!”
 
 From that day forth the Professor was the most glorious of savants, and I was the happiest of men; for my pretty *Virlandaise*, resigning her place as ward, took her position in the old house on the Königstrasse in the double capacity of niece to my uncle and wife to a certain happy youth. What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?
-
-## Endnotes
-
-<nav id="loi" epub:type="loi">
-
-## List of Illustrations
-
-1.  [Runic glyph, arranged in seven rows and three columns.](#chapter-2.xhtml_glyph-1)
-
-2.  [Runic glyph, arranged in a row.](#chapter-16.xhtml_glyph-2)
-
-3.  [Runic glyph of the initial A. S.](#chapter-39.xhtml_glyph-3)
-
-</nav>
