@@ -5863,4 +5863,376 @@ e:axel=neutral
 Four days later, Saturday, the 18th of July, in the evening, we arrived at a kind of vast grotto; and here my uncle paid Hans his weekly wages, and it was settled that the next day, Sunday, should be a day of rest.
 e:axel=weary;e:hans=happy
 
+## XXV. De Profundis
+r=title
+
+I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte life.
+e:axel=neutral
+
+I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface.
+e:axel=contemplative
+
+Being fossils, we looked upon all those things as mere jokes.
+e:axel=smirking
+
+The grotto was an immense apartment. Along its granite floor ran our faithful stream.
+
+
+At this distance from its spring the water was scarcely tepid, and we drank of it with pleasure.
+e:axel=happy
+
+After breakfast the Professor gave a few hours to the arrangement of his daily notes.
+e:prof=thinking
+
+“First,” said he, “I will make a calculation to ascertain our exact position.”
+s=prof;e:prof=serious
+
+“I hope, after our return, to draw a map of our journey, which will be in reality a vertical section of the globe, containing the track of our expedition.”
+
+
+“That will be curious, uncle; but are your observations sufficiently accurate to enable you to do this correctly?”
+s=axel;e:axel=curious
+
+“Yes; I have everywhere observed the angles and the inclines. I am sure there is no error.”
+s=prof;e:prof=neutral
+
+“Let us see where we are now. Take your compass, and note the direction.”
+
+
+I looked, and replied carefully:
+s=none;e:axel=serious
+
+“Southeast by east.”
+s=axel
+
+“Well,” answered the Professor, after a rapid calculation, “I infer that we have gone eighty-five leagues since we started.”
+s=prof;e:prof=thinking
+
+“Therefore we are under mid-Atlantic?”
+s=axel;e:axel=surprised
+
+“To be sure we are.”
+s=prof;e:prof=neutral
+
+“And perhaps at this very moment there is a storm above, and ships over our heads are being rudely tossed by the tempest.”
+s=axel;e:axel=thinking
+
+“Quite probable.”
+s=prof
+
+“And whales are lashing the roof of our prison with their tails?”
+s=axel;e:axel=curious
+
+“It may be, Axel, but they won’t shake us here. But let us go back to our calculation.”
+s=prof;e:prof=smirking
+
+“Here we are eighty-five leagues southeast of Snæfells, and I reckon that we are at a depth of sixteen leagues.”
+e:prof=serious
+
+“Sixteen leagues?” I cried.
+s=axel;e:axel=surprised
+
+“No doubt.”
+s=prof;e:prof=neutral
+
+“Why, this is the very limit assigned by science to the thickness of the crust of the earth.”
+s=axel;e:axel=thinking
+
+“I don’t deny it.”
+s=prof
+
+“And here, according to the law of increasing temperature, there ought to be a heat of 2,732° Fahr.!”
+s=axel;e:axel=excited
+
+“So there should, my lad.”
+s=prof;e:prof=smirking
+
+“And all this solid granite ought to be running in fusion.”
+s=axel
+
+“You see that it is not so, and that, as so often happens, facts come to overthrow theories.”
+s=prof;e:prof=happy
+
+“I am obliged to agree; but, after all, it is surprising.”
+s=axel;e:axel=surprised
+
+“What does the thermometer say?”
+s=prof;e:prof=curious
+
+“Twenty-seven, six tenths (82° Fahr.)”
+s=axel;e:axel=neutral
+
+“Therefore the savants are wrong by 2,705°, and the proportional increase is a mistake.”
+s=prof;e:prof=smirking
+
+“Therefore Humphry Davy was right, and I am not wrong in following him. What do you say now?”
+e:prof=happy
+
+“Nothing.”
+s=axel;e:axel=thinking
+
+In truth, I had a good deal to say. I gave way in no respect to Davy’s theory. I still held to the central heat, although I did not feel its effects.
+s=none;e:axel=contemplative
+
+I preferred to admit in truth, that this chimney of an extinct volcano, lined with lavas, which are nonconductors of heat, did not suffer the heat to pass through its walls.
+
+
+But without stopping to look up new arguments I simply took up our situation such as it was.
+e:axel=neutral
+
+“Well, admitting all your calculations to be quite correct, you must allow me to draw one rigid result therefrom.”
+s=axel;e:axel=serious
+
+“What is it. Speak freely.”
+s=prof;e:prof=neutral
+
+“At the latitude of Iceland, where we now are, the radius of the earth, the distance from the centre to the surface is about 1,583 leagues; let us say in round numbers 1,600 leagues, or 4,800 miles.”
+s=axel;e:axel=thinking
+
+“Out of 1,600 leagues we have gone twelve!”
+e:axel=serious
+
+“So you say.”
+s=prof
+
+“And these twelve at a cost of 85 leagues diagonally?”
+s=axel
+
+“Exactly so.”
+s=prof
+
+“In twenty days?”
+s=axel
+
+“Yes.”
+s=prof
+
+“Now, sixteen leagues are the hundredth part of the earth’s radius. At this rate we shall be two thousand days, or nearly five years and a half, in getting to the centre.”
+s=axel;e:axel=annoyed
+
+No answer was vouchsafed to this rational conclusion.
+s=none;e:prof=annoyed
+
+“Without reckoning, too, that if a vertical depth of sixteen leagues can be attained only by a diagonal descent of eighty-four, it follows that we must go eight thousand miles in a southeasterly direction; so that we shall emerge from some point in the earth’s circumference instead of getting to the centre!”
+s=axel;e:axel=upset
+
+“Confusion to all your figures, and all your hypotheses besides,” shouted my uncle in a sudden rage.
+s=prof;e:prof=angry
+
+“What is the basis of them all? How do you know that this passage does not run straight to our destination?”
+
+
+“Besides, there is a precedent. What one man has done, another may do.”
+e:prof=serious
+
+“I hope so; but, still, I may be permitted—”
+s=axel;e:axel=wary
+
+“You shall have my leave to hold your tongue, Axel, but not to talk in that irrational way.”
+s=prof;e:prof=scowling
+
+I could see the awful Professor bursting through my uncle’s skin, and I took timely warning.
+s=none;e:axel=nervous
+
+“Now look at your aneroid. What does that say?”
+s=prof;e:prof=serious
+
+“It says we are under considerable pressure.”
+s=axel;e:axel=neutral
+
+“Very good; so you see that by going gradually down, and getting accustomed to the density of the atmosphere, we don’t suffer at all.”
+s=prof;e:prof=smirking
+
+“Nothing, except a little pain in the ears.”
+s=axel
+
+“That’s nothing, and you may get rid of even that by quick breathing whenever you feel the pain.”
+s=prof;e:prof=neutral
+
+“Exactly so,” I said, determined not to say a word that might cross my uncle’s prejudices.
+s=axel;e:axel=wary
+
+“There is even positive pleasure in living in this dense atmosphere. Have you observed how intense sound is down here?”
+e:axel=neutral
+
+“No doubt it is. A deaf man would soon learn to hear perfectly.”
+s=prof;e:prof=happy
+
+“But won’t this density augment?”
+s=axel;e:axel=curious
+
+“Yes; according to a rather obscure law. It is well known that the weight of bodies diminishes as fast as we descend.”
+s=prof;e:prof=thinking
+
+“You know that it is at the surface of the globe that weight is most sensibly felt, and that at the centre there is no weight at all.”
+
+
+“I am aware of that; but, tell me, will not air at last acquire the density of water?”
+s=axel;e:axel=thinking
+
+“Of course, under a pressure of seven hundred and ten atmospheres.”
+s=prof;e:prof=neutral
+
+“And how, lower down still?”
+s=axel;e:axel=curious
+
+“Lower down the density will still increase.”
+s=prof
+
+“But how shall we go down then.”
+s=axel
+
+“Why, we must fill our pockets with stones.”
+s=prof;e:prof=smirking
+
+“Well, indeed, my worthy uncle, you are never at a loss for an answer.”
+s=axel;e:axel=sadsmile
+
+I dared venture no farther into the region of probabilities, for I might presently have stumbled upon an impossibility, which would have brought the Professor on the scene when he was not wanted.
+s=none;e:axel=wary
+
+Still, it was evident that the air, under a pressure which might reach that of thousands of atmospheres, would at last reach the solid state, and then, even if our bodies could resist the strain, we should be stopped, and no reasonings would be able to get us on any farther.
+e:axel=thinking
+
+But I did not advance this argument. My uncle would have met it with his inevitable Saknussemm, a precedent which possessed no weight with me; for even if the journey of the learned Icelander were really attested, there was one very simple answer, that in the sixteenth century there was neither barometer or aneroid and therefore Saknussemm could not tell how far he had gone.
+e:axel=annoyed
+
+But I kept this objection to myself, and waited the course of events.
+e:axel=weary
+
+The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of Professor Liedenbrock, and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.
+e:axel=neutral;e:hans=neutral
+
+## XXVI. The Worst Peril of All
+r=title
+
+It must be confessed that hitherto things had not gone on so badly, and that I had small reason to complain. If our difficulties became no worse, we might hope to reach our end.
+e:axel=neutral
+
+And to what a height of scientific glory we should then attain! I had become quite a Liedenbrock in my reasonings; seriously I had.
+e:axel=excited
+
+But would this state of things last in the strange place we had come to? Perhaps it might.
+e:axel=thinking
+
+For several days steeper inclines, some even frightfully near to the perpendicular, brought us deeper and deeper into the mass of the interior of the earth. Some days we advanced nearer to the centre by a league and a half, or nearly two leagues.
+e:axel=serious
+
+These were perilous descents, in which the skill and marvellous coolness of Hans were invaluable to us.
+e:hans=neutral
+
+That unimpassioned Icelander devoted himself with incomprehensible deliberation; and, thanks to him, we crossed many a dangerous spot which we should never have cleared alone.
+
+
+But his habit of silence gained upon him day by day, and was infecting us.
+e:axel=wary
+
+External objects produce decided effects upon the brain. A man shut up between four walls soon loses the power to associate words and ideas together.
+e:axel=contemplative
+
+How many prisoners in solitary confinement become idiots, if not mad, for want of exercise for the thinking faculty!
+e:axel=sadsmile
+
+During the fortnight following our last conversation, no incident occurred worthy of being recorded.
+e:axel=neutral
+
+But I have good reason for remembering one very serious event which took place at this time, and of which I could scarcely now forget the smallest details.
+e:axel=serious
+
+By the 7th of August our successive descents had brought us to a depth of thirty leagues; that is, that for a space of thirty leagues there were over our heads solid beds of rock, ocean, continents, and towns. We must have been two hundred leagues from Iceland.
+e:axel=thinking
+
+On that day the tunnel went down a gentle slope. I was ahead of the others.
+e:axel=neutral
+
+My uncle was carrying one of Ruhmkorff’s lamps and I the other. I was examining the beds of granite.
+
+
+Suddenly turning round I observed that I was alone.
+e:axel=surprised
+
+Well, well, I thought; I have been going too fast, or Hans and my uncle have stopped on the way.
+e:axel=thinking
+
+Come, this won’t do; I must join them. Fortunately there is not much of an ascent.
+e:axel=nervous
+
+I retraced my steps. I walked for a quarter of an hour.
+e:axel=serious
+
+I gazed into the darkness. I shouted.
+e:axel=wary
+
+No reply: my voice was lost in the midst of the cavernous echoes which alone replied to my call.
+e:axel=fearful
+
+I began to feel uneasy. A shudder ran through me.
+e:axel=nervous
+
+“Calmly!” I said aloud to myself, “I am sure to find my companions again. There are not two roads.”
+s=axel;e:axel=wary
+
+“I was too far ahead. I will return!”
+
+
+For half an hour I climbed up. I listened for a call, and in that dense atmosphere a voice could reach very far.
+s=none;e:axel=serious
+
+But there was a dreary silence in all that long gallery. I stopped.
+e:axel=fearful
+
+I could not believe that I was lost. I was only bewildered for a time, not lost. I was sure I should find my way again.
+e:axel=nervous
+
+“Come,” I repeated, “since there is but one road, and they are on it, I *must* find them again. I have but to ascend still.”
+s=axel;e:axel=wary
+
+“Unless, indeed, missing me, and supposing me to be behind, they too should have gone back.”
+e:axel=nervous
+
+“But even in this case I have only to make the greater haste. I shall find them, I am sure.”
+e:axel=wary
+
+I repeated these words in the fainter tones of a half-convinced man.
+s=none;e:axel=nervous
+
+Besides, to associate even such simple ideas with words, and reason with them, was a work of time.
+e:axel=confused
+
+A doubt then seized upon me. Was I indeed in advance when we became separated?
+e:axel=fearful
+
+Yes, to be sure I was. Hans was after me, preceding my uncle.
+e:axel=thinking
+
+He had even stopped for a while to strap his baggage better over his shoulders.
+
+
+I could remember this little incident. It was at that very moment that I must have gone on.
+e:axel=serious
+
+Besides, I thought, have not I a guarantee that I shall not lose my way, a clue in the labyrinth, that cannot be broken, my faithful stream?
+e:axel=contemplative
+
+I have but to trace it back, and I must come upon them.
+e:axel=happy
+
+This conclusion revived my spirits, and I resolved to resume my march without loss of time.
+e:axel=excited
+
+How I then blessed my uncle’s foresight in preventing the hunter from stopping up the hole in the granite.
+e:axel=happy
+
+This beneficent spring, after having satisfied our thirst on the road, would now be my guide among the windings of the terrestrial crust.
+
+
+Before starting afresh I thought a wash would do me good. I stooped to bathe my face in the Hansbach.
+e:axel=neutral
+
+To my stupefaction and utter dismay my feet trod only—the rough dry granite.
+e:axel=surprised
+
+The stream was no longer at my feet.
+e:axel=fearful
+
 
