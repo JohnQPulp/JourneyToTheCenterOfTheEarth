@@ -7330,4 +7330,505 @@ e:prof=serious;e:axel=wary
 After spending an hour in the contemplation of this marvellous spectacle, we returned to the shore to regain the grotto, and I fell asleep in the midst of the strangest thoughts.
 e:axel=weary
 
+## XXXI. Preparations for a Voyage of Discovery
+r=title
+
+The next morning I awoke feeling perfectly well.
+e:axel=happy
+
+I thought a bath would do me good, and I went to plunge for a few minutes into the waters of this mediterranean sea, for assuredly it better deserved this name than any other sea.
+
+
+I came back to breakfast with a good appetite.
+
+
+Hans was a good caterer for our little household; he had water and fire at his disposal, so that he was able to vary our bill of fare now and then.
+e:hans=neutral
+
+For dessert he gave us a few cups of coffee, and never was coffee so delicious.
+e:axel=happy
+
+“Now,” said my uncle, “now is the time for high tide, and we must not lose the opportunity to study this phenomenon.”
+s=prof;e:prof=serious
+
+“What! the tide!” I cried. “Can the influence of the sun and moon be felt down here?”
+s=axel;e:axel=surprised
+
+“Why not? Are not all bodies subject throughout their mass to the power of universal attraction?”
+s=prof;e:prof=thinking
+
+“This mass of water cannot escape the general law.”
+e:prof=serious
+
+“And in spite of the heavy atmospheric pressure on the surface, you will see it rise like the Atlantic itself.”
+
+
+At the same moment we reached the sand on the shore, and the waves were by slow degrees encroaching on the shore.
+s=none
+
+“Here is the tide rising,” I cried.
+s=axel;e:axel=excited
+
+“Yes, Axel; and judging by these ridges of foam, you may observe that the sea will rise about twelve feet.”
+s=prof;e:prof=neutral
+
+“This is wonderful,” I said.
+s=axel;e:axel=happy
+
+“No; it is quite natural.”
+s=prof;e:prof=serious
+
+“You may say so, uncle; but to me it is most extraordinary, and I can hardly believe my eyes.”
+s=axel;e:axel=surprised
+
+“Who would ever have imagined, under this terrestrial crust, an ocean with ebbing and flowing tides, with winds and storms?”
+e:axel=contemplative
+
+“Well,” replied my uncle, “is there any scientific reason against it?”
+s=prof;e:prof=curious
+
+“No; I see none, as soon as the theory of central heat is given up.”
+s=axel;e:axel=thinking
+
+“So then, thus far,” he answered, “the theory of Sir Humphry Davy is confirmed.”
+s=prof;e:prof=happy
+
+“Evidently it is; and now there is no reason why there should not be seas and continents in the interior of the earth.”
+s=axel;e:axel=excited
+
+“No doubt,” said my uncle; “and inhabited too.”
+s=prof;e:prof=thinking
+
+“To be sure,” said I; “and why should not these waters yield to us fishes of unknown species?”
+s=axel;e:axel=curious
+
+“At any rate,” he replied, “we have not seen any yet.”
+s=prof;e:prof=neutral
+
+“Well, let us make some lines, and see if the bait will draw here as it does in sublunary regions.”
+s=axel;e:axel=happy
+
+“We will try, Axel, for we must penetrate all secrets of these newly discovered regions.”
+s=prof;e:prof=serious
+
+“But where are we, uncle? for I have not yet asked you that question, and your instruments must be able to furnish the answer.”
+s=axel;e:axel=curious
+
+“Horizontally, three hundred and fifty leagues from Iceland.”
+s=prof;e:prof=neutral
+
+“So much as that?”
+s=axel;e:axel=surprised
+
+“I am sure of not being a mile out of my reckoning.”
+s=prof;e:prof=serious
+
+“And does the compass still show southeast?”
+s=axel;e:axel=curious
+
+“Yes; with a westerly deviation of nineteen degrees forty-five minutes, just as above ground.”
+s=prof;e:prof=neutral
+
+“As for its dip, a curious fact is coming to light, which I have observed carefully: that the needle, instead of dipping towards the pole as in the northern hemisphere, on the contrary, rises from it.”
+e:prof=thinking
+
+“Would you then conclude,” I said, “that the magnetic pole is somewhere between the surface of the globe and the point where we are?”
+s=axel;e:axel=curious
+
+“Exactly so; and it is likely enough that if we were to reach the spot beneath the polar regions, about that seventy-first degree where Sir James Ross has discovered the magnetic pole to be situated, we should see the needle point straight up.”
+s=prof;e:prof=happy
+
+“Therefore that mysterious centre of attraction is at no great depth.”
+e:prof=serious
+
+I remarked: “It is so; and here is a fact which science has scarcely suspected.”
+s=axel;e:axel=thinking
+
+“Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth.”
+s=prof;e:prof=serious
+
+“What depth have we now reached?”
+s=axel;e:axel=curious
+
+“We are thirty-five leagues below the surface.”
+s=prof;e:prof=neutral
+
+“So,” I said, examining the map, “the Highlands of Scotland are over our heads, and the Grampians are raising their rugged summits above us.”
+s=axel;e:axel=thinking
+
+“Yes,” answered the Professor laughing.
+s=prof;e:prof=happy
+
+“It is rather a heavy weight to bear, but a solid arch spans over our heads.”
+
+
+“The great Architect has built it of the best materials; and never could man have given it so wide a stretch.”
+e:prof=contemplative
+
+“What are the finest arches of bridges and the arcades of cathedrals, compared with this far reaching vault, with a radius of three leagues, beneath which a wide and tempest-tossed ocean may flow at its ease?”
+e:prof=excited
+
+“Oh, I am not afraid that it will fall down upon my head.”
+s=axel;e:axel=neutral
+
+“But now what are your plans? Are you not thinking of returning to the surface now?”
+e:axel=curious
+
+“Return! no, indeed! We will continue our journey, everything having gone on well so far.”
+s=prof;e:prof=excited
+
+“But how are we to get down below this liquid surface?”
+s=axel;e:axel=confused
+
+“Oh, I am not going to dive head foremost.”
+s=prof;e:prof=smirking
+
+“But if all oceans are properly speaking but lakes, since they are encompassed by land, of course this internal sea will be surrounded by a coast of granite, and on the opposite shores we shall find fresh passages opening.”
+e:prof=serious
+
+“How long do you suppose this sea to be?”
+s=axel;e:axel=curious
+
+“Thirty or forty leagues; so that we have no time to lose, and we shall set sail tomorrow.”
+s=prof;e:prof=serious
+
+I looked about for a ship.
+s=none;e:axel=curious
+
+“Set sail, shall we? But I should like to see my boat first.”
+s=axel;e:axel=confused
+
+“It will not be a boat at all, but a good, well-made raft.”
+s=prof;e:prof=smirking
+
+“Why,” I said, “a raft would be just as hard to make as a boat, and I don’t see﻿—”
+s=axel;e:axel=confused
+
+“I know you don’t see; but you might hear if you would listen.”
+s=prof;e:prof=smirking
+
+“Don’t you hear the hammer at work? Hans is already busy at it.”
+e:prof=happy
+
+“What, has he already felled the trees?”
+s=axel;e:axel=surprised
+
+“Oh, the trees were already down. Come, and you will see for yourself.”
+s=prof;e:prof=happy
+
+After half an hour’s walking, on the other side of the promontory which formed the little natural harbour, I perceived Hans at work.
+s=none;e:axel=neutral
+
+In a few more steps I was at his side.
+
+
+To my great surprise a half-finished raft was already lying on the sand, made of a peculiar kind of wood, and a great number of planks, straight and bent, and of frames, were covering the ground, enough almost for a little fleet.
+e:axel=surprised
+
+“Uncle, what wood is this?” I cried.
+s=axel;e:axel=curious
+
+“It is fir, pine, or birch, and other northern Coniferae, mineralised by the action of the sea.”
+s=prof;e:prof=thinking
+
+“It is called surturbrand, a variety of brown coal or lignite, found chiefly in Iceland.”
+e:prof=serious
+
+“But surely, then, like other fossil wood, it must be as hard as stone, and cannot float?”
+s=axel;e:axel=confused
+
+“Sometimes that may happen; some of these woods become true anthracites; but others, such as this, have only gone through the first stage of fossil transformation.”
+s=prof;e:prof=serious
+
+“Just look,” added my uncle, throwing into the sea one of those precious waifs.
+e:prof=smirking
+
+The bit of wood, after disappearing, returned to the surface and oscillated to and fro with the waves.
+s=none
+
+“Are you convinced?” said my uncle.
+s=prof;e:prof=smirking
+
+“I am quite convinced, although it is incredible!”
+s=axel;e:axel=surprised
+
+By next evening, thanks to the industry and skill of our guide, the raft was made.
+s=none;e:axel=happy
+
+It was ten feet by five; the planks of surturbrand, braced strongly together with cords, presented an even surface, and when launched this improvised vessel floated easily upon the waves of the Liedenbrock Sea.
+
+
+## XXXII. Wonders of the Deep
+r=title
+
+On the 13th of August we awoke early.
+e:axel=neutral
+
+We were now to begin to adopt a mode of travelling both more expeditious and less fatiguing than hitherto.
+
+
+A mast was made of two poles spliced together, a yard was made of a third, a blanket borrowed from our coverings made a tolerable sail.
+
+
+There was no want of cordage for the rigging, and everything was well and firmly made.
+
+
+The provisions, the baggage, the instruments, the guns, and a good quantity of fresh water from the rocks around, all found their proper places on board; and at six the Professor gave the signal to embark.
+
+
+Hans had fitted up a rudder to steer his vessel. He took the tiller, and unmoored; the sail was set, and we were soon afloat.
+e:hans=neutral
+
+At the moment of leaving the harbour, my uncle, who was tenaciously fond of naming his new discoveries, wanted to give it a name, and proposed mine amongst others.
+e:prof=happy
+
+“But I have a better to propose,” I said: “Gräuben. Let it be called Port Gräuben; it will look very well upon the map.”
+s=axel;e:axel=happy
+
+“Port Gräuben let it be then.”
+s=prof;e:prof=happy
+
+And so the cherished remembrance of my *Virlandaise* became associated with our adventurous expedition.
+s=none;e:axel=sadsmile
+
+The wind was from the northwest. We went with it at a high rate of speed.
+e:axel=neutral
+
+The dense atmosphere acted with great force and impelled us swiftly on.
+e:axel=excited
+
+In an hour my uncle had been able to estimate our progress.
+e:prof=thinking
+
+At this rate, he said, we shall make thirty leagues in twenty-four hours, and we shall soon come in sight of the opposite shore.
+e:prof=happy
+
+I made no answer, but went and sat forward. The northern shore was already beginning to dip under the horizon.
+e:axel=neutral
+
+The eastern and western strands spread wide as if to bid us farewell. Before our eyes lay far and wide a vast sea; shadows of great clouds swept heavily over its silver-grey surface; the glistening bluish rays of electric light, here and there reflected by the dancing drops of spray, shot out little sheaves of light from the track we left in our rear.
+e:axel=contemplative
+
+Soon we entirely lost sight of land; no object was left for the eye to judge by, and but for the frothy track of the raft, I might have thought we were standing still.
+e:axel=surprised
+
+About twelve, immense shoals of seaweeds came in sight.
+
+
+I was aware of the great powers of vegetation that characterise these plants, which grow at a depth of twelve thousand feet, reproduce themselves under a pressure of four hundred atmospheres, and sometimes form barriers strong enough to impede the course of a ship.
+e:axel=thinking
+
+But never, I think, were such seaweeds as those which we saw floating in immense waving lines upon the sea of Liedenbrock.
+e:axel=surprised
+
+Our raft skirted the whole length of the fuci, three or four thousand feet long, undulating like vast serpents beyond the reach of sight; I found some amusement in tracing these endless waves, always thinking I should come to the end of them, and for hours my patience was vying with my surprise.
+e:axel=neutral;e:axel=happy
+
+What natural force could have produced such plants, and what must have been the appearance of the earth in the first ages of its formation, when, under the action of heat and moisture, the vegetable kingdom alone was developing on its surface?
+e:axel=curious
+
+Evening came, and, as on the previous day, I perceived no change in the luminous condition of the air.
+e:axel=neutral
+
+It was a constant condition, the permanency of which might be relied upon.
+
+
+After supper I laid myself down at the foot of the mast, and fell asleep in the midst of fantastic reveries.
+e:axel=weary
+
+Hans, keeping fast by the helm, let the raft run on, which, after all, needed no steering, the wind blowing directly aft.
+e:hans=neutral
+
+Since our departure from Port Gräuben, Professor Liedenbrock had entrusted the log to my care; I was to register every observation, make entries of interesting phenomena, the direction of the wind, the rate of sailing, the way we made﻿—in a word, every particular of our singular voyage.
+e:axel=neutral
+
+I shall therefore reproduce here these daily notes, written, so to speak, as the course of events directed, in order to furnish an exact narrative of our passage.
+
+
+*Friday, August 14*.﻿—Wind steady, N. W. The raft makes rapid way in a direct line.
+
+
+Coast thirty leagues to leeward. Nothing in sight before us. Intensity of light the same.
+
+
+Weather fine; that is to say, that the clouds are flying high, are light, and bathed in a white atmosphere resembling silver in a state of fusion. Therm. 89° Fahr.
+
+
+At noon Hans prepared a hook at the end of a line. He baited it with a small piece of meat and flung it into the sea.
+e:hans=neutral
+
+For two hours nothing was caught. Are these waters, then, bare of inhabitants?
+e:axel=curious
+
+No, there’s a pull at the line. Hans draws it in and brings out a struggling fish.
+e:axel=excited;e:hans=neutral
+
+“A sturgeon,” I cried; “a small sturgeon.”
+s=axel;e:axel=surprised
+
+The Professor eyes the creature attentively, and his opinion differs from mine.
+s=none;e:prof=thinking
+
+The head of this fish was flat, but rounded in front, and the anterior part of its body was plated with bony, angular scales; it had no teeth, its pectoral fins were large, and of tail there was none.
+e:axel=curious
+
+The animal belonged to the same order as the sturgeon, but differed from that fish in many essential particulars.
+
+
+After a short examination my uncle pronounced his opinion.
+e:prof=serious
+
+“This fish belongs to an extinct family, of which only fossil traces are found in the Devonian formations.”
+s=prof;e:prof=serious
+
+“What!” I cried. “Have we taken alive an inhabitant of the seas of primitive ages?”
+s=axel;e:axel=surprised
+
+“Yes; and you will observe that these fossil fishes have no identity with any living species.”
+s=prof;e:prof=happy
+
+“To have in one’s possession a living specimen is a happy event for a naturalist.”
+e:prof=excited
+
+“But to what family does it belong?”
+s=axel;e:axel=curious
+
+“It is of the order of ganoids, of the family of the Cephalaspidae; and a species of *Pterichthys*.”
+s=prof;e:prof=serious
+
+“But this one displays a peculiarity confined to all fishes that inhabit subterranean waters.”
+e:prof=thinking
+
+“It is blind, and not only blind, but actually has no eyes at all.”
+e:prof=surprised
+
+I looked: nothing could be more certain.
+s=none;e:axel=surprised
+
+But supposing it might be a solitary case, we baited afresh, and threw out our line.
+e:axel=curious
+
+Surely this ocean is well peopled with fish, for in another couple of hours we took a large quantity of *Pterichthyodes*, as well as of others belonging to the extinct family of the dipterids, but of which my uncle could not tell the species; none had organs of sight.
+e:axel=happy
+
+This unhoped-for catch recruited our stock of provisions.
+
+
+Thus it is evident that this sea contains none but species known to us in their fossil state, in which fishes as well as reptiles are the less perfectly and completely organised the farther back their date of creation.
+e:axel=thinking
+
+Perhaps we may yet meet with some of those saurians which science has reconstructed out of a bit of bone or cartilage.
+e:axel=contemplative
+
+I took up the telescope and scanned the whole horizon, and found it everywhere a desert sea. We are far away removed from the shores.
+e:axel=neutral
+
+I gaze upward in the air. Why should not some of the strange birds restored by the immortal Cuvier again flap their “sail-broad vans” in this dense and heavy atmosphere?
+e:axel=curious
+
+There are sufficient fish for their support.
+
+
+I survey the whole space that stretches overhead; it is as desert as the shore was.
+e:axel=neutral
+
+Still my imagination carried me away amongst the wonderful speculations of palaeontology. Though awake I fell into a dream.
+e:axel=contemplative
+
+I thought I could see floating on the surface of the waters enormous *Chelonia*, pre-adamite tortoises, resembling floating islands.
+e:axel=surprised
+
+Over the dimly lighted strand there trod the huge mammals of the first ages of the world, the *Leptotherium* (slender beast), found in the caverns of Brazil; the *Merycotherium* (ruminating beast), found in the “drift” of ice-clad Siberia.
+
+
+Farther on, the pachydermatous *Lophiodon* (crested toothed), a gigantic tapir, hides behind the rocks to dispute its prey with the *Anoplotherium* (unarmed beast), a strange creature, which seemed a compound of horse, rhinoceros, camel, and hippopotamus, as if the creator, pressed for time in the first hours of the world, had assembled several animals into one.
+e:axel=excited
+
+The colossal mastodon (nipple-toothed) twists and untwists his trunk, and brays and pounds with his huge tusks the fragments of rock that cover the shore; whilst the *Megatherium* (huge beast), buttressed upon his enormous hinder paws, grubs in the soil, awaking the sonorous echoes of the granite rocks with his tremendous roarings.
+
+
+Higher up, the *Protopitheca*﻿—the first monkey that appeared on the globe﻿—is climbing up the steep ascents. Higher yet, the pterodactyl (wing-fingered) darts in irregular zigzags to and fro in the heavy air.
+
+
+In the uppermost regions of the air immense birds, more powerful than the cassowary, and larger than the ostrich, spread their vast breadth of wings and strike with their heads the granite vault that bounds the sky.
+
+
+All this fossil world rises to life again in my vivid imagination. I return to the biblical epochs of the creation, well in advance of the birth of man, when the incomplete earth was not yet sufficient for him.
+e:axel=thinking
+
+Then my dream backed even farther still into the ages before the creation of living beings.
+e:axel=contemplative
+
+The mammals disappear, then the birds vanish, then the reptiles of the secondary period, and finally the fish, the crustaceans, molluscs, and articulated beings. Then the zoophytes of the transition period also return to nothing.
+
+
+I am the only living thing in the world: all life is concentrated in my beating heart alone.
+e:axel=serious
+
+There are no more seasons; climates are no more; the heat of the globe continually increases and neutralises that of the sun. Vegetation becomes accelerated.
+e:axel=surprised
+
+I glide like a shade amongst arborescent ferns, treading with unsteady feet the coloured marls and the parti-coloured clays; I lean for support against the trunks of immense conifers; I lie in the shade of sphenophylla (wedge-leaved), asterophylla (star-leaved), and lycopods, a hundred feet high.
+
+
+Ages seem no more than days! I am passed, against my will, in retrograde order, through the long series of terrestrial changes.
+e:axel=fearful
+
+Plants disappear; granite rocks soften; intense heat converts solid bodies into thick fluids; the waters again cover the face of the earth; they boil, they rise in whirling eddies of steam; white and ghastly mists wrap round the shifting forms of the earth, which by imperceptible degrees dissolves into a gaseous mass, glowing fiery red and white, as large and as shining as the sun.
+
+
+And I myself am floating with wild caprice in the midst of this nebulous mass of fourteen hundred thousand times the volume of the earth into which it will one day be condensed, and carried forward amongst the planetary bodies.
+e:axel=confused
+
+My body is no longer firm and terrestrial; it is resolved into its constituent atoms, subtilised, volatilised.
+e:axel=nervous
+
+Sublimed into imponderable vapour, I mingle and am lost in the endless floods of those vast globular volumes of vaporous mists, which roll upon their flaming orbits through infinite space.
+e:axel=surprised
+
+But is it not a dream? Whither is it carrying me?
+e:axel=fearful
+
+My feverish hand has vainly attempted to describe upon paper its strange and wonderful details.
+e:axel=nervous
+
+I have forgotten everything that surrounds me. The Professor, the guide, the raft﻿—are all gone out of my ken. An illusion has laid hold upon me.
+e:axel=upset
+
+“What is the matter?” my uncle breaks in.
+s=prof;e:prof=surprised
+
+My staring eyes are fixed vacantly upon him.
+s=none;e:axel=confused
+
+“Take care, Axel, or you will fall overboard.”
+s=prof;e:prof=wary
+
+At that moment I felt the sinewy hand of Hans seizing me vigorously.
+s=none;e:hans=serious
+
+But for him, carried away by my dream, I should have thrown myself into the sea.
+e:axel=fearful
+
+“Is he mad?” cried the Professor.
+s=prof;e:prof=wary
+
+“What is it all about?” at last I cried, returning to myself.
+s=axel;e:axel=confused
+
+“Do you feel ill?” my uncle asked.
+s=prof;e:prof=wary
+
+“No; but I have had a strange hallucination; it is over now.”
+s=axel;e:axel=weary
+
+“Is all going on right?”
+e:axel=curious
+
+“Yes, it is a fair wind and a fine sea; we are sailing rapidly along, and if I am not out in my reckoning, we shall soon land.”
+s=prof;e:prof=happy
+
+At these words I rose and gazed round upon the horizon, still everywhere bounded by clouds alone.
+s=none;e:axel=neutral
+
 
