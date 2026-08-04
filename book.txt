@@ -168,15 +168,7 @@ I was seated in a trice.
 
 The dictation commenced. I did my best. Every letter was given me one after the other, with the following remarkable result:
 
-|         |         |         |
-|---------|---------|---------|
-| m̄.rnlls | esrevel | seecIde |
-| sgtssmf | vnteief | niedrke |
-| kt,samn | atrateS | saodrrn |
-| emtnaeI | nvaect  | rrilSa  |
-| Atsaar  | .nvcrc  | ieaabs  |
-| ccrmi   | eevtVl  | frAntv  |
-| dt,iac  | oseibo  | KediiI  |
+<todo>
 
 When this work was ended my uncle tore the paper from me and examined it attentively for a long time.
 
@@ -254,13 +246,7 @@ That is just where I was in my dream, when my uncle with a vehement thump on the
 
 I caught his meaning, and immediately produced the following literary wonder:
 
-|     |     |     |     |     |     |
-|-----|-----|-----|-----|-----|-----|
-| I   | y   | l   | o   | a   | u   |
-| l   | o   | l   | w   | r   | b   |
-| o   | u   | ,   | n   | G   | e   |
-| v   | w   | m   | d   | r   | n   |
-| e   | e   | y   | e   | a   | !   |
+<todo>
 
 “Good,” said the professor, without reading them, “now set down those words in a horizontal line.”
 
@@ -292,12 +278,7 @@ My uncle, falling back into his absorbing contemplations, had already forgotten 
 
 Just as the moment of the supreme experiment arrived the Professor’s eyes flashed right through his spectacles. There was a quivering in his fingers as he grasped the old parchment. He was deeply moved. At last he gave a preliminary cough, and with profound gravity, naming in succession the first, then the second letter of each word, he dictated me the following:
 
-|                                        |
-|----------------------------------------|
-| m̄essvnkaSenrA.icefdoK.segnittamvrtn    |
-| ecertserrette,rotaisadva,ednecsedsadne |
-| lacartniiilvIsiratracSarbmvtabiledmek  |
-| meretarcsilvcoIsleffenSnI.             |
+<todo>
 
 I confess I felt considerably excited in coming to the end; these letters named, one at a time, had carried no sense to my mind; I therefore waited for the Professor with great pomp to unfold the magnificent but hidden Latin of this mysterious phrase.
 
