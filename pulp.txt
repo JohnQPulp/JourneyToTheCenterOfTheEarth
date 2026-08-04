@@ -361,4 +361,520 @@ e:axel=surprised
 With one spring I bounded out of the dining-room into the study.
 e:axel=nervous
 
+## III. The Runic Writing Exercises the Professor
+r=title
+
+“Undoubtedly it is Runic,” said the Professor, bending his brows; “but there is a secret in it, and I mean to discover the key.”
+s=prof;e:prof=serious
+
+A violent gesture finished the sentence.
+s=none;e:prof=angry
+
+“Sit there,” he added, holding out his fist towards the table.
+s=prof
+
+“Sit there, and write.”
+
+
+I was seated in a trice.
+s=none;e:axel=nervous
+
+“Now I will dictate to you every letter of our alphabet which corresponds with each of these Icelandic characters.”
+s=prof;e:prof=serious
+
+“We will see what that will give us. But, by St. Michael, if you should dare to deceive me—”
+e:prof=scowling
+
+The dictation commenced. I did my best.
+s=none;e:axel=serious
+
+Every letter was given me one after the other, with the following remarkable result:
+
+
+<todo>
+
+
+When this work was ended my uncle tore the paper from me and examined it attentively for a long time.
+e:prof=thinking
+
+“What does it all mean?” he kept repeating mechanically.
+s=prof;e:prof=confused
+
+Upon my honour I could not have enlightened him.
+s=none;e:axel=neutral
+
+Besides he did not ask me, and he went on talking to himself.
+
+
+“This is what is called a cryptogram, or cipher,” he said, “in which letters are purposely thrown in confusion, which if properly arranged would reveal their sense.”
+s=prof;e:prof=thinking
+
+“Only think that under this jargon there may lie concealed the clue to some great discovery!”
+e:prof=excited
+
+As for me, I was of opinion that there was nothing at all, in it; though, of course, I took care not to say so.
+s=none;e:axel=neutral
+
+Then the Professor took the book and the parchment, and diligently compared them together.
+e:prof=serious
+
+“These two writings are not by the same hand,” he said; “the cipher is of later date than the book, an undoubted proof of which I see in a moment.”
+s=prof;e:prof=thinking
+
+“The first letter is a double *m*, a letter which is not to be found in Turlleson’s book, and which was only added to the alphabet in the fourteenth century.”
+e:prof=excited
+
+“Therefore there are two hundred years between the manuscript and the document.”
+
+
+I admitted that this was a strictly logical conclusion.
+s=none;e:axel=thinking
+
+“I am therefore led to imagine,” continued my uncle, “that some possessor of this book wrote these mysterious letters.”
+s=prof;e:prof=thinking
+
+“But who was that possessor? Is his name nowhere to be found in the manuscript?”
+e:prof=curious
+
+My uncle raised his spectacles, took up a strong lens, and carefully examined the blank pages of the book.
+s=none;e:prof=serious
+
+On the front of the second, the title-page, he noticed a sort of stain which looked like an ink blot.
+e:prof=curious
+
+But in looking at it very closely he thought he could distinguish some half-effaced letters.
+
+
+My uncle at once fastened upon this as the centre of interest, and he laboured at that blot, until by the help of his microscope he ended by making out the following Runic characters which he read without difficulty.
+e:prof=serious
+
+“Arne Saknussemm!” he cried in triumph.
+s=prof;e:prof=excited
+
+“Why that is the name of another Icelander, a savant of the sixteenth century, a celebrated alchemist!”
+
+
+I gazed at my uncle with satisfactory admiration.
+s=none;e:axel=surprised
+
+“Those alchemists,” he resumed, “Avicenna, Bacon, Lully, Paracelsus, were the real and only savants of their time.”
+s=prof;e:prof=serious
+
+“They made discoveries at which we are astonished.”
+
+
+“Has not this Saknussemm concealed under his cryptogram some surprising invention? It is so; it must be so!”
+e:prof=excited
+
+The Professor’s imagination took fire at this hypothesis.
+s=none
+
+“No doubt,” I ventured to reply, “but what interest would he have in thus hiding so marvellous a discovery?”
+s=axel;e:axel=curious
+
+“Why? Why? How can I tell? Did not Galileo do the same by Saturn?”
+s=prof;e:prof=excited
+
+“We shall see. I will get at the secret of this document, and I will neither sleep nor eat until I have found it out.”
+e:prof=serious
+
+My comment on this was a half-suppressed “Oh!”
+s=axel;e:axel=nervous
+
+“Nor you either, Axel,” he added.
+s=prof;e:prof=scowling
+
+“The deuce!” said I to myself; “then it is lucky I have eaten two dinners today!”
+s=axel;e:axel=wary
+
+“First of all we must find out the key to this cipher; that cannot be difficult.”
+s=prof;e:prof=smirking
+
+At these words I quickly raised my head; but my uncle went on soliloquising.
+s=none;e:axel=surprised
+
+“There’s nothing easier. In this document there are a hundred and thirty-two letters, viz., seventy-seven consonants and fifty-five vowels.”
+s=prof;e:prof=thinking
+
+“This is the proportion found in southern languages, whilst northern tongues are much richer in consonants; therefore this is in a southern language.”
+
+
+These were very fair conclusions, I thought.
+s=none;e:axel=thinking
+
+“But what language is it?”
+s=prof;e:prof=curious
+
+Here I looked for a display of learning, but I met instead with profound analysis.
+s=none;e:axel=neutral
+
+“This Saknussemm,” he went on, “was a very well-informed man; now since he was not writing in his own mother tongue, he would naturally select that which was currently adopted by the choice spirits of the sixteenth century; I mean Latin.”
+s=prof;e:prof=serious
+
+“If I am mistaken, I can but try Spanish, French, Italian, Greek, or Hebrew.”
+
+
+“But the savants of the sixteenth century generally wrote in Latin. I am therefore entitled to pronounce this, *a priori*, to be Latin. It is Latin.”
+e:prof=smirking
+
+I jumped up in my chair. My Latin memories rose in revolt against the notion that these barbarous words could belong to the sweet language of Virgil.
+s=none;e:axel=upset
+
+“Yes, it is Latin,” my uncle went on; “but it is Latin confused and in disorder.”
+s=prof;e:prof=serious
+
+“Very well,” thought I, “if you can bring order out of that confusion, my dear uncle, you are a clever man.”
+s=axel;e:axel=smirking
+
+“Let us examine carefully,” said he again, taking up the leaf upon which I had written.
+s=prof;e:prof=thinking
+
+“Here is a series of one hundred and thirty-two letters in apparent disorder.”
+
+
+“There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”
+
+
+“Now this arrangement has evidently not been premeditated; it has arisen mathematically in obedience to the unknown law which has ruled in the succession of these letters.”
+
+
+“It appears to me a certainty that the original sentence was written in a proper manner, and afterwards distorted by a law which we have yet to discover.”
+e:prof=serious
+
+“Whoever possesses the key of this cipher will read it with fluency. What is that key? Axel, have you got it?”
+e:prof=curious
+
+I answered not a word, and for a very good reason.
+s=none;e:axel=nervous
+
+My eyes had fallen upon a charming picture, suspended against the wall, the portrait of Gräuben.
+e:axel=sadsmile
+
+My uncle’s ward was at that time at Altona, staying with a relation, and in her absence I was very downhearted; for I may confess it to you now, the pretty *Virlandaise* and the professor’s nephew loved each other with a patience and a calmness entirely German.
+
+
+We had become engaged unknown to my uncle, who was too much taken up with geology to be able to enter into such feelings as ours.
+
+
+Gräuben was a lovely blue-eyed blonde, rather given to gravity and seriousness; but that did not prevent her from loving me very sincerely.
+
+
+As for me, I *adored* her, if there is such a word in the German language.
+e:axel=happy
+
+Thus it happened that the picture of my pretty *Virlandaise* threw me in a moment out of the world of realities into that of memory and fancy.
+e:axel=contemplative
+
+There looked down upon me the faithful companion of my labours and my recreations.
+
+
+Every day she helped me to arrange my uncle’s precious specimens; she and I labelled them together.
+
+
+Mademoiselle Gräuben was an accomplished mineralogist; she could have taught a few things to a savant. She was fond of investigating abstruse scientific questions.
+
+
+What pleasant hours we have spent in study; and how often I envied the very stones which she handled with her charming fingers.
+
+
+Then, when our leisure hours came, we used to go out together and turn into the shady avenues by the Alster, and went happily side by side up to the old windmill, which forms such an improvement to the landscape at the head of the lake.
+
+
+On the road we chatted hand in hand; I told her amusing tales at which she laughed heartily.
+
+
+Then we reached the banks of the Elbe, and after having bid goodbye to the swan, sailing gracefully amidst the white water lilies, we returned to the quay by the steamer.
+
+
+That is just where I was in my dream, when my uncle with a vehement thump on the table dragged me back to the realities of life.
+e:axel=surprised;e:prof=angry
+
+“Come,” said he, “the very first idea which would come into anyone’s head to confuse the letters of a sentence would be to write the words vertically instead of horizontally.”
+s=prof;e:prof=serious
+
+“Indeed!” said I.
+s=axel;e:axel=nervous
+
+“Now we must see what would be the effect of that, Axel; put down upon this paper any sentence you like, only instead of arranging the letters in the usual way, one after the other, place them in succession in vertical columns, so as to group them together in five or six vertical lines.”
+s=prof;e:prof=serious
+
+I caught his meaning, and immediately produced the following literary wonder:
+s=none;e:axel=neutral
+
+<todo>
+
+
+“Good,” said the professor, without reading them, “now set down those words in a horizontal line.”
+s=prof;e:prof=happy
+
+I obeyed, and with this result:
+s=none;e:axel=serious
+
+Iyloau lolwrb ou,nGe vwmdrn eeyea!
+
+
+“Excellent!” said my uncle, taking the paper hastily out of my hands.
+s=prof;e:prof=excited
+
+“This begins to look just like an ancient document: the vowels and the consonants are grouped together in equal disorder; there are even capitals in the middle of words, and commas too, just as in Saknussemm’s parchment.”
+
+
+I considered these remarks very clever.
+s=none;e:axel=neutral
+
+“Now,” said my uncle, looking straight at me, “to read the sentence which you have just written, and with which I am wholly unacquainted, I shall only have to take the first letter of each word, then the second, the third, and so forth.”
+s=prof;e:prof=smirking
+
+And my uncle, to his great astonishment, and my much greater, read:
+s=none;e:axel=surprised;e:prof=surprised
+
+“I love you well, my own dear Gräuben!”
+s=prof
+
+“Hallo!” cried the Professor.
+e:prof=confused
+
+Yes, indeed, without knowing what I was about, like an awkward and unlucky lover, I had compromised myself by writing this unfortunate sentence.
+s=none;e:axel=nervous
+
+“Aha! you are in love with Gräuben?” he said, with the right look for a guardian.
+s=prof;e:prof=suspicious
+
+“Yes; no!” I stammered.
+s=axel;e:axel=fearful
+
+“You love Gräuben,” he went on once or twice dreamily.
+s=prof;e:prof=contemplative
+
+“Well, let us apply the process I have suggested to the document in question.”
+e:prof=serious
+
+My uncle, falling back into his absorbing contemplations, had already forgotten my imprudent words.
+s=none;e:axel=surprised
+
+I merely say imprudent, for the great mind of so learned a man of course had no place for love affairs, and happily the grand business of the document gained me the victory.
+e:axel=happy
+
+Just as the moment of the supreme experiment arrived the Professor’s eyes flashed right through his spectacles.
+e:prof=excited
+
+There was a quivering in his fingers as he grasped the old parchment. He was deeply moved.
+
+
+At last he gave a preliminary cough, and with profound gravity, naming in succession the first, then the second letter of each word, he dictated me the following:
+e:prof=serious
+
+<todo>
+
+
+I confess I felt considerably excited in coming to the end; these letters named, one at a time, had carried no sense to my mind; I therefore waited for the Professor with great pomp to unfold the magnificent but hidden Latin of this mysterious phrase.
+e:axel=excited
+
+But who could have foretold the result? A violent thump made the furniture rattle, and spilt some ink, and my pen dropped from between my fingers.
+e:axel=surprised;e:prof=angry
+
+“That’s not it,” cried my uncle, “there’s no sense in it.”
+s=prof;e:prof=upset
+
+Then darting out like a shot, bowling downstairs like an avalanche, he rushed into the Königstrasse and fled.
+s=none
+
+## IV. The Enemy to Be Starved Into Submission
+r=title
+
+“He is gone!” cried Martha, running out of her kitchen at the noise of the violent slamming of doors.
+s=martha;e:martha=surprised
+
+“Yes,” I replied, “completely gone.”
+s=axel;e:axel=serious
+
+“Well; and how about his dinner?” said the old servant.
+s=martha;e:martha=confused
+
+“He won’t have any.”
+s=axel;e:axel=neutral
+
+“And his supper?”
+s=martha;e:martha=surprised
+
+“He won’t have any.”
+s=axel
+
+“What?” cried Martha, with clasped hands.
+s=martha;e:martha=fearful
+
+“No, my dear Martha, he will eat no more.”
+s=axel;e:axel=wary
+
+“No one in the house is to eat anything at all.”
+
+
+“Uncle Liedenbrock is going to make us all fast until he has succeeded in deciphering an undecipherable scrawl.”
+
+
+“Oh, my dear! Must we then all die of hunger?”
+s=martha;e:martha=nervous
+
+I hardly dared to confess that, with so absolute a ruler as my uncle, this fate was inevitable.
+s=none;e:axel=sadsmile
+
+The old servant, visibly moved, returned to the kitchen, moaning piteously.
+e:martha=unhappy
+
+When I was alone, I thought I would go and tell Gräuben all about it.
+e:axel=thinking
+
+But how should I be able to escape from the house? The Professor might return at any moment.
+e:axel=nervous
+
+And suppose he called me? And suppose he tackled me again with this logomachy, which might vainly have been set before ancient Oedipus.
+
+
+And if I did not obey his call, who could answer for what might happen?
+e:axel=fearful
+
+The wisest course was to remain where I was.
+e:axel=serious
+
+A mineralogist at Besançon had just sent us a collection of siliceous nodules, which I had to classify:
+
+
+so I set to work; I sorted, labelled, and arranged in their own glass case all these hollow specimens, in the cavity of each of which was a nest of little crystals.
+
+
+But this work did not succeed in absorbing all my attention. That old document kept working in my brain.
+e:axel=thinking
+
+My head throbbed with excitement, and I felt an undefined uneasiness.
+e:axel=nervous
+
+I was possessed with a presentiment of coming evil.
+
+
+In an hour my nodules were all arranged upon successive shelves.
+e:axel=weary
+
+Then I dropped down into the old velvet armchair, my head thrown back and my hands joined over it.
+
+
+I lighted my long crooked pipe, with a painting on it of an idle-looking naiad; then I amused myself watching the process of the conversion of the tobacco into carbon, which was by slow degrees making my naiad into a negress.
+e:axel=bored
+
+Now and then I listened to hear whether a well-known step was on the stairs. No. Where could my uncle be at that moment?
+e:axel=curious
+
+I fancied him running under the noble trees which line the road to Altona, gesticulating, making shots with his cane, thrashing the long grass, cutting the heads off the thistles, and disturbing the contemplative storks in their peaceful solitude.
+e:axel=smirking
+
+Would he return in triumph or in discouragement? Which would get the upper hand, he or the secret?
+e:axel=thinking
+
+I was thus asking myself questions, and mechanically taking between my fingers the sheet of paper mysteriously disfigured with the incomprehensible succession of letters I had written down; and I repeated to myself “What does it all mean?”
+e:axel=confused
+
+I sought to group the letters so as to form words. Quite impossible!
+e:axel=annoyed
+
+When I put them together by twos, threes, fives or sixes, nothing came of it but nonsense.
+
+
+To be sure the fourteenth, fifteenth and sixteenth letters made the English word “ice”; the eighty-third and two following made “sir”; and in the midst of the document, in the second and third lines, I observed the words, “rots,” “mutabile,” “ira,” “net,” “atra.”
+e:axel=thinking
+
+“Come now,” I thought, “these words seem to justify my uncle’s view about the language of the document.”
+s=axel;e:axel=thinking
+
+“In the fourth line appeared the word ‘luco,’ which means a sacred wood.”
+
+
+“It is true that in the third line was the word ‘tabiled,’ which looked like Hebrew, and in the last the purely French words *mer*, *arc*, *mere*.”
+
+
+All this was enough to drive a poor fellow crazy.
+s=none;e:axel=annoyed
+
+Four different languages in this ridiculous sentence! What connection could there possibly be between such words as ice, sir, anger, cruel, sacred wood, changeable, mother, bow, and sea?
+e:axel=confused
+
+The first and the last might have something to do with each other; it was not at all surprising that in a document written in Iceland there should be mention of a sea of ice; but it was quite another thing to get to the end of this cryptogram with so small a clue.
+e:axel=thinking
+
+So I was struggling with an insurmountable difficulty; my brain got heated, my eyes watered over that sheet of paper; its hundred and thirty-two letters seemed to flutter and fly around me like those motes of mingled light and darkness which float in the air around the head when the blood is rushing upwards with undue violence.
+e:axel=upset
+
+I was a prey to a kind of hallucination; I was stifling; I wanted air.
+e:axel=fearful
+
+Unconsciously I fanned myself with the bit of paper, the back and front of which successively came before my eyes.
+
+
+What was my surprise when, in one of those rapid revolutions, at the moment when the back was turned to me I thought I caught sight of the Latin words *craterem*, *terrestre*, and others.
+e:axel=surprised
+
+A sudden light burst in upon me; these hints alone gave me the first glimpse of the truth; I had discovered the key to the cipher.
+e:axel=excited
+
+To read the document, it would not even be necessary to read it through the paper.
+
+
+Such as it was, just such as it had been dictated to me, so it might be spelt out with ease.
+
+
+All those ingenious professorial combinations were coming right.
+e:axel=happy
+
+He was right as to the arrangement of the letters; he was right as to the language.
+
+
+He had been within a hair’s breadth of reading this Latin document from end to end; but that hair’s breadth, chance had given it to me!
+e:axel=excited
+
+You may be sure I felt stirred up. My eyes were dim, I could scarcely see.
+e:axel=nervous
+
+I had laid the paper upon the table. At a glance I could tell the whole secret.
+e:axel=surprised
+
+At last I became more calm. I made a wise resolve to walk twice round the room quietly and settle my nerves, and then I returned into the deep gulf of the huge armchair.
+e:axel=serious
+
+“Now I’ll read it,” I cried, after having well distended my lungs with air.
+s=axel;e:axel=excited
+
+I leaned over the table; I laid my finger successively upon every letter; and without a pause, without one moment’s hesitation, I read off the whole sentence aloud.
+s=none;e:axel=serious
+
+Stupefaction! Terror! I sat overwhelmed as if with a sudden deadly blow.
+e:axel=fearful
+
+What! That which I read had actually, really been done! A mortal man had had the audacity to penetrate!…
+e:axel=surprised
+
+“Ah!” I cried, springing up.
+s=axel;e:axel=fearful
+
+“But no! No! My uncle shall never know it.”
+e:axel=nervous
+
+“He would insist upon doing it too. He would want to know all about it.”
+e:axel=upset
+
+“Ropes could not hold him, such a determined geologist as he is!”
+
+
+“He would start, he would, in spite of everything and everybody, and he would take me with him, and we should never get back. No, never! never!”
+e:axel=fearful
+
+My over-excitement was beyond all description.
+s=none
+
+“No! No! It shall not be,” I declared energetically; “and as it is in my power to prevent the knowledge of it coming into the mind of my tyrant, I will do it.”
+s=axel;e:axel=angry
+
+“By dint of turning this document round and round, he too might discover the key. I will destroy it.”
+e:axel=serious
+
+There was a little fire left on the hearth. I seized not only the paper but Saknussemm’s parchment; with a feverish hand I was about to fling it all upon the coals and utterly destroy and abolish this dangerous secret, when the study door opened, and my uncle appeared.
+s=none;e:axel=nervous;e:axel=surprised;e:prof=neutral
+
 
