@@ -1486,4 +1486,601 @@ s=prof;e:prof=happy
 “But silence, do you hear me? Silence upon the whole subject; and let no one get before us in this design of discovering the centre of the earth.”
 e:prof=serious
 
+## VII. A Woman’s Courage
+r=title
+
+Thus ended this memorable séance. That conversation threw me into a fever.
+e:axel=nervous
+
+I came out of my uncle’s study as if I had been stunned, and as if there was not air enough in all the streets of Hamburg to put me right again.
+e:axel=weary
+
+I therefore made for the banks of the Elbe, where the steamer lands her passengers, which forms the communication between the city and the Hamburg railway.
+
+
+Was I convinced of the truth of what I had heard? Had I not bent under the iron rule of the Professor Liedenbrock?
+e:axel=thinking
+
+Was I to believe him in earnest in his intention to penetrate to the centre of this massive globe? Had I been listening to the mad speculations of a lunatic, or to the scientific conclusions of a lofty genius?
+e:axel=confused
+
+Where did truth stop? Where did error begin?
+e:axel=contemplative
+
+I was all adrift amongst a thousand contradictory hypotheses, but I could not lay hold of one.
+e:axel=confused
+
+Yet I remembered that I had been convinced, although now my enthusiasm was beginning to cool down; but I felt a desire to start at once, and not to lose time and courage by calm reflection.
+e:axel=serious
+
+I had at that moment quite courage enough to strap my knapsack to my shoulders and start.
+e:axel=excited
+
+But I must confess that in another hour this unnatural excitement abated, my nerves became unstrung, and from the depths of the abysses of this earth I ascended to its surface again.
+e:axel=weary
+
+“It is quite absurd!” I cried, “there is no sense about it.”
+s=axel;e:axel=upset
+
+“No sensible young man should for a moment entertain such a proposal. The whole thing is nonexistent.”
+e:axel=serious
+
+“I have had a bad night, I have been dreaming of horrors.”
+e:axel=fearful
+
+But I had followed the banks of the Elbe and passed the town. After passing the port too, I had reached the Altona road.
+s=none;e:axel=neutral
+
+I was led by a presentiment, soon to be realised; for shortly I espied my little Gräuben bravely returning with her light step to Hamburg.
+e:axel=surprised
+
+“Gräuben!” I cried from afar off.
+s=axel;e:axel=excited
+
+The young girl stopped, rather frightened perhaps to hear her name called after her on the high road.
+s=none;e:grauben=fearful
+
+Ten yards more, and I had joined her.
+
+
+“Axel!” she cried surprised. “What! Have you come to meet me? Is this why you are here, sir?”
+s=grauben;e:grauben=surprised;e:axel=neutral
+
+But when she had looked upon me, Gräuben could not fail to see the uneasiness and distress of my mind.
+s=none;e:grauben=wary;e:axel=upset
+
+“What is the matter?” she said, holding out her hand.
+s=grauben;e:grauben=nervous
+
+“What is the matter, Gräuben?” I cried.
+s=axel;e:axel=upset
+
+In a couple of minutes my pretty *Virlandaise* was fully informed of the position of affairs. For a time she was silent.
+s=none;e:grauben=thinking
+
+Did her heart palpitate as mine did? I don’t know about that, but I know that her hand did not tremble in mine.
+e:grauben=serious
+
+We went on a hundred yards without speaking.
+
+
+At last she said, “Axel!”
+s=grauben;e:grauben=serious
+
+“My dear Gräuben.”
+s=axel;e:axel=nervous
+
+“That will be a splendid journey!”
+s=grauben;e:grauben=excited
+
+I gave a bound at these words.
+s=none;e:axel=surprised
+
+“Yes, Axel, a journey worthy of the nephew of a savant; it is a good thing for a man to be distinguished by some great enterprise.”
+s=grauben;e:grauben=happy
+
+“What, Gräuben, won’t you dissuade me from such an undertaking?”
+s=axel;e:axel=confused
+
+“No, my dear Axel, and I would willingly go with you, but that a poor girl would only be in your way.”
+s=grauben;e:grauben=sadsmile
+
+“Is that quite true?”
+s=axel;e:axel=surprised
+
+“It is true.”
+s=grauben;e:grauben=serious
+
+Ah! Women and young girls, how incomprehensible are your feminine hearts!
+s=none;e:axel=confused
+
+When you are not the timidest, you are the bravest of creatures. Reason has nothing to do with your actions.
+e:axel=contemplative
+
+What! Did this child encourage me in such an expedition! Would she not be afraid to join it herself? And she was driving me to it, one whom she loved!
+e:axel=surprised
+
+I was disconcerted, and, if I must tell the whole truth, I was ashamed.
+e:axel=upset
+
+“Gräuben, we will see whether you will say the same thing tomorrow.”
+s=axel;e:axel=serious
+
+“Tomorrow, dear Axel, I will say what I say today.”
+s=grauben;e:grauben=serious
+
+Gräuben and I, hand in hand, but in silence, pursued our way. The emotions of that day were breaking my heart.
+s=none;e:axel=unhappy
+
+After all, I thought, the kalends of July are a long way off, and between this and then many things may take place which will cure my uncle of his desire to travel underground.
+e:axel=thinking
+
+It was night when we arrived at the house in Königstrasse. I expected to find all quiet there, my uncle in bed as was his custom, and Martha giving her last touches with the feather brush.
+e:axel=neutral
+
+But I had not taken into account the Professor’s impatience.
+e:axel=wary
+
+I found him shouting—and working himself up amidst a crowd of porters and messengers who were all depositing various loads in the passage.
+e:prof=angry
+
+Our old servant was at her wits’ end.
+e:martha=upset
+
+“Come, Axel, come, you miserable wretch,” my uncle cried from as far off as he could see me.
+s=prof;e:prof=angry
+
+“Your boxes are not packed, and my papers are not arranged; where’s the key of my carpet bag? And what have you done with my gaiters?”
+e:prof=annoyed
+
+I stood thunderstruck. My voice failed.
+s=none;e:axel=surprised
+
+Scarcely could my lips utter the words:
+
+
+“Are we really going?”
+s=axel;e:axel=nervous
+
+“Of course, you unhappy boy! Could I have dreamed that you would have gone out for a walk instead of hurrying your preparations forward?”
+s=prof;e:prof=angry
+
+“Are we to go?” I asked again, with sinking hopes.
+s=axel;e:axel=unhappy
+
+“Yes; the day after tomorrow, early.”
+s=prof;e:prof=serious
+
+I could hear no more. I fled for refuge into my own little room.
+s=none;e:axel=upset
+
+All hope was now at an end. My uncle had been all the morning making purchases of a part of the tools and apparatus required for this desperate undertaking.
+e:axel=weary
+
+The passage was encumbered with rope ladders, knotted cords, torches, flasks, grappling irons, alpenstocks, pickaxes, iron shod sticks, enough to load ten men.
+
+
+I spent an awful night. Next morning I was called early. I had quite decided I would not open the door.
+e:axel=unhappy
+
+But how was I to resist the sweet voice which was always music to my ears, saying, “My dear Axel?”
+e:axel=sadsmile
+
+I came out of my room. I thought my pale countenance and my red and sleepless eyes would work upon Gräuben’s sympathies and change her mind.
+e:axel=weary;e:grauben=neutral
+
+“Ah! my dear Axel,” she said. “I see you are better. A night’s rest has done you good.”
+s=grauben;e:grauben=happy
+
+“Done me good!” I exclaimed.
+s=axel;e:axel=surprised
+
+I rushed to the glass. Well, in fact I did look better than I had expected. I could hardly believe my own eyes.
+s=none;e:axel=confused
+
+“Axel,” she said, “I have had a long talk with my guardian. He is a bold philosopher, a man of immense courage, and you must remember that his blood flows in your veins.”
+s=grauben;e:grauben=serious
+
+“He has confided to me his plans, his hopes, and why and how he hopes to attain his object. He will no doubt succeed.”
+e:grauben=happy
+
+“My dear Axel, it is a grand thing to devote yourself to science! What honour will fall upon Herr Liedenbrock, and so be reflected upon his companion!”
+e:grauben=excited
+
+“When you return, Axel, you will be a man, his equal, free to speak and to act independently, and free to—”
+e:grauben=happy
+
+The dear girl only finished this sentence by blushing. Her words revived me.
+s=none;e:grauben=nervous;e:axel=surprised
+
+Yet I refused to believe we should start. I drew Gräuben into the Professor’s study.
+e:axel=serious
+
+“Uncle, is it true that we are to go?”
+s=axel;e:axel=nervous
+
+“Why do you doubt?”
+s=prof;e:prof=confused
+
+“Well, I don’t doubt,” I said, not to vex him; “but, I ask, what need is there to hurry?”
+s=axel;e:axel=wary
+
+“Time, time, flying with irreparable rapidity.”
+s=prof;e:prof=annoyed
+
+“But it is only the 16th May, and until the end of June—”
+s=axel;e:axel=confused
+
+“What, you monument of ignorance! Do you think you can get to Iceland in a couple of days?”
+s=prof;e:prof=angry
+
+“If you had not deserted me like a fool I should have taken you to the Copenhagen office, to Liffender & Co., and you would have learned then that there is only one trip every month from Copenhagen to Reykjavík, on the 22nd.”
+e:prof=annoyed
+
+“Well?”
+s=axel;e:axel=confused
+
+“Well, if we waited for the 22nd June we should be too late to see the shadow of Scartaris touch the crater of Snæfells.”
+s=prof;e:prof=serious
+
+“Therefore we must get to Copenhagen as fast as we can to secure our passage. Go and pack up.”
+e:prof=annoyed
+
+There was no reply to this. I went up to my room. Gräuben followed me.
+s=none;e:axel=weary
+
+She undertook to pack up all things necessary for my voyage. She was no more moved than if I had been starting for a little trip to Lübeck or Heligoland.
+e:grauben=neutral
+
+Her little hands moved without haste. She talked quietly. She supplied me with sensible reasons for our expedition.
+e:grauben=happy
+
+She delighted me, and yet I was angry with her. Now and then I felt I ought to break out into a passion, but she took no notice and went on her way as methodically as ever.
+e:axel=annoyed
+
+Finally the last strap was buckled; I came downstairs.
+e:axel=neutral
+
+All that day the philosophical instrument makers and the electricians kept coming and going. Martha was distracted.
+e:martha=confused
+
+“Is master mad?” she asked.
+s=martha;e:martha=wary
+
+I nodded my head.
+s=none;e:axel=serious
+
+“And is he going to take you with him?”
+s=martha;e:martha=surprised
+
+I nodded again.
+s=none;e:axel=weary
+
+“Where to?”
+s=martha;e:martha=curious
+
+I pointed with my finger downward.
+s=none;e:axel=serious
+
+“Down into the cellar?” cried the old servant.
+s=martha;e:martha=confused
+
+“No,” I said. “Lower down than that.”
+s=axel;e:axel=weary
+
+Night came. But I knew nothing about the lapse of time.
+s=none;e:axel=neutral
+
+“Tomorrow morning at six precisely,” my uncle decreed, “we start.”
+s=prof;e:prof=serious
+
+At ten o’clock I fell upon my bed, a dead lump of inert matter. All through the night terror had hold of me. I spent it dreaming of abysses.
+s=none;e:axel=fearful
+
+I was a prey to delirium. I felt myself grasped by the Professor’s sinewy hand, dragged along, hurled down, shattered into little bits.
+e:axel=upset
+
+I dropped down unfathomable precipices with the accelerating velocity of bodies falling through space. My life had become an endless fall.
+e:axel=fearful
+
+I awoke at five with shattered nerves, trembling and weary. I came downstairs.
+e:axel=weary
+
+My uncle was at table, devouring his breakfast. I stared at him with horror and disgust.
+e:prof=happy;e:axel=upset
+
+But dear Gräuben was there; so I said nothing, and could eat nothing.
+e:axel=sadsmile
+
+At half-past five there was a rattle of wheels outside. A large carriage was there to take us to the Altona railway station.
+e:axel=wary
+
+It was soon piled up with my uncle’s multifarious preparations.
+
+
+“Where’s your box?” he cried.
+s=prof;e:prof=annoyed
+
+“It is ready,” I replied, with faltering voice.
+s=axel;e:axel=nervous
+
+“Then make haste down, or we shall lose the train.”
+s=prof;e:prof=angry
+
+It was now manifestly impossible to maintain the struggle against destiny.
+s=none;e:axel=weary
+
+I went up again to my room, and rolling my portmanteaus downstairs I darted after him.
+
+
+At that moment my uncle was solemnly investing Gräuben with the reins of government. My pretty *Virlandaise* was as calm and collected as was her wont.
+e:prof=serious;e:grauben=neutral
+
+She kissed her guardian; but could not restrain a tear in touching my cheek with her gentle lips.
+e:grauben=sadsmile
+
+“Gräuben!” I murmured.
+s=axel;e:axel=unhappy
+
+“Go, my dear Axel, go! I am now your betrothed; and when you come back I will be your wife.”
+s=grauben;e:grauben=sadsmile
+
+I pressed her in my arms and took my place in the carriage.
+s=none;e:axel=sadsmile
+
+Martha and the young girl, standing at the door, waved their last farewell.
+e:martha=sadsmile;e:grauben=sadsmile
+
+Then the horses, roused by the driver’s whistling, darted off at a gallop on the road to Altona.
+
+
+## VIII. Serious Preparations for Vertical Descent
+r=title
+
+Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.
+e:axel=neutral
+
+At half-past six the carriage stopped at the station; my uncle’s numerous packages, his voluminous impedimenta, were unloaded, removed, labelled, weighed, put into the luggage vans, and at seven we were seated face to face in our compartment.
+
+
+The whistle sounded, the engine started, we were off.
+
+
+Was I resigned? No, not yet.
+e:axel=unhappy
+
+Yet the cool morning air and the scenes on the road, rapidly changed by the swiftness of the train, drew me away somewhat from my sad reflections.
+e:axel=contemplative
+
+As for the Professor’s reflections, they went far in advance of the swiftest express. We were alone in the carriage, but we sat in silence.
+e:prof=thinking
+
+My uncle examined all his pockets and his travelling bag with the minutest care. I saw that he had not forgotten the smallest matter of detail.
+e:prof=serious
+
+Amongst other documents, a sheet of paper, carefully folded, bore the heading of the Danish consulate with the signature of W. Christiensen, consul at Hamburg and the Professor’s friend.
+
+
+With this we possessed the proper introductions to the Governor of Iceland.
+
+
+I also observed the famous document most carefully laid up in a secret pocket in his portfolio.
+e:axel=wary
+
+I bestowed a malediction upon it, and then proceeded to examine the country.
+e:axel=annoyed
+
+It was a very long succession of uninteresting loamy and fertile flats, a very easy country for the construction of railways, and propitious for the laying-down of these direct level lines so dear to railway companies.
+e:axel=bored
+
+I had no time to get tired of the monotony; for in three hours we stopped at Kiel, close to the sea.
+e:axel=neutral
+
+The luggage being labelled for Copenhagen, we had no occasion to look after it.
+
+
+Yet the Professor watched every article with jealous vigilance, until all were safe on board. There they disappeared in the hold.
+e:prof=wary
+
+My uncle, notwithstanding his hurry, had so well calculated the relations between the train and the steamer that we had a whole day to spare. The steamer *Ellenora*, did not start until night.
+e:prof=smirking
+
+Thence sprang a feverish state of excitement in which the impatient irascible traveller devoted to perdition the railway directors and the steamboat companies and the governments which allowed such intolerable slowness.
+e:prof=angry
+
+I was obliged to act chorus to him when he attacked the captain of the *Ellenora* upon this subject. The captain disposed of us summarily.
+e:axel=weary
+
+At Kiel, as elsewhere, we must do something to while away the time.
+e:axel=bored
+
+What with walking on the verdant shores of the bay within which nestles the little town, exploring the thick woods which make it look like a nest embowered amongst thick foliage, admiring the villas, each provided with a little bathing house, and moving about and grumbling, at last ten o’clock came.
+e:axel=contemplative
+
+The heavy coils of smoke from the *Ellenora*’s funnel unrolled in the sky, the bridge shook with the quivering of the struggling steam; we were on board, and owners for the time of two berths, one over the other, in the only saloon cabin on board.
+e:axel=neutral
+
+At a quarter past the moorings were loosed and the throbbing steamer pursued her way over the dark waters of the Great Belt.
+
+
+The night was dark; there was a sharp breeze and a rough sea, a few lights appeared on shore through the thick darkness; later on, I cannot tell when, a dazzling light from some lighthouse threw a bright stream of fire along the waves; and this is all I can remember of this first portion of our sail.
+e:axel=weary
+
+At seven in the morning we landed at Korsor, a small town on the west coast of Zealand. There we were transferred from the boat to another line of railway, which took us by just as flat a country as the plain of Holstein.
+
+
+Three hours’ travelling brought us to the capital of Denmark.
+
+
+My uncle had not shut his eyes all night. In his impatience I believe he was trying to accelerate the train with his feet.
+e:prof=annoyed
+
+At last he discerned a stretch of sea.
+
+
+“The Sound!” he cried.
+s=prof;e:prof=excited
+
+At our left was a huge building that looked like a hospital.
+s=none;e:axel=neutral
+
+“That’s a lunatic asylum,” said one of our travelling companions.
+n:passenger1=?;s=passenger1;e:passenger1=neutral
+
+Very good! thought I, just the place we want to end our days in; and great as it is, that asylum is not big enough to contain all Professor Liedenbrock’s madness!
+s=none;e:axel=annoyed
+
+At ten in the morning, at last, we set our feet in Copenhagen; the luggage was put upon a carriage and taken with ourselves to the Phoenix Hotel in Breda Gate.
+e:axel=neutral
+
+This took half an hour, for the station is out of the town. Then my uncle, after a hasty toilet, dragged me after him.
+e:prof=excited;e:axel=weary
+
+The porter at the hotel could speak German and English; but the Professor, as a polyglot, questioned him in good Danish, and it was in the same language that that personage directed him to the Museum of Northern Antiquities.
+e:prof=smirking
+
+The curator of this curious establishment, in which wonders are gathered together out of which the ancient history of the country might be reconstructed by means of its stone weapons, its cups and its jewels, was a learned savant, the friend of the Danish consul at Hamburg, Professor Thomsen.
+n:thomsen=Professor Thomsen
+
+My uncle had a cordial letter of introduction to him. As a general rule one savant greets another with coolness.
+
+
+But here the case was different. M. Thomsen, like a good friend, gave the Professor Liedenbrock a cordial greeting, and he even vouchsafed the same kindness to his nephew.
+e:thomsen=happy
+
+It is hardly necessary to say the secret was sacredly kept from the excellent curator; we were simply disinterested travellers visiting Iceland out of harmless curiosity.
+e:prof=smirking
+
+M. Thomsen placed his services at our disposal, and we visited the quays with the object of finding out the next vessel to sail.
+e:thomsen=neutral
+
+I was yet in hopes that there would be no means of getting to Iceland. But there was no such luck.
+e:axel=unhappy
+
+A small Danish schooner, the *Valkyria*, was to set sail for Reykjavík on the 2nd of June. The captain, M. Bjarne, was on board.
+n:bjarne=Captain Bjarne
+
+His intending passenger was so joyful that he almost squeezed his hands till they ached.
+e:prof=excited;e:bjarne=wary
+
+That good man was rather surprised at his energy. To him it seemed a very simple thing to go to Iceland, as that was his business; but to my uncle it was sublime.
+e:bjarne=surprised
+
+The worthy captain took advantage of his enthusiasm to charge double fares; but we did not trouble ourselves about mere trifles.
+e:bjarne=smirking
+
+“You must be on board on Tuesday, at seven in the morning,” said Captain Bjarne, after having pocketed more dollars than were his due.
+s=bjarne;e:bjarne=happy
+
+Then we thanked M. Thomsen for his kindness, and we returned to the Phoenix Hotel.
+s=none;e:axel=neutral
+
+“It’s all right, it’s all right,” my uncle repeated. “How fortunate we are to have found this boat ready for sailing.”
+s=prof;e:prof=happy
+
+“Now let us have some breakfast and go about the town.”
+e:prof=excited
+
+We went first to Kongens Nytorv, an irregular square in which are two innocent-looking guns, which need not alarm anyone.
+s=none;e:axel=neutral
+
+Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)
+
+
+Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum, nor that immense cenotaph of Thorvaldsen’s, adorned with horrible mural painting, and containing within it a collection of the sculptor’s works, nor in a fine park the toylike château of Rosenberg, nor the beautiful renaissance edifice of the Exchange, nor its spire composed of the twisted tails of four bronze dragons, nor the great windmill on the ramparts, whose huge arms dilated in the sea breeze like the sails of a ship.
+e:axel=happy;e:prof=bored
+
+What delicious walks we should have had together, my pretty *Virlandaise* and I, along the harbour where the two-deckers and the frigate slept peaceably by the red roofing of the warehouse, by the green banks of the strait, through the deep shades of the trees amongst which the fort is half concealed, where the guns are thrusting out their black throats between branches of alder and willow.
+e:axel=sadsmile
+
+But, alas! Gräuben was far away; and I never hoped to see her again.
+e:axel=unhappy
+
+But if my uncle felt no attraction towards these romantic scenes he was very much struck with the aspect of a certain church spire situated in the island of Amager, which forms the southwest quarter of Copenhagen.
+e:prof=curious
+
+I was ordered to direct my feet that way; I embarked on a small steamer which plies on the canals, and in a few minutes she touched the quay of the dockyard.
+e:axel=neutral
+
+After crossing a few narrow streets where some convicts, in trousers half yellow and half grey, were at work under the orders of the gangers, we arrived at the Vor Frelsers Kirke.
+
+
+There was nothing remarkable about the church; but there was a reason why its tall spire had attracted the Professor’s attention.
+e:prof=excited
+
+Starting from the top of the tower, an external staircase wound around the spire, the spirals circling up into the sky.
+
+
+“Let us get to the top,” said my uncle.
+s=prof;e:prof=excited
+
+“I shall be dizzy,” I said.
+s=axel;e:axel=nervous
+
+“The more reason why we should go up; we must get used to it.”
+s=prof;e:prof=serious
+
+“But—”
+s=axel;e:axel=wary
+
+“Come, I tell you; don’t waste our time.”
+s=prof;e:prof=annoyed
+
+I had to obey. A keeper who lived at the other end of the street handed us the key, and the ascent began.
+s=none;e:axel=weary
+
+My uncle went ahead with a light step. I followed him not without alarm, for my head was very apt to feel dizzy; I possessed neither the equilibrium of an eagle nor his fearless nature.
+e:prof=happy;e:axel=nervous
+
+As long as we were protected on the inside of the winding staircase up the tower, all was well enough; but after toiling up a hundred and fifty steps the fresh air came to salute my face, and we were on the leads of the tower.
+e:axel=wary
+
+There the aerial staircase began its gyrations, only guarded by a thin iron rail, and the narrowing steps seemed to ascend into infinite space!
+e:axel=fearful
+
+“Never shall I be able to do it,” I said.
+s=axel;e:axel=fearful
+
+“Don’t be a coward; come up, sir,” said my uncle with the coldest cruelty.
+s=prof;e:prof=annoyed
+
+I had to follow, clutching at every step.
+s=none;e:axel=fearful
+
+The keen air made me giddy; I felt the spire rocking with every gust of wind; my knees began to fail; soon I was crawling on my knees, then creeping on my stomach; I closed my eyes; I seemed to be lost in space.
+e:axel=upset
+
+At last I reached the apex, with the assistance of my uncle dragging me up by the collar.
+e:prof=annoyed;e:axel=weary
+
+“Look down!” he cried. “Look down well! You must take a lesson in abysses.”
+s=prof;e:prof=serious
+
+I opened my eyes. I saw houses squashed flat as if they had all fallen down from the skies; a smoke fog seemed to drown them.
+s=none;e:axel=surprised
+
+Over my head ragged clouds were drifting past, and by an optical inversion they seemed stationary, while the steeple, the ball and I were all spinning along with fantastic speed.
+e:axel=confused
+
+Far away on one side was the green country, on the other the sea sparkled, bathed in sunlight.
+e:axel=contemplative
+
+The Sound stretched away to Elsinore, dotted with a few white sails, like seagulls’ wings; and in the misty east and away to the northeast lay outstretched the faintly-shadowed shores of Sweden.
+
+
+All this immensity of space whirled and wavered, fluctuating beneath my eyes.
+e:axel=upset
+
+But I was compelled to rise, to stand up, to look. My first lesson in dizziness lasted an hour.
+e:axel=weary
+
+When I got permission to come down and feel the solid street pavements I was afflicted with severe lumbago.
+e:axel=upset
+
+“Tomorrow we will do it again,” said the Professor.
+s=prof;e:prof=smirking
+
+And it was so; for five days in succession, I was obliged to undergo this anti-vertiginous exercise; and whether I would or not, I made some improvement in the art of “lofty contemplations.”
+s=none;e:axel=weary
+
 
