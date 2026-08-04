@@ -1148,7 +1148,7 @@ s=axel;e:axel=surprised
 s=prof;e:prof=excited
 
 ## VI. Exciting Discussions About an Unparalleled Enterprise
-s=none
+r=title
 
 At these words a cold shiver ran through me. Yet I controlled myself; I even resolved to put a good face upon it.
 e:axel=fearful
@@ -2858,7 +2858,7 @@ s=fridrikssen
 
 
 ## XII. A Barren Land
-s=none
+r=title
 
 We had started under a sky overcast but calm. There was no fear of heat, none of disastrous rain. It was just the weather for tourists.
 e:axel=happy
@@ -5046,5 +5046,395 @@ s=prof;e:prof=annoyed
 
 I dared make no answer.
 s=none;e:axel=fearful
+
+## XXI. Compassion Fuses the Professor’s Heart
+r=title
+
+Next day we started early. We had to hasten forward. It was a three days’ march to the cross roads.
+e:axel=weary
+
+I will not speak of the sufferings we endured in our return.
+e:axel=unhappy
+
+My uncle bore them with the angry impatience of a man obliged to own his weakness; Hans with the resignation of his passive nature; I, I confess, with complaints and expressions of despair.
+e:prof=angry;e:hans=neutral;e:axel=upset
+
+I had no spirit to oppose this ill fortune.
+
+
+As I had foretold, the water failed entirely by the end of the first day’s retrograde march.
+e:axel=weary
+
+Our fluid aliment was now nothing but gin; but this infernal fluid burned my throat, and I could not even endure the sight of it.
+e:axel=unhappy
+
+I found the temperature and the air stifling. Fatigue paralysed my limbs.
+
+
+More than once I dropped down motionless. Then there was a halt; and my uncle and the Icelander did their best to restore me.
+e:prof=serious
+
+But I saw that the former was struggling painfully against excessive fatigue and the tortures of thirst.
+e:prof=weary
+
+At last, on Tuesday, July 8, we arrived on our hands and knees, and half dead, at the junction of the two roads.
+
+
+There I dropped like a lifeless lump, extended on the lava soil. It was ten in the morning.
+e:axel=weary
+
+Hans and my uncle, clinging to the wall, tried to nibble a few bits of biscuit.
+e:hans=weary;e:prof=weary
+
+Long moans escaped from my swollen lips.
+e:axel=unhappy
+
+After some time my uncle approached me and raised me in his arms.
+e:prof=serious
+
+“Poor boy!” said he, in genuine tones of compassion.
+s=prof;e:prof=sadsmile
+
+I was touched with these words, not being accustomed to see the excitable Professor in a softened mood.
+s=none;e:axel=surprised
+
+I grasped his trembling hands in mine. He let me hold them and looked at me. His eyes were moistened.
+e:prof=unhappy
+
+Then I saw him take the flask that was hanging at his side. To my amazement he placed it on my lips.
+e:axel=surprised
+
+“Drink!” said he.
+s=prof;e:prof=serious
+
+Had I heard him? Was my uncle beside himself?
+s=none;e:axel=confused
+
+I stared at him stupidly, and felt as if I could not understand him.
+
+
+“Drink!” he said again.
+s=prof
+
+And raising his flask he emptied it every drop between my lips.
+s=none
+
+Oh! infinite pleasure! a slender sip of water came to moisten my burning mouth.
+e:axel=happy
+
+It was but one sip but it was enough to recall my ebbing life.
+
+
+I thanked my uncle with clasped hands.
+e:axel=excited
+
+“Yes,” he said, “a draught of water; but it is the very last—you hear!—the last.”
+s=prof;e:prof=serious
+
+“I had kept it as a precious treasure at the bottom of my flask. Twenty times, nay, a hundred times, have I fought against a frightful impulse to drink it off.”
+e:prof=weary
+
+“But no, Axel, I kept it for you.”
+e:prof=sadsmile
+
+“My dear uncle,” I said, whilst hot tears trickled down my face.
+s=axel;e:axel=unhappy
+
+“Yes, my poor boy, I knew that as soon as you arrived at these cross roads you would drop half dead, and I kept my last drop of water to reanimate you.”
+s=prof;e:prof=serious
+
+“Thank you, thank you,” I said.
+s=axel;e:axel=happy
+
+Although my thirst was only partially quenched, yet some strength had returned.
+s=none;e:axel=neutral
+
+The muscles of my throat, until then contracted, now relaxed again; and the inflammation of my lips abated somewhat; and I was now able to speak.
+
+
+“Let us see,” I said, “we have now but one thing to do. We have no water; we must go back.”
+s=axel;e:axel=serious
+
+While I spoke my uncle avoided looking at me; he hung his head down; his eyes avoided mine.
+s=none;e:prof=wary
+
+“We must return,” I exclaimed vehemently; “we must go back on our way to Snæfells. May God give us strength to climb up the crater again!”
+s=axel;e:axel=excited
+
+“Return!” said my uncle, as if he was rather answering himself than me.
+s=prof;e:prof=thinking
+
+“Yes, return, without the loss of a minute.”
+s=axel;e:axel=serious
+
+A long silence followed.
+s=none
+
+“So then, Axel,” replied the Professor ironically, “you have found no courage or energy in these few drops of water?”
+s=prof;e:prof=smirking
+
+“Courage?”
+s=axel;e:axel=confused
+
+“I see you just as feebleminded as you were before, and still expressing only despair!”
+s=prof;e:prof=angry
+
+What sort of a man was this I had to do with, and what schemes was he now revolving in his fearless mind?
+s=none;e:axel=wary
+
+“What! you won’t go back?”
+s=axel;e:axel=surprised
+
+“Should I renounce this expedition just when we have the fairest chance of success! Never!”
+s=prof;e:prof=angry
+
+“Then must we resign ourselves to destruction?”
+s=axel;e:axel=fearful
+
+“No, Axel, no; go back. Hans will go with you. Leave me to myself!”
+s=prof;e:prof=serious
+
+“Leave you here!”
+s=axel;e:axel=surprised
+
+“Leave me, I tell you. I have undertaken this expedition. I will carry it out to the end, and I will not return. Go, Axel, go!”
+s=prof;e:prof=angry
+
+My uncle was in high state of excitement. His voice, which had for a moment been tender and gentle, had now become hard and threatening.
+s=none
+
+He was struggling with gloomy resolutions against impossibilities.
+e:prof=thinking
+
+I would not leave him in this bottomless abyss, and on the other hand the instinct of self-preservation prompted me to fly.
+e:axel=confused
+
+The guide watched this scene with his usual phlegmatic unconcern. Yet he understood perfectly well what was going on between his two companions.
+e:hans=neutral
+
+The gestures themselves were sufficient to show that we were each bent on taking a different road; but Hans seemed to take no part in a question upon which depended his life.
+
+
+He was ready to start at a given signal, or to stay, if his master so willed it.
+
+
+How I wished at this moment I could have made him understand me.
+e:axel=upset
+
+My words, my complaints, my sorrow would have had some influence over that frigid nature.
+
+
+Those dangers which our guide could not understand I could have demonstrated and proved to him.
+
+
+Together we might have overruled the obstinate Professor; if it were needed, we might perhaps have compelled him to regain the heights of Snæfells.
+e:axel=thinking
+
+I drew near to Hans. I placed my hand upon his. He made no movement.
+e:hans=neutral
+
+My parted lips sufficiently revealed my sufferings. The Icelander slowly moved his head, and calmly pointing to my uncle said:
+
+
+“Master.”
+s=hans
+
+“Master!” I shouted; “you madman! no, he is not the master of our life; we must fly, we must drag him. Do you hear me? Do you understand?”
+s=axel;e:axel=angry
+
+I had seized Hans by the arm. I wished to oblige him to rise. I strove with him.
+s=none
+
+My uncle interposed.
+e:prof=serious
+
+“Be calm, Axel! you will get nothing from that immovable servant. Therefore, listen to my proposal.”
+s=prof
+
+I crossed my arms, and confronted my uncle boldly.
+s=none;e:axel=serious
+
+“The want of water,” he said, “is the only obstacle in our way.”
+s=prof
+
+“In this eastern gallery made up of lavas, schists, and coal, we have not met with a single particle of moisture. Perhaps we shall be more fortunate if we follow the western tunnel.”
+
+
+I shook my head incredulously.
+s=none;e:axel=annoyed
+
+“Hear me to the end,” the Professor went on with a firm voice. “Whilst you were lying there motionless, I went to examine the conformation of that gallery.”
+s=prof;e:prof=serious
+
+“It penetrates directly downward, and in a few hours it will bring us to the granite rocks. There we must meet with abundant springs.”
+
+
+“The nature of the rock assures me of this, and instinct agrees with logic to support my conviction. Now, this is my proposal.”
+e:prof=thinking
+
+“When Columbus asked of his ships’ crews for three days more to discover a new world, those crews, disheartened and sick as they were, recognised the justice of the claim, and he discovered America.”
+e:prof=excited
+
+“I am the Columbus of this nether world, and I only ask for one more day. If in a single day I have not met with the water that we want, I swear to you we will return to the surface of the earth.”
+e:prof=serious
+
+In spite of my irritation I was moved with these words, as well as with the violence my uncle was doing to his own wishes in making so hazardous a proposal.
+s=none;e:axel=surprised
+
+“Well,” I said, “do as you will, and God reward your superhuman energy. You have now but a few hours to tempt fortune. Let us start!”
+s=axel;e:axel=serious
+
+## XXII. Total Failure of Water
+r=title
+
+This time the descent commenced by the new gallery. Hans walked first as was his custom.
+e:hans=neutral
+
+We had not gone a hundred yards when the Professor, moving his lantern along the walls, cried:
+e:prof=curious
+
+“Here are primitive rocks. Now we are in the right way. Forward!”
+s=prof;e:prof=excited
+
+When in its early stages the earth was slowly cooling, its contraction gave rise in its crust to disruptions, distortions, fissures, and chasms.
+s=none;e:axel=thinking
+
+The passage through which we were moving was such a fissure, through which at one time granite poured out in a molten state.
+
+
+Its thousands of windings formed an inextricable labyrinth through the primeval mass.
+
+
+As fast as we descended, the succession of beds forming the primitive foundation came out with increasing distinctness.
+
+
+Geologists consider this primitive matter to be the base of the mineral crust of the earth, and have ascertained it to be composed of three different formations, schist, gneiss, and mica schist, resting upon that unchangeable foundation, the granite.
+
+
+Never had mineralogists found themselves in so marvellous a situation to study nature *in situ*.
+e:axel=excited
+
+What the boring machine, an insensible, inert instrument, was unable to bring to the surface of the inner structure of the globe, we were able to peruse with our own eyes and handle with our own hands.
+
+
+Through the beds of schist, coloured with delicate shades of green, ran in winding course threads of copper and manganese, with traces of platinum and gold.
+e:axel=curious
+
+I thought, what riches are here buried at an unapproachable depth in the earth, hidden forever from the covetous eyes of the human race!
+e:axel=thinking
+
+These treasures have been buried at such a profound depth by the convulsions of primeval times that they run no chance of ever being molested by the pickaxe or the spade.
+
+
+To the schists succeeded gneiss, partially stratified, remarkable for the parallelism and regularity of its lamina, then mica schists, laid in large plates or flakes, revealing their lamellated structure by the sparkle of the white shining mica.
+
+
+The light from our apparatus, reflected from the small facets of quartz, shot sparkling rays at every angle, and I seemed to be moving through a diamond, within which the quickly darting rays broke across each other in a thousand flashing coruscations.
+e:axel=surprised
+
+About six o’clock this brilliant fête of illuminations underwent a sensible abatement of splendour, then almost ceased.
+e:axel=neutral
+
+The walls assumed a crystallised though sombre appearance; mica was more closely mingled with the feldspar and quartz to form the proper rocky foundations of the earth, which bears without distortion or crushing the weight of the four terrestrial systems.
+
+
+We were immured within prison walls of granite.
+e:axel=wary
+
+It was eight in the evening. No signs of water had yet appeared.
+e:axel=unhappy
+
+I was suffering horribly.
+e:axel=upset
+
+My uncle strode on. He refused to stop. He was listening anxiously for the murmur of distant springs.
+e:prof=nervous
+
+But, no, there was dead silence.
+
+
+And now my limbs were failing beneath me. I resisted pain and torture, that I might not stop my uncle, which would have driven him to despair, for the day was drawing near to its end, and it was his last.
+e:axel=weary
+
+At last I failed utterly; I uttered a cry and fell.
+e:axel=upset
+
+“Come to me, I am dying.”
+s=axel;e:axel=fearful
+
+My uncle retraced his steps. He gazed upon me with his arms crossed; then these muttered words passed his lips:
+s=none;e:prof=serious
+
+“It’s all over!”
+s=prof;e:prof=unhappy
+
+The last thing I saw was a fearful gesture of rage, and my eyes closed.
+s=none;e:prof=angry
+
+When I reopened them I saw my two companions motionless and rolled up in their coverings.
+e:axel=confused
+
+Were they asleep?
+
+
+As for me, I could not get one moment’s sleep. I was suffering too keenly, and what embittered my thoughts was that there was no remedy.
+e:axel=unhappy
+
+My uncle’s last words echoed painfully in my ears: “it’s all over!”
+
+
+For in such a fearful state of debility it was madness to think of ever reaching the upper world again.
+e:axel=fearful
+
+We had above us a league and a half of terrestrial crust. The weight of it seemed to be crushing down upon my shoulders.
+e:axel=weary
+
+I felt weighed down, and I exhausted myself with imaginary violent exertions to turn round upon my granite couch.
+
+
+A few hours passed away. A deep silence reigned around us, the silence of the grave.
+e:axel=nervous
+
+No sound could reach us through walls, the thinnest of which were five miles thick.
+
+
+Yet in the midst of my stupefaction I seemed to be aware of a noise.
+e:axel=surprised
+
+It was dark down the tunnel, but I seemed to see the Icelander vanishing from our sight with the lamp in his hand.
+e:axel=curious
+
+Why was he leaving us? Was Hans going to forsake us?
+e:axel=fearful
+
+My uncle was fast asleep.
+
+
+I wanted to shout, but my voice died upon my parched and swollen lips.
+e:axel=upset
+
+The darkness became deeper, and the last sound died away in the far distance.
+
+
+“Hans has abandoned us,” I cried. “Hans! Hans!”
+s=axel;e:axel=fearful
+
+But these words were only spoken within me. They went no farther.
+s=none;e:axel=upset
+
+Yet after the first moment of terror I felt ashamed of suspecting a man of such extraordinary faithfulness.
+e:axel=sadsmile
+
+Instead of ascending he was descending the gallery. An evil design would have taken him up not down.
+e:axel=thinking
+
+This reflection restored me to calmness, and I turned to other thoughts.
+e:axel=neutral
+
+None but some weighty motive could have induced so quiet a man to forfeit his sleep. Was he on a journey of discovery?
+e:axel=curious
+
+Had he during the silence of the night caught a sound, a murmuring of something in the distance, which had failed to affect my hearing?
+e:axel=surprised
 
 
