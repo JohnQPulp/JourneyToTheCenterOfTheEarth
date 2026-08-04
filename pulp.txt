@@ -2083,4 +2083,534 @@ s=prof;e:prof=smirking
 And it was so; for five days in succession, I was obliged to undergo this anti-vertiginous exercise; and whether I would or not, I made some improvement in the art of “lofty contemplations.”
 s=none;e:axel=weary
 
+## IX. Iceland! But What Next?
+r=title
+
+The day for our departure arrived. The day before it our kind friend M. Thomsen brought us letters of introduction to Count Trampe, the Governor of Iceland, M. Picturssen, the bishop’s suffragan, and M. Finsen, mayor of Reykjavík.
+
+
+My uncle expressed his gratitude by tremendous compressions of both his hands.
+
+
+On the 2nd, at six in the evening, all our precious baggage being safely on board the *Valkyria*, the captain took us into a very narrow cabin.
+
+
+“Is the wind favourable?” my uncle asked.
+s=prof;e:prof=curious
+
+“Excellent,” replied Captain Bjarne; “a sou’-easter. We shall pass down the Sound full speed, with all sails set.”
+s=bjarne;e:bjarne=happy
+
+In a few minutes the schooner, under her mizzen, brigantine, topsail, and topgallant sail, loosed from her moorings and made full sail through the straits.
+s=none
+
+In an hour the capital of Denmark seemed to sink below the distant waves, and the *Valkyria* was skirting the coast by Elsinore.
+
+
+In my nervous frame of mind I expected to see the ghost of Hamlet wandering on the legendary castle terrace.
+e:axel=nervous
+
+“Sublime madman!” I said, “no doubt you would approve of our expedition. Perhaps you would keep us company to the centre of the globe, to find the solution of your eternal doubts.”
+s=axel;e:axel=contemplative
+
+But there was no ghostly shape upon the ancient walls. Indeed, the castle is much younger than the heroic prince of Denmark.
+s=none;e:axel=neutral
+
+It now answers the purpose of a sumptuous lodge for the doorkeeper of the straits of the Sound, before which every year there pass fifteen thousand ships of all nations.
+
+
+The castle of Kronberg soon disappeared in the mist, as well as the tower of Helsingborg, built on the Swedish coast, and the schooner passed lightly on her way urged by the breezes of the Kattegat.
+
+
+The *Valkyria* was a splendid sailer, but on a sailing vessel you can place no dependence.
+
+
+She was taking to Reykjavík coal, household goods, earthenware, woollen clothing, and a cargo of wheat.
+
+
+The crew consisted of five men, all Danes.
+
+
+“How long will the passage take?” my uncle asked.
+s=prof;e:prof=curious
+
+“Ten days,” the captain replied, “if we don’t meet a nor’-wester in passing the Faroes.”
+s=bjarne;e:bjarne=neutral
+
+“But are you not subject to considerable delays?”
+s=prof;e:prof=wary
+
+“No, M. Liedenbrock, don’t be uneasy, we shall get there in very good time.”
+s=bjarne;e:bjarne=smirking
+
+At evening the schooner doubled the Scaw at the northern point of Denmark, in the night passed the Skagerrak, skirted Norway by Cape Lindesnes, and entered the North Sea.
+s=none
+
+In two days more we sighted the coast of Scotland near Peterhead, and the *Valkyria* turned her head towards the Faroe Islands, passing between the Orkneys and Shetlands.
+
+
+Soon the schooner encountered the great Atlantic swell; she had to tack against the north wind, and reached the Faroes only with some difficulty.
+
+
+On the 8th the captain made out Mykines, the southernmost of these islands, and from that moment took a straight course for Cape Portland, the most southerly point of Iceland.
+
+
+The passage was marked by nothing unusual. I bore the troubles of the sea pretty well; my uncle, to his own intense disgust, and his greater shame, was ill all through the voyage.
+e:prof=upset
+
+He therefore was unable to converse with the captain about Snæfells, the way to get to it, the facilities for transport, he was obliged to put off these inquiries until his arrival, and spent all his time at full length in his cabin, of which the timbers creaked and shook with every pitch she took.
+
+
+It must be confessed he was not undeserving of his punishment.
+e:axel=smirking
+
+On the 11th we reached Cape Portland. The clear open weather gave us a good view of Myrdals Jökull, which overhangs it.
+e:axel=neutral
+
+The cape is merely a low hill with steep sides, standing lonely by the beach.
+
+
+The *Valkyria* kept at some distance from the coast, taking a westerly course amidst great shoals of whales and sharks.
+
+
+Soon we came in sight of an enormous perforated rock, through which the sea dashed furiously.
+
+
+The Westmann islets seemed to rise out of the ocean like a group of rocks in a liquid plain.
+
+
+From that time the schooner took a wide berth and swept at a great distance round Cape Reykjanes, which forms the western point of Iceland.
+
+
+The rough sea prevented my uncle from coming on deck to admire these shattered and surf-beaten coasts.
+
+
+Forty-eight hours after, coming out of a storm which forced the schooner to scud under bare poles, we sighted east of us the beacon on Cape Skagen, where dangerous rocks extend far away seaward.
+
+
+An Icelandic pilot came on board, and in three hours the *Valkyria* dropped her anchor before Reykjavík, in Faxa Bay.
+
+
+The Professor at last emerged from his cabin, rather pale and wretched-looking, but still full of enthusiasm, and with ardent satisfaction shining in his eyes.
+e:prof=excited
+
+The population of the town, wonderfully interested in the arrival of a vessel from which everyone expected something, formed in groups upon the quay.
+
+
+My uncle left in haste his floating prison, or rather hospital.
+
+
+But before quitting the deck of the schooner he dragged me forward, and pointing with outstretched finger north of the bay at a distant mountain terminating in a double peak, a pair of cones covered with perpetual snow, he cried:
+
+
+“Snæfells! Snæfells!”
+s=prof
+
+Then recommending me, by an impressive gesture, to keep silence, he went into the boat which awaited him.
+s=none;e:prof=serious
+
+I followed, and presently we were treading the soil of Iceland.
+
+
+The first man we saw was a good-looking fellow enough, in a general’s uniform.
+
+
+Yet he was not a general but a magistrate, the Governor of the island, M. le Baron Trampe himself.
+
+
+The Professor was soon aware of the presence he was in.
+
+
+He delivered him his letters from Copenhagen, and then followed a short conversation in the Danish language, the purport of which I was quite ignorant of, and for a very good reason.
+
+
+But the result of this first conversation was, that Baron Trampe placed himself entirely at the service of Professor Liedenbrock.
+
+
+My uncle was just as courteously received by the mayor, M. Finsen, whose appearance was as military, and disposition and office as pacific, as the Governor’s.
+
+
+As for the bishop’s suffragan, M. Picturssen, he was at that moment engaged on an episcopal visitation in the north.
+
+
+For the time we must be resigned to wait for the honour of being presented to him.
+
+
+But M. Fridrikssen, professor of natural sciences at the school of Reykjavík, was a delightful man, and his friendship became very precious to me.
+n:fridrikssen=M. Fridrikssen;e:fridrikssen=happy
+
+This modest philosopher spoke only Danish and Latin. He came to proffer me his good offices in the language of Horace, and I felt that we were made to understand each other.
+
+
+In fact he was the only person in Iceland with whom I could converse at all.
+
+
+This good-natured gentleman made over to us two of the three rooms which his house contained, and we were soon installed in it with all our luggage, the abundance of which rather astonished the good people of Reykjavík.
+
+
+“Well, Axel,” said my uncle, “we are getting on, and now the worst is over.”
+s=prof;e:prof=happy
+
+“The worst!” I said, astonished.
+s=axel;e:axel=surprised
+
+“To be sure, now we have nothing to do but go down.”
+s=prof;e:prof=smirking
+
+“Oh, if that is all, you are quite right; but after all, when we have gone down, we shall have to get up again, I suppose?”
+s=axel;e:axel=wary
+
+“Oh I don’t trouble myself about that. Come, there’s no time to lose; I am going to the library.”
+s=prof;e:prof=excited
+
+“Perhaps there is some manuscript of Saknussemm’s there, and I should be glad to consult it.”
+
+
+“Well, while you are there I will go into the town. Won’t you?”
+s=axel;e:axel=curious
+
+“Oh, that is very uninteresting to me. It is not what is upon this island, but what is underneath, that interests me.”
+s=prof;e:prof=thinking
+
+I went out, and wandered wherever chance took me.
+s=none;e:axel=neutral
+
+It would not be easy to lose your way in Reykjavík. I was therefore under no necessity to inquire the road, which exposes one to mistakes when the only medium of intercourse is gesture.
+
+
+The town extends along a low and marshy level, between two hills.
+
+
+An immense bed of lava bounds it on one side, and falls gently towards the sea.
+
+
+On the other extends the vast bay of Faxa, shut in at the north by the enormous glacier of the Snæfells, and of which the *Valkyria* was for the time the only occupant.
+
+
+Usually the English and French conservators of fisheries moor in this bay, but just then they were cruising about the western coasts of the island.
+
+
+The longest of the only two streets that Reykjavík possesses was parallel with the beach.
+
+
+Here live the merchants and traders, in wooden cabins made of red planks set horizontally; the other street, running west, ends at the little lake between the house of the bishop and other noncommercial people.
+
+
+I had soon explored these melancholy ways; here and there I got a glimpse of faded turf, looking like a worn-out bit of carpet, or some appearance of a kitchen garden, the sparse vegetables of which (potatoes, cabbages, and lettuces), would have figured appropriately upon a Lilliputian table.
+
+
+A few sickly wallflowers were trying to enjoy the air and sunshine.
+
+
+About the middle of the un-commercial street I found the public cemetery, enclosed with a mud wall, and where there seemed plenty of room.
+
+
+Then a few steps brought me to the Governor’s house, a hut compared with the town hall of Hamburg, a palace in comparison with the cabins of the Icelandic population.
+
+
+Between the little lake and the town the church is built in the Protestant style, of calcined stones extracted out of the volcanoes by *their* own labour and at *their* own expense; in high westerly winds it was manifest that the red tiles of the roof would be scattered in the air, to the great danger of the faithful worshippers.
+
+
+On a neighbouring hill I perceived the national school, where, as I was informed later by our host, were taught Hebrew, English, French, and Danish, four languages of which, with shame I confess it, I don’t know a single word; after an examination I should have had to stand last of the forty scholars educated at this little college, and I should have been held unworthy to sleep along with them in one of those little double closets, where more delicate youths would have died of suffocation the very first night.
+
+
+In three hours I had seen not only the town but its environs. The general aspect was wonderfully dull.
+
+
+No trees, and scarcely any vegetation. Everywhere bare rocks, signs of volcanic action.
+
+
+The Icelandic huts are made of earth and turf, and the walls slope inward; they rather resemble roofs placed on the ground.
+
+
+But then these roofs are meadows of comparative fertility. Thanks to the internal heat, the grass grows on them to some degree of perfection.
+
+
+It is carefully mown in the hay season; if it were not, the horses would come to pasture on these green abodes.
+
+
+In my excursion I met but few people.
+
+
+On returning to the main street I found the greater part of the population busied in drying, salting, and putting on board codfish, their chief export.
+
+
+The men looked like robust but heavy, blond Germans with pensive eyes, conscious of being far removed from their fellow creatures, poor exiles relegated to this land of ice, poor creatures who should have been Eskimo, since nature had condemned them to live only just outside the arctic circle!
+
+
+In vain did I try to detect a smile upon their lips; sometimes by a spasmodic and involuntary contraction of the muscles they seemed to laugh, but they never smiled.
+
+
+Their costume consisted of a coarse jacket of black woollen cloth called in Scandinavian lands a *vadmel*, a hat with a very broad brim, trousers with a narrow edge of red, and a bit of leather rolled round the foot for shoes.
+
+
+The women looked as sad and as resigned as the men; their faces were agreeable but expressionless, and they wore gowns and petticoats of dark *vadmel*; as maidens, they wore over their braided hair a little knitted brown cap; when married, they put around their heads a coloured handkerchief, crowned with a peak of white linen.
+
+
+After a good walk I returned to M. Fridrikssen’s house, where I found my uncle already in his host’s company.
+
+
+## X. Interesting Conversations with Icelandic Savants
+r=title
+
+Dinner was ready. Professor Liedenbrock devoured his portion voraciously, for his compulsory fast on board had converted his stomach into a vast unfathomable gulf.
+
+
+There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old.
+
+
+It was evident that we were more at home than he was himself.
+
+
+The conversation was carried on in the vernacular tongue, which my uncle mixed with German and M. Fridrikssen with Latin for my benefit.
+
+
+It turned upon scientific questions as befits philosophers; but Professor Liedenbrock was excessively reserved, and at every sentence spoke to me with his eyes, enjoining the most absolute silence upon our plans.
+e:prof=serious
+
+In the first place M. Fridrikssen wanted to know what success my uncle had had at the library.
+e:fridrikssen=curious
+
+“Your library! Why there is nothing but a few tattered books upon almost deserted shelves.”
+s=prof;e:prof=annoyed
+
+“Indeed!” replied M. Fridrikssen, “why we possess eight thousand volumes, many of them valuable and scarce, works in the old Scandinavian language, and we have all the novelties that Copenhagen sends us every year.”
+s=fridrikssen;e:fridrikssen=surprised
+
+“Where do you keep your eight thousand volumes? For my part—”
+s=prof;e:prof=confused
+
+“Oh, M. Liedenbrock, they are all over the country.”
+s=fridrikssen;e:fridrikssen=happy
+
+“In this icy region we are fond of study. There is not a farmer nor a fisherman that cannot read and does not read.”
+
+
+“Our principle is, that books, instead of growing mouldy behind an iron grating, should be worn out under the eyes of many readers.”
+
+
+“Therefore, these volumes are passed from one to another, read over and over, referred to again and again; and it often happens that they find their way back to their shelves only after an absence of a year or two.”
+
+
+“And in the meantime,” said my uncle rather spitefully, “strangers—”
+s=prof;e:prof=annoyed
+
+“Well, what would you have? Foreigners have their libraries at home, and the first essential for labouring people is that they should be educated.”
+s=fridrikssen;e:fridrikssen=serious
+
+“I repeat to you the love of reading runs in Icelandic blood. In 1816 we founded a prosperous literary society; learned strangers think themselves honoured in becoming members of it.”
+
+
+“It publishes books which educate our fellow-countrymen, and do the country great service.”
+
+
+“If you will consent to be a corresponding member, Herr Liedenbrock, you will be giving us great pleasure.”
+e:fridrikssen=happy
+
+My uncle, who had already joined about a hundred learned societies, accepted with a grace which evidently touched M. Fridrikssen.
+s=none;e:prof=happy
+
+“Now,” said he, “will you be kind enough to tell me what books you hoped to find in our library and I may perhaps enable you to consult them?”
+s=fridrikssen;e:fridrikssen=curious
+
+My uncle’s eyes and mine met. He hesitated.
+s=none;e:prof=nervous;e:axel=wary
+
+This direct question went to the root of the matter. But after a moment’s reflection he decided on speaking.
+
+
+“Monsieur Fridrikssen, I wished to know if amongst your ancient books you possessed any of the works of Arne Saknussemm?”
+s=prof;e:prof=serious
+
+“Arne Saknussemm!” replied the Reykjavík professor. “You mean that learned sixteenth century savant, a naturalist, a chemist, and a traveller?”
+s=fridrikssen;e:fridrikssen=surprised
+
+“Just so!”
+s=prof;e:prof=excited
+
+“One of the glories of Icelandic literature and science?”
+s=fridrikssen;e:fridrikssen=happy
+
+“That’s the man.”
+s=prof
+
+“An illustrious man anywhere!”
+s=fridrikssen
+
+“Quite so.”
+s=prof
+
+“And whose courage was equal to his genius!”
+s=fridrikssen
+
+“I see that you know him well.”
+s=prof;e:prof=happy
+
+My uncle was bathed in delight at hearing his hero thus described. He feasted his eyes upon M. Fridrikssen’s face.
+s=none
+
+“Well,” he cried, “where are his works?”
+s=prof;e:prof=excited
+
+“His works, we have them not.”
+s=fridrikssen;e:fridrikssen=neutral
+
+“What—not in Iceland?”
+s=prof;e:prof=surprised
+
+“They are neither in Iceland nor anywhere else.”
+s=fridrikssen
+
+“Why is that?”
+s=prof;e:prof=confused
+
+“Because Arne Saknussemm was persecuted for heresy, and in 1573 his books were burned by the hands of the common hangman.”
+s=fridrikssen;e:fridrikssen=serious
+
+“Very good! Excellent!” cried my uncle, to the great scandal of the professor of natural history.
+s=prof;e:prof=happy
+
+“What!” he cried.
+s=fridrikssen;e:fridrikssen=surprised
+
+“Yes, yes; now it is all clear, now it is all unravelled; and I see why Saknussemm, put into the *Index Expurgatorius*, and compelled to hide the discoveries made by his genius, was obliged to bury in an incomprehensible cryptogram the secret—”
+s=prof;e:prof=excited
+
+“What secret?” asked M. Fridrikssen, starting.
+s=fridrikssen;e:fridrikssen=confused
+
+“Oh, just a secret which—” my uncle stammered.
+s=prof;e:prof=nervous
+
+“Have you some private document in your possession?” asked our host.
+s=fridrikssen;e:fridrikssen=curious
+
+“No; I was only supposing a case.”
+s=prof;e:prof=wary
+
+“Oh, very well,” answered M. Fridrikssen, who was kind enough not to pursue the subject when he had noticed the embarrassment of his friend.
+s=fridrikssen;e:fridrikssen=smirking
+
+“I hope you will not leave our island until you have seen some of its mineralogical wealth.”
+e:fridrikssen=happy
+
+“Certainly,” replied my uncle; “but I am rather late; or have not others been here before me?”
+s=prof;e:prof=neutral
+
+“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*, and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland.”
+s=fridrikssen
+
+“But I assure you there is plenty left.”
+
+
+“Do you think so?” said my uncle, pretending to look very modest, and trying to hide the curiosity that was flashing out of his eyes.
+s=prof;e:prof=smirking
+
+“Oh, yes; how many mountains, glaciers, and volcanoes there are to study, which are as yet but imperfectly known!”
+s=fridrikssen;e:fridrikssen=happy
+
+“Then, without going any further, that mountain in the horizon. That is Snæfells.”
+
+
+“Ah!” said my uncle, as coolly as he was able, “is that Snæfells?”
+s=prof;e:prof=wary
+
+“Yes; one of the most curious volcanoes, and the crater of which has scarcely ever been visited.”
+s=fridrikssen;e:fridrikssen=excited
+
+“Is it extinct?”
+s=prof;e:prof=curious
+
+“Oh, yes; more than five hundred years.”
+s=fridrikssen;e:fridrikssen=neutral
+
+“Well,” replied my uncle, who was frantically locking his legs together to keep himself from jumping up in the air, “that is where I mean to begin my geological studies, there on that Seffel—Fessel—what do you call it?”
+s=prof;e:prof=wary
+
+“Snæfells,” replied the excellent M. Fridrikssen.
+s=fridrikssen;e:fridrikssen=smirking
+
+This part of the conversation was in Latin; I had understood every word of it, and I could hardly conceal my amusement at seeing my uncle trying to keep down the excitement and satisfaction which were brimming over in every limb and every feature.
+s=none;e:axel=smirking
+
+He tried hard to put on an innocent little expression of simplicity; but it looked like a diabolical grin.
+e:prof=smirking
+
+“Yes,” said he, “your words decide me.”
+s=prof;e:prof=excited
+
+“We will try to scale that Snæfells; perhaps even we may pursue our studies in its crater!”
+
+
+“I am very sorry,” said M. Fridrikssen, “that my engagements will not allow me to absent myself, or I would have accompanied you myself with both pleasure and profit.”
+s=fridrikssen;e:fridrikssen=unhappy
+
+“Oh, no, no!” replied my uncle with great animation, “we would not disturb anyone for the world, M. Fridrikssen.”
+s=prof;e:prof=nervous
+
+“Still, I thank you with all my heart: the company of such a talented man would have been very serviceable, but the duties of your profession—”
+
+
+I am glad to think that our host, in the innocence of his Icelandic soul, was blind to the transparent artifices of my uncle.
+s=none;e:axel=happy
+
+“I very much approve of your beginning with that volcano, M. Liedenbrock. You will gather a harvest of interesting observations.”
+s=fridrikssen;e:fridrikssen=happy
+
+“But, tell me, how do you expect to get to the peninsula of Snæfells?”
+e:fridrikssen=curious
+
+“By sea, crossing the bay. That’s the most direct way.”
+s=prof;e:prof=neutral
+
+“No doubt; but it is impossible.”
+s=fridrikssen;e:fridrikssen=serious
+
+“Why?”
+s=prof;e:prof=confused
+
+“Because we don’t possess a single boat at Reykjavík.”
+s=fridrikssen;e:fridrikssen=neutral
+
+“You don’t mean to say so?”
+s=prof;e:prof=surprised
+
+“You will have to go by land, following the shore. It will be longer, but more interesting.”
+s=fridrikssen;e:fridrikssen=happy
+
+“Very well, then; and now I shall have to see about a guide.”
+s=prof;e:prof=thinking
+
+“I have one to offer you.”
+s=fridrikssen;e:fridrikssen=smirking
+
+“A safe, intelligent man.”
+s=prof;e:prof=curious
+
+“Yes; an inhabitant of that peninsula.”
+s=fridrikssen;e:fridrikssen=neutral
+
+“He is an eiderdown hunter, and very clever. He speaks Danish perfectly.”
+
+
+“When can I see him?”
+s=prof;e:prof=excited
+
+“Tomorrow, if you like.”
+s=fridrikssen
+
+“Why not today?”
+s=prof;e:prof=annoyed
+
+“Because he won’t be here till tomorrow.”
+s=fridrikssen;e:fridrikssen=neutral
+
+“Tomorrow, then,” added my uncle with a sigh.
+s=prof;e:prof=weary
+
+This momentous conversation ended in a few minutes with warm acknowledgements paid by the German to the Icelandic Professor.
+s=none;e:prof=neutral
+
+At this dinner my uncle had just elicited important facts, amongst others, the history of Saknussemm, the reason of the mysterious document, that his host would not accompany him in his expedition, and that the very next day a guide would be waiting upon him.
+
 
