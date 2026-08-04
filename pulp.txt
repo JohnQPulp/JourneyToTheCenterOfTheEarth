@@ -3622,4 +3622,475 @@ e:prof=neutral
 This point being settled, Hans gave the signal, and we soon left Stapi behind us.
 e:hans=neutral
 
+## XV. Snæfells at Last
+r=title
+
+Snæfells is 5,000 feet high. Its double cone forms the limit of a trachytic belt which stands out distinctly in the mountain system of the island.
+e:axel=neutral
+
+From our starting point we could see the two peaks boldly projected against the dark grey sky; I could see an enormous cap of snow coming low down upon the giant’s brow.
+
+
+We walked in single file, headed by the hunter, who ascended by narrow tracks, where two could not have gone abreast.
+e:hans=neutral
+
+There was therefore no room for conversation.
+
+
+After we had passed the basaltic wall of the fjord of Stapi we passed over a vegetable fibrous peat bog, left from the ancient vegetation of this peninsula.
+
+
+The vast quantity of this unworked fuel would be sufficient to warm the whole population of Iceland for a century; this vast turbary measured in certain ravines had in many places a depth of seventy feet, and presented layers of carbonized remains of vegetation alternating with thinner layers of tufaceous pumice.
+e:axel=thinking
+
+As a true nephew of the Professor Liedenbrock, and in spite of my dismal prospects, I could not help observing with interest the mineralogical curiosities which lay about me as in a vast museum, and I constructed for myself a complete geological account of Iceland.
+e:axel=curious;e:prof=neutral
+
+This most curious island has evidently been projected from the bottom of the sea at a comparatively recent date. Possibly, it may still be subject to gradual elevation.
+
+
+If this is the case, its origin may well be attributed to subterranean fires. Therefore, in this case, the theory of Sir Humphry Davy, Saknussemm’s document, and my uncle’s theories would all go off in smoke.
+
+
+This hypothesis led me to examine with more attention the appearance of the surface, and I soon arrived at a conclusion as to the nature of the forces which presided at its birth.
+
+
+Iceland, which is entirely devoid of alluvial soil, is wholly composed of volcanic tufa, that is to say, an agglomeration of porous rocks and stones.
+
+
+Before the volcanoes broke out it consisted of trap rocks slowly upraised to the level of the sea by the action of central forces. The internal fires had not yet forced their way through.
+
+
+But at a later period a wide chasm formed diagonally from southwest to northeast, through which was gradually forced out the trachyte which was to form a mountain chain.
+
+
+No violence accompanied this change; the matter thrown out was in vast quantities, and the liquid material oozing out from the abysses of the earth slowly spread in extensive plains or in hillocky masses.
+
+
+To this period belong the feldspar, syenites, and porphyries.
+
+
+But with the help of this outflow the thickness of the crust of the island increased materially, and therefore also its powers of resistance.
+
+
+It may easily be conceived what vast quantities of elastic gases, what masses of molten matter accumulated beneath its solid surface whilst no exit was practicable after the cooling of the trachytic crust.
+
+
+Therefore a time would come when the elastic and explosive forces of the imprisoned gases would upheave this ponderous cover and drive out for themselves openings through tall chimneys.
+
+
+Hence then the volcano would distend and lift up the crust, and then burst through a crater suddenly formed at the summit or thinnest part of the volcano.
+
+
+To the eruption succeeded other volcanic phenomena. Through the outlets now made first escaped the ejected basalt of which the plain we had just left presented such marvellous specimens.
+
+
+We were moving over grey rocks of dense and massive formation, which in cooling had formed into hexagonal prisms.
+
+
+Everywhere around us we saw truncated cones, formerly so many fiery mouths.
+
+
+After the exhaustion of the basalt, the volcano, the power of which grew by the extinction of the lesser craters, supplied an egress to lava, ashes, and scoriae, of which I could see lengthened scree streaming down the sides of the mountain like flowing hair.
+
+
+Such was the succession of phenomena which produced Iceland, all arising from the action of internal fire; and to suppose that the mass within did not still exist in a state of liquid incandescence was absurd; and nothing could surpass the absurdity of fancying that it was possible to reach the earth’s centre.
+e:axel=smirking
+
+So I felt a little comforted as we advanced to the assault of Snæfells.
+e:axel=happy
+
+The way was growing more and more arduous, the ascent steeper and steeper; the loose fragments of rock trembled beneath us, and the utmost care was needed to avoid dangerous falls.
+e:axel=weary
+
+Hans went on as quietly as if he were on level ground; sometimes he disappeared altogether behind the huge blocks, then a shrill whistle would direct us on our way to him.
+
+
+Sometimes he would halt, pick up a few bits of stone, build them up into a recognisable form, and thus made landmarks to guide us in our way back. A very wise precaution in itself, but, as things turned out, quite useless.
+
+
+Three hours’ fatiguing march had only brought us to the base of the mountain.
+
+
+There Hans bid us come to a halt, and a hasty breakfast was served out.
+
+
+My uncle swallowed two mouthfuls at a time to get on faster.
+e:prof=annoyed
+
+But, whether he liked it or not, this was a rest as well as a breakfast hour and he had to wait till it pleased our guide to move on, which came to pass in an hour.
+
+
+The three Icelanders, just as taciturn as their comrade the hunter, never spoke, and ate their breakfasts in silence.
+
+
+We were now beginning to scale the steep sides of Snæfells. Its snowy summit, by an optical illusion not infrequent in mountains, seemed close to us, and yet how many weary hours it took to reach it!
+e:axel=weary
+
+The stones, adhering by no soil or fibrous roots of vegetation, rolled away from under our feet, and rushed down the precipice below with the swiftness of an avalanche.
+
+
+At some places the flanks of the mountain formed an angle with the horizon of at least 36 degrees; it was impossible to climb them, and these stony cliffs had to be tacked round, not without great difficulty.
+
+
+Then we helped each other with our sticks.
+
+
+I must admit that my uncle kept as close to me as he could; he never lost sight of me, and in many straits his arm furnished me with a powerful support.
+e:prof=serious
+
+He himself seemed to possess an instinct for equilibrium, for he never stumbled.
+
+
+The Icelanders, though burdened with our loads, climbed with the agility of mountaineers.
+
+
+To judge by the distant appearance of the summit of Snæfells, it would have seemed too steep to ascend on our side.
+
+
+Fortunately, after an hour of fatigue and athletic exercises, in the midst of the vast surface of snow presented by the hollow between the two peaks, a kind of staircase appeared unexpectedly which greatly facilitated our ascent.
+
+
+It was formed by one of those torrents of stones flung up by the eruptions, called *sting* by the Icelanders.
+
+
+If this torrent had not been arrested in its fall by the formation of the sides of the mountain, it would have gone on to the sea and formed more islands.
+e:axel=thinking
+
+Such as it was, it did us good service. The steepness increased, but these stone steps allowed us to rise with facility, and even with such rapidity that, having rested for a moment while my companions continued their ascent, I perceived them already reduced by distance to microscopic dimensions.
+
+
+At seven we had ascended the two thousand steps of this grand staircase, and we had attained a bulge in the mountain, a kind of bed on which rested the cone proper of the crater.
+
+
+Three thousand two hundred feet below us stretched the sea. We had passed the limit of perpetual snow, which, on account of the moisture of the climate, is at a greater elevation in Iceland than the high latitude would give reason to suppose.
+
+
+The cold was excessively keen. The wind was blowing violently. I was exhausted.
+e:axel=weary
+
+The Professor saw that my limbs were refusing to perform their office, and in spite of his impatience he decided on stopping.
+e:prof=annoyed
+
+He therefore spoke to the hunter, who shook his head, saying:
+s=none
+
+“*Ofvanför.*”
+s=hans;e:hans=neutral
+
+“It seems we must go higher,” said my uncle.
+s=prof;e:prof=serious
+
+Then he asked Hans for his reason.
+s=none
+
+“*Mistour*,” replied the guide.
+s=hans
+
+“*Ja mistour*,” said one of the Icelanders in a tone of alarm.
+n:icelander1=?;s=icelander1;e:icelander1=fearful
+
+“What does that word mean?” I asked uneasily.
+s=axel;e:axel=nervous
+
+“Look!” said my uncle.
+s=prof
+
+I looked down upon the plain.
+s=none
+
+An immense column of pulverized pumice, sand and dust was rising with a whirling circular motion like a waterspout; the wind was lashing it on to that side of Snæfells where we were holding on; this dense veil, hung across the sun, threw a deep shadow over the mountain.
+e:axel=fearful
+
+If that huge revolving pillar sloped down, it would involve us in its whirling eddies. This phenomenon, which is not infrequent when the wind blows from the glaciers, is called in Icelandic *mistour*.
+
+
+“*Hastigt! Hastigt!*” cried our guide.
+s=hans;e:hans=serious
+
+Without knowing Danish I understood at once that we must follow Hans at the top of our speed. He began to circle round the cone of the crater, but in a diagonal direction so as to facilitate our progress.
+s=none;e:axel=nervous
+
+Presently the dust storm fell upon the mountain, which quivered under the shock; the loose stones, caught with the irresistible blasts of wind, flew about in a perfect hail as in an eruption.
+
+
+Happily we were on the opposite side, and sheltered from all harm. But for the precaution of our guide, our mangled bodies, torn and pounded into fragments, would have been carried afar like the ruins hurled along by some unknown meteor.
+
+
+Yet Hans did not think it prudent to spend the night upon the sides of the cone. We continued our zigzag climb.
+
+
+The fifteen hundred remaining feet took us five hours to clear; the circuitous route, the diagonal and the counter marches, must have measured at least three leagues.
+
+
+I could stand it no longer. I was yielding to the effects of hunger and cold. The rarefied air scarcely gave play to the action of my lungs.
+e:axel=weary
+
+At last, at eleven in the sunlight night, the summit of Snæfells was reached, and before going in for shelter into the crater I had time to observe the midnight sun, at his lowest point, gilding with his pale rays the island that slept at my feet.
+e:axel=happy
+
+## XVI. Boldly Down the Crater
+r=title
+
+Supper was rapidly devoured, and the little company housed themselves as best they could.
+
+
+The bed was hard, the shelter not very substantial, and our position an anxious one, at five thousand feet above the sea level.
+
+
+Yet I slept particularly well; it was one of the best nights I had ever had, and I did not even dream.
+
+
+Next morning we awoke half frozen by the sharp keen air, but with the light of a splendid sun.
+
+
+I rose from my granite bed and went out to enjoy the magnificent spectacle that lay unrolled before me.
+
+
+I stood on the very summit of the southernmost of Snæfells’ peaks. The range of the eye extended over the whole island.
+
+
+By an optical law which obtains at all great heights, the shores seemed raised and the centre depressed. It seemed as if one of Helbesmer’s raised maps lay at my feet.
+
+
+I could see deep valleys intersecting each other in every direction, precipices like low walls, lakes reduced to ponds, rivers abbreviated into streams.
+
+
+On my right were numberless glaciers and innumerable peaks, some plumed with feathery clouds of smoke. The undulating surface of these endless mountains, crested with sheets of snow, reminded one of a stormy sea.
+e:axel=contemplative
+
+If I looked westward, there the ocean lay spread out in all its magnificence, like a mere continuation of those flock-like summits. The eye could hardly tell where the snowy ridges ended and the foaming waves began.
+
+
+I was thus steeped in the marvellous ecstasy which all high summits develop in the mind; and now without giddiness, for I was beginning to be accustomed to these sublime aspects of nature.
+e:axel=excited
+
+My dazzled eyes were bathed in the bright flood of the solar rays.
+
+
+I was forgetting where and who I was, to live the life of elves and sylphs, the fanciful creation of Scandinavian superstitions.
+
+
+I felt intoxicated with the sublime pleasure of lofty elevations without thinking of the profound abysses into which I was shortly to be plunged.
+
+
+But I was brought back to the realities of things by the arrival of Hans and the Professor, who joined me on the summit.
+e:axel=neutral;e:prof=neutral;e:hans=neutral
+
+My uncle pointed out to me in the far west a light steam or mist, a semblance of land, which bounded the distant horizon of waters.
+
+
+“Greenland!” said he.
+s=prof
+
+“Greenland?” I cried.
+s=axel;e:axel=surprised
+
+“Yes; we are only thirty-five leagues from it; and during thaws the white bears, borne by the ice fields from the north, are carried even into Iceland.”
+s=prof;e:prof=neutral
+
+“But never mind that. Here we are at the top of Snæfells and here are two peaks, one north and one south.”
+
+
+“Hans will tell us the name of that on which we are now standing.”
+
+
+The question being put, Hans replied:
+s=none
+
+“Scartaris.”
+s=hans
+
+My uncle shot a triumphant glance at me.
+s=none;e:prof=smirking
+
+“Now for the crater!” he cried.
+s=prof;e:prof=excited
+
+The crater of Snæfells resembled an inverted cone, the opening of which might be half a league in diameter. Its depth appeared to be about two thousand feet.
+s=none;e:axel=wary
+
+Imagine the aspect of such a reservoir, brim full and running over with liquid fire amid the rolling thunder.
+
+
+The bottom of the funnel was about 250 feet in circuit, so that the gentle slope allowed its lower brim to be reached without much difficulty.
+
+
+Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.
+e:axel=fearful
+
+“What madness,” I thought, “to go down into a mortar, perhaps a loaded mortar, to be shot up into the air at a moment’s notice!”
+s=axel
+
+But I did not try to back out of it. Hans with perfect coolness resumed the lead, and I followed him without a word.
+s=none;e:axel=nervous
+
+In order to facilitate the descent, Hans wound his way down the cone by a spiral path.
+
+
+Our route lay amidst eruptive rocks, some of which, shaken out of their loosened beds, rushed bounding down the abyss, and in their fall awoke echoes remarkable for their loud and well-defined sharpness.
+
+
+In certain parts of the cone there were glaciers. Here Hans advanced only with extreme precaution, sounding his way with his iron-pointed pole, to discover any crevasses in it.
+
+
+At particularly dubious passages we were obliged to connect ourselves with each other by a long cord, in order that any man who missed his footing might be held up by his companions.
+
+
+This solid formation was prudent, but did not remove all danger.
+
+
+Yet, notwithstanding the difficulties of the descent, down steeps unknown to the guide, the journey was accomplished without accidents, except the loss of a coil of rope, which escaped from the hands of an Icelander, and took the shortest way to the bottom of the abyss.
+
+
+At midday we arrived. I raised my head and saw straight above me the upper aperture of the cone, framing a bit of sky of very small circumference, but almost perfectly round.
+e:axel=neutral
+
+Just upon the edge appeared the snowy peak of Scartaris, standing out sharp and clear against endless space.
+
+
+At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfells had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter.
+
+
+They gaped before us right in our path. I had not the courage to look down either of them.
+e:axel=fearful
+
+But Professor Liedenbrock had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions.
+e:prof=excited
+
+Hans and his comrades, seated upon loose lava rocks, looked at him with as much wonder as they knew how to express, and perhaps taking him for an escaped lunatic.
+e:hans=confused
+
+Suddenly my uncle uttered a cry. I thought his foot must have slipped and that he had fallen down one of the holes.
+e:axel=surprised
+
+But, no; I saw him, with arms outstretched and legs straddling wide apart, erect before a granite rock that stood in the centre of the crater, just like a pedestal made ready to receive a statue of Pluto.
+
+
+He stood like a man stupefied, but the stupefaction soon gave way to delirious rapture.
+
+
+“Axel, Axel,” he cried.
+s=prof;e:prof=happy
+
+“Come, come!”
+
+
+I ran. Hans and the Icelanders never stirred.
+s=none
+
+“Look!” cried the Professor.
+s=prof
+
+And, sharing his astonishment, but I think not his joy, I read on the western face of the block, in Runic characters, half mouldered away with lapse of ages, this thrice-accursed name:
+s=none;e:axel=surprised
+
+“Arne Saknussemm!” replied my uncle.
+s=prof;e:prof=smirking
+
+“Do you yet doubt?”
+
+
+I made no answer; and I returned in silence to my lava seat in a state of utter speechless consternation. Here was crushing evidence.
+s=none;e:axel=unhappy
+
+How long I remained plunged in agonizing reflections I cannot tell; all that I know is, that on raising my head again, I saw only my uncle and Hans at the bottom of the crater.
+e:axel=thinking
+
+The Icelanders had been dismissed, and they were now descending the outer slopes of Snæfells to return to Stapi.
+
+
+Hans slept peaceably at the foot of a rock, in a lava bed, where he had found a suitable couch for himself; but my uncle was pacing around the bottom of the crater like a wild beast in a cage.
+e:prof=angry;e:hans=neutral
+
+I had neither the wish nor the strength to rise, and following the guide’s example I went off into an unhappy slumber, fancying I could hear ominous noises or feel tremblings within the recesses of the mountain.
+e:axel=fearful
+
+Thus the first night in the crater passed away.
+
+
+The next morning, a grey, heavy, cloudy sky seemed to droop over the summit of the cone.
+
+
+I did not know this first from the appearances of nature, but I found it out by my uncle’s impetuous wrath.
+e:prof=angry
+
+I soon found out the cause, and hope dawned again in my heart. For this reason.
+e:axel=happy
+
+Of the three ways open before us, one had been taken by Saknussemm.
+
+
+The indications of the learned Icelander hinted at in the cryptogram, pointed to this fact that the shadow of Scartaris came to touch that particular way during the latter days of the month of June.
+
+
+That sharp peak might hence be considered as the gnomon of a vast sun dial, the shadow projected from which on a certain day would point out the road to the centre of the earth.
+
+
+Now, no sun no shadow, and therefore no guide. Here was June 25. If the sun was clouded for six days we must postpone our visit till next year.
+e:axel=smirking
+
+My limited powers of description would fail, were I to attempt a picture of the Professor’s angry impatience.
+e:prof=angry
+
+The day wore on, and no shadow came to lay itself along the bottom of the crater.
+
+
+Hans did not move from the spot he had selected; yet he must be asking himself what were we waiting for, if he asked himself anything at all.
+
+
+My uncle spoke not a word to me. His gaze, ever directed upwards, was lost in the grey and misty space beyond.
+
+
+On the 26th nothing yet. Rain mingled with snow was falling all day long.
+
+
+Hans built a hut of pieces of lava.
+
+
+I felt a malicious pleasure in watching the thousand rills and cascades that came tumbling down the sides of the cone, and the deafening continuous din awaked by every stone against which they bounded.
+
+
+My uncle’s rage knew no bounds. It was enough to irritate a meeker man than he; for it was foundering almost within the port.
+e:prof=angry
+
+But Heaven never sends unmixed grief, and for Professor Liedenbrock there was a satisfaction in store proportioned to his desperate anxieties.
+e:prof=neutral
+
+The next day the sky was again overcast; but on the 29th of June, the last day but one of the month, with the change of the moon came a change of weather.
+
+
+The sun poured a flood of light down the crater.
+
+
+Every hillock, every rock and stone, every projecting surface, had its share of the beaming torrent, and threw its shadow on the ground.
+
+
+Amongst them all, Scartaris laid down his sharp-pointed angular shadow which began to move slowly in the opposite direction to that of the radiant orb.
+
+
+My uncle turned too, and followed it.
+e:prof=serious
+
+At noon, being at its least extent, it came and softly fell upon the edge of the middle chimney.
+
+
+“There it is! There it is!” shouted the Professor.
+s=prof;e:prof=excited
+
+“Now for the centre of the globe!” he added in Danish.
+
+
+I looked at Hans, to hear what he would say.
+s=none;e:axel=curious
+
+“*Forüt!*” was his tranquil answer.
+s=hans;e:hans=neutral
+
+“Forward!” replied my uncle.
+s=prof;e:prof=happy
+
+It was thirteen minutes past one.
+s=none
+
 
