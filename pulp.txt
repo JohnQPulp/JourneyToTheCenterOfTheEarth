@@ -4573,4 +4573,478 @@ e:axel=curious
 Here was cause for reflection.
 e:axel=contemplative
 
+## XIX. Geological Studies *In Situ*
+r=title
+
+Next day, Tuesday, June 30, at 6 a.m., the descent began again.
+
+
+We were still following the gallery of lava, a real natural staircase, and as gently sloping as those inclined planes which in some old houses are still found instead of flights of steps.
+
+
+And so we went on until 12:17, the precise moment when we overtook Hans, who had stopped.
+e:hans=neutral
+
+“Ah! Here we are,” exclaimed my uncle, “at the very end of the chimney.”
+s=prof;e:prof=excited
+
+I looked around me. We were standing at the intersection of two roads, both dark and narrow.
+s=none
+
+Which were we to take? This was a difficulty.
+e:axel=confused
+
+Still my uncle refused to admit an appearance of hesitation, either before me or the guide; he pointed out the eastern tunnel, and we were soon all three in it.
+e:prof=serious
+
+Besides there would have been interminable hesitation before this choice of roads; for since there was no indication whatever to guide our choice, we were obliged to trust to chance.
+e:axel=thinking
+
+The slope of this gallery was scarcely perceptible, and its sections very unequal.
+e:axel=neutral
+
+Sometimes we passed a series of arches succeeding each other like the majestic arcades of a Gothic cathedral. Here the architects of the middle ages might have found studies for every form of the sacred art which sprang from the development of the pointed arch.
+e:axel=contemplative
+
+A mile farther we had to bow our heads under corniced elliptic arches in the Romanesque style; and massive pillars standing out from the wall bent under the spring of the vault that rested heavily upon them.
+
+
+In other places this magnificence gave way to narrow channels between low structures which looked like beaver’s huts, and we had to creep along through extremely narrow passages.
+
+
+The heat was perfectly bearable.
+
+
+Involuntarily I began to think of its heat when the lava thrown out by Snæfells was boiling and working through this now silent road.
+e:axel=thinking
+
+I imagined the torrents of fire hurled back at every angle in the gallery, and the accumulation of intensely heated vapours in the midst of this confined channel.
+e:axel=fearful
+
+I only hope, thought I, that this so-called extinct volcano won’t take a fancy in his old age to begin his sports again!
+e:axel=wary
+
+I abstained from communicating these fears to Professor Liedenbrock. He would never have understood them at all.
+e:axel=neutral
+
+He had but one idea﻿—forward! He walked, he slid, he scrambled, he tumbled, with a persistency which one could not but admire.
+e:prof=serious
+
+By six in the evening, after a not very fatiguing walk, we had gone two leagues south, but scarcely a quarter of a mile down.
+
+
+My uncle said it was time to go to sleep.
+e:prof=weary
+
+We ate without talking, and went to sleep without reflection.
+e:axel=neutral
+
+Our arrangements for the night were very simple; a railway rug each, into which we rolled ourselves, was our sole covering.
+
+
+We had neither cold nor intrusive visits to fear.
+
+
+Travellers who penetrate into the wilds of central Africa, and into the pathless forests of the New World, are obliged to watch over each other by night.
+e:axel=contemplative
+
+But we enjoyed absolute safety and utter seclusion; no savages or wild beasts infested these silent depths.
+
+
+Next morning, we awoke fresh and in good spirits. The road was resumed.
+e:axel=happy
+
+As the day before, we followed the path of the lava.
+e:axel=neutral
+
+It was impossible to tell what rocks we were passing: the tunnel, instead of tending lower, approached more and more nearly to a horizontal direction, I even fancied a slight rise.
+e:axel=thinking
+
+But about ten this upward tendency became so evident, and therefore so fatiguing, that I was obliged to slacken my pace.
+e:axel=weary
+
+“Well, Axel?” demanded the Professor impatiently.
+s=prof;e:prof=annoyed
+
+“Well, I cannot stand it any longer,” I replied.
+s=axel;e:axel=weary
+
+“What! After three hours’ walk over such easy ground.”
+s=prof;e:prof=surprised
+
+“It may be easy, but it is tiring all the same.”
+s=axel;e:axel=annoyed
+
+“What, when we have nothing to do but keep going down!”
+s=prof;e:prof=confused
+
+“Going up, if you please.”
+s=axel;e:axel=serious
+
+“Going up!” said my uncle, with a shrug.
+s=prof;e:prof=surprised
+
+“No doubt, for the last half-hour the inclines have gone the other way, and at this rate we shall soon arrive upon the level soil of Iceland.”
+s=axel;e:axel=serious
+
+The Professor nodded slowly and uneasily like a man that declines to be convinced.
+s=none;e:prof=wary
+
+I tried to resume the conversation.
+e:axel=neutral
+
+He answered not a word, and gave the signal for a start. I saw that his silence was nothing but ill-humour.
+e:prof=annoyed
+
+Still I had courageously shouldered my burden again, and was rapidly following Hans, whom my uncle preceded.
+e:axel=serious
+
+I was anxious not to be left behind. My greatest care was not to lose sight of my companions.
+e:axel=wary
+
+I shuddered at the thought of being lost in the mazes of this vast subterranean labyrinth.
+e:axel=fearful
+
+Besides, if the ascending road did become steeper, I was comforted with the thought that it was bringing us nearer to the surface.
+e:axel=thinking
+
+There was hope in this. Every step confirmed me in it, and I was rejoicing at the thought of meeting my little Gräuben again.
+e:axel=happy
+
+By midday there was a change in the appearance of this wall of the gallery.
+e:axel=neutral
+
+I noticed it by a diminution of the amount of light reflected from the sides; solid rock was appearing in the place of the lava coating.
+e:axel=curious
+
+The mass was composed of inclined and sometimes vertical strata. We were passing through rocks of the Transition or Silurian system.
+e:axel=thinking
+
+“It is evident,” I cried, “the marine deposits formed in the second period, these shales, limestones, and sandstones. We are turning away from the primary granite.”
+s=axel;e:axel=excited
+
+“We are just as if we were people of Hamburg going to Lübeck by way of Hanover!”
+
+
+I had better have kept my observations to myself.
+s=none;e:axel=annoyed
+
+But my geological instinct was stronger than my prudence, and uncle Liedenbrock heard my exclamation.
+e:axel=neutral
+
+“What’s that you are saying?” he asked.
+s=prof;e:prof=curious
+
+“See,” I said, pointing to the varied series of sandstones and limestones, and the first indication of slate.
+s=axel;e:axel=excited
+
+“Well?”
+s=prof;e:prof=neutral
+
+“We are at the period when the first plants and animals appeared.”
+s=axel;e:axel=excited
+
+“Do you think so?”
+s=prof;e:prof=suspicious
+
+“Look close, and examine.”
+s=axel;e:axel=serious
+
+I obliged the Professor to move his lamp over the walls of the gallery.
+s=none;e:axel=neutral
+
+I expected some signs of astonishment; but he spoke not a word, and went on.
+e:prof=serious;e:axel=confused
+
+Had he understood me or not?
+e:axel=confused
+
+Did he refuse to admit, out of self-love as an uncle and a philosopher, that he had mistaken his way when he chose the eastern tunnel? Or was he determined to examine this passage to its farthest extremity?
+e:axel=thinking
+
+It was evident that we had left the lava path, and that this road could not possibly lead to the extinct furnace of Snæfells.
+e:axel=serious
+
+Yet I asked myself if I was not depending too much on this change in the rock. Might I not myself be mistaken?
+e:axel=thinking
+
+Were we really crossing the layers of rock which overlie the granite foundation?
+e:axel=confused
+
+If I am right, I thought, I must soon find some fossil remains of primitive life; and then we must yield to evidence.
+e:axel=thinking
+
+I will look.
+e:axel=serious
+
+I had not gone a hundred paces before incontestable proofs presented themselves.
+e:axel=excited
+
+It could not be otherwise, for in the Silurian age the seas contained at least fifteen hundred vegetable and animal species.
+e:axel=thinking
+
+My feet, which had become accustomed to the indurated lava floor, suddenly rested upon a dust composed of the debris of plants and shells.
+e:axel=curious
+
+In the walls were distinct impressions of fucoids and Lycopodites.
+e:axel=excited
+
+Professor Liedenbrock could not be mistaken, I thought, and yet he pushed on, with, I suppose, his eyes resolutely shut.
+e:axel=annoyed
+
+This was only invincible obstinacy. I could hold out no longer.
+
+
+I picked up a perfectly formed shell, which had belonged to an animal not unlike the woodlouse: then, joining my uncle, I said:
+e:axel=curious
+
+“Look at this!”
+s=axel;e:axel=excited
+
+“Very well,” said he quietly, “it is the shell of a crustacean, of an extinct species called a trilobite. Nothing more.”
+s=prof;e:prof=neutral
+
+“But don’t you conclude﻿—?”
+s=axel;e:axel=confused
+
+“Just what you conclude yourself. Yes; I do, perfectly. We have left the granite and the lava.”
+s=prof;e:prof=serious
+
+“It is possible that I may be mistaken. But I cannot be sure of that until I have reached the very end of this gallery.”
+e:prof=thinking
+
+“You are right in doing this, my uncle, and I should quite approve of your determination, if there were not a danger threatening us nearer and nearer.”
+s=axel;e:axel=wary
+
+“What danger?”
+s=prof;e:prof=surprised
+
+“The want of water.”
+s=axel;e:axel=unhappy
+
+“Well, Axel, we will put ourselves upon rations.”
+s=prof;e:prof=serious
+
+## XX. The First Signs of Distress
+r=title
+
+In fact, we had to ration ourselves. Our provision of water could not last more than three days.
+s=none;e:axel=unhappy
+
+I found that out for certain when suppertime came. And, to our sorrow, we had little reason to expect to find a spring in these transition beds.
+e:axel=weary
+
+The whole of the next day the gallery opened before us its endless arcades.
+e:axel=neutral
+
+We moved on almost without a word. Hans’ silence seemed to be infecting us.
+e:axel=weary;e:hans=neutral
+
+The road was now not ascending, at least not perceptibly. Sometimes, even, it seemed to have a slight fall.
+e:axel=thinking
+
+But this tendency, which was very trifling, could not do anything to reassure the Professor; for there was no change in the beds, and the transitional characteristics became more and more decided.
+e:prof=serious
+
+The electric light was reflected in sparkling splendour from the schist, limestone, and old red sandstone of the walls.
+e:axel=curious
+
+It might have been thought that we were passing through a section of Wales, of which an ancient people gave its name to this system.
+e:axel=contemplative
+
+Specimens of magnificent marbles clothed the walls, some of a greyish agate fantastically veined with white, others of rich crimson or yellow dashed with splotches of red; then came dark cherry-coloured marbles relieved by the lighter tints of limestone.
+e:axel=excited
+
+The greater part of these bore impressions of primitive organisms. Creation had evidently advanced since the day before.
+e:axel=thinking
+
+Instead of rudimentary trilobites, I noticed remains of a more perfect order of beings, amongst others ganoid fishes and some of those sauroids in which palaeontologists have discovered the earliest reptile forms.
+e:axel=curious
+
+The Devonian seas were peopled by animals of these species, and deposited them by thousands in the rocks of the newer formation.
+e:axel=contemplative
+
+It was evident that we were ascending that scale of animal life in which man fills the highest place.
+e:axel=thinking
+
+But Professor Liedenbrock seemed not to notice it.
+e:prof=serious
+
+He was awaiting one of two events, either the appearance of a vertical well opening before his feet, down which our descent might be resumed, or that of some obstacle which should effectually turn us back on our own footsteps.
+e:prof=thinking
+
+But evening came and neither wish was gratified.
+e:axel=weary
+
+On Friday, after a night during which I felt pangs of thirst, our little troop again plunged into the winding passages of the gallery.
+e:axel=unhappy
+
+After ten hours’ walking I observed a singular deadening of the reflection of our lamps from the side walls.
+e:axel=weary
+
+The marble, the schist, the limestone, and the sandstone were giving way to a dark and lustreless lining.
+e:axel=curious
+
+At one moment, the tunnel becoming very narrow, I leaned against the wall.
+e:axel=weary
+
+When I removed my hand it was black.
+e:axel=surprised
+
+I looked nearer, and found we were in a coal formation.
+e:axel=curious
+
+“A coal mine!” I cried.
+s=axel;e:axel=surprised
+
+“A mine without miners,” my uncle replied.
+s=prof;e:prof=smirking
+
+“Who knows?” I asked.
+s=axel;e:axel=thinking
+
+“I know,” the Professor pronounced decidedly, “I am certain that this gallery driven through beds of coal was never pierced by the hand of man.”
+s=prof;e:prof=serious
+
+“But whether it be the hand of nature or not does not matter. Supper time is come; let us sup.”
+e:prof=neutral
+
+Hans prepared some food.
+s=none;e:hans=neutral
+
+I scarcely ate, and I swallowed down the few drops of water rationed out to me.
+e:axel=unhappy
+
+One flask half full was all we had left to slake the thirst of three men.
+e:axel=fearful
+
+After their meal my two companions laid themselves down upon their rugs, and found in sleep a solace for their fatigue.
+e:prof=weary;e:hans=weary
+
+But I could not sleep, and I counted every hour until morning.
+e:axel=unhappy
+
+On Saturday, at six, we started afresh.
+e:axel=neutral
+
+In twenty minutes we reached a vast open space; I then knew that the hand of man had not hollowed out this mine; the vaults would have been shored up, and, as it was, they seemed to be held up by a miracle of equilibrium.
+e:axel=surprised
+
+This cavern was about a hundred feet wide and a hundred and fifty in height.
+e:axel=curious
+
+A large mass had been rent asunder by a subterranean disturbance.
+e:axel=thinking
+
+Yielding to some vast power from below it had broken asunder, leaving this great hollow into which human beings were now penetrating for the first time.
+e:axel=contemplative
+
+The whole history of the Carboniferous period was written upon these gloomy walls, and a geologist might with ease trace all its diverse phases.
+
+
+The beds of coal were separated by strata of sandstone or compact clays, and appeared crushed under the weight of overlying strata.
+e:axel=thinking
+
+At the age of the world which preceded the Secondary period, the earth was clothed with immense vegetable forms, the product of the double influence of tropical heat and constant moisture; a vapoury atmosphere surrounded the earth, still veiling the direct rays of the sun.
+e:axel=contemplative
+
+Thence arises the conclusion that the high temperature then existing was due to some other source than the heat of the sun. Perhaps even the orb of day may not have been ready yet to play the splendid part he now acts.
+e:axel=thinking
+
+There were no “climates” as yet, and a torrid heat, equal from pole to equator, was spread over the whole surface of the globe.
+e:axel=contemplative
+
+Whence this heat? Was it from the interior of the earth?
+e:axel=confused
+
+Notwithstanding the theories of Professor Liedenbrock, a violent heat did at that time brood within the body of the spheroid.
+e:axel=thinking
+
+Its action was felt to the very last coats of the terrestrial crust; the plants, unacquainted with the beneficent influences of the sun, yielded neither flowers nor scent.
+e:axel=contemplative
+
+But their roots drew vigorous life from the burning soil of the early days of this planet.
+e:axel=excited
+
+There were but few trees. Herbaceous plants alone existed.
+e:axel=thinking
+
+There were tall grasses, ferns, lycopods, besides Sigillaria, Asterophyllites, now scarce plants, but then the species might be counted by thousands.
+e:axel=curious
+
+The coal measures owe their origin to this period of profuse vegetation. The yet elastic and yielding crust of the earth obeyed the fluid forces beneath.
+e:axel=thinking
+
+Thence innumerable fissures and depressions.
+e:axel=contemplative
+
+The plants, sunk underneath the waters, formed by degrees into vast accumulated masses.
+e:axel=thinking
+
+Then came the chemical action of nature; in the depths of the seas the vegetable accumulations first became peat; then, acted upon by generated gases and the heat of fermentation, they underwent a process of complete mineralization.
+
+
+Thus were formed those immense coalfields, which nevertheless, are not inexhaustible, and which three centuries at the present accelerated rate of consumption will exhaust unless the industrial world will devise a remedy.
+e:axel=serious
+
+These reflections came into my mind whilst I was contemplating the mineral wealth stored up in this portion of the globe.
+e:axel=contemplative
+
+These no doubt, I thought, will never be discovered; the working of such deep mines would involve too large an outlay, and where would be the use as long as coal is yet spread far and wide near the surface?
+e:axel=thinking
+
+Such as my eyes behold these virgin stores, such they will be when this world comes to an end.
+e:axel=contemplative
+
+But still we marched on, and I alone was forgetting the length of the way by losing myself in the midst of geological contemplations.
+e:axel=neutral
+
+The temperature remained what it had been during our passage through the lava and schists.
+e:axel=thinking
+
+Only my sense of smell was forcibly affected by an odour of protocarbide of hydrogen.
+e:axel=surprised
+
+I immediately recognised in this gallery the presence of a considerable quantity of the dangerous gas called by miners firedamp, the explosion of which has often occasioned such dreadful catastrophes.
+e:axel=wary
+
+Happily, our light was from Ruhmkorff’s ingenious apparatus.
+e:axel=neutral
+
+If unfortunately we had explored this gallery with torches, a terrible explosion would have put an end to travelling and travellers at one stroke.
+e:axel=fearful
+
+This excursion through the coal mine lasted till night.
+e:axel=weary
+
+My uncle scarcely could restrain his impatience at the horizontal road.
+e:prof=annoyed
+
+The darkness, always deep twenty yards before us, prevented us from estimating the length of the gallery; and I was beginning to think it must be endless, when suddenly at six o’clock a wall very unexpectedly stood before us.
+e:axel=surprised
+
+Right or left, top or bottom, there was no road farther; we were at the end of a blind alley.
+e:axel=upset
+
+“Very well, it’s all right!” cried my uncle, “now, at any rate, we shall know what we are about.”
+s=prof;e:prof=serious
+
+“We are not in Saknussemm’s road, and all we have to do is to go back. Let us take a night’s rest, and in three days we shall get to the fork in the road.”
+e:prof=thinking
+
+“Yes,” said I, “if we have any strength left.”
+s=axel;e:axel=weary
+
+“Why not?”
+s=prof;e:prof=confused
+
+“Because tomorrow we shall have no water.”
+s=axel;e:axel=unhappy
+
+“Nor courage either?” asked my uncle severely.
+s=prof;e:prof=annoyed
+
+I dared make no answer.
+s=none;e:axel=fearful
+
 
