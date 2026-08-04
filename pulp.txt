@@ -6781,3 +6781,553 @@ e:axel=surprised
 I felt myself revolving in air, striking and rebounding against the craggy projections of a vertical gallery, quite a well; my head struck against a sharp corner of the rock, and I became unconscious.
 
 
+## XXIX. Thalatta! Thalatta!
+r=title
+
+When I came to myself, I was stretched in half darkness, covered with thick coats and blankets.
+e:axel=weary
+
+My uncle was watching over me, to discover the least sign of life.
+e:prof=serious
+
+At my first sigh he took my hand; when I opened my eyes he uttered a cry of joy.
+e:prof=happy
+
+“He lives! he lives!” he cried.
+s=prof;e:prof=excited
+
+“Yes, I am still alive,” I answered feebly.
+s=axel;e:axel=weary
+
+“My dear nephew,” said my uncle, pressing me to his breast, “you are saved.”
+s=prof;e:prof=happy
+
+I was deeply touched with the tenderness of his manner as he uttered these words, and still more with the care with which he watched over me.
+s=none;e:axel=happy
+
+But such trials were wanted to bring out the Professor’s tenderer qualities.
+
+
+At this moment Hans came, he saw my hand in my uncle’s, and I may safely say that there was joy in his countenance.
+e:hans=happy
+
+“*God dag*,” said he.
+s=hans
+
+“How do you do, Hans? How are you? And now, uncle, tell me where we are at the present moment?”
+s=axel;e:axel=curious
+
+“Tomorrow, Axel, tomorrow. Now you are too faint and weak.”
+s=prof;e:prof=neutral
+
+“I have bandaged your head with compresses which must not be disturbed. Sleep now, and tomorrow I will tell you all.”
+
+
+“But do tell me what time it is, and what day.”
+s=axel;e:axel=curious
+
+“It is Sunday, the 8th of August, and it is ten at night. You must ask me no more questions until the 10th.”
+s=prof;e:prof=serious
+
+In truth I was very weak, and my eyes involuntarily closed.
+s=none;e:axel=weary
+
+I wanted a good night’s rest; and I therefore went off to sleep, with the knowledge that I had been four long days alone in the heart of the earth.
+
+
+Next morning, on awakening, I looked round me.
+e:axel=neutral
+
+My couch, made up of all our travelling gear, was in a charming grotto, adorned with splendid stalactites, and the soil of which was a fine sand.
+
+
+It was half light.
+
+
+There was no torch, no lamp, yet certain mysterious glimpses of light came from without through a narrow opening in the grotto.
+e:axel=curious
+
+I heard too a vague and indistinct noise, something like the murmuring of waves breaking upon a shingly shore, and at times I seemed to hear the whistling of wind.
+
+
+I wondered whether I was awake, whether I was dreaming, whether my brain, crazed by my fall, was not affected by imaginary noises.
+e:axel=confused
+
+Yet neither eyes, nor ears could be so utterly deceived.
+e:axel=serious
+
+It is a ray of daylight, I thought, sliding in through this cleft in the rock!
+e:axel=surprised
+
+That is indeed the murmuring of waves! That is the rustling noise of wind.
+
+
+Am I quite mistaken, or have we returned to the surface of the earth? Has my uncle given up the expedition, or is it happily terminated?
+e:axel=thinking
+
+I was asking myself these unanswerable questions when the Professor entered.
+
+
+“Good morning, Axel,” he cried cheerily. “I feel sure you are better.”
+s=prof;e:prof=happy
+
+“Yes, I am indeed,” said I, sitting up on my couch.
+s=axel;e:axel=happy
+
+“You can hardly fail to be better, for you have slept quietly.”
+s=prof;e:prof=neutral
+
+“Hans and I watched you by turns, and we have noticed you were evidently recovering.”
+
+
+“Indeed, I do feel a great deal better, and I will give you a proof of that presently if you will let me have my breakfast.”
+s=axel;e:axel=excited
+
+“You shall eat, lad. The fever has left you.”
+s=prof;e:prof=happy
+
+“Hans rubbed your wounds with some ointment or other of which the Icelanders keep the secret, and they have healed marvellously. Our hunter is a splendid fellow!”
+
+
+Whilst he went on talking, my uncle prepared a few provisions, which I devoured eagerly, notwithstanding his advice to the contrary.
+s=none;e:axel=happy
+
+All the while I was overwhelming him with questions which he answered readily.
+
+
+I then learnt that my providential fall had brought me exactly to the extremity of an almost perpendicular shaft; and as I had landed in the midst of an accompanying torrent of stones, the least of which would have been enough to crush me, the conclusion was that a loose portion of the rock had come down with me.
+e:axel=surprised
+
+This frightful conveyance had thus carried me into the arms of my uncle, where I fell bruised, bleeding, and insensible.
+
+
+“Truly it is wonderful that you have not been killed a hundred times over.”
+s=prof;e:prof=serious
+
+“But, for the love of God, don’t let us ever separate again, or we many never see each other more.”
+
+
+“Not separate! Is the journey not over, then?”
+s=axel;e:axel=surprised
+
+I opened a pair of astonished eyes, which immediately called for the question:
+s=none
+
+“What is the matter, Axel?”
+s=prof;e:prof=confused
+
+“I have a question to ask you. You say that I am safe and sound?”
+s=axel;e:axel=wary
+
+“No doubt you are.”
+s=prof;e:prof=neutral
+
+“And all my limbs unbroken?”
+s=axel;e:axel=nervous
+
+“Certainly.”
+s=prof
+
+“And my head?”
+s=axel
+
+“Your head, except for a few bruises, is all right; and it is on your shoulders, where it ought to be.”
+s=prof;e:prof=smirking
+
+“Well, I am afraid my brain is affected.”
+s=axel;e:axel=confused
+
+“Your mind affected!”
+s=prof;e:prof=surprised
+
+“Yes, I fear so. Are we again on the surface of the globe?”
+s=axel;e:axel=serious
+
+“No, certainly not.”
+s=prof;e:prof=serious
+
+“Then I must be mad; for don’t I see the light of day, and don’t I hear the wind blowing, and the sea breaking on the shore?”
+s=axel;e:axel=upset
+
+“Ah! is that all?”
+s=prof;e:prof=smirking
+
+“Do tell me all about it.”
+s=axel;e:axel=curious
+
+“I can’t explain the inexplicable, but you will soon see and understand that geology has not yet learnt all it has to learn.”
+s=prof;e:prof=smirking
+
+“Then let us go,” I answered quickly.
+s=axel;e:axel=excited
+
+“No, Axel; the open air might be bad for you.”
+s=prof;e:prof=serious
+
+“Open air?”
+s=axel;e:axel=confused
+
+“Yes; the wind is rather strong. You must not expose yourself.”
+s=prof
+
+“But I assure you I am perfectly well.”
+s=axel;e:axel=serious
+
+“A little patience, my nephew.”
+s=prof;e:prof=neutral
+
+“A relapse might get us into trouble, and we have no time to lose, for the voyage may be a long one.”
+
+
+“The voyage!”
+s=axel;e:axel=surprised
+
+“Yes, rest today, and tomorrow we will set sail.”
+s=prof;e:prof=happy
+
+“Set sail!”—and I almost leaped up.
+s=axel;e:axel=excited
+
+What did it all mean? Had we a river, a lake, a sea to depend upon? Was there a ship at our disposal in some underground harbour?
+s=none;e:axel=thinking
+
+My curiosity was highly excited, my uncle vainly tried to restrain me.
+e:axel=curious;e:prof=weary
+
+When he saw that my impatience was doing me harm, he yielded.
+e:prof=sadsmile
+
+I dressed in haste. For greater safety I wrapped myself in a blanket, and came out of the grotto.
+e:axel=excited
+
+## XXX. A New *Mare Internum*
+r=title
+
+At first I could hardly see anything. My eyes, unaccustomed to the light, quickly closed.
+e:axel=surprised
+
+When I was able to reopen them, I stood more stupefied even than surprised.
+e:axel=confused
+
+“The sea!” I cried.
+s=axel;e:axel=surprised
+
+“Yes,” my uncle replied, “the Liedenbrock Sea; and I don’t suppose any other discoverer will ever dispute my claim to name it after myself as its first discoverer.”
+s=prof;e:prof=smirking
+
+A vast sheet of water, the commencement of a lake or an ocean, spread far away beyond the range of the eye.
+s=none;e:axel=curious
+
+The deeply indented shore was lined with a breadth of fine shining sand, softly lapped by the waves, and strewn with the small shells which had been inhabited by the first of created beings.
+
+
+The waves broke on this shore with the hollow echoing murmur peculiar to vast enclosed spaces.
+
+
+A light foam flew over the waves before the breath of a moderate breeze, and some of the spray fell upon my face.
+
+
+On this slightly inclining shore, about a hundred fathoms from the limit of the waves, came down the foot of a huge wall of vast cliffs, which rose majestically to an enormous height.
+
+
+Some of these, dividing the beach with their sharp spurs, formed capes and promontories, worn away by the ceaseless action of the surf.
+
+
+Farther on the eye discerned their massive outline sharply defined against the hazy distant horizon.
+
+
+It was quite an ocean, with the irregular shores of earth, but desert and frightfully wild in appearance.
+e:axel=serious
+
+If my eyes were able to range afar over this great sea, it was because a peculiar light brought to view every detail of it.
+
+
+It was not the light of the sun, with his dazzling shafts of brightness and the splendour of his rays; nor was it the pale and uncertain shimmer of the moonbeams, the dim reflection of a nobler body of light.
+
+
+No; the illuminating power of this light, its trembling diffusiveness, its bright, clear whiteness, and its low temperature, showed that it must be of electric origin.
+e:axel=thinking
+
+It was like an aurora borealis, a continuous cosmical phenomenon, filling a cavern of sufficient extent to contain an ocean.
+
+
+The vault that spanned the space above, the sky, if it could be called so, seemed composed of vast plains of cloud, shifting and variable vapours, which by their condensation must at certain times fall in torrents of rain.
+
+
+I should have thought that under so powerful a pressure of the atmosphere there could be no evaporation; and yet, under a law unknown to me, there were broad tracts of vapour suspended in the air.
+e:axel=confused
+
+But then “the weather was fine.” The play of the electric light produced singular effects upon the upper strata of cloud.
+
+
+Deep shadows reposed upon their lower wreaths; and often, between two separated fields of cloud, there glided down a ray of unspeakable lustre.
+
+
+But it was not solar light, and there was no heat.
+
+
+The general effect was sad, supremely melancholy.
+e:axel=unhappy
+
+Instead of the shining firmament, spangled with its innumerable stars, shining singly or in clusters, I felt that all these subdued and shaded lights were ribbed in by vast walls of granite, which seemed to overpower me with their weight, and that all this space, great as it was, would not be enough for the march of the humblest of satellites.
+e:axel=weary
+
+Then I remembered the theory of an English captain, who likened the earth to a vast hollow sphere, in the interior of which the air became luminous because of the vast pressure that weighed upon it; while two stars, Pluto and Persephone, rolled within upon the circuit of their mysterious orbits.
+e:axel=thinking
+
+We were in reality shut up inside an immeasurable excavation.
+e:axel=serious
+
+Its width could not be estimated, since the shore ran widening as far as eye could reach, nor could its length, for the dim horizon bounded the new.
+
+
+As for its height, it must have been several leagues.
+
+
+Where this vault rested upon its granite base no eye could tell; but there was a cloud hanging far above, the height of which we estimated at 12,000 feet, a greater height than that of any terrestrial vapour, and no doubt due to the great density of the air.
+
+
+The word cavern does not convey any idea of this immense space; words of human tongue are inadequate to describe the discoveries of him who ventures into the deep abysses of earth.
+e:axel=contemplative
+
+Besides I could not tell upon what geological theory to account for the existence of such an excavation. Had the cooling of the globe produced it?
+e:axel=thinking
+
+I knew of celebrated caverns from the descriptions of travellers, but had never heard of any of such dimensions as this.
+
+
+If the grotto of Guachara, in Colombia, visited by Humboldt, had not given up the whole of the secret of its depth to the philosopher, who investigated it to the depth of 2,500 feet, it probably did not extend much farther.
+
+
+The immense mammoth cave in Kentucky is of gigantic proportions, since its vaulted roof rises five hundred feet above the level of an unfathomable lake and travellers have explored its ramifications to the extent of forty miles.
+
+
+But what were these cavities compared to that in which I stood with wonder and admiration, with its sky of luminous vapours, its bursts of electric light, and a vast sea filling its bed?
+e:axel=surprised
+
+My imagination fell powerless before such immensity.
+e:axel=confused
+
+I gazed upon these wonders in silence. Words failed me to express my feelings.
+e:axel=contemplative
+
+I felt as if I was in some distant planet—Uranus or Neptune—and in the presence of phenomena of which my terrestrial experience gave me no cognisance.
+
+
+For such novel sensations, new words were wanted; and my imagination failed to supply them.
+
+
+I gazed, I thought, I admired, with a stupefaction mingled with a certain amount of fear.
+e:axel=fearful
+
+The unforeseen nature of this spectacle brought back the colour to my cheeks.
+e:axel=neutral
+
+I was under a new course of treatment with the aid of astonishment, and my convalescence was promoted by this novel system of therapeutics; besides, the dense and breezy air invigorated me, supplying more oxygen to my lungs.
+e:axel=happy
+
+It will be easily conceived that after an imprisonment of forty-seven days in a narrow gallery it was the height of physical enjoyment to breathe a moist air impregnated with saline particles.
+
+
+I was delighted to leave my dark grotto. My uncle, already familiar with these wonders, had ceased to feel surprise.
+e:prof=neutral
+
+“You feel strong enough to walk a little way now?” he asked.
+s=prof;e:prof=curious
+
+“Yes, certainly; and nothing could be more delightful.”
+s=axel;e:axel=happy
+
+“Well, take my arm, Axel, and let us follow the windings of the shore.”
+s=prof;e:prof=happy
+
+I eagerly accepted, and we began to coast along this new sea.
+s=none
+
+On the left huge pyramids of rock, piled one upon another, produced a prodigious titanic effect.
+e:axel=surprised
+
+Down their sides flowed numberless waterfalls, which went on their way in brawling but pellucid streams.
+
+
+A few light vapours, leaping from rock to rock, denoted the place of hot springs; and streams flowed softly down to the common basin, gliding down the gentle slopes with a softer murmur.
+
+
+Amongst these streams I recognised our faithful travelling companion, the Hansbach, coming to lose its little volume quietly in the mighty sea, just as if it had done nothing else since the beginning of the world.
+e:axel=sadsmile
+
+“We shall see it no more,” I said, with a sigh.
+s=axel
+
+“What matters,” replied the philosopher, “whether this or another serves to guide us?”
+s=prof;e:prof=serious
+
+I thought him rather ungrateful.
+s=none;e:axel=annoyed
+
+But at that moment my attention was drawn to an unexpected sight.
+e:axel=surprised
+
+At a distance of five hundred paces, at the turn of a high promontory, appeared a high, tufted, dense forest.
+
+
+It was composed of trees of moderate height, formed like umbrellas, with exact geometrical outlines.
+
+
+The currents of wind seemed to have had no effect upon their shape, and in the midst of the windy blasts they stood unmoved and firm, just like a clump of petrified cedars.
+
+
+I hastened forward.
+e:axel=curious
+
+I could not give any name to these singular creations.
+e:axel=confused
+
+Were they some of the two hundred thousand species of vegetables known hitherto, and did they claim a place of their own in the lacustrine flora?
+e:axel=thinking
+
+No; when we arrived under their shade my surprise turned into admiration.
+e:axel=surprised
+
+There stood before me productions of earth, but of gigantic stature, which my uncle immediately named.
+
+
+“It is only a forest of mushrooms,” said he.
+s=prof;e:prof=smirking
+
+And he was right.
+s=none;e:axel=neutral
+
+Imagine the large development attained by these plants, which prefer a warm, moist climate.
+
+
+I knew that the *Lycopodon giganteum* attains, according to Bulliard, a circumference of eight or nine feet; but here were pale mushrooms, thirty to forty feet high, and crowned with a cap of equal diameter.
+
+
+There they stood in thousands. No light could penetrate between their huge cones, and complete darkness reigned beneath those giants; they formed settlements of domes placed in close array like the round, thatched roofs of a central African city.
+
+
+Yet I wanted to penetrate farther underneath, though a chill fell upon me as soon as I came under those cellular vaults.
+e:axel=wary
+
+For half an hour we wandered from side to side in the damp shades, and it was a comfortable and pleasant change to arrive once more upon the sea shore.
+e:axel=happy
+
+But the subterranean vegetation was not confined to these fungi. Farther on rose groups of tall trees of colourless foliage and easy to recognise.
+e:axel=curious
+
+They were lowly shrubs of earth, here attaining gigantic size; lycopodiums, a hundred feet high; the huge Sigillaria, found in our coal mines; tree ferns, as tall as our fir-trees in northern latitudes; *Lepidodendra*, with cylindrical forked stems, terminated by long leaves, and bristling with rough hairs like those of the cactus.
+
+
+“Wonderful, magnificent, splendid!” cried my uncle.
+s=prof;e:prof=excited
+
+“Here is the entire flora of the second period of the world—the Transition period.”
+
+
+“These, humble garden plants with us, were tall trees in the early ages.”
+
+
+“Look, Axel, and admire it all. Never had botanist such a feast as this!”
+
+
+“You are right, my uncle.”
+s=axel;e:axel=happy
+
+“Providence seems to have preserved in this immense conservatory the antediluvian plants which the wisdom of philosophers has so sagaciously put together again.”
+
+
+“It is a conservatory, Axel; but is it not also a menagerie?”
+s=prof;e:prof=smirking
+
+“Surely not a menagerie!”
+s=axel;e:axel=surprised
+
+“Yes; no doubt of it.”
+s=prof;e:prof=serious
+
+“Look at that dust under your feet; see the bones scattered on the ground.”
+
+
+“So there are!” I cried; “bones of extinct animals.”
+s=axel;e:axel=excited
+
+I had rushed upon these remains, formed of indestructible phosphates of lime, and without hesitation I named these monstrous bones, which lay scattered about like decayed trunks of trees.
+s=none
+
+“Here is the lower jaw of a mastodon,” I said.
+s=axel
+
+“These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium.”
+
+
+“It certainly is a menagerie, for these remains were not brought here by a deluge.”
+
+
+“The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees.”
+
+
+“Here are entire skeletons.”
+
+
+“And yet I cannot understand the appearance of these quadrupeds in a granite cavern.”
+e:axel=confused
+
+“Why?”
+s=prof;e:prof=curious
+
+“Because animal life existed upon the earth only in the secondary period, when a sediment of soil had been deposited by the rivers, and taken the place of the incandescent rocks of the primitive period.”
+s=axel;e:axel=serious
+
+“Well, Axel, there is a very simple answer to your objection that this soil is alluvial.”
+s=prof;e:prof=smirking
+
+“What! at such a depth below the surface of the earth?”
+s=axel;e:axel=surprised
+
+“No doubt; and there is a geological explanation of the fact.”
+s=prof;e:prof=neutral
+
+“At a certain period the earth consisted only of an elastic crust or bark, alternately acted on by forces from above or below, according to the laws of attraction and gravitation.”
+
+
+“Probably there were subsidences of the outer crust, when a portion of the sedimentary deposits was carried down sudden openings.”
+
+
+“That may be,” I replied; “but if there have been creatures now extinct in these underground regions, why may not some of those monsters be now roaming through these gloomy forests, or hidden behind the steep crags?”
+s=axel;e:axel=fearful
+
+And as this unpleasant notion got hold of me, I surveyed with anxious scrutiny the open spaces before me; but no living creature appeared upon the barren strand.
+s=none;e:axel=wary
+
+I felt rather tired, and went to sit down at the end of a promontory, at the foot of which the waves came and beat themselves into spray.
+e:axel=weary
+
+Thence my eye could sweep every part of the bay; within its extremity a little harbour was formed between the pyramidal cliffs, where the still waters slept untouched by the boisterous winds.
+
+
+A brig and two or three schooners might have moored within it in safety.
+
+
+I almost fancied I should presently see some ship issue from it, full sail, and take to the open sea under the southern breeze.
+e:axel=curious
+
+But this illusion lasted a very short time. We were the only living creatures in this subterranean world.
+e:axel=unhappy
+
+When the wind lulled, a deeper silence than that of the deserts fell upon the arid, naked rocks, and weighed upon the surface of the ocean.
+
+
+I then desired to pierce the distant haze, and to rend asunder the mysterious curtain that hung across the horizon. Anxious queries arose to my lips.
+e:axel=curious
+
+Where did that sea terminate? Where did it lead to? Should we ever know anything about its opposite shores?
+e:axel=thinking
+
+My uncle made no doubt about it at all; I both desired and feared.
+e:prof=serious;e:axel=wary
+
+After spending an hour in the contemplation of this marvellous spectacle, we returned to the shore to regain the grotto, and I fell asleep in the midst of the strangest thoughts.
+e:axel=weary
+
+
