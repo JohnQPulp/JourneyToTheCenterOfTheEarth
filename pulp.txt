@@ -6235,4 +6235,549 @@ e:axel=surprised
 The stream was no longer at my feet.
 e:axel=fearful
 
+## XXVII. Lost in the Bowels of the Earth
+r=title
+
+To describe my despair would be impossible. No words could tell it. I was buried alive, with the prospect before me of dying of hunger and thirst.
+e:axel=upset
+
+Mechanically I swept the ground with my hands. How dry and hard the rock seemed to me!
+e:axel=weary
+
+But how had I left the course of the stream? For it was a terrible fact that it no longer ran at my side.
+e:axel=confused
+
+Then I understood the reason of that fearful, silence, when for the last time I listened to hear if any sound from my companions could reach my ears.
+e:axel=thinking
+
+At the moment when I left the right road I had not noticed the absence of the stream.
+
+
+It is evident that at that moment a deviation had presented itself before me, whilst the Hansbach, following the caprice of another incline, had gone with my companions away into unknown depths.
+e:axel=contemplative
+
+How was I to return? There was not a trace of their footsteps or of my own, for the foot left no mark upon the granite floor.
+e:axel=confused
+
+I racked my brain for a solution of this impracticable problem. One word described my position. Lost!
+e:axel=fearful
+
+Lost at an immeasurable depth! Thirty leagues of rock seemed to weigh upon my shoulders with a dreadful pressure.
+e:axel=weary
+
+I felt crushed.
+e:axel=unhappy
+
+I tried to carry back my ideas to things on the surface of the earth. I could scarcely succeed.
+e:axel=thinking
+
+Hamburg, the house in the Königstrasse, my poor Gräuben, all that busy world underneath which I was wandering about, was passing in rapid confusion before my terrified memory.
+e:axel=nervous
+
+I could revive with vivid reality all the incidents of our voyage, Iceland, M. Fridrikssen, Snæfells.
+
+
+I said to myself that if, in such a position as I was now in, I was fool enough to cling to one glimpse of hope, it would be madness, and that the best thing I could do was to despair.
+e:axel=unhappy
+
+What human power could restore me to the light of the sun by rending asunder the huge arches of rock which united over my head, buttressing each other with impregnable strength?
+e:axel=contemplative
+
+Who could place my feet on the right path, and bring me back to my company?
+
+
+“Oh, my uncle!” burst from my lips in the tone of despair.
+s=axel;e:axel=unhappy
+
+It was my only word of reproach, for I knew how much he must be suffering in seeking me, wherever he might be.
+s=none;e:axel=sadsmile
+
+When I saw myself thus far removed from all earthly help I had recourse to heavenly succour.
+e:axel=serious
+
+The remembrance of my childhood, the recollection of my mother, whom I had only known in my tender early years, came back to me, and I knelt in prayer imploring for the Divine help of which I was so little worthy.
+e:axel=sadsmile
+
+This return of trust in God’s providence allayed the turbulence of my fears, and I was enabled to concentrate upon my situation all the force of my intelligence.
+e:axel=serious
+
+I had three days’ provisions with me and my flask was full. But I could not remain alone for long.
+e:axel=thinking
+
+Should I go up or down?
+e:axel=curious
+
+Up, of course; up continually.
+e:axel=serious
+
+I must thus arrive at the point where I had left the stream, that fatal turn in the road.
+e:axel=thinking
+
+With the stream at my feet, I might hope to regain the summit of Snæfells.
+e:axel=contemplative
+
+Why had I not thought of that sooner? Here was evidently a chance of safety.
+e:axel=surprised
+
+The most pressing duty was to find out again the course of the Hansbach.
+e:axel=serious
+
+I rose, and leaning upon my iron-pointed stick I ascended the gallery. The slope was rather steep.
+e:axel=neutral
+
+I walked on without hope but without indecision, like a man who has made up his mind.
+e:axel=serious
+
+For half an hour I met with no obstacle.
+
+
+I tried to recognise my way by the form of the tunnel, by the projections of certain rocks, by the disposition of the fractures.
+e:axel=thinking
+
+But no particular sign appeared, and I soon saw that this gallery could not bring me back to the turning point. It came to an abrupt end.
+e:axel=surprised
+
+I struck against an impenetrable wall, and fell down upon the rock.
+e:axel=fearful
+
+Unspeakable despair then seized upon me.
+e:axel=upset
+
+I lay overwhelmed, aghast! My last hope was shattered against this granite wall.
+
+
+Lost in this labyrinth, whose windings crossed each other in all directions, it was no use to think of flight any longer. Here I must die the most dreadful of deaths.
+e:axel=fearful
+
+And, strange to say, the thought came across me that when some day my petrified remains should be found thirty leagues below the surface in the bowels of the earth, the discovery might lead to grave scientific discussions.
+e:axel=sadsmile
+
+I tried to speak aloud, but hoarse sounds alone passed my dry lips. I panted for breath.
+e:axel=weary
+
+In the midst of my agony a new terror laid hold of me.
+e:axel=fearful
+
+In falling my lamp had got wrong. I could not set it right, and its light was paling and would soon disappear altogether.
+e:axel=nervous
+
+I gazed painfully upon the luminous current growing weaker and weaker in the wire coil.
+e:axel=weary
+
+A dim procession of moving shadows seemed slowly unfolding down the darkening walls.
+e:axel=nervous
+
+I scarcely dared to shut my eyes for one moment, for fear of losing the least glimmer of this precious light.
+
+
+Every instant it seemed about to vanish and the dense blackness to come rolling in palpably upon me.
+e:axel=fearful
+
+One last trembling glimmer shot feebly up. I watched it in trembling and anxiety; I drank it in as if I could preserve it, concentrating upon it the full power of my eyes, as upon the very last sensation of light which they were ever to experience,
+e:axel=nervous;m=break,1
+
+and the next moment I lay in the heavy gloom of deep, thick, unfathomable darkness.
+e:axel=weary
+
+A terrible cry of anguish burst from me.
+e:axel=upset
+
+Upon earth, in the midst of the darkest night, light never abdicates its functions altogether.
+e:axel=thinking
+
+It is still subtle and diffusive, but whatever little there may be, the eye still catches that little. Here there was not an atom; the total darkness made me totally blind.
+
+
+Then I began to lose my head.
+e:axel=nervous
+
+I arose with my arms stretched out before me, attempting painfully to feel my way.
+
+
+I began to run wildly, hurrying through the inextricable maze, still descending, still running through the substance of the earth’s thick crust, a struggling denizen of geological “faults,” crying, shouting, yelling, soon bruised by contact with the jagged rock, falling and rising again bleeding, trying to drink the blood which covered my face, and even waiting for some rock to shatter my skull against.
+e:axel=upset
+
+I shall never know whither my mad career took me.
+e:axel=weary
+
+After the lapse of some hours, no doubt exhausted, I fell like a lifeless lump at the foot of the wall, and lost all consciousness.
+
+
+## XXVIII. The Rescue in the Whispering Gallery
+r=title
+
+When I returned to partial life my face was wet with tears. How long that state of insensibility had lasted I cannot say.
+e:axel=sadsmile
+
+I had no means now of taking account of time. Never was solitude equal to this, never had any living being been so utterly forsaken.
+e:axel=unhappy
+
+After my fall I had lost a good deal of blood. I felt it flowing over me.
+e:axel=weary
+
+Ah! how happy I should have been could I have died, and if death were not yet to be gone through.
+e:axel=unhappy
+
+I would think no longer. I drove away every idea, and, conquered by my grief, I rolled myself to the foot of the opposite wall.
+
+
+Already I was feeling the approach of another faint, and was hoping for complete annihilation, when a loud noise reached me.
+e:axel=surprised
+
+It was like the distant rumble of continuous thunder, and I could hear its sounding undulations rolling far away into the remote recesses of the abyss.
+
+
+Whence could this noise proceed? It must be from some phenomenon proceeding in the great depths amidst which I lay helpless.
+e:axel=thinking
+
+Was it an explosion of gas? Was it the fall of some mighty pillar of the globe?
+e:axel=curious
+
+I listened still. I wanted to know if the noise would be repeated.
+e:axel=nervous
+
+A quarter of an hour passed away. Silence reigned in this gallery. I could not hear even the beating of my heart.
+e:axel=neutral
+
+Suddenly my ear, resting by chance against the wall, caught, or seemed to catch, certain vague, indescribable, distant, articulate sounds, as of words.
+e:axel=surprised
+
+“This is a delusion,” I thought.
+s=axel;e:axel=suspicious
+
+But it was not. Listening more attentively, I heard in reality a murmuring of voices.
+s=none;e:axel=nervous
+
+But my weakness prevented me from understanding what the voices said. Yet it was language, I was sure of it.
+e:axel=thinking
+
+For a moment I feared the words might be my own, brought back by the echo. Perhaps I had been crying out unknown to myself.
+e:axel=confused
+
+I closed my lips firmly, and laid my ear against the wall again.
+e:axel=serious
+
+“Yes, truly, someone is speaking; those are words!”
+s=axel;e:axel=surprised
+
+Even a few feet from the wall I could hear distinctly.
+s=none;e:axel=thinking
+
+I succeeded in catching uncertain, strange, undistinguishable words. They came as if pronounced in low murmured whispers.
+
+
+The word *förlorad* was several times repeated in a tone of sympathy and sorrow.
+e:axel=serious
+
+“Help!” I cried with all my might. “Help!”
+s=axel;e:axel=upset
+
+I listened, I watched in the darkness for an answer, a cry, a mere breath of sound, but nothing came.
+s=none;e:axel=nervous
+
+Some minutes passed. A whole world of ideas had opened in my mind.
+e:axel=thinking
+
+I thought that my weakened voice could never penetrate to my companions.
+e:axel=unhappy
+
+“It is they,” I repeated. “What other men can be thirty leagues under ground?”
+s=axel;e:axel=surprised
+
+I again began to listen. Passing my ear over the wall from one place to another, I found the point where the voices seemed to be best heard.
+s=none;e:axel=serious
+
+The word *förlorad* again returned; then the rolling of thunder which had roused me from my lethargy.
+
+
+“No,” I said, “no; it is not through such a mass that a voice can be heard. I am surrounded by granite walls, and the loudest explosion could never be heard here!”
+s=axel;e:axel=thinking
+
+“This noise comes along the gallery. There must be here some remarkable exercise of acoustic laws!”
+e:axel=curious
+
+I listened again, and this time, yes this time, I did distinctly hear my name pronounced across the wide interval.
+s=none;e:axel=surprised
+
+It was my uncle’s own voice! He was talking to the guide. And *förlorad* is a Danish word.
+e:axel=excited
+
+Then I understood it all. To make myself heard, I must speak along this wall, which would conduct the sound of my voice just as wire conducts electricity.
+e:axel=thinking
+
+But there was no time to lose. If my companions moved but a few steps away, the acoustic phenomenon would cease.
+e:axel=nervous
+
+I therefore approached the wall, and pronounced these words as clearly as possible:
+e:axel=serious
+
+“Uncle Liedenbrock!”
+s=axel;e:axel=excited
+
+I waited with the deepest anxiety.
+s=none;e:axel=nervous
+
+Sound does not travel with great velocity. Even increased density air has no effect upon its rate of travelling; it merely augments its intensity.
+e:axel=thinking
+
+Seconds, which seemed ages, passed away, and at last these words reached me:
+e:axel=nervous
+
+“Axel! Axel! is it you?”
+s=prof;e:prof=surprised
+
+…
+s=none
+
+“Yes, yes,” I replied.
+s=axel;e:axel=upset
+
+…
+s=none
+
+“My boy, where are you?”
+s=prof;e:prof=fearful
+
+…
+s=none
+
+“Lost, in the deepest darkness.”
+s=axel;e:axel=unhappy
+
+…
+s=none
+
+“Where is your lamp?”
+s=prof;e:prof=curious
+
+…
+s=none
+
+“It is out.”
+s=axel;e:axel=weary
+
+…
+s=none
+
+“And the stream?”
+s=prof;e:prof=confused
+
+…
+s=none
+
+“Disappeared.”
+s=axel;e:axel=unhappy
+
+…
+s=none
+
+“Axel, Axel, take courage!”
+s=prof;e:prof=serious
+
+…
+s=none
+
+“Wait! I am exhausted! I can’t answer. Speak to me!”
+s=axel;e:axel=weary
+
+…
+s=none
+
+“Courage,” resumed my uncle.
+s=prof;e:prof=serious
+
+“Don’t speak. Listen to me. We have looked for you up the gallery and down the gallery. Could not find you.”
+
+
+“I wept for you, my poor boy. At last, supposing you were still on the Hansbach, we fired our guns.”
+e:prof=unhappy
+
+“Our voices are audible to each other, but our hands cannot touch.”
+e:prof=weary
+
+“But don’t despair, Axel! It is a great thing that we can hear each other.”
+e:prof=sadsmile
+
+…
+s=none
+
+During this time I had been reflecting. A vague hope was returning to my heart. There was one thing I must know to begin with.
+e:axel=thinking
+
+I placed my lips close to the wall, saying:
+e:axel=serious
+
+“My uncle!”
+s=axel
+
+…
+s=none
+
+“My boy!” came to me after a few seconds.
+s=prof
+
+…
+s=none
+
+“We must know how far we are apart.”
+s=axel;e:axel=thinking
+
+…
+s=none
+
+“That is easy.”
+s=prof;e:prof=serious
+
+…
+s=none
+
+“You have your chronometer?”
+s=axel;e:axel=curious
+
+…
+s=none
+
+“Yes.”
+s=prof;e:prof=neutral
+
+…
+s=none
+
+“Well, take it. Pronounce my name, noting exactly the second when you speak.”
+s=axel;e:axel=serious
+
+“I will repeat it as soon as it shall come to me, and you will observe the exact moment when you get my answer.”
+
+
+“Yes; and half the time between my call and your answer will exactly indicate that which my voice will take in coming to you.”
+s=prof;e:prof=thinking
+
+…
+s=none
+
+“Just so, my uncle.”
+s=axel;e:axel=serious
+
+…
+s=none
+
+“Are you ready?”
+s=prof;e:prof=curious
+
+…
+s=none
+
+“Yes.”
+s=axel;e:axel=neutral
+
+……
+s=none
+
+“Now, attention. I am going to call your name.”
+s=prof;e:prof=serious
+
+…
+s=none
+
+I put my ear to the wall, and as soon as the name “Axel” came I immediately replied “Axel,” then waited.
+e:axel=serious
+
+…
+s=none
+
+“Forty seconds,” said my uncle.
+s=prof;e:prof=thinking
+
+“Forty seconds between the two words; so the sound takes twenty seconds in coming.”
+
+
+“Now, at the rate of 1,120 feet in a second, this is 22,400 feet, or four miles and a quarter, nearly.”
+
+
+…
+s=none
+
+“Four miles and a quarter!” I murmured.
+s=axel;e:axel=surprised
+
+…
+s=none
+
+“It will soon be over, Axel.”
+s=prof;e:prof=serious
+
+…
+s=none
+
+“Must I go up or down?”
+s=axel;e:axel=curious
+
+…
+s=none
+
+“Down—for this reason: We are in a vast chamber, with endless galleries.”
+s=prof;e:prof=serious
+
+“Yours must lead into it, for it seems as if all the clefts and fractures of the globe radiated round this vast cavern.”
+e:prof=thinking
+
+“So get up, and begin walking. Walk on, drag yourself along, if necessary slide down the steep places, and at the end you will find us ready to receive you. Now begin moving.”
+e:prof=excited
+
+…
+s=none
+
+These words cheered me up.
+e:axel=happy
+
+“Goodbye, uncle.” I cried.
+s=axel;e:axel=excited
+
+“I am going. There will be no more voices heard when once I have started. So goodbye!”
+
+
+…
+s=none
+
+“Goodbye, Axel, *au revoir*!”
+s=prof;e:prof=happy
+
+…
+s=none
+
+These were the last words I heard.
+e:axel=sadsmile
+
+This wonderful underground conversation, carried on with a distance of four miles and a quarter between us, concluded with these words of hope.
+e:axel=happy
+
+I thanked God from my heart, for it was He who had conducted me through those vast solitudes to the point where, alone of all others perhaps, the voices of my companions could have reached me.
+
+
+This acoustic effect is easily explained on scientific grounds. It arose from the concave form of the gallery and the conducting power of the rock.
+e:axel=thinking
+
+There are many examples of this propagation of sounds which remain unheard in the intermediate space.
+
+
+I remember that a similar phenomenon has been observed in many places; amongst others on the internal surface of the gallery of the dome of St. Paul’s in London, and especially in the midst of the curious caverns among the quarries near Syracuse, the most wonderful of which is called Dionysius’ Ear.
+
+
+These remembrances came into my mind, and I clearly saw that since my uncle’s voice really reached me, there could be no obstacle between us.
+e:axel=serious
+
+Following the direction by which the sound came, of course I should arrive in his presence, if my strength did not fail me.
+e:axel=contemplative
+
+I therefore rose; I rather dragged myself than walked. The slope was rapid, and I slid down.
+e:axel=weary
+
+Soon the swiftness of the descent increased horribly, and threatened to become a fall. I no longer had the strength to stop myself.
+e:axel=fearful
+
+Suddenly there was no ground under me.
+e:axel=surprised
+
+I felt myself revolving in air, striking and rebounding against the craggy projections of a vertical gallery, quite a well; my head struck against a sharp corner of the rock, and I became unconscious.
+
 
