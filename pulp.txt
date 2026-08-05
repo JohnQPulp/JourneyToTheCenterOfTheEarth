@@ -103,10 +103,10 @@ Sometimes he might irretrievably injure a specimen by his too great ardour in ha
 Armed with his hammer, his steel pointer, his magnetic needles, his blowpipe, and his bottle of nitric acid, he was a powerful man of science.
 e:prof=serious
 
-He would refer any mineral to its proper place among the six hundred elementary substances now enumerated, by its fracture, its appearance, its hardness, its fusibility, its sonorousness, its smell, and its taste.
+He would refer any mineral to its proper place among the six hundred<f>Sixty-three. —﻿Tr.</f> elementary substances now enumerated, by its fracture, its appearance, its hardness, its fusibility, its sonorousness, its smell, and its taste.
 
 
-The name of Liedenbrock was honourably mentioned in colleges and learned societies. Humphry Davy, Humboldt, Captain Sir John Franklin, General Sabine, never failed to call upon him on their way through Hamburg.
+The name of Liedenbrock was honourably mentioned in colleges and learned societies. Humphry Davy,<f>As Sir Humphry Davy died in 1829, the translator must be pardoned for pointing out here an anachronism, unless we are to assume that the learned Professor’s celebrity dawned in his earliest years. —﻿Tr.</f> Humboldt, Captain Sir John Franklin, General Sabine, never failed to call upon him on their way through Hamburg.
 
 
 Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for considerable discoveries, for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, *A Treatise Upon Transcendental Chemistry*, with plates; a work, however, which failed to cover its expenses.
@@ -1105,7 +1105,7 @@ s=none
 It was conceived in the following terms:
 
 
-In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.
+In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.<f>In the cipher, *audax* is written *avdas*, and *quod* and *quem*, *hod* and *ken*. —﻿Tr.</f>
 
 
 Which bad Latin may be translated thus:
@@ -1405,7 +1405,7 @@ e:prof=excited
 As my uncle was now taking his stand upon hypotheses, of course, there was nothing to be said.
 s=none;e:axel=weary
 
-“Well, I will tell you that true savants, amongst them Poisson, have demonstrated that if a heat of 360,000 degrees existed in the interior of the globe, the fiery gases arising from the fused matter would acquire an elastic force which the crust of the earth would be unable to resist, and that it would explode like the plates of a bursting boiler.”
+“Well, I will tell you that true savants, amongst them Poisson, have demonstrated that if a heat of 360,000 degrees<f>The degrees of temperature are given by Jules Verne according to the centigrade system, for which we will in each case substitute the Fahrenheit measurement. —﻿Tr.</f> existed in the interior of the globe, the fiery gases arising from the fused matter would acquire an elastic force which the crust of the earth would be unable to resist, and that it would explode like the plates of a bursting boiler.”
 s=prof;e:prof=happy
 
 “That is Poisson’s opinion, my uncle, nothing more.”
@@ -2497,7 +2497,7 @@ e:fridrikssen=happy
 “Certainly,” replied my uncle; “but I am rather late; or have not others been here before me?”
 s=prof;e:prof=neutral
 
-“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*, and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland.”
+“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*,<f>*Recherche* was sent out in 1835 by Admiral Duperré to learn the fate of the lost expedition of M. de Blosseville in the *Lilloise* which has never been heard of.</f> and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland.”
 s=fridrikssen
 
 “But I assure you there is plenty left.”
@@ -2749,7 +2749,7 @@ The instruments were:
 1. An Eigel’s centigrade thermometer, graduated up to 150 degrees (302 degrees Fahr.), which seemed to me too much or too little. Too much if the internal heat was to rise so high, for in this case we should be baked, not enough to measure the temperature of springs or any matter in a state of fusion.
 
 
-2. An aneroid barometer, to indicate extreme pressures of the atmosphere. An ordinary barometer would not have answered the purpose, as the pressure would increase during our descent to a point which the mercurial barometer would not register.
+2. An aneroid barometer, to indicate extreme pressures of the atmosphere. An ordinary barometer would not have answered the purpose, as the pressure would increase during our descent to a point which the mercurial barometer<f>In M. Verne’s book a “manometer” is the instrument used, of which very little is known. In a complete list of philosophical instruments the translator cannot find the name. As he is assured by a first-rate instrument maker, Chadburn, of Liverpool, that an aneroid can be constructed to measure any depth, he has thought it best to furnish the adventurous professor with this more familiar instrument. The “manometer” is generally known as a pressure gauge. —﻿Tr.</f> would not register.
 
 
 3. A chronometer, made by Boissonnas Jun., of Geneva, accurately set to the meridian of Hamburg.
@@ -2761,7 +2761,7 @@ The instruments were:
 5. A night glass.
 
 
-6. Two of Ruhmkorff’s apparatus, which, by means of an electric current, supplied a safe and handy portable light.
+6. Two of Ruhmkorff’s apparatus, which, by means of an electric current, supplied a safe and handy portable light.<f>Ruhmkorff’s apparatus consists of a Bunsen pile worked with bichromate of potash, which makes no smell; an induction coil carries the electricity generated by the pile into communication with a lantern of peculiar construction; in this lantern there is a spiral glass tube from which the air has been excluded, and in which remains only a residuum of carbonic acid gas or of nitrogen. When the apparatus is put in action this gas becomes luminous, producing a white steady light. The pile and coil are placed in a leathern bag which the traveller carries over his shoulders; the lantern outside of the bag throws sufficient light into deep darkness; it enables one to venture without fear of explosions into the midst of the most inflammable gases, and is not extinguished even in the deepest waters. M. Ruhmkorff is a learned and most ingenious man of science; his great discovery is his induction coil, which produces a powerful stream of electricity. He obtained in 1864 the quinquennial prize of 50,000 franc reserved by the French government for the most ingenious application of electricity.</f>
 
 
 The arms consisted of two of Purdley’s rifles and two brace of pistols. But what did we want arms for? We had neither savages nor wild beasts to fear, I supposed.
@@ -4717,7 +4717,7 @@ e:axel=neutral
 I noticed it by a diminution of the amount of light reflected from the sides; solid rock was appearing in the place of the lava coating.
 e:axel=curious
 
-The mass was composed of inclined and sometimes vertical strata. We were passing through rocks of the Transition or Silurian system.
+The mass was composed of inclined and sometimes vertical strata. We were passing through rocks of the Transition or Silurian<f>The name given by Sir Roderick Murchison to a vast series of fossiliferous strata, which lies between the non-fossiliferous slaty schists below and the old red sandstone above. The system is well developed in the region of Shropshire, etc., once inhabited by the Silures under Caractacus, or Caradoc. —﻿Tr.</f> system.
 e:axel=thinking
 
 “It is evident,” I cried, “the marine deposits formed in the second period, these shales, limestones, and sandstones. We are turning away from the primary granite.”
@@ -5866,7 +5866,7 @@ e:axel=weary;e:hans=happy
 ## XXV. De Profundis
 r=title
 
-I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte life.
+I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte<f>The name of an Ethiopian tribe who lived in caves and holes. *Τρώγλη*, a hole, and *δύω*, to creep into.</f> life.
 e:axel=neutral
 
 I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface.
@@ -7099,7 +7099,7 @@ I knew of celebrated caverns from the descriptions of travellers, but had never 
 If the grotto of Guachara, in Colombia, visited by Humboldt, had not given up the whole of the secret of its depth to the philosopher, who investigated it to the depth of 2,500 feet, it probably did not extend much farther.
 
 
-The immense mammoth cave in Kentucky is of gigantic proportions, since its vaulted roof rises five hundred feet above the level of an unfathomable lake and travellers have explored its ramifications to the extent of forty miles.
+The immense mammoth cave in Kentucky is of gigantic proportions, since its vaulted roof rises five hundred feet<f>One hundred and twenty. —﻿Tr.</f> above the level of an unfathomable lake and travellers have explored its ramifications to the extent of forty miles.
 
 
 But what were these cavities compared to that in which I stood with wonder and admiration, with its sky of luminous vapours, its bursts of electric light, and a vast sea filling its bed?
@@ -7255,7 +7255,7 @@ s=axel;e:axel=excited
 I had rushed upon these remains, formed of indestructible phosphates of lime, and without hesitation I named these monstrous bones, which lay scattered about like decayed trunks of trees.
 s=none
 
-“Here is the lower jaw of a mastodon,” I said.
+“Here is the lower jaw of a mastodon,”<f>These animals belonged to a late geological period, the Pliocene, just before the glacial epoch, and therefore could have no connection with the Carboniferous vegetation. —﻿Tr.</f> I said.
 s=axel
 
 “These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium.”
@@ -8419,7 +8419,7 @@ e:hans=neutral
 But before going any farther I make a few observations, to calculate the distance we have gone over, and note them in my journal.
 e:axel=serious
 
-We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.
+We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.<f>This distance carries the travellers as far as under the Pyrénées if the league measures three miles. —﻿Tr.</f>
 
 
 ## XXXV. An Electric Storm
@@ -8536,7 +8536,7 @@ e:hans=neutral
 His long hair blown by the pelting storm, and laid flat across his immovable countenance, makes him a strange figure; for the end of each lock of loose flowing hair is tipped with little luminous radiations.
 
 
-This frightful mask of electric sparks suggests to me, even in this dizzy excitement, a comparison with pre-adamite man, the contemporary of the ichthyosaurus and the Megatherium.
+This frightful mask of electric sparks suggests to me, even in this dizzy excitement, a comparison with pre-adamite man, the contemporary of the ichthyosaurus and the Megatherium.<f>Rather of the mammoth and the mastodon. —﻿Tr.</f>
 e:axel=wary
 
 The mast yet holds firm. The sail stretches tight like a bubble ready to burst.
@@ -9076,7 +9076,7 @@ s=none
 We trampled under our feet numberless shells of all the forms and sizes which existed in the earliest ages of the world. I also saw immense carapaces more than fifteen feet in diameter.
 e:axel=curious
 
-They had been the coverings of those gigantic glyptodons or armadillos of the Pliocene period, of which the modern tortoise is but a miniature representative.
+They had been the coverings of those gigantic glyptodons or armadillos of the Pliocene period, of which the modern tortoise is but a miniature representative.<f>The glyptodon and armadillo are mammalian; the tortoise is a chelonian, a reptile, distinct classes of the animal kingdom; therefore the latter cannot be a representative of the former. —﻿Tr.</f>
 
 
 The soil was besides this scattered with stony fragments, boulders rounded by water action, and ridged up in successive lines.
@@ -9316,7 +9316,7 @@ s=prof
 “The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws.”
 
 
-“It presents no appearance of that prognathism which diminishes the facial angle. Measure that angle. It is nearly ninety degrees.”
+“It presents no appearance of that prognathism which diminishes the facial angle.<f>The facial angle is formed by two lines, one touching the brow and the front teeth, the other from the orifice of the ear to the lower line of the nostrils. The greater this angle, the higher intelligence denoted by the formation of the skull. Prognathism is that projection of the jawbones which sharpens or lessens this angle.</f> Measure that angle. It is nearly ninety degrees.”
 
 
 “But I will go further in my deductions, and I will affirm that this specimen of the human family is of the Japhetic race, which has since spread from the Indies to the Atlantic. Don’t smile, gentlemen.”
@@ -9481,8 +9481,8 @@ e:axel=surprised
 In fact, at a distance of a quarter of a mile, leaning against the trunk of a gigantic kauri, stood a human being, the Proteus of those subterranean regions, a new son of Neptune, watching this countless herd of mastodons.
 
 
-Immanis pecoris custos, immanior ipse.
-
+<span class='italics'>Immanis pecoris custos, immanior ipse.</span><f>“The shepherd of gigantic herds, and huger still himself.”</f>
+m=margin
 
 Yes, truly, huger still himself. It was no longer a fossil being like him whose dried remains we had easily lifted up in the field of bones; it was a giant, able to control those monsters.
 e:axel=fearful
