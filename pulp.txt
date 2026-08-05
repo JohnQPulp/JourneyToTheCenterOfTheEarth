@@ -9367,4 +9367,502 @@ Until the present time we had seen alive only marine monsters and fishes.
 Might not some living man, some native of the abyss, be yet a wanderer below on this desert strand?
 e:axel=fearful
 
+## XXXIX. Forest Scenery Illuminated by Electricity
+r=title
+
+For another half hour we trod upon a pavement of bones. We pushed on, impelled by our burning curiosity.
+e:axel=curious
+
+What other marvels did this cavern contain? What new treasures lay here for science to unfold?
+e:axel=thinking
+
+I was prepared for any surprise, my imagination was ready for any astonishment however astounding.
+e:axel=excited
+
+We had long lost sight of the sea shore behind the hills of bones. The rash Professor, careless of losing his way, hurried me forward.
+e:prof=excited
+
+We advanced in silence, bathed in luminous electric fluid.
+
+
+By some phenomenon which I am unable to explain, it lighted up all sides of every object equally. Such was its diffusiveness, there being no central point from which the light emanated, that shadows no longer existed.
+e:axel=confused
+
+You might have thought yourself under the rays of a vertical sun in a tropical region at noonday and the height of summer. No vapour was visible.
+
+
+The rocks, the distant mountains, a few isolated clumps of forest trees in the distance, presented a weird and wonderful aspect under these totally new conditions of a universal diffusion of light.
+e:axel=surprised
+
+We were like Hoffmann’s shadowless man.
+
+
+After walking a mile we reached the outskirts of a vast forest, but not one of those forests of fungi which bordered Port Gräuben.
+
+
+Here was the vegetation of the tertiary period in its fullest blaze of magnificence.
+e:axel=surprised
+
+Tall palms, belonging to species no longer living, splendid palmacites, firs, yews, cypress trees, thujas, representatives of the conifers, were linked together by a tangled network of long climbing plants. A soft carpet of moss and hepaticas luxuriously clothed the soil.
+
+
+A few sparkling streams ran almost in silence under what would have been the shade of the trees, but that there was no shadow. On their banks grew tree-ferns similar to those we grow in hothouses.
+
+
+But a remarkable feature was the total absence of colour in all those trees, shrubs, and plants, growing without the life-giving heat and light of the sun.
+e:axel=thinking
+
+Everything seemed mixed-up and confounded in one uniform silver grey or light brown tint like that of fading and faded leaves.
+
+
+Not a green leaf anywhere, and the flowers﻿—which were abundant enough in the tertiary period, which first gave birth to flowers﻿—looked like brown-paper flowers, without colour or scent.
+
+
+My uncle Liedenbrock ventured to penetrate under this colossal grove. I followed him, not without fear.
+e:axel=fearful
+
+Since nature had here provided vegetable nourishment, why should not the terrible mammals be there too?
+e:axel=nervous
+
+I perceived in the broad clearings left by fallen trees, decayed with age, leguminose plants, acerineae, Rubiaceae and many other eatable shrubs, dear to ruminant animals at every period.
+
+
+Then I observed, mingled together in confusion, trees of countries far apart on the surface of the globe. The oak and the palm were growing side by side, the Australian eucalyptus leaned against the Norwegian pine, the birch-tree of the north mingled its foliage with New Zealand kauris.
+e:axel=surprised
+
+It was enough to distract the most ingenious classifier of terrestrial botany.
+
+
+Suddenly I halted. I drew back my uncle.
+e:axel=fearful
+
+The diffused light revealed the smallest object in the dense and distant thickets. I had thought I saw﻿—no! I did see, with my own eyes, vast colossal forms moving amongst the trees.
+e:axel=surprised
+
+They were gigantic animals; it was a herd of mastodons﻿—not fossil remains, but living and resembling those the bones of which were found in the marshes of Ohio in 1801.
+
+
+I saw those huge elephants whose long, flexible trunks were grouting and turning up the soil under the trees like a legion of serpents.
+
+
+I could hear the crashing noise of their long ivory tusks boring into the old decaying trunks. The boughs cracked, and the leaves torn away by cartloads went down the cavernous throats of the vast brutes.
+
+
+So, then, the dream in which I had had a vision of the prehistoric world, of the tertiary and post-tertiary periods, was now realised.
+e:axel=thinking
+
+And there we were alone, in the bowels of the earth, at the mercy of its wild inhabitants!
+e:axel=fearful
+
+My uncle was gazing with intense and eager interest.
+e:prof=excited
+
+“Come on!” said he, seizing my arm. “Forward! Forward!”
+s=prof
+
+“No, I will not!” I cried. “We have no firearms. What could we do in the midst of a herd of these four-footed giants?”
+s=axel;e:axel=fearful
+
+“Come away, uncle﻿—come! No human being may with safety dare the anger of these monstrous beasts.”
+
+
+“No human creature?” replied my uncle in a lower voice. “You are wrong, Axel. Look, look down there!”
+s=prof;e:prof=serious
+
+“I fancy I see a living creature similar to ourselves: it is a man!”
+e:prof=surprised
+
+I looked, shaking my head incredulously.
+s=none;e:axel=suspicious
+
+But though at first I was unbelieving I had to yield to the evidence of my senses.
+e:axel=surprised
+
+In fact, at a distance of a quarter of a mile, leaning against the trunk of a gigantic kauri, stood a human being, the Proteus of those subterranean regions, a new son of Neptune, watching this countless herd of mastodons.
+
+
+Immanis pecoris custos, immanior ipse.
+
+
+Yes, truly, huger still himself. It was no longer a fossil being like him whose dried remains we had easily lifted up in the field of bones; it was a giant, able to control those monsters.
+e:axel=fearful
+
+In stature he was at least twelve feet high. His head, huge and unshapely as a buffalo’s, was half hidden in the thick and tangled growth of his unkempt hair.
+
+
+It most resembled the mane of the primitive elephant. In his hand he wielded with ease an enormous bough, a staff worthy of this shepherd of the antediluvian period.
+
+
+We stood petrified and speechless with amazement.
+e:axel=surprised;e:prof=surprised
+
+But he might see us! We must fly!
+e:axel=fearful
+
+“Come, do come!” I said to my uncle, who for once allowed himself to be persuaded.
+s=axel
+
+In another quarter of an hour our nimble heels had carried us beyond the reach of this horrible monster.
+s=none;e:axel=nervous
+
+And yet, now that I can reflect quietly, now that my spirit has grown calm again, now that months have slipped by since this strange and supernatural meeting, what am I to think? what am I to believe?
+e:axel=thinking
+
+I must conclude that it was impossible that our senses had been deceived, that our eyes did not see what we supposed they saw.
+
+
+No human being lives in this subterranean world; no generation of men dwells in those inferior caverns of the globe, unknown to and unconnected with the inhabitants of its surface. It is absurd to believe it!
+e:axel=confused
+
+I had rather admit that it may have been some animal whose structure resembled the human, some ape or baboon of the early geological ages, some *Protopitheca*, or some *Mesopitheca*, some early or middle ape like that discovered by Mr. Lartet in the bone cave of Sansau.
+e:axel=thinking
+
+But this creature surpassed in stature all the measurements known in modern palaeontology.
+
+
+But that a man, a living man, and therefore whole generations doubtless besides, should be buried there in the bowels of the earth, is impossible.
+e:axel=serious
+
+However, we had left behind us the luminous forest, dumb with astonishment, overwhelmed and struck down with a terror which amounted to stupefaction.
+e:axel=nervous
+
+We kept running on for fear the horrible monster might be on our track. It was a flight, a fall, like that fearful pulling and dragging which is peculiar to nightmare.
+e:axel=fearful
+
+Instinctively we got back to the Liedenbrock sea, and I cannot say into what vagaries my mind would not have carried me but for a circumstance which brought me back to practical matters.
+e:axel=neutral
+
+Although I was certain that we were now treading upon a soil not hitherto touched by our feet, I often perceived groups of rocks which reminded me of those about Port Gräuben.
+e:axel=confused
+
+Besides, this seemed to confirm the indications of the needle, and to show that we had against our will returned to the north of the Liedenbrock sea.
+
+
+Occasionally we felt quite convinced. Brooks and waterfalls were tumbling everywhere from the projections in the rocks.
+
+
+I thought I recognised the bed of surturbrand, our faithful Hansbach, and the grotto in which I had recovered life and consciousness.
+e:axel=thinking
+
+Then a few paces farther on, the arrangement of the cliffs, the appearance of an unrecognised stream, or the strange outline of a rock, came to throw me again into doubt.
+e:axel=confused
+
+I communicated my doubts to my uncle. Like myself, he hesitated; he could recognise nothing again amidst this monotonous scene.
+e:prof=confused
+
+“Evidently,” said I, “we have not landed again at our original starting point, but the storm has carried us a little higher, and if we follow the shore we shall find Port Gräuben.”
+s=axel;e:axel=thinking
+
+“If that is the case it will be useless to continue our exploration, and we had better return to our raft. But, Axel, are you not mistaken?”
+s=prof
+
+“It is difficult to speak decidedly, uncle, for all these rocks are so very much alike.”
+s=axel
+
+“Yet I think I recognise the promontory at the foot of which Hans constructed our launch. We must be very near the little port, if indeed this is not it,” I added, examining a creek which I thought I recognised.
+e:axel=curious
+
+“No, Axel, we should at least find our own traces and I see nothing﻿—”
+s=prof;e:prof=serious
+
+“But I do see,” I cried, darting upon an object lying on the sand.
+s=axel;e:axel=surprised
+
+And I showed my uncle a rusty dagger which I had just picked up.
+s=none
+
+“Come,” said he, “had you this weapon with you?”
+s=prof;e:prof=curious
+
+“I! No, certainly! But you, perhaps﻿—”
+s=axel;e:axel=confused
+
+“Not that I am aware,” said the Professor. “I have never had this object in my possession.”
+s=prof;e:prof=serious
+
+“Well, this is strange!”
+s=axel
+
+“No, Axel, it is very simple. The Icelanders often wear arms of this kind. This must have belonged to Hans, and he has lost it.”
+s=prof
+
+I shook my head. Hans had never had an object like this in his possession.
+s=none;e:axel=suspicious
+
+“Did it not belong to some pre-adamite warrior?” I cried, “to some living man, contemporary with the huge cattle-driver? But no. This is not a relic of the stone age.”
+s=axel;e:axel=excited
+
+“It is not even of the iron age. This blade is steel﻿—”
+
+
+My uncle stopped me abruptly on my way to a dissertation which would have taken me a long way, and said coolly:
+s=none;e:prof=serious
+
+“Be calm, Axel, and reasonable. This dagger belongs to the sixteenth century; it is a poniard, such as gentlemen carried in their belts to give the coup de grâce. Its origin is Spanish.”
+s=prof
+
+“It was never either yours, or mine, or the hunter’s, nor did it belong to any of those human beings who may or may not inhabit this inner world.”
+
+
+“See, it was never jagged like this by cutting men’s throats; its blade is coated with a rust neither a day, nor a year, nor a hundred years old.”
+e:prof=thinking
+
+The Professor was getting excited according to his wont, and was allowing his imagination to run away with him.
+s=none;e:prof=excited
+
+“Axel, we are on the way towards the grand discovery. This blade has been left on the strand for from one to three hundred years, and has blunted its edge upon the rocks that fringe this subterranean sea!”
+s=prof
+
+“But it has not come alone. It has not twisted itself out of shape; someone has been here before us!”
+s=axel;e:axel=surprised
+
+“Yes﻿—a man has.”
+s=prof;e:prof=serious
+
+“And who was that man?”
+s=axel;e:axel=curious
+
+“A man who has engraved his name somewhere with that dagger. That man wanted once more to mark the way to the centre of the earth. Let us look about: look about!”
+s=prof;e:prof=excited
+
+And, wonderfully interested, we peered all along the high wall, peeping into every fissure which might open out into a gallery.
+s=none;e:axel=curious
+
+And so we arrived at a place where the shore was much narrowed. Here the sea came to lap the foot of the steep cliff, leaving a passage no wider than a couple of yards.
+
+
+Between two boldly projecting rocks appeared the mouth of a dark tunnel.
+
+
+There, upon a granite slab, appeared two mysterious graven letters, half eaten away by time. They were the initials of the bold and daring traveller:
+e:axel=surprised
+
+“A. S.,” shouted my uncle. “Arne Saknussemm! Arne Saknussemm everywhere!”
+s=prof;e:prof=excited
+
+## XL. Preparations for Blasting a Passage to the Centre of the Earth
+s=none
+
+Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise.
+e:axel=neutral
+
+Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement.
+e:axel=surprised
+
+Not only were the initials of the learned alchemist visible upon the living rock, but there lay the iron point with which the letters had been engraved.
+
+
+I could no longer doubt of the existence of that wonderful traveller and of the fact of his unparalleled journey, without the most glaring incredulity.
+e:axel=serious
+
+Whilst these reflections were occupying me, Professor Liedenbrock had launched into a somewhat rhapsodical eulogium, of which Arne Saknussemm was, of course, the hero.
+e:prof=excited
+
+“Thou marvellous genius!” he cried, “thou hast not forgotten one indication which might serve to lay open to mortals the road through the terrestrial crust; and thy fellow-creatures may even now, after the lapse of three centuries, again trace thy footsteps through these deep and darksome ways.”
+s=prof
+
+“You reserved the contemplation of these wonders for other eyes besides your own. Your name, graven from stage to stage, leads the bold follower of your footsteps to the very centre of our planet’s core, and there again we shall find your own name written with your own hand.”
+
+
+“I too will inscribe my name upon this dark granite page. But forever henceforth let this cape that advances into the sea discovered by yourself be known by your own illustrious name﻿—Cape Saknussemm.”
+
+
+Such were the glowing words of panegyric which fell upon my attentive ear, and I could not resist the sentiment of enthusiasm with which I too was infected.
+s=none;e:axel=excited
+
+The fire of zeal kindled afresh in me. I forgot everything.
+
+
+I dismissed from my mind the past perils of the journey, the future danger of our return.
+
+
+That which another had done I supposed we might also do, and nothing that was not superhuman appeared impossible to me.
+e:axel=serious
+
+“Forward! forward!” I cried.
+s=axel;e:axel=excited
+
+I was already darting down the gloomy tunnel when the Professor stopped me; he, the man of impulse, counselled patience and coolness.
+s=none;e:prof=serious
+
+“Let us first return to Hans,” he said, “and bring the raft to this spot.”
+s=prof
+
+I obeyed, not without dissatisfaction, and passed out rapidly among the rocks on the shore.
+s=none;e:axel=annoyed
+
+I said: “Uncle, do you know it seems to me that circumstances have wonderfully befriended us hitherto?”
+s=axel;e:axel=happy
+
+“You think so, Axel?”
+s=prof;e:prof=curious
+
+“No doubt; even the tempest has put us on the right way. Blessings on that storm!”
+s=axel
+
+“It has brought us back to this coast from which fine weather would have carried us far away.”
+
+
+“Suppose we had touched with our prow (the prow of a rudder!) the southern shore of the Liedenbrock sea, what would have become of us?”
+e:axel=thinking
+
+“We should never have seen the name of Saknussemm, and we should at this moment be imprisoned on a rockbound, impassable coast.”
+
+
+“Yes, Axel, it is providential that whilst supposing we were steering south we should have just got back north at Cape Saknussemm.”
+s=prof;e:prof=serious
+
+“I must say that this is astonishing, and that I feel I have no way to explain it.”
+e:prof=confused
+
+“What does that signify, uncle? Our business is not to explain facts, but to use them!”
+s=axel;e:axel=excited
+
+“Certainly; but﻿—”
+s=prof
+
+“Well, uncle, we are going to resume the northern route, and to pass under the north countries of Europe﻿—under Sweden, Russia, Siberia: who knows where?﻿—instead of burrowing under the deserts of Africa, or perhaps the waves of the Atlantic; and that is all I want to know.”
+s=axel
+
+“Yes, Axel, you are right. It is all for the best, since we have left that weary, horizontal sea, which led us nowhere.”
+s=prof;e:prof=happy
+
+“Now we shall go down, down, down! Do you know that it is now only 1,500 leagues to the centre of the globe?”
+e:prof=excited
+
+“Is that all?” I cried. “Why, that’s nothing. Let us start: march!”
+s=axel;e:axel=excited
+
+All this crazy talk was going on still when we met the hunter. Everything was made ready for our instant departure. Every bit of cordage was put on board.
+s=none;e:hans=neutral
+
+We took our places, and with our sail set, Hans steered us along the coast to Cape Saknussemm.
+
+
+The wind was unfavourable to a species of launch not calculated for shallow water. In many places we were obliged to push ourselves along with iron-pointed sticks.
+
+
+Often the sunken rocks just beneath the surface obliged us to deviate from our straight course.
+
+
+At last, after three hours’ sailing, about six in the evening we reached a place suitable for our landing.
+
+
+I jumped ashore, followed by my uncle and the Icelander. This short passage had not served to cool my ardour.
+e:axel=excited
+
+On the contrary, I even proposed to burn “our ship,” to prevent the possibility of return; but my uncle would not consent to that.
+
+
+I thought him singularly lukewarm.
+e:prof=serious
+
+“At least,” I said, “don’t let us lose a minute.”
+s=axel;e:axel=nervous
+
+“Yes, yes, lad,” he replied; “but first let us examine this new gallery, to see if we shall require our ladders.”
+s=prof;e:prof=neutral
+
+My uncle put his Ruhmkorff’s apparatus in action; the raft moored to the shore was left alone; the mouth of the tunnel was not twenty yards from us; and our party, with myself at the head, made for it without a moment’s delay.
+s=none
+
+The aperture, which was almost round, was about five feet in diameter; the dark passage was cut out in the live rock and lined with a coat of the eruptive matter which formerly issued from it; the interior was level with the ground outside, so that we were able to enter without difficulty.
+
+
+We were following a horizontal plane, when, only six paces in, our progress was interrupted by an enormous block just across our way.
+e:axel=surprised
+
+“Accursed rock!” I cried in a passion, finding myself suddenly confronted by an impassable obstacle.
+s=axel;e:axel=angry
+
+Right and left we searched in vain for a way, up and down, side to side; there was no getting any farther.
+s=none
+
+I felt fearfully disappointed, and I would not admit that the obstacle was final. I stopped, I looked underneath the block: no opening. Above: granite still.
+e:axel=upset
+
+Hans passed his lamp over every portion of the barrier in vain. We must give up all hope of passing it.
+e:hans=neutral
+
+I sat down in despair. My uncle strode from side to side in the narrow passage.
+e:axel=unhappy;e:prof=nervous
+
+“But how was it with Saknussemm?” I cried.
+s=axel;e:axel=confused
+
+“Yes,” said my uncle, “was he stopped by this stone barrier?”
+s=prof;e:prof=thinking
+
+“No, no,” I replied with animation. “This fragment of rock has been shaken down by some shock or convulsion, or by one of those magnetic storms which agitate these regions, and has blocked up the passage which lay open to him.”
+s=axel;e:axel=excited
+
+“Many years have elapsed since the return of Saknussemm to the surface and the fall of this huge fragment. Is it not evident that this gallery was once the way open to the course of the lava, and that at that time there must have been a free passage?”
+
+
+“See here are recent fissures grooving and channelling the granite roof. This roof itself is formed of fragments of rock carried down, of enormous stones, as if by some giant’s hand; but at one time the expulsive force was greater than usual, and this block, like the falling keystone of a ruined arch, has slipped down to the ground and blocked up the way.”
+
+
+“It is only an accidental obstruction, not met by Saknussemm, and if we don’t destroy it we shall be unworthy to reach the centre of the earth.”
+e:axel=serious
+
+Such was my sentence! The soul of the Professor had passed into me. The genius of discovery possessed me wholly.
+s=none;e:axel=excited
+
+I forgot the past, I scorned the future.
+
+
+I gave not a thought to the things of the surface of this globe into which I had dived; its cities and its sunny plains, Hamburg and the Königstrasse, even poor Gräuben, who must have given us up for lost, all were for the time dismissed from the pages of my memory.
+
+
+“Well,” cried my uncle, “let us make a way with our pickaxes.”
+s=prof
+
+“Too hard for the pickaxe.”
+s=axel;e:axel=serious
+
+“Well, then, the spade.”
+s=prof
+
+“That would take us too long.”
+s=axel
+
+“What, then?”
+s=prof;e:prof=confused
+
+“Why gunpowder, to be sure! Let us mine the obstacle and blow it up.”
+s=axel;e:axel=excited
+
+“Oh, yes, it is only a bit of rock to blast!”
+s=prof;e:prof=excited
+
+“Hans, to work!” cried my uncle.
+
+
+The Icelander returned to the raft and soon came back with an iron bar which he made use of to bore a hole for the charge.
+s=none;e:hans=neutral
+
+This was no easy work. A hole was to be made large enough to hold fifty pounds of guncotton, whose expansive force is four times that of gunpowder.
+
+
+I was terribly excited. Whilst Hans was at work I was actively helping my uncle to prepare a slow match of wetted powder encased in linen.
+e:axel=excited
+
+“This will do it,” I said.
+s=axel
+
+“It will,” replied my uncle.
+s=prof
+
+By midnight our mining preparations were over; the charge was rammed into the hole, and the slow match uncoiled along the gallery showed its end outside the opening.
+s=none
+
+A spark would now develop the whole of our preparations into activity.
+
+
+“Tomorrow,” said the Professor.
+s=prof;e:prof=serious
+
+I had to be resigned and to wait six long hours.
+s=none;e:axel=weary
+
 
