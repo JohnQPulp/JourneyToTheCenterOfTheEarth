@@ -290,7 +290,7 @@ And he laid out upon the table a piece of parchment, five inches by three, and a
 s=none;e:prof=serious
 
 Here is the exact facsimile. I think it important to let these strange signs be publicly known, for they were the means of drawing on Professor Liedenbrock and his nephew to undertake the most wonderful expedition of the nineteenth century.
-e:axel=serious
+e:axel=serious;o=glyph-1
 
 The Professor mused a few moments over this series of characters; then raising his spectacles he pronounced:
 e:prof=thinking
@@ -314,7 +314,7 @@ Not that he could speak fluently in the two thousand languages and twelve thousa
 
 
 So he was going, in the presence of this difficulty, to give way to all the impetuosity of his character, and I was preparing for a violent outbreak, when two o’clock struck by the little timepiece over the fireplace.
-e:axel=nervous
+e:axel=nervous;o=
 
 At that moment our good housekeeper Martha opened the study door, saying:
 e:martha=neutral
@@ -3983,7 +3983,7 @@ s=none
 s=prof
 
 And, sharing his astonishment, but I think not his joy, I read on the western face of the block, in Runic characters, half mouldered away with lapse of ages, this thrice-accursed name:
-s=none;e:axel=surprised
+s=none;e:axel=surprised;o=glyph-2
 
 “Arne Saknussemm!” replied my uncle.
 s=prof;e:prof=smirking
@@ -3994,8 +3994,11 @@ s=prof;e:prof=smirking
 I made no answer; and I returned in silence to my lava seat in a state of utter speechless consternation. Here was crushing evidence.
 s=none;e:axel=unhappy
 
-How long I remained plunged in agonizing reflections I cannot tell; all that I know is, that on raising my head again, I saw only my uncle and Hans at the bottom of the crater.
-e:axel=thinking
+How long I remained plunged in agonizing reflections I cannot tell;
+
+
+all that I know is, that on raising my head again, I saw only my uncle and Hans at the bottom of the crater.
+e:axel=thinking;o=
 
 The Icelanders had been dismissed, and they were now descending the outer slopes of Snæfells to return to Stapi.
 
@@ -9158,7 +9161,7 @@ s=axel;e:axel=surprised
 s=prof;e:prof=excited
 
 ## XXXVIII. The Professor in His Chair Again
-s=none
+r=title
 
 To understand this apostrophe of my uncle’s, made to absent French savants, it will be necessary to allude to an event of high importance in a palaeontological point of view, which had occurred a little while before our departure.
 e:axel=thinking
@@ -9635,13 +9638,13 @@ Between two boldly projecting rocks appeared the mouth of a dark tunnel.
 
 
 There, upon a granite slab, appeared two mysterious graven letters, half eaten away by time. They were the initials of the bold and daring traveller:
-e:axel=surprised
+e:axel=surprised;o=glyph-3
 
 “A. S.,” shouted my uncle. “Arne Saknussemm! Arne Saknussemm everywhere!”
 s=prof;e:prof=excited
 
 ## XL. Preparations for Blasting a Passage to the Centre of the Earth
-s=none
+r=title
 
 Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise.
 e:axel=neutral
