@@ -88,7 +88,7 @@ I don’t wish to say a word against so respectable a science, far be that from 
 True, in the august presence of rhombohedral crystals, retinasphaltic resins, gehlenites, fassaites, molybdenites, tungstates of manganese, and titanite of zirconium, why, the most facile of tongues may make a slip now and then.
 
 
-It therefore happened that this venial fault of my uncle’s came to be pretty well understood in time, and an unfair advantage was taken of it; the students laid wait for him in dangerous places, and when he began to stumble, loud was the laughter, which is not in good taste, not even in Germans.
+It therefore happened that this venial fault of my uncle’s came to be pretty well understood in time, and an unfair advantage was taken of it; the students laid wait for him in dangerous places, and when he began to stumble, loud was the laughter, which is not in good taste, not even in Germans.<e><a href="https://www.youtube.com/watch?v=GDOkE66_Q4o">Did you see that jerk! He dropped his notes!</a></e>
 e:prof=upset
 
 And if there was always a full audience to honour the Liedenbrock courses, I should be sorry to conjecture how many came to make merry at my uncle’s expense.
@@ -643,7 +643,7 @@ s=prof;e:prof=suspicious
 “Yes; no!” I stammered.
 s=axel;e:axel=fearful
 
-“You love Gräuben,” he went on once or twice dreamily.
+“You love Gräuben,” he went on once or twice dreamily.<e>"once or twice"?</e>
 s=prof;e:prof=contemplative
 
 “Well, let us apply the process I have suggested to the document in question.”
@@ -3466,7 +3466,7 @@ If there is a way to penetrate into the very bowels of the island, if that ill-a
 Now, there is no proof that Snæfells is extinct. Who can assure us that an eruption is not brewing at this very moment?
 
 
-Does it follow that because the monster has slept since 1229 he must therefore never awake again?
+Does it follow that because the monster has slept since 1229 he must therefore never awake again?<e>1219 earlier, but both dates are wrong, so whatever.</e>
 
 
 And if he wakes up presently, where shall we be?
@@ -3580,7 +3580,7 @@ s=axel;e:axel=nervous
 “No more; that is sufficient.”
 s=prof;e:prof=annoyed
 
-“When science has uttered her voice, let babblers hold their peace.”
+“When science has uttered her voice, let babblers hold their peace.”<e>100% factually accurate science throughout the whole book.</e>
 
 
 I returned to the parsonage, very crestfallen.
@@ -3916,7 +3916,7 @@ Imagine the aspect of such a reservoir, brim full and running over with liquid f
 The bottom of the funnel was about 250 feet in circuit, so that the gentle slope allowed its lower brim to be reached without much difficulty.
 
 
-Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.
+Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.<e>The revised translation uses "grenade launcher" here, which is clearly superior.</e>
 e:axel=fearful
 
 “What madness,” I thought, “to go down into a mortar, perhaps a loaded mortar, to be shot up into the air at a moment’s notice!”
@@ -6262,8 +6262,14 @@ e:axel=contemplative
 How was I to return? There was not a trace of their footsteps or of my own, for the foot left no mark upon the granite floor.
 e:axel=confused
 
-I racked my brain for a solution of this impracticable problem. One word described my position. Lost!
+I racked my brain for a solution of this impracticable problem.
+
+
+One word described my position.<e>Impracticable.</e>
 e:axel=fearful
+
+Lost!
+
 
 Lost at an immeasurable depth! Thirty leagues of rock seemed to weigh upon my shoulders with a dreadful pressure.
 e:axel=weary
@@ -8467,7 +8473,7 @@ From time to time a fleecy tuft of mist, with yet some gleaming light left upon 
 The atmosphere is evidently charged and surcharged with electricity.
 e:axel=wary
 
-My whole body is saturated; my hair bristles just as when you stand upon an insulated stool under the action of an electrical machine.
+My whole body is saturated; my hair bristles just as when you stand upon an insulated stool under the action of an electrical machine.<e>The revised translation: "The atmosphere is obviously saturated with liquid; I am impregnated with it;"</e>
 e:axel=nervous
 
 It seems to me as if my companions, the moment they touched me, would receive a severe shock like that from an electric eel.
@@ -10807,7 +10813,7 @@ e:prof=happy
 “*Was heißt diesen Berg, mein Knablein? Sage mir geschwind!*”
 s=prof
 
-(“What is this mountain called, my little friend?”)
+(“What is this mountain called, my little friend?”)<e>Couldn't be bothered with translating the second sentence.</e>
 s=none
 
 The child made no answer.
@@ -10981,7 +10987,7 @@ e:prof=unhappy
 Our faithful Hans, in spite of our entreaties, had left Hamburg; the man to whom we owed all our success and our lives too would not suffer us to reward him as we could have wished.
 e:hans=serious
 
-He was seized with the *mal de pays*, a complaint for which we have not even a name in English.
+He was seized with the *mal de pays*, a complaint for which we have not even a name in English.<e>"homesickness", you incompetent translator.</e>
 e:hans=unhappy
 
 “*Farval*,” said he one day; and with that simple word he left us and sailed for Reykjavík, which he reached in safety.
