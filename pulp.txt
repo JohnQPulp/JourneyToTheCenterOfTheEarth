@@ -10348,4 +10348,559 @@ Yet a few involuntary observations confirmed me in my view. By the flickering li
 The compass had lost its properties! it had ceased to act properly!
 e:axel=surprised
 
+## XLIII. Shot Out of a Volcano at Last!
+r=title
+
+Yes: our compass was no longer a guide; the needle flew from pole to pole with a kind of frenzied impulse; it ran round the dial, and spun hither and thither as if it were giddy or intoxicated.
+e:axel=surprised
+
+I knew quite well that according to the best received theories the mineral covering of the globe is never at absolute rest; the changes brought about by the chemical decomposition of its component parts, the agitation caused by great liquid torrents, and the magnetic currents, are continually tending to disturb it—even when living beings upon its surface may fancy that all is quiet below.
+e:axel=thinking
+
+A phenomenon of this kind would not have greatly alarmed me, or at any rate it would not have given rise to dreadful apprehensions.
+e:axel=neutral
+
+But other facts, other circumstances, of a peculiar nature, came to reveal to me by degrees the true state of the case.
+e:axel=wary
+
+There came incessant and continuous explosions.
+e:axel=fearful
+
+I could only compare them to the loud rattle of a long train of chariots driven at full speed over the stones, or a roar of unintermitting thunder.
+
+
+Then the disordered compass, thrown out of gear by the electric currents, confirmed me in a growing conviction.
+e:axel=nervous
+
+The mineral crust of the globe threatened to burst up, the granite foundations to come together with a crash, the fissure through which we were helplessly driven would be filled up, the void would be full of crushed fragments of rock, and we poor wretched mortals were to be buried and annihilated in this dreadful consummation.
+e:axel=fearful
+
+“My uncle,” I cried, “we are lost now, utterly lost!”
+s=axel;e:axel=fearful
+
+“What are you in a fright about now?” was the calm rejoinder. “What is the matter with you?”
+s=prof;e:prof=neutral
+
+“The matter? Look at those quaking walls! look at those shivering rocks. Don’t you feel the burning heat?”
+s=axel;e:axel=upset
+
+“Don’t you see how the water boils and bubbles? Are you blind to the dense vapours and steam growing thicker and denser every minute?”
+
+
+“See this agitated compass needle. It is an earthquake that is threatening us.”
+
+
+My undaunted uncle calmly shook his head.
+s=none
+
+“Do you think,” said he, “an earthquake is coming?”
+s=prof;e:prof=neutral
+
+“I do.”
+s=axel;e:axel=serious
+
+“Well, I think you are mistaken.”
+s=prof;e:prof=smirking
+
+“What! don’t you recognise the symptoms?”
+s=axel;e:axel=surprised
+
+“Of an earthquake? no! I am looking out for something better.”
+s=prof;e:prof=smirking
+
+“What can you mean? Explain?”
+s=axel;e:axel=confused
+
+“It is an eruption, Axel.”
+s=prof;e:prof=serious
+
+“An eruption! Do you mean to affirm that we are running up the shaft of a volcano?”
+s=axel;e:axel=surprised
+
+“I believe we are,” said the indomitable Professor with an air of perfect self-possession; “and it is the best thing that could possibly happen to us under our circumstances.”
+s=prof;e:prof=smirking
+
+The best thing! Was my uncle stark mad? What did the man mean? and what was the use of saying facetious things at a time like this?
+s=none;e:axel=confused
+
+“What!” I shouted. “Are we being taken up in an eruption?”
+s=axel;e:axel=upset
+
+“Our fate has flung us here among burning lavas, molten rocks, boiling waters, and all kinds of volcanic matter; we are going to be pitched out, expelled, tossed up, vomited, spit out high into the air, along with fragments of rock, showers of ashes and scoria, in the midst of a towering rush of smoke and flames; and it is the best thing that could happen to us!”
+e:axel=angry
+
+“Yes,” replied the Professor, eyeing me over his spectacles, “I don’t see any other way of reaching the surface of the earth.”
+s=prof;e:prof=neutral
+
+I pass rapidly over the thousand ideas which passed through my mind.
+s=none;e:axel=thinking
+
+My uncle was right, undoubtedly right; and never had he seemed to me more daring and more confirmed in his notions than at this moment when he was calmly contemplating the chances of being shot out of a volcano!
+
+
+In the meantime up we went; the night passed away in continual ascent; the din and uproar around us became more and more intensified; I was stifled and stunned; I thought my last hour was approaching; and yet imagination is such a strong thing that even in this supreme hour I was occupied with strange and almost childish speculations.
+e:axel=weary
+
+But I was the victim, not the master, of my own thoughts.
+
+
+It was very evident that we were being hurried upward upon the crest of a wave of eruption; beneath our raft were boiling waters, and under these the more sluggish lava was working its way up in a heated mass, together with shoals of fragments of rock which, when they arrived at the crater, would be dispersed in all directions high and low.
+e:axel=contemplative
+
+We were imprisoned in the shaft or chimney of some volcano. There was no room to doubt of that.
+e:axel=serious
+
+But this time, instead of Snæfells, an extinct volcano, we were inside one in full activity.
+e:axel=nervous
+
+I wondered, therefore, where could this mountain be, and in what part of the world we were to be shot out.
+e:axel=curious
+
+I made no doubt but that it would be in some northern region. Before its disorders set in, the needle had never deviated from that direction.
+
+
+From Cape Saknussemm we had been carried due north for hundreds of leagues. Were we under Iceland again? Were we destined to be thrown up out of Hecla, or by which of the seven other fiery craters in that island?
+e:axel=thinking
+
+Within a radius of five hundred leagues to the west I remembered under this parallel of latitude only the imperfectly known volcanoes of the northeast coast of America.
+
+
+To the east there was only one in the 80th degree of north latitude, the Esk in Jan Mayen Island, not far from Spitzbergen!
+
+
+Certainly there was no lack of craters, and there were some capacious enough to throw out a whole army! But I wanted to know which of them was to serve us for an exit from the inner world.
+e:axel=curious
+
+Towards morning the ascending movement became accelerated.
+e:axel=nervous
+
+If the heat increased, instead of diminishing, as we approached nearer to the surface of the globe, this effect was due to local causes alone, and those volcanic.
+e:axel=thinking
+
+The manner of our locomotion left no doubt in my mind. An enormous force, a force of hundreds of atmospheres, generated by the extreme pressure of confined vapours, was driving us irresistibly forward.
+e:axel=serious
+
+But to what numberless dangers it exposed us!
+e:axel=fearful
+
+Soon lurid lights began to penetrate the vertical gallery which widened as we went up.
+e:axel=surprised
+
+Right and left I could see deep channels, like huge tunnels, out of which escaped dense volumes of smoke; tongues of fire lapped the walls, which crackled and sputtered under the intense heat.
+e:axel=nervous
+
+“See, see, my uncle!” I cried.
+s=axel;e:axel=fearful
+
+“Well, those are only sulphurous flames and vapours, which one must expect to see in an eruption. They are quite natural.”
+s=prof;e:prof=neutral
+
+“But suppose they should wrap us round.”
+s=axel;e:axel=nervous
+
+“But they won’t wrap us round.”
+s=prof;e:prof=neutral
+
+“But we shall be stifled.”
+s=axel;e:axel=fearful
+
+“We shall not be stifled at all. The gallery is widening, and if it becomes necessary, we shall abandon the raft, and creep into a crevice.”
+s=prof;e:prof=serious
+
+“But the water—the rising water?”
+s=axel;e:axel=upset
+
+“There is no more water, Axel; only a lava paste, which is bearing us up on its surface to the top of the crater.”
+s=prof;e:prof=neutral
+
+The liquid column had indeed disappeared, to give place to dense and still boiling eruptive matter of all kinds.
+s=none;e:axel=serious
+
+The temperature was becoming unbearable. A thermometer exposed to this atmosphere would have marked 150°.
+e:axel=weary
+
+The perspiration streamed from my body. But for the rapidity of our ascent we should have been suffocated.
+
+
+But the Professor gave up his idea of abandoning the raft, and it was well he did.
+e:axel=thinking
+
+However roughly joined together, those planks afforded us a firmer support than we could have found anywhere else.
+
+
+About eight in the morning a new incident occurred. The upward movement ceased. The raft lay motionless.
+e:axel=surprised
+
+“What is this?” I asked, shaken by this sudden stoppage as if by a shock.
+s=axel;e:axel=confused
+
+“It is a halt,” replied my uncle.
+s=prof;e:prof=neutral
+
+“Is the eruption checked?” I asked.
+s=axel;e:axel=curious
+
+“I hope not.”
+s=prof;e:prof=serious
+
+I rose, and tried to look around me.
+s=none;e:axel=curious
+
+Perhaps the raft itself, stopped in its course by a projection, was staying the volcanic torrent. If this were the case we should have to release it as soon as possible.
+e:axel=thinking
+
+But it was not so. The blast of ashes, scoriae, and rubbish had ceased to rise.
+e:axel=surprised
+
+“Has the eruption stopped?” I cried.
+s=axel;e:axel=nervous
+
+“Ah!” said my uncle between his clenched teeth, “you are afraid. But don’t alarm yourself—this lull cannot last long.”
+s=prof;e:prof=smirking
+
+“It has lasted now five minutes, and in a short time we shall resume our journey to the mouth of the crater.”
+
+
+As he spoke, the Professor continued to consult his chronometer, and he was again right in his prognostications.
+s=none;e:axel=neutral
+
+The raft was soon hurried and driven forward with a rapid but irregular movement, which lasted about ten minutes, and then stopped again.
+e:axel=nervous
+
+“Very good,” said my uncle; “in ten minutes more we shall be off again, for our present business lies with an intermittent volcano.”
+s=prof;e:prof=happy
+
+“It gives us time now and then to take breath.”
+
+
+This was perfectly true. When the ten minutes were over we started off again with renewed and increased speed.
+s=none;e:axel=nervous
+
+We were obliged to lay fast hold of the planks of the raft, not to be thrown off. Then again the paroxysm was over.
+e:axel=weary
+
+I have since reflected upon this singular phenomenon without being able to explain it.
+e:axel=thinking
+
+At any rate it was clear that we were not in the main shaft of the volcano, but in a lateral gallery where there were felt recurrent times of reaction.
+
+
+How often this operation was repeated I cannot say. All I know is, that at each fresh impulse we were hurled forward with a greatly increased force, and we seemed as if we were mere projectiles.
+e:axel=fearful
+
+During the short halts we were stifled with the heat; whilst we were being projected forward the hot air almost stopped my breath.
+e:axel=weary
+
+I thought for a moment how delightful it would be to find myself carried suddenly into the arctic regions, with a cold 30° below the freezing point.
+e:axel=contemplative
+
+My overheated brain conjured up visions of white plains of cool snow, where I might roll and allay my feverish heat.
+
+
+Little by little my brain, weakened by so many constantly repeated shocks, seemed to be giving way altogether.
+e:axel=weary
+
+But for the strong arm of Hans I should more than once have had my head broken against the granite roof of our burning dungeon.
+
+
+I have therefore no exact recollection of what took place during the following hours.
+
+
+I have a confused impression left of continuous explosions, loud detonations, a general shaking of the rocks all around us, and of a spinning movement with which our raft was once whirled helplessly round.
+e:axel=fearful
+
+It rocked upon the lava torrent, amidst a dense fall of ashes. Snorting flames darted their fiery tongues at us.
+
+
+There were wild, fierce puffs of stormy wind from below, resembling the blasts of vast iron furnaces blowing all at one time; and I caught a glimpse of the figure of Hans lighted up by the fire; and all the feeling I had left was just what I imagine must be the feeling of an unhappy criminal doomed to be blown away alive from the mouth of a cannon, just before the trigger is pulled, and the flying limbs and rags of flesh and skin fill the quivering air and spatter the bloodstained ground.
+
+
+## XLIV. Sunny Lands in the Blue Mediterranean
+r=title
+
+When I opened my eyes again I felt myself grasped by the belt with the strong hand of our guide. With the other arm he supported my uncle.
+e:axel=confused
+
+I was not seriously hurt, but I was shaken and bruised and battered all over.
+e:axel=weary
+
+I found myself lying on the sloping side of a mountain only two yards from a gaping gulf, which would have swallowed me up had I leaned at all that way.
+e:axel=surprised
+
+Hans had saved me from death whilst I lay rolling on the edge of the crater.
+e:axel=serious
+
+“Where are we?” asked my uncle irascibly, as if he felt much injured by being landed upon the earth again.
+s=prof;e:prof=annoyed
+
+The hunter shook his head in token of complete ignorance.
+s=none;e:hans=neutral
+
+“Is it Iceland?” I asked.
+s=axel;e:axel=curious
+
+“*Nej*,” replied Hans.
+s=hans;e:hans=neutral
+
+“What! Not Iceland?” cried the Professor.
+s=prof;e:prof=surprised
+
+“Hans must be mistaken,” I said, raising myself up.
+s=axel;e:axel=suspicious
+
+This was our final surprise after all the astonishing events of our wonderful journey.
+s=none;e:axel=surprised
+
+I expected to see a white cone covered with the eternal snow of ages rising from the midst of the barren deserts of the icy north, faintly lighted with the pale rays of the arctic sun, far away in the highest latitudes known; but contrary to all our expectations, my uncle, the Icelander, and myself were sitting halfway down a mountain baked under the burning rays of a southern sun, which was blistering us with the heat, and blinding us with the fierce light of his nearly vertical rays.
+
+
+I could not believe my own eyes; but the heated air and the sensation of burning left me no room for doubt.
+e:axel=confused
+
+We had come out of the crater half naked, and the radiant orb to which we had been strangers for two months was lavishing upon us out of his blazing splendours more of his light and heat than we were able to receive with comfort.
+e:axel=weary
+
+When my eyes had become accustomed to the bright light to which they had been so long strangers, I began to use them to set my imagination right.
+e:axel=thinking
+
+At least I would have it to be Spitzbergen, and I was in no humour to give up this notion.
+e:axel=annoyed
+
+The Professor was the first to speak, and said:
+s=none;e:prof=serious
+
+“Well, this is not much like Iceland.”
+s=prof
+
+“But is it Jan Mayen?” I asked.
+s=axel;e:axel=curious
+
+“Nor that either,” he answered. “This is no northern mountain; here are no granite peaks capped with snow.”
+s=prof;e:prof=excited
+
+“Look, Axel, look!”
+
+
+Above our heads, at a height of five hundred feet or more, we saw the crater of a volcano, through which, at intervals of fifteen minutes or so, there issued with loud explosions lofty columns of fire, mingled with pumice stones, ashes, and flowing lava.
+s=none;e:axel=surprised
+
+I could feel the heaving of the mountain, which seemed to breathe like a huge whale, and puff out fire and wind from its vast blowholes.
+
+
+Beneath, down a pretty steep declivity, ran streams of lava for eight or nine hundred feet, giving the mountain a height of about 1,300 or 1,400 feet.
+
+
+But the base of the mountain was hidden in a perfect bower of rich verdure, amongst which I was able to distinguish the olive, the fig, and vines, covered with their luscious purple bunches.
+e:axel=happy
+
+I was forced to confess that there was nothing arctic here.
+e:axel=contemplative
+
+When the eye passed beyond these green surroundings it rested on a wide, blue expanse of sea or lake, which appeared to enclose this enchanting island, within a compass of only a few leagues.
+e:axel=surprised
+
+Eastward lay a pretty little white seaport town or village, with a few houses scattered around it, and in the harbour of which a few vessels of peculiar rig were gently swayed by the softly swelling waves.
+
+
+Beyond it, groups of islets rose from the smooth, blue waters, but in such numbers that they seemed to dot the sea like a shoal.
+
+
+To the west distant coasts lined the dim horizon, on some rose blue mountains of smooth, undulating forms; on a more distant coast arose a prodigious cone crowned on its summit with a snowy plume of white cloud.
+
+
+To the northward lay spread a vast sheet of water, sparkling and dancing under the hot, bright rays, the uniformity broken here and there by the topmast of a gallant ship appearing above the horizon, or a swelling sail moving slowly before the wind.
+
+
+This unforeseen spectacle was most charming to eyes long used to underground darkness.
+e:axel=happy
+
+“Where are we? Where are we?” I asked faintly.
+s=axel;e:axel=weary
+
+Hans closed his eyes with lazy indifference. What did it matter to him?
+s=none;e:hans=bored
+
+My uncle looked round with dumb surprise.
+e:prof=surprised
+
+“Well, whatever mountain this may be,” he said at last, “it is very hot here.”
+s=prof;e:prof=serious
+
+“The explosions are going on still, and I don’t think it would look well to have come out by an eruption, and then to get our heads broken by bits of falling rock.”
+
+
+“Let us get down. Then we shall know better what we are about.”
+
+
+“Besides, I am starving, and parching with thirst.”
+e:prof=weary
+
+Decidedly the Professor was not given to contemplation.
+s=none;e:axel=sadsmile
+
+For my part, I could for another hour or two have forgotten my hunger and my fatigue to enjoy the lovely scene before me; but I had to follow my companions.
+e:axel=contemplative
+
+The slope of the volcano was in many places of great steepness. We slid down screes of ashes, carefully avoiding the lava streams which glided sluggishly by us like fiery serpents.
+e:axel=wary
+
+As we went I chattered and asked all sorts of questions as to our whereabouts, for I was too much excited not to talk a great deal.
+e:axel=excited
+
+“We are in Asia,” I cried, “on the coasts of India, in the Malay Islands, or in Oceania.”
+s=axel
+
+“We have passed through half the globe, and come out nearly at the antipodes.”
+
+
+“But the compass?” said my uncle.
+s=prof;e:prof=confused
+
+“Aye, the compass!” I said, greatly puzzled. “According to the compass we have gone northward.”
+s=axel;e:axel=confused
+
+“Has it lied?”
+s=prof
+
+“Surely not. Could it lie?”
+s=axel
+
+“Unless, indeed, this is the North Pole!”
+s=prof;e:prof=surprised
+
+“Oh, no, it is not the Pole; but—”
+s=axel;e:axel=thinking
+
+Well, here was something that baffled us completely. I could not tell what to say.
+s=none;e:axel=confused
+
+But now we were coming into that delightful greenery, and I was suffering greatly from hunger and thirst.
+e:axel=weary
+
+Happily, after two hours’ walking, a charming country lay open before us, covered with olive trees, pomegranate trees, and delicious vines, all of which seemed to belong to anybody who pleased to claim them.
+e:axel=happy
+
+Besides, in our state of destitution and famine we were not likely to be particular. Oh, the inexpressible pleasure of pressing those cool, sweet fruits to our lips, and eating grapes by mouthfuls off the rich, full bunches!
+e:axel=excited
+
+Not far off, in the grass, under the delicious shade of the trees, I discovered a spring of fresh, cool water, in which we luxuriously bathed our faces, hands, and feet.
+e:axel=happy
+
+Whilst we were thus enjoying the sweets of repose a child appeared out of a grove of olive trees.
+e:axel=surprised
+
+“Ah!” I cried, “here is an inhabitant of this happy land!”
+s=axel;e:axel=excited
+
+It was but a poor boy, miserably ill-clad, a sufferer from poverty, and our aspect seemed to alarm him a great deal; in fact, only half clothed, with ragged hair and beards, we were a suspicious-looking party; and if the people of the country knew anything about thieves, we were very likely to frighten them.
+s=none;e:axel=contemplative
+
+Just as the poor little wretch was going to take to his heels, Hans caught hold of him, and brought him to us, kicking and struggling.
+e:hans=serious;n:boy=?
+
+My uncle began to encourage him as well as he could, and said to him in good German:
+e:prof=happy
+
+“*Was heißt diesen Berg, mein Knablein? Sage mir geschwind!*”
+s=prof
+
+(“What is this mountain called, my little friend?”)
+s=none
+
+The child made no answer.
+e:axel=curious
+
+“Very well,” said my uncle. “I infer that we are not in Germany.”
+s=prof;e:prof=thinking
+
+He put the same question in English.
+s=none;e:prof=neutral
+
+We got no forwarder. I was a good deal puzzled.
+e:axel=confused
+
+“Is the child dumb?” cried the Professor, who, proud of his knowledge of many languages, now tried French: “*Comment appelle t’on cette montagne, mon enfant?*”
+s=prof;e:prof=annoyed
+
+Silence still.
+s=none
+
+“Now let us try Italian,” said my uncle; and he said:
+e:prof=thinking
+
+“*Dove noi siamo?*”
+s=prof
+
+“Yes, where are we?” I impatiently repeated.
+s=axel;e:axel=annoyed
+
+But there was no answer still.
+s=none
+
+“Will you speak when you are told?” Exclaimed my uncle, shaking the urchin by the ears. “*Come si noma questa isola?*”
+s=prof;e:prof=angry
+
+“**Stromboli**,” replied the little herdboy, slipping out of Hans’ hands, and scudding into the plain across the olive trees.
+n:boy=Little Herdboy;s=boy;e:boy=fearful
+
+We were hardly thinking of that. Stromboli! What an effect this unexpected name produced upon my mind!
+s=none;e:axel=surprised
+
+We were in the midst of the Mediterranean Sea, on an island of the Aeolian archipelago, in the ancient Strongyle, where Aeolus kept the winds and the storms chained up, to be let loose at his will.
+e:axel=excited
+
+And those distant blue mountains in the east were the mountains of Calabria. And that threatening volcano far away in the south was the fierce Etna.
+
+
+“Stromboli, Stromboli!” I repeated.
+s=axel;e:axel=excited
+
+My uncle kept time to my exclamations with hands and feet, as well as with words. We seemed to be chanting in chorus!
+s=none;e:prof=excited
+
+What a journey we had accomplished! How marvellous!
+e:axel=happy
+
+Having entered by one volcano, we had issued out of another more than two thousand miles from Snæfells and from that barren, faraway Iceland! The strange chances of our expedition had carried us into the heart of the fairest region in the world.
+e:axel=surprised
+
+We had exchanged the bleak regions of perpetual snow and of impenetrable barriers of ice for those of brightness and “the rich hues of all glorious things.”
+
+
+We had left over our heads the murky sky and cold fogs of the frigid zone to revel under the azure sky of Italy!
+e:axel=excited
+
+After our delicious repast of fruits and cold, clear water we set off again to reach the port of Stromboli.
+e:axel=happy
+
+It would not have been wise to tell how we came there. The superstitious Italians would have set us down for fire-devils vomited out of hell; so we presented ourselves in the humble guise of shipwrecked mariners.
+e:axel=thinking
+
+It was not so glorious, but it was safer.
+e:axel=smirking
+
+On my way I could hear my uncle murmuring: “But the compass! that compass! It pointed due north. How are we to explain that fact?”
+s=prof;e:prof=confused
+
+“My opinion is,” I replied disdainfully, “that it is best not to explain it.”
+s=axel;e:axel=smirking
+
+“That is the easiest way to shelve the difficulty.”
+
+
+“Indeed, sir! The occupant of a professorial chair at the Johannæum unable to explain the reason of a cosmical phenomenon!”
+s=prof;e:prof=annoyed
+
+“Why, it would be simply disgraceful!”
+e:prof=angry
+
+And as he spoke, my uncle, half undressed, in rags, a perfect scarecrow, with his leathern belt around him, settling his spectacles upon his nose and looking learned and imposing, was himself again, the terrible German professor of mineralogy.
+s=none;e:axel=sadsmile
+
+One hour after we had left the grove of olives, we arrived at the little port of San Vicenzo, where Hans claimed his thirteen weeks’ wages, which was counted out to him with a hearty shaking of hands all round.
+e:axel=happy
+
+At that moment, if he did not share our natural emotion, at least his countenance expanded in a manner very unusual with him, and while with the ends of his fingers he lightly pressed our hands, I believe he smiled.
+e:hans=sadsmile
+
 
