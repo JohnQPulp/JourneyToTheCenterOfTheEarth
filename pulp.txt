@@ -7831,4 +7831,595 @@ s=prof;e:prof=happy
 At these words I rose and gazed round upon the horizon, still everywhere bounded by clouds alone.
 s=none;e:axel=neutral
 
+## XXXIII. A Battle of Monsters
+r=title
+
+*Saturday, August 15*.﻿—The sea unbroken all round. No land in sight. The horizon seems extremely distant.
+e:axel=neutral
+
+My head is still stupefied with the vivid reality of my dream.
+e:axel=weary
+
+My uncle has had no dreams, but he is out of temper.
+e:prof=annoyed
+
+He examines the horizon all round with his glass, and folds his arms with the air of an injured man.
+
+
+I remark that Professor Liedenbrock has a tendency to relapse into an impatient mood, and I make a note of it in my log.
+e:axel=contemplative
+
+All my danger and sufferings were needed to strike a spark of human feeling out of him; but now that I am well his nature has resumed its sway.
+e:axel=sadsmile
+
+And yet, what cause was there for anger? Is not the voyage prospering as favourably as possible under the circumstances? Is not the raft spinning along with marvellous speed?
+e:axel=confused
+
+“﻿—You seem anxious, my uncle,” I said, seeing him continually with his glass to his eye.
+s=axel;e:axel=curious
+
+“Anxious! No, not at all.”
+s=prof;e:prof=annoyed
+
+“Impatient, then?”
+s=axel
+
+“One might be, with less reason than now.”
+s=prof;e:prof=serious
+
+“Yet we are going very fast.”
+s=axel;e:axel=neutral
+
+“What does that signify? I am not complaining that the rate is slow, but that the sea is so wide.”
+s=prof;e:prof=annoyed
+
+I then remembered that the Professor, before starting, had estimated the length of this underground sea at thirty leagues.
+s=none;e:axel=thinking
+
+Now we had made three times the distance, yet still the southern coast was not in sight.
+
+
+“We are not descending as we ought to be,” the Professor declares. “We are losing time, and the fact is, I have not come all this way to take a little sail upon a pond on a raft.”
+s=prof;e:prof=angry
+
+He called this sea a pond, and our long voyage, taking a little sail!
+s=none;e:axel=surprised
+
+“But,” I remarked, “since we have followed the road that Saknussemm has shown us﻿—”
+s=axel;e:axel=nervous
+
+“That is just the question. Have we followed that road? Did Saknussemm meet this sheet of water? Did he cross it? Has not the stream that we followed led us altogether astray?”
+s=prof;e:prof=angry
+
+“At any rate we cannot feel sorry to have come so far. This prospect is magnificent, and﻿—”
+s=axel;e:axel=happy
+
+“But I don’t care for prospects. I came with an object, and I mean to attain it. Therefore don’t talk to me about views and prospects.”
+s=prof;e:prof=angry
+
+I take this as my answer, and I leave the Professor to bite his lips with impatience.
+s=none;e:axel=weary;e:prof=annoyed
+
+At six in the evening Hans asks for his wages, and his three rixdalers are counted out to him.
+e:hans=neutral
+
+*Sunday, August 16.*﻿—Nothing new. Weather unchanged. The wind freshens.
+
+
+On awaking, my first thought was to observe the intensity of the light. I was possessed with an apprehension lest the electric light should grow dim, or fail altogether.
+e:axel=nervous
+
+But there seemed no reason to fear. The shadow of the raft was clearly outlined upon the surface of the waves.
+e:axel=neutral
+
+Truly this sea is of infinite width. It must be as wide as the Mediterranean or the Atlantic﻿—and why not?
+e:axel=contemplative
+
+My uncle took soundings several times. He tied the heaviest of our pickaxes to a long rope which he let down two hundred fathoms.
+e:prof=serious
+
+No bottom yet; and we had some difficulty in hauling up our plummet.
+
+
+But when the pick was shipped again, Hans pointed out on its surface deep prints as if it had been violently compressed between two hard bodies.
+e:hans=serious
+
+I looked at the hunter.
+e:axel=curious
+
+“*Tänder*,” said he.
+s=hans
+
+I could not understand him, and turned to my uncle who was entirely absorbed in his calculations.
+s=none;e:axel=confused;e:prof=thinking
+
+I had rather not disturb him while he is quiet. I return to the Icelander.
+e:axel=nervous
+
+He by a snapping motion of his jaws conveys his ideas to me.
+e:hans=neutral
+
+“Teeth!” I cried, considering the iron bar with more attention.
+s=axel;e:axel=surprised
+
+Yes, indeed, those are the marks of teeth imprinted upon the metal!
+s=none;e:axel=fearful
+
+The jaws which they arm must be possessed of amazing strength.
+e:axel=thinking
+
+Is there some monster beneath us belonging to the extinct races, more voracious than the shark, more fearful in vastness than the whale?
+e:axel=nervous
+
+I could not take my eyes off this indented iron bar. Surely will my last night’s dream be realised?
+e:axel=fearful
+
+These thoughts agitated me all day, and my imagination scarcely calmed down after several hours’ sleep.
+e:axel=weary
+
+*Monday, August 17.*﻿—I am trying to recall the peculiar instincts of the monsters of the pre-adamite world, who, coming next in succession after the molluscs, the crustaceans and the fishes, preceded the animals of mammalian race upon the earth.
+e:axel=thinking
+
+The world then belonged to reptiles. Those monsters held the mastery in the seas of the secondary period.
+
+
+They possessed a perfect organisation, gigantic proportions, prodigious strength.
+
+
+The saurians of our day, the alligators and the crocodiles, are but feeble reproductions of their forefathers of primitive ages.
+
+
+I shudder as I recall these monsters to my remembrance. No human eye has ever beheld them living.
+e:axel=fearful
+
+They burdened this earth a thousand ages before man appeared, but their fossil remains, found in the argillaceous limestone called by the English the Lias, have enabled their colossal structure to be perfectly built up again and anatomically ascertained.
+e:axel=contemplative
+
+I saw at the Hamburg museum the skeleton of one of these creatures thirty feet in length.
+
+
+Am I then fated﻿—I, a denizen of earth﻿—to be placed face to face with these representatives of long extinct families? No; surely it cannot be!
+e:axel=nervous
+
+Yet the deep marks of conical teeth upon the iron pick are certainly those of the crocodile.
+e:axel=fearful
+
+My eyes are fearfully bent upon the sea. I dread to see one of these monsters darting forth from its submarine caverns.
+
+
+I suppose Professor Liedenbrock was of my opinion too, and even shared my fears, for after having examined the pick, his eyes traversed the ocean from side to side.
+e:prof=wary
+
+What a very bad notion that was of his, I thought to myself, to take soundings just here!
+e:axel=upset
+
+He has disturbed some monstrous beast in its remote den, and if we are not attacked on our voyage﻿—
+e:axel=fearful
+
+I look at our guns and see that they are all right. My uncle notices it, and looks on approvingly.
+e:axel=serious;e:prof=serious
+
+Already widely disturbed regions on the surface of the water indicate some commotion below.
+
+
+The danger is approaching. We must be on the look out.
+e:axel=wary
+
+*Tuesday, August 18.*﻿—Evening came, or rather the time came when sleep weighs down the weary eyelids, for there is no night here, and the ceaseless light wearies the eyes with its persistency just as if we were sailing under an arctic sun.
+e:axel=weary
+
+Hans was at the helm. During his watch I slept.
+e:hans=neutral
+
+Two hours afterwards a terrible shock awoke me. The raft was heaved up on a watery mountain and pitched down again, at a distance of twenty fathoms.
+e:axel=surprised
+
+“What is the matter?” shouted my uncle. “Have we struck land?”
+s=prof;e:prof=surprised
+
+Hans pointed with his finger at a dark mass six hundred yards away, rising and falling alternately with heavy plunges.
+s=none;e:hans=serious
+
+I looked and cried:
+e:axel=fearful
+
+“It is an enormous porpoise.”
+s=axel
+
+“Yes,” replied my uncle, “and there is a sea lizard of vast size.”
+s=prof;e:prof=wary
+
+“And farther on a monstrous crocodile. Look at its vast jaws and its rows of teeth! It is diving down!”
+s=axel;e:axel=fearful
+
+“There’s a whale, a whale!” cried the Professor. “I can see its great fins. See how he is throwing out air and water through his blowers.”
+s=prof;e:prof=surprised
+
+And in fact two liquid columns were rising to a considerable height above the sea.
+s=none
+
+We stood amazed, thunderstruck, at the presence of such a herd of marine monsters.
+e:axel=surprised
+
+They were of supernatural dimensions; the smallest of them would have crunched our raft, crew and all, at one snap of its huge jaws.
+e:axel=fearful
+
+Hans wants to tack to get away from this dangerous neighbourhood; but he sees on the other hand enemies not less terrible; a tortoise forty feet long, and a serpent of thirty, lifting its fearful head and gleaming eyes above the flood.
+e:hans=wary
+
+Flight was out of the question now.
+e:axel=nervous
+
+The reptiles rose; they wheeled around our little raft with a rapidity greater than that of express trains.
+
+
+They described around us gradually narrowing circles. I took up my rifle.
+e:axel=serious
+
+But what could a ball do against the scaly armour with which these enormous beasts were clad?
+e:axel=fearful
+
+We stood dumb with fear. They approach us close: on one side the crocodile, on the other the serpent.
+
+
+The remainder of the sea monsters have disappeared. I prepare to fire.
+e:axel=serious
+
+Hans stops me by a gesture.
+e:hans=serious
+
+The two monsters pass within a hundred and fifty yards of the raft, and hurl themselves the one upon the other, with a fury which prevents them from seeing us.
+
+
+At three hundred yards from us the battle was fought. We could distinctly observe the two monsters engaged in deadly conflict.
+
+
+But it now seems to me as if the other animals were taking part in the fray﻿—the porpoise, the whale, the lizard, the tortoise.
+e:axel=confused
+
+Every moment I seem to see one or other of them. I point them to the Icelander.
+
+
+He shakes his head negatively.
+
+
+“*Två*,” says he.
+s=hans;e:hans=neutral
+
+“What two? Does he mean that there are only two animals?”
+s=axel;e:axel=confused
+
+“He is right,” said my uncle, whose glass has never left his eye.
+s=prof;e:prof=serious
+
+“Surely you must be mistaken,” I cried.
+s=axel;e:axel=surprised
+
+“No: the first of those monsters has a porpoise’s snout, a lizard’s head, a crocodile’s teeth; and hence our mistake.”
+s=prof;e:prof=serious
+
+“It is the ichthyosaurus (the fish lizard), the most terrible of the ancient monsters of the deep.”
+
+
+“And the other?”
+s=axel;e:axel=nervous
+
+“The other is a plesiosaurus (almost lizard), a serpent, armoured with the carapace and the paddles of a turtle; he is the dreadful enemy of the other.”
+s=prof;e:prof=serious
+
+Hans had spoken truly. Two monsters only were creating all this commotion; and before my eyes are two reptiles of the primitive world.
+s=none;e:axel=surprised
+
+I can distinguish the eye of the ichthyosaurus glowing like a red-hot coal, and as large as a man’s head.
+
+
+Nature has endowed it with an optical apparatus of extreme power, and capable of resisting the pressure of the great volume of water in the depths it inhabits.
+e:axel=thinking
+
+It has been appropriately called the saurian whale, for it has both the swiftness and the rapid movements of this monster of our own day.
+
+
+This one is not less than a hundred feet long, and I can judge of its size when it sweeps over the waters the vertical coils of its tail.
+e:axel=nervous
+
+Its jaw is enormous, and according to naturalists it is armed with no less than one hundred and eighty-two teeth.
+
+
+The plesiosaurus, a serpent with a cylindrical body and a short tail, has four flappers or paddles to act like oars.
+e:axel=serious
+
+Its body is entirely covered with a thick armour of scales, and its neck, as flexible as a swan’s, rises thirty feet above the waves.
+
+
+Those huge creatures attacked each other with the greatest animosity.
+
+
+They heaved around them liquid mountains, which rolled even to our raft and rocked it perilously. Twenty times we were near capsizing.
+e:axel=fearful
+
+Hissings of prodigious force are heard. The two beasts are fast locked together; I cannot distinguish the one from the other.
+
+
+The probable rage of the conqueror inspires us with intense fear.
+
+
+One hour, two hours, pass away. The struggle continues with unabated ferocity.
+
+
+The combatants alternately approach and recede from our raft. We remain motionless, ready to fire.
+e:axel=serious
+
+Suddenly the ichthyosaurus and the plesiosaurus disappear below, leaving a whirlpool eddying in the water. Several minutes pass by while the fight goes on under water.
+e:axel=nervous
+
+All at once an enormous head is darted up, the head of the plesiosaurus.
+e:axel=surprised
+
+The monster is wounded to death. I no longer see his scaly armour.
+
+
+Only his long neck shoots up, drops again, coils and uncoils, droops, lashes the waters like a gigantic whip, and writhes like a worm that you tread on.
+
+
+The water is splashed for a long way around. The spray almost blinds us.
+e:axel=wary
+
+But soon the reptile’s agony draws to an end; its movements become fainter, its contortions cease to be so violent, and the long serpentine form lies a lifeless log on the labouring deep.
+e:axel=serious
+
+As for the ichthyosaurus﻿—has he returned to his submarine cavern? Or will he reappear on the surface of the sea?
+e:axel=fearful
+
+## XXXIV. The Great Geyser
+r=title
+
+*Wednesday, August 19*.﻿—Fortunately the wind blows violently, and has enabled us to flee from the scene of the late terrible struggle.
+e:axel=neutral
+
+Hans keeps at his post at the helm.
+e:hans=neutral
+
+My uncle, whom the absorbing incidents of the combat had drawn away from his contemplations, began again to look impatiently around him.
+e:prof=annoyed
+
+The voyage resumes its uniform tenor, which I don’t care to break with a repetition of such events as yesterday’s.
+e:axel=weary
+
+*Thursday, Aug. 20*.﻿—Wind N. N. E., unsteady and fitful. Temperature high. Rate three and a half leagues an hour.
+
+
+About noon a distant noise is heard. I note the fact without being able to explain it. It is a continuous roar.
+e:axel=curious
+
+“In the distance,” says the Professor, “there is a rock or islet, against which the sea is breaking.”
+s=prof;e:prof=serious
+
+Hans climbs up the mast, but sees no breakers. The ocean is smooth and unbroken to its farthest limit.
+s=none;e:hans=serious
+
+Three hours pass away. The roarings seem to proceed from a very distant waterfall.
+e:axel=wary
+
+I remark upon this to my uncle, who replies doubtfully:
+e:prof=thinking
+
+“Yes, I am convinced that I am right.”
+s=prof
+
+Are we, then, speeding forward to some cataract which will cast us down an abyss?
+s=none;e:axel=fearful
+
+This method of getting on may please the Professor, because it is vertical; but for my part I prefer the more ordinary modes of horizontal progression.
+e:axel=nervous
+
+At any rate, some leagues to the windward there must be some noisy phenomenon, for now the roarings are heard with increasing loudness.
+e:axel=serious
+
+Do they proceed from the sky or the ocean?
+e:axel=confused
+
+I look up to the atmospheric vapours, and try to fathom their depths. The sky is calm and motionless.
+
+
+The clouds have reached the utmost limit of the lofty vault, and there lie still bathed in the bright glare of the electric light. It is not there that we must seek for the cause of this phenomenon.
+e:axel=thinking
+
+Then I examine the horizon, which is unbroken and clear of all mist. There is no change in its aspect.
+
+
+But if this noise arises from a fall, a cataract, if all this ocean flows away headlong into a lower basin yet, if that deafening roar is produced by a mass of falling water, the current must needs accelerate, and its increasing speed will give me the measure of the peril that threatens us.
+e:axel=wary
+
+I consult the current: there is none. I throw an empty bottle into the sea: it lies still.
+e:axel=confused
+
+About four Hans rises, lays hold of the mast, climbs to its top.
+e:hans=serious
+
+Thence his eye sweeps a large area of sea, and it is fixed upon a point. His countenance exhibits no surprise, but his eye is immovably steady.
+
+
+“He sees something,” says my uncle.
+s=prof;e:prof=curious
+
+“I believe he does.”
+s=axel;e:axel=serious
+
+Hans comes down, then stretches his arm to the south, saying:
+s=none;e:hans=neutral
+
+“*Der nere!*”
+s=hans
+
+“Down there?” repeated my uncle.
+s=prof;e:prof=surprised
+
+Then, seizing his glass, he gazes attentively for a minute, which seems to me an age.
+s=none;e:prof=serious
+
+“Yes, yes!” he cried. “I see a vast inverted cone rising from the surface.”
+s=prof;e:prof=excited
+
+“Is it another sea beast?”
+s=axel;e:axel=fearful
+
+“Perhaps it is.”
+s=prof;e:prof=wary
+
+“Then let us steer farther westward, for we know something of the danger of coming across monsters of that sort.”
+s=axel;e:axel=nervous
+
+“Let us go straight on,” replied my uncle.
+s=prof;e:prof=serious
+
+I appealed to Hans. He maintained his course inflexibly.
+s=none;e:hans=serious;e:axel=upset
+
+Yet, if at our present distance from the animal, a distance of twelve leagues at the least, the column of water driven through its blowers may be distinctly seen, it must needs be of vast size.
+e:axel=thinking
+
+The commonest prudence would counsel immediate flight; but we did not come so far to be prudent.
+e:axel=weary
+
+Imprudently, therefore, we pursue our way. The nearer we approach, the higher mounts the jet of water.
+e:axel=wary
+
+What monster can possibly fill itself with such a quantity of water, and spurt it up so continuously?
+e:axel=confused
+
+At eight in the evening we are not two leagues distant from it.
+
+
+Its body﻿—dusky, enormous, hillocky﻿—lies spread upon the sea like an islet. Is it illusion or fear?
+e:axel=fearful
+
+Its length seems to me a couple of thousand yards. What can be this cetacean, which neither Cuvier nor Blumenbach knew anything about?
+e:axel=surprised
+
+It lies motionless, as if asleep; the sea seems unable to move it in the least; it is the waves that undulate upon its sides.
+
+
+The column of water thrown up to a height of five hundred feet falls in rain with a deafening uproar.
+e:axel=wary
+
+And here are we scudding like lunatics before the wind, to get near to a monster that a hundred whales a day would not satisfy!
+e:axel=nervous
+
+Terror seizes upon me. I refuse to go further. I will cut the halliards if necessary!
+e:axel=fearful
+
+I am in open mutiny against the Professor, who vouchsafes no answer.
+e:prof=serious
+
+Suddenly Hans rises, and pointing with his finger at the menacing object, he says:
+e:hans=neutral
+
+“*Holm.*”
+s=hans
+
+“An island!” cries my uncle.
+s=prof;e:prof=surprised
+
+“That’s not an island!” I cried sceptically.
+s=axel;e:axel=suspicious
+
+“It’s nothing else,” shouted the Professor, with a loud laugh.
+s=prof;e:prof=happy
+
+“But that column of water?”
+s=axel;e:axel=confused
+
+“*Geysir*,” said Hans.
+s=hans
+
+“No doubt it is a geyser, like those in Iceland.”
+s=prof;e:prof=smirking
+
+At first I protest against being so widely mistaken as to have taken an island for a marine monster.
+s=none;e:axel=annoyed
+
+But the evidence is against me, and I have to confess my error. It is nothing worse than a natural phenomenon.
+e:axel=neutral
+
+As we approach nearer the dimensions of the liquid column become magnificent.
+e:axel=surprised
+
+The islet resembles, with a most deceiving likeness, an enormous cetacean, whose head dominates the waves at a height of twenty yards.
+
+
+The geyser, a word meaning “fury,” rises majestically from its extremity.
+
+
+Deep and heavy explosions are heard from time to time, when the enormous jet, possessed with more furious violence, shakes its plumy crest, and springs with a bound till it reaches the lowest stratum of the clouds.
+e:axel=wary
+
+It stands alone. No steam vents, no hot springs surround it, and all the volcanic power of the region is concentrated here.
+e:axel=thinking
+
+Sparks of electric fire mingle with the dazzling sheaf of lighted fluid, every drop of which refracts the prismatic colours.
+
+
+“Let us land,” said the Professor.
+s=prof;e:prof=excited
+
+“But we must carefully avoid this waterspout, which would sink our raft in a moment.”
+s=axel;e:axel=wary
+
+Hans, steering with his usual skill, brought us to the other extremity of the islet.
+s=none;e:hans=serious
+
+I leaped up on the rock; my uncle lightly followed, while our hunter remained at his post, like a man too wise ever to be astonished.
+e:axel=neutral;e:prof=happy
+
+We walked upon granite mingled with siliceous tufa.
+
+
+The soil shivers and shakes under our feet, like the sides of an overheated boiler filled with steam struggling to get loose.
+e:axel=nervous
+
+We come in sight of a small central basin, out of which the geyser springs. I plunge a register thermometer into the boiling water.
+e:axel=curious
+
+It marks an intense heat of 325°, which is far above the boiling point; therefore this water issues from an ardent furnace, which is not at all in harmony with Professor Liedenbrock’s theories.
+e:axel=smirking
+
+I cannot help making the remark.
+
+
+“Well,” he replied, “how does that make against my doctrine?”
+s=prof;e:prof=suspicious
+
+“Oh, nothing at all,” I said, seeing that I was going in opposition to immovable obstinacy.
+s=axel;e:axel=weary
+
+Still I am constrained to confess that hitherto we have been wonderfully favoured, and that for some reason unknown to myself we have accomplished our journey under singularly favourable conditions of temperature.
+s=none;e:axel=contemplative
+
+But it seems manifest to me that some day we shall reach a region where the central heat attains its highest limits, and goes beyond a point that can be registered by our thermometers.
+e:axel=thinking
+
+“That is what we shall see.”
+s=prof;e:prof=smirking
+
+So says the Professor, who, having named this volcanic islet after his nephew, gives the signal to embark again.
+s=none;e:prof=neutral
+
+For some minutes I am still contemplating the geyser.
+e:axel=thinking
+
+I notice that it throws up its column of water with variable force: sometimes sending it to a great height, then again to a lower, which I attribute to the variable pressure of the steam accumulated in its reservoir.
+
+
+At last we leave the island, rounding away past the low rocks on its southern shore.
+e:axel=neutral
+
+Hans has taken advantage of the halt to refit his rudder.
+e:hans=neutral
+
+But before going any farther I make a few observations, to calculate the distance we have gone over, and note them in my journal.
+e:axel=serious
+
+We have crossed two hundred and seventy leagues of sea since leaving Port Gräuben; and we are six hundred and twenty leagues from Iceland, under England.
+
+
 
