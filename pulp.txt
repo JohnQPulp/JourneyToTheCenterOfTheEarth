@@ -83,7 +83,7 @@ The fact is, that during the course of his lectures at the Johannæum, the Profe
 e:prof=annoyed
 
 Now in mineralogy there are many half-Greek and half-Latin terms, very hard to articulate, and which would be most trying to a poet’s measures.
-e:axel=neutral;b=minerals;f:b:minerals=blur(3px)
+e:axel=neutral;b=prof-study;f:b:prof-study=blur(3px)
 
 I don’t wish to say a word against so respectable a science, far be that from me.
 
@@ -101,7 +101,7 @@ Nevertheless my good uncle was a man of deep learning—a fact I am most anxious
 e:axel=serious
 
 Sometimes he might irretrievably injure a specimen by his too great ardour in handling it; but still he united the genius of a true geologist with the keen eye of the mineralogist.
-b=minerals
+b=prof-study
 
 Armed with his hammer, his steel pointer, his magnetic needles, his blowpipe, and his bottle of nitric acid, he was a powerful man of science.
 e:prof=serious
@@ -125,7 +125,7 @@ To all these titles to honour let me add that my uncle was the curator of the mu
 
 
 Such was the gentleman who addressed me in that impetuous manner.
-b=prof-study
+b=prof-study;f:b:prof-study=
 
 Fancy a tall, spare man, of an iron constitution, and with a fair complexion which took off a good ten years from the fifty he must own to.
 
@@ -173,7 +173,7 @@ e:axel=happy;f:b:prof-wide=blur(3px)
 r=title
 
 That study of his was a museum, and nothing else. Specimens of everything known in mineralogy lay there in their places in perfect order, and correctly named, divided into inflammable, metallic, and lithoid minerals.
-e:axel=neutral
+e:axel=neutral;b=prof-study
 
 How well I knew all these bits of science! Many a time, instead of enjoying the company of lads of my own age, I had preferred dusting these graphites, anthracites, coals, lignites, and peats!
 e:axel=happy
@@ -188,19 +188,16 @@ He had thrown himself into a velvet easy-chair, and was grasping between his han
 e:prof=contemplative
 
 “Here’s a remarkable book! What a wonderful book!” he was exclaiming.
-s=prof;e:prof=excited
+s=prof;e:prof=excitedlookdown
 
 These ejaculations brought to my mind the fact that my uncle was liable to occasional fits of bibliomania; but no old book had any value in his eyes unless it had the virtue of being nowhere else to be found, or, at any rate, of being illegible.
 s=none;e:axel=thinking
 
-“Well, now; don’t you see it yet?”
+“Well, now; don’t you see it yet? Why I have got a priceless treasure, that I found this morning, in rummaging in old Hevelius’s shop, the Jew.”
 s=prof;e:prof=excited
 
-“Why I have got a priceless treasure, that I found this morning, in rummaging in old Hevelius’s shop, the Jew.”
-
-
 “Magnificent!” I replied, with a good imitation of enthusiasm.
-s=axel;e:axel=bored
+s=axel;e:axel=confusedhappy
 
 What was the good of all this fuss about an old quarto, bound in rough calf, a yellow, faded volume, with a ragged seal depending from it?
 s=none;e:axel=confused
@@ -208,17 +205,14 @@ s=none;e:axel=confused
 But for all that there was no lull yet in the admiring exclamations of the Professor.
 e:axel=weary
 
-“See,” he went on, both asking the questions and supplying the answers.
-s=prof;e:prof=excited
+“See,” he went on,
+s=prof;e:prof=excited;m=break,1
 
-“Isn’t it a beauty? Yes; splendid! Did you ever see such a binding?”
+both asking the questions and supplying the answers.
+s=
 
-
-“Doesn’t the book open easily? Yes; it stops open anywhere.”
-
-
-“But does it shut equally well? Yes; for the binding and the leaves are flush, all in a straight line, and no gaps or openings anywhere.”
-
+“Isn’t it a beauty? Yes; splendid! Did you ever see such a binding? Doesn’t the book open easily? Yes; it stops open anywhere. But does it shut equally well? Yes; for the binding and the leaves are flush, all in a straight line, and no gaps or openings anywhere.”
+s=prof;e:prof=happylookdown
 
 “And look at its back, after seven hundred years. Why, Bozerian, Closs, or Purgold might have been proud of such a binding!”
 
@@ -230,58 +224,73 @@ I really could do no less than ask a question about its contents, although I did
 e:axel=bored
 
 “And what is the title of this marvellous work?” I asked with an affected eagerness which he must have been very blind not to see through.
-s=axel
+s=axel;e:axel=contemplativehappy
 
-“This work,” replied my uncle, firing up with renewed enthusiasm, “this work is the *Heims Kringla* of Snorre Turlleson, the most famous Icelandic author of the twelfth century!”
+“This work,” replied my uncle,
+s=prof;e:prof=happylookdown;m=break,1
+
+firing up with renewed enthusiasm,
+s=
+
+“this work is the *Heims Kringla* of Snorre Turlleson, the most famous Icelandic author of the twelfth century! It is the chronicle of the Norwegian princes who ruled in Iceland.”
 s=prof;e:prof=excited
 
-“It is the chronicle of the Norwegian princes who ruled in Iceland.”
+“Indeed;” I cried, keeping up wonderfully,
+s=axel;e:axel=happywary
 
+“of course it is a German translation?”
+e:axel=contemplative
 
-“Indeed;” I cried, keeping up wonderfully, “of course it is a German translation?”
-s=axel;e:axel=neutral
+“What!” sharply replied the Professor,
+s=prof;e:prof=scowling
 
-“What!” sharply replied the Professor, “a translation! What should I do with a translation?”
-s=prof;e:prof=angry
+“a translation! What should I do with a translation?”
+
 
 “This is the Icelandic original, in the magnificent idiomatic vernacular, which is both rich and simple, and admits of an infinite variety of grammatical combinations and verbal modifications.”
-
+e:prof=seriouslookdown
 
 “Like German,” I happily ventured.
 s=axel;e:axel=happy
 
-“Yes,” replied my uncle, shrugging his shoulders; “but, in addition to all this, the Icelandic has three numbers like the Greek, and irregular declensions of nouns proper like the Latin.”
+“Yes,” replied my uncle, shrugging his shoulders;
 s=prof;e:prof=serious
 
-“Ah!” said I, a little moved out of my indifference; “and is the type good?”
-s=axel;e:axel=curious
+“but, in addition to all this, the Icelandic has three numbers like the Greek, and irregular declensions of nouns proper like the Latin.”
 
-“Type! What do you mean by talking of type, wretched Axel?”
+
+“Ah!” said I,
+s=axel;e:axel=curious;m=break,1
+
+a little moved out of my indifference;
+s=
+
+“and is the type good?”
+s=axel;i=2
+
+“Type! What do you mean by talking of type, wretched Axel? Type! Do you take it for a printed book, you ignorant fool?”
 s=prof;e:prof=angry
 
-“Type! Do you take it for a printed book, you ignorant fool?”
-
-
 “It is a manuscript, a Runic manuscript.”
-e:prof=serious
+e:prof=annoyed
 
 “Runic?”
 s=axel;e:axel=confused
 
 “Yes. Do you want me to explain what that is?”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;i=2
 
 “Of course not,” I replied in the tone of an injured man.
-s=axel;e:axel=upset
+s=axel;e:axel=confused
 
 But my uncle persevered, and told me, against my will, of many things I cared nothing about.
 s=none;e:axel=weary
 
 “Runic characters were in use in Iceland in former ages. They were invented, it is said, by Odin himself.”
-s=prof;e:prof=serious
+s=prof;e:prof=thinking
 
 “Look there, and wonder, impious young man, and admire these letters, the invention of the Scandinavian god!”
-e:prof=excited
+e:prof=excitedlookdown
 
 Well, well! Not knowing what to say, I was going to prostrate myself before this wonderful book, a way of answering equally pleasing to gods and kings, and which has the advantage of never giving them any embarrassment, when a little incident happened to divert conversation into another channel.
 s=none;e:axel=smirking
@@ -296,7 +305,7 @@ An old document, enclosed an immemorial time within the folds of this old book, 
 
 
 “What’s this?” he cried.
-s=prof;e:prof=surprised
+s=prof;e:prof=surprisedlookdown
 
 And he laid out upon the table a piece of parchment, five inches by three, and along which were traced certain mysterious characters.
 s=none;e:prof=serious
@@ -307,7 +316,10 @@ e:axel=serious;o=glyph-1
 The Professor mused a few moments over this series of characters; then raising his spectacles he pronounced:
 e:prof=thinking
 
-“These are Runic letters; they are exactly like those of the manuscript of Snorre Turlleson. But, what on earth is their meaning?”
+“These are Runic letters; they are exactly like those of the manuscript of Snorre Turlleson.”
+e:prof=serious;s=prof
+
+“But, what on earth is their meaning?”
 s=prof;e:prof=confused
 
 Runic letters appearing to my mind to be an invention of the learned to mystify this poor world, I was not sorry to see my uncle suffering the pangs of mystification.
@@ -317,7 +329,7 @@ At least, so it seemed to me, judging from his fingers, which were beginning to 
 e:prof=nervous
 
 “It is certainly old Icelandic,” he muttered between his teeth.
-s=prof;e:prof=thinking
+s=prof;e:prof=thinkinglookdown
 
 And Professor Liedenbrock must have known, for he was acknowledged to be quite a polyglot.
 s=none;e:axel=neutral
@@ -332,21 +344,21 @@ At that moment our good housekeeper Martha opened the study door, saying:
 e:martha=neutral
 
 “Dinner is ready!”
-s=martha;e:martha=happy
+s=martha;e:martha=wary
 
 I am afraid he sent that soup to where it would boil away to nothing, and Martha took to her heels for safety.
-s=none;e:martha=fearful;e:prof=angry
+s=none;e:martha=fearful;e:prof=angry;f:b:prof-study=blur(3px)
 
 I followed her, and hardly knowing how I got there I found myself seated in my usual place.
-e:axel=nervous
+e:axel=nervous;b=prof-dining
 
 I waited a few minutes. No Professor came.
 e:axel=confused
 
-Never within my remembrance had he missed the important ceremonial of dinner. And yet what a good dinner it was!
+Never within my remembrance had he missed the important ceremonial of dinner.
 e:axel=surprised
 
-There was parsley soup, an omelette of ham garnished with spiced sorrel, a fillet of veal with compote of prunes; for dessert, crystallised fruit; the whole washed down with sweet Moselle.
+And yet what a good dinner it was! There was parsley soup, an omelette of ham garnished with spiced sorrel, a fillet of veal with compote of prunes; for dessert, crystallised fruit; the whole washed down with sweet Moselle.
 e:axel=happy
 
 All this my uncle was going to sacrifice to a bit of old parchment.
@@ -355,11 +367,14 @@ e:axel=thinking
 As an affectionate and attentive nephew I considered it my duty to eat for him as well as for myself, which I did conscientiously.
 e:axel=smirking
 
-“I have never known such a thing,” said Martha. “M. Liedenbrock is not at table!”
-s=martha;e:martha=surprised
+“I have never known such a thing,” said Martha.
+s=martha;e:martha=confused
+
+“M. Liedenbrock is not at table!”
+e:martha=upset
 
 “Who could have believed it?” I said, with my mouth full.
-s=axel;e:axel=neutral
+s=axel;e:axel=boredeating
 
 “Something serious is going to happen,” said the servant, shaking her head.
 s=martha;e:martha=nervous
@@ -371,30 +386,36 @@ I had come to the last of the fruit when a very loud voice tore me away from the
 e:axel=surprised
 
 With one spring I bounded out of the dining-room into the study.
-e:axel=nervous
+e:axel=nervous;f:b:prof-dining=blur(3px)
 
 ## III. The Runic Writing Exercises the Professor
 r=title
 
-“Undoubtedly it is Runic,” said the Professor, bending his brows; “but there is a secret in it, and I mean to discover the key.”
-s=prof;e:prof=serious
+“Undoubtedly it is Runic,” said the Professor, bending his brows;
+s=prof;e:prof=serious;b=prof-study
+
+“but there is a secret in it, and I mean to discover the key.”
+e:prof=angry
 
 A violent gesture finished the sentence.
 s=none;e:prof=angry
 
-“Sit there,” he added, holding out his fist towards the table.
-s=prof
+“Sit there,” he added,
+s=prof;e:prof=scowlinglook;m=break,1
+
+holding out his fist towards the table.
+s=
 
 “Sit there, and write.”
-
+s=prof;e:prof=angry;i=2
 
 I was seated in a trice.
 s=none;e:axel=nervous
 
-“Now I will dictate to you every letter of our alphabet which corresponds with each of these Icelandic characters.”
+“Now I will dictate to you every letter of our alphabet which corresponds with each of these Icelandic characters. We will see what that will give us.”
 s=prof;e:prof=serious
 
-“We will see what that will give us. But, by St. Michael, if you should dare to deceive me—”
+“But, by St. Michael, if you should dare to deceive me—”
 e:prof=scowling
 
 The dictation commenced. I did my best.
@@ -412,14 +433,11 @@ e:prof=thinking
 “What does it all mean?” he kept repeating mechanically.
 s=prof;e:prof=confused
 
-Upon my honour I could not have enlightened him.
+Upon my honour I could not have enlightened him. Besides he did not ask me, and he went on talking to himself.
 s=none;e:axel=neutral
 
-Besides he did not ask me, and he went on talking to himself.
-
-
 “This is what is called a cryptogram, or cipher,” he said, “in which letters are purposely thrown in confusion, which if properly arranged would reveal their sense.”
-s=prof;e:prof=thinking
+s=prof;e:prof=contemplative
 
 “Only think that under this jargon there may lie concealed the clue to some great discovery!”
 e:prof=excited
@@ -431,31 +449,25 @@ Then the Professor took the book and the parchment, and diligently compared them
 e:prof=serious
 
 “These two writings are not by the same hand,” he said; “the cipher is of later date than the book, an undoubted proof of which I see in a moment.”
-s=prof;e:prof=thinking
+s=prof;e:prof=seriouslookdown
 
-“The first letter is a double *m*, a letter which is not to be found in Turlleson’s book, and which was only added to the alphabet in the fourteenth century.”
-e:prof=excited
-
-“Therefore there are two hundred years between the manuscript and the document.”
+“The first letter is a double *m*, a letter which is not to be found in Turlleson’s book, and which was only added to the alphabet in the fourteenth century. Therefore there are two hundred years between the manuscript and the document.”
 
 
 I admitted that this was a strictly logical conclusion.
 s=none;e:axel=thinking
 
 “I am therefore led to imagine,” continued my uncle, “that some possessor of this book wrote these mysterious letters.”
-s=prof;e:prof=thinking
+s=prof;e:prof=contemplative
 
 “But who was that possessor? Is his name nowhere to be found in the manuscript?”
-e:prof=curious
+e:prof=serious
 
 My uncle raised his spectacles, took up a strong lens, and carefully examined the blank pages of the book.
 s=none;e:prof=serious
 
-On the front of the second, the title-page, he noticed a sort of stain which looked like an ink blot.
+On the front of the second, the title-page, he noticed a sort of stain which looked like an ink blot. But in looking at it very closely he thought he could distinguish some half-effaced letters.
 e:prof=curious
-
-But in looking at it very closely he thought he could distinguish some half-effaced letters.
-
 
 My uncle at once fastened upon this as the centre of interest, and he laboured at that blot, until by the help of his microscope he ended by making out the following Runic characters which he read without difficulty.
 e:prof=serious
@@ -469,11 +481,8 @@ s=prof;e:prof=excited
 I gazed at my uncle with satisfactory admiration.
 s=none;e:axel=surprised
 
-“Those alchemists,” he resumed, “Avicenna, Bacon, Lully, Paracelsus, were the real and only savants of their time.”
+“Those alchemists,” he resumed, “Avicenna, Bacon, Lully, Paracelsus, were the real and only savants of their time. They made discoveries at which we are astonished.”
 s=prof;e:prof=serious
-
-“They made discoveries at which we are astonished.”
-
 
 “Has not this Saknussemm concealed under his cryptogram some surprising invention? It is so; it must be so!”
 e:prof=excited
@@ -482,22 +491,25 @@ The Professor’s imagination took fire at this hypothesis.
 s=none
 
 “No doubt,” I ventured to reply, “but what interest would he have in thus hiding so marvellous a discovery?”
-s=axel;e:axel=curious
+s=axel;e:axel=confused
 
 “Why? Why? How can I tell? Did not Galileo do the same by Saturn?”
-s=prof;e:prof=excited
+s=prof;e:prof=excitedthinking
 
 “We shall see. I will get at the secret of this document, and I will neither sleep nor eat until I have found it out.”
 e:prof=serious
 
 My comment on this was a half-suppressed “Oh!”
-s=axel;e:axel=nervous
+s=
 
 “Nor you either, Axel,” he added.
 s=prof;e:prof=scowling
 
-“The deuce!” said I to myself; “then it is lucky I have eaten two dinners today!”
-s=axel;e:axel=wary
+“The deuce!” said I to myself;
+s=axel;e:axel=annoyed
+
+“then it is lucky I have eaten two dinners today!”
+
 
 “First of all we must find out the key to this cipher; that cannot be difficult.”
 s=prof;e:prof=smirking
@@ -515,7 +527,7 @@ These were very fair conclusions, I thought.
 s=none;e:axel=thinking
 
 “But what language is it?”
-s=prof;e:prof=curious
+s=prof;e:prof=contemplative
 
 Here I looked for a display of learning, but I met instead with profound analysis.
 s=none;e:axel=neutral
@@ -523,44 +535,44 @@ s=none;e:axel=neutral
 “This Saknussemm,” he went on, “was a very well-informed man; now since he was not writing in his own mother tongue, he would naturally select that which was currently adopted by the choice spirits of the sixteenth century; I mean Latin.”
 s=prof;e:prof=serious
 
-“If I am mistaken, I can but try Spanish, French, Italian, Greek, or Hebrew.”
-
-
-“But the savants of the sixteenth century generally wrote in Latin. I am therefore entitled to pronounce this, *a priori*, to be Latin. It is Latin.”
+“If I am mistaken, I can but try Spanish, French, Italian, Greek, or Hebrew. But the savants of the sixteenth century generally wrote in Latin. I am therefore entitled to pronounce this, *a priori*, to be Latin. It is Latin.”
 e:prof=smirking
 
 I jumped up in my chair. My Latin memories rose in revolt against the notion that these barbarous words could belong to the sweet language of Virgil.
 s=none;e:axel=upset
 
-“Yes, it is Latin,” my uncle went on; “but it is Latin confused and in disorder.”
+“Yes, it is Latin,” my uncle went on;
 s=prof;e:prof=serious
 
+“but it is Latin confused and in disorder.”
+
+
 “Very well,” thought I, “if you can bring order out of that confusion, my dear uncle, you are a clever man.”
-s=axel;e:axel=smirking
+t=axel;e:axel=happywary;s=
 
-“Let us examine carefully,” said he again, taking up the leaf upon which I had written.
-s=prof;e:prof=thinking
+“Let us examine carefully,” said he again,
+s=prof;e:prof=thinking;m=break,1;t=
 
-“Here is a series of one hundred and thirty-two letters in apparent disorder.”
+taking up the leaf upon which I had written.
+s=
 
-
-“There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”
-
+“Here is a series of one hundred and thirty-two letters in apparent disorder. There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”
+s=prof;e:prof=seriouslookdown
 
 “Now this arrangement has evidently not been premeditated; it has arisen mathematically in obedience to the unknown law which has ruled in the succession of these letters.”
 
 
-“It appears to me a certainty that the original sentence was written in a proper manner, and afterwards distorted by a law which we have yet to discover.”
-e:prof=serious
+“It appears to me a certainty that the original sentence was written in a proper manner, and afterwards distorted by a law which we have yet to discover. Whoever possesses the key of this cipher will read it with fluency.”
+e:prof=thinking
 
-“Whoever possesses the key of this cipher will read it with fluency. What is that key? Axel, have you got it?”
-e:prof=curious
+“What is that key? Axel, have you got it?”
+e:prof=seriouslook
 
 I answered not a word, and for a very good reason.
 s=none;e:axel=nervous
 
 My eyes had fallen upon a charming picture, suspended against the wall, the portrait of Gräuben.
-e:axel=sadsmile
+e:axel=sadsmile;b=grauben-pic
 
 My uncle’s ward was at that time at Altona, staying with a relation, and in her absence I was very downhearted; for I may confess it to you now, the pretty *Virlandaise* and the professor’s nephew loved each other with a patience and a calmness entirely German.
 
@@ -568,19 +580,16 @@ My uncle’s ward was at that time at Altona, staying with a relation, and in he
 We had become engaged unknown to my uncle, who was too much taken up with geology to be able to enter into such feelings as ours.
 
 
-Gräuben was a lovely blue-eyed blonde, rather given to gravity and seriousness; but that did not prevent her from loving me very sincerely.
+Gräuben was a lovely blue-eyed blonde, rather given to gravity and seriousness; but that did not prevent her from loving me very sincerely.<e>Classic German hair-and-eye colors.</e>
 
 
 As for me, I *adored* her, if there is such a word in the German language.
 e:axel=happy
 
 Thus it happened that the picture of my pretty *Virlandaise* threw me in a moment out of the world of realities into that of memory and fancy.
-e:axel=contemplative
+e:axel=contemplative;f:b:grauben-pic=blur(3px)
 
-There looked down upon me the faithful companion of my labours and my recreations.
-
-
-Every day she helped me to arrange my uncle’s precious specimens; she and I labelled them together.
+There looked down upon me the faithful companion of my labours and my recreations. Every day she helped me to arrange my uncle’s precious specimens; she and I labelled them together.
 
 
 Mademoiselle Gräuben was an accomplished mineralogist; she could have taught a few things to a savant. She was fond of investigating abstruse scientific questions.
@@ -590,7 +599,7 @@ What pleasant hours we have spent in study; and how often I envied the very ston
 
 
 Then, when our leisure hours came, we used to go out together and turn into the shady avenues by the Alster, and went happily side by side up to the old windmill, which forms such an improvement to the landscape at the head of the lake.
-
+b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 
 On the road we chatted hand in hand; I told her amusing tales at which she laughed heartily.
 
@@ -599,16 +608,16 @@ Then we reached the banks of the Elbe, and after having bid goodbye to the swan,
 
 
 That is just where I was in my dream, when my uncle with a vehement thump on the table dragged me back to the realities of life.
-e:axel=surprised;e:prof=angry
+e:axel=surprised;e:prof=angry;b=prof-study
 
 “Come,” said he, “the very first idea which would come into anyone’s head to confuse the letters of a sentence would be to write the words vertically instead of horizontally.”
 s=prof;e:prof=serious
 
 “Indeed!” said I.
-s=axel;e:axel=nervous
+s=axel;e:axel=confused
 
 “Now we must see what would be the effect of that, Axel; put down upon this paper any sentence you like, only instead of arranging the letters in the usual way, one after the other, place them in succession in vertical columns, so as to group them together in five or six vertical lines.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;i=3
 
 I caught his meaning, and immediately produced the following literary wonder:
 s=none;e:axel=neutral
@@ -616,26 +625,35 @@ s=none;e:axel=neutral
 <todo>
 
 
-“Good,” said the professor, without reading them, “now set down those words in a horizontal line.”
-s=prof;e:prof=happy
+“Good,” said the professor, without reading them,
+s=prof;e:prof=thinking
+
+“now set down those words in a horizontal line.”
+
 
 I obeyed, and with this result:
 s=none;e:axel=serious
 
 Iyloau lolwrb ou,nGe vwmdrn eeyea!
+m=margin,1
 
+“Excellent!” said my uncle,
+s=prof;e:prof=excitedlookdown;m=break,1
 
-“Excellent!” said my uncle, taking the paper hastily out of my hands.
-s=prof;e:prof=excited
+taking the paper hastily out of my hands.
+s=
 
 “This begins to look just like an ancient document: the vowels and the consonants are grouped together in equal disorder; there are even capitals in the middle of words, and commas too, just as in Saknussemm’s parchment.”
-
+s=prof;e:prof=happylookdown
 
 I considered these remarks very clever.
 s=none;e:axel=neutral
 
-“Now,” said my uncle, looking straight at me, “to read the sentence which you have just written, and with which I am wholly unacquainted, I shall only have to take the first letter of each word, then the second, the third, and so forth.”
-s=prof;e:prof=smirking
+“Now,” said my uncle, looking straight at me,
+s=prof;e:prof=serious
+
+“to read the sentence which you have just written, and with which I am wholly unacquainted, I shall only have to take the first letter of each word, then the second, the third, and so forth.”
+e:prof=smirking
 
 And my uncle, to his great astonishment, and my much greater, read:
 s=none;e:axel=surprised;e:prof=surprised
@@ -644,7 +662,7 @@ s=none;e:axel=surprised;e:prof=surprised
 s=prof
 
 “Hallo!” cried the Professor.
-e:prof=confused
+e:prof=confusedlook
 
 Yes, indeed, without knowing what I was about, like an awkward and unlucky lover, I had compromised myself by writing this unfortunate sentence.
 s=none;e:axel=nervous
@@ -659,7 +677,7 @@ s=axel;e:axel=fearful
 s=prof;e:prof=contemplative
 
 “Well, let us apply the process I have suggested to the document in question.”
-e:prof=serious
+e:prof=seriouslookdown
 
 My uncle, falling back into his absorbing contemplations, had already forgotten my imprudent words.
 s=none;e:axel=surprised
@@ -685,11 +703,14 @@ e:axel=excited
 But who could have foretold the result? A violent thump made the furniture rattle, and spilt some ink, and my pen dropped from between my fingers.
 e:axel=surprised;e:prof=angry
 
-“That’s not it,” cried my uncle, “there’s no sense in it.”
-s=prof;e:prof=upset
+“That’s not it,” cried my uncle,
+s=prof;e:prof=scowling
+
+“there’s no sense in it.”
+e:prof=unhappy
 
 Then darting out like a shot, bowling downstairs like an avalanche, he rushed into the Königstrasse and fled.
-s=none
+s=none;f:b:prof-study=blur(3px)
 
 ## IV. The Enemy to Be Starved Into Submission
 r=title
