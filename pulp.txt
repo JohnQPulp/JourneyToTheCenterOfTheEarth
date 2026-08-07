@@ -2879,51 +2879,36 @@ s=;f:b:reykjavik-roads=blur(3px)
 r=title
 
 We had started under a sky overcast but calm. There was no fear of heat, none of disastrous rain. It was just the weather for tourists.
-e:axel=happy
+e:axel=happy;b=reykjavik-sea-wide
 
 The pleasure of riding on horseback over an unknown country made me easy to be pleased at our first start.
 
 
-I threw myself wholly into the pleasure of the trip, and enjoyed the feeling of freedom and satisfied desire.
+I threw myself wholly into the pleasure of the trip, and enjoyed the feeling of freedom and satisfied desire. I was beginning to take a real share in the enterprise.
 
 
-I was beginning to take a real share in the enterprise.
-
-
-“Besides,” I said to myself, “where’s the risk? Here we are travelling all through a most interesting country!”
-s=axel;e:axel=thinking
-
-“We are about to climb a very remarkable mountain; at the worst we are going to scramble down an extinct crater.”
-
+“Besides,” I said to myself, “where’s the risk? Here we are travelling all through a most interesting country! We are about to climb a very remarkable mountain; at the worst we are going to scramble down an extinct crater.”
+s=axel;e:axel=thinking;x:axel=hat
 
 “It is evident that Saknussemm did nothing more than this. As for a passage leading to the centre of the globe, it is mere rubbish! Perfectly impossible!”
-
+e:axel=serious
 
 “Very well, then; let us get all the good we can out of this expedition, and don’t let us haggle about the chances.”
-
+e:axel=contemplativelook
 
 This reasoning having settled my mind, we got out of Reykjavík.
-s=none;e:axel=happy
+s=none;e:axel=happy;b=iceland-trip-1
 
-Hans moved steadily on, keeping ahead of us at an even, smooth, and rapid pace.
-
-
-The baggage horses followed him without giving any trouble.
+Hans moved steadily on, keeping ahead of us at an even, smooth, and rapid pace. The baggage horses followed him without giving any trouble.
 
 
 Then came my uncle and myself, looking not so very ill-mounted on our small but hardy animals.
 
 
-Iceland is one of the largest islands in Europe. Its surface is 14,000 square miles, and it contains but 16,000 inhabitants.
+Iceland is one of the largest islands in Europe. Its surface is 14,000 square miles, and it contains but 16,000 inhabitants. Geographers have divided it into four quarters, and we were crossing diagonally the southwest quarter, called the “Sudvester Fjordùngr.”
 e:axel=neutral
 
-Geographers have divided it into four quarters, and we were crossing diagonally the southwest quarter, called the “Sudvester Fjordùngr.”
-
-
-On leaving Reykjavík Hans took us by the seashore.
-
-
-We passed lean pastures which were trying very hard, but in vain, to look green; yellow came out best.
+On leaving Reykjavík Hans took us by the seashore. We passed lean pastures which were trying very hard, but in vain, to look green; yellow came out best.
 
 
 The rugged peaks of the trachyte rocks presented faint outlines on the eastern horizon; at times a few patches of snow, concentrating the vague light, glittered upon the slopes of the distant mountains; certain peaks, boldly uprising, passed through the grey clouds, and reappeared above the moving mists, like breakers emerging in the heavens.
@@ -2932,37 +2917,28 @@ The rugged peaks of the trachyte rocks presented faint outlines on the eastern h
 Often these chains of barren rocks made a dip towards the sea, and encroached upon the scanty pasturage: but there was always enough room to pass.
 
 
-Besides, our horses instinctively chose the easiest places without ever slackening their pace.
-
-
-My uncle was refused even the satisfaction of stirring up his beast with whip or voice. He had no excuse for being impatient.
+Besides, our horses instinctively chose the easiest places without ever slackening their pace. My uncle was refused even the satisfaction of stirring up his beast with whip or voice. He had no excuse for being impatient.
 
 
 I could not help smiling to see so tall a man on so small a pony, and as his long legs nearly touched the ground he looked like a six-legged centaur.
 e:axel=smirking
 
-“Good horse! good horse!” he kept saying. “You will see, Axel, that there is no more sagacious animal than the Icelandic horse.”
-s=prof;e:prof=happy
+“Good horse! good horse!” he kept saying.
+s=prof;e:prof=happylookdown;x:prof=hat
 
-“He is stopped by neither snow, nor storm, nor impassable roads, nor rocks, glaciers, or anything. He is courageous, sober, and sure-footed.”
+“You will see, Axel, that there is no more sagacious animal than the Icelandic horse. He is stopped by neither snow, nor storm, nor impassable roads, nor rocks, glaciers, or anything. He is courageous, sober, and sure-footed. He never makes a false step, never shies.”
+e:prof=happy
 
-
-“He never makes a false step, never shies. If there is a river or fjord to cross (and we shall meet with many) you will see him plunge in at once, just as if he were amphibious, and gain the opposite bank.”
-
-
-“But we must not hurry him; we must let him have his way, and we shall get on at the rate of thirty miles a day.”
-
+“If there is a river or fjord to cross (and we shall meet with many) you will see him plunge in at once, just as if he were amphibious, and gain the opposite bank. But we must not hurry him; we must let him have his way, and we shall get on at the rate of thirty miles a day.”
+e:prof=happylook
 
 “*We* may; but how about our guide?”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative
 
 “Oh, never mind him. People like him get over the ground without a thought.”
 s=prof;e:prof=neutral
 
-“There is so little action in this man that he will never get tired; and besides, if he wants it, he shall have my horse.”
-
-
-“I shall get cramped if I don’t have a little action. The arms are all right, but the legs want exercise.”
+“There is so little action in this man that he will never get tired; and besides, if he wants it, he shall have my horse. I shall get cramped if I don’t have a little action. The arms are all right, but the legs want exercise.”
 
 
 We were advancing at a rapid pace.
@@ -2977,10 +2953,7 @@ These ruinous huts seemed to solicit charity from passersby; and on very small p
 In this country there were no roads and paths, and the poor vegetation, however slow, would soon efface the rare travellers’ footsteps.
 
 
-Yet this part of the province, at a very small distance from the capital, is reckoned among the inhabited and cultivated portions of Iceland.
-
-
-What, then, must other tracts be, more desert than this desert?
+Yet this part of the province, at a very small distance from the capital, is reckoned among the inhabited and cultivated portions of Iceland. What, then, must other tracts be, more desert than this desert?
 e:axel=thinking
 
 In the first half mile we had not seen one farmer standing before his cabin door, nor one shepherd tending a flock less wild than himself, nothing but a few cows and sheep left to themselves.
@@ -2993,28 +2966,22 @@ We were to know them before long, but on consulting Olsen’s map, I saw that th
 
 
 In fact, the great plutonic action is confined to the central portion of the island; there, rocks of the “trappean” and volcanic class, including trachyte, basalt, and tuffs and agglomerates associated with streams of lava, have made this a land of supernatural horrors.
-e:axel=wary
+e:axel=wary;f:b:iceland-trip-1=blur(3px)
 
 I had no idea of the spectacle which was awaiting us in the peninsula of Snæfells, where these ruins of a fiery nature have formed a frightful chaos.
 e:axel=fearful
 
 In two hours from Reykjavík we arrived at the burgh of Gufunes, called *aðalkirkja*, or principal church. There was nothing remarkable here but a few houses, scarcely enough for a German hamlet.
-e:axel=neutral
+e:axel=neutral;b=iceland-trip-wide
 
-Hans stopped here half an hour.
-
-
-He shared with us our frugal breakfast; answering my uncle’s questions about the road and our resting place that night with merely yes or no, except when he said “Gardär.”
+Hans stopped here half an hour. He shared with us our frugal breakfast; answering my uncle’s questions about the road and our resting place that night with merely yes or no, except when he said “Gardär.”
 
 
-I consulted the map to see where Gardär was. I saw there was a small town of that name on the banks of the Hvalfjord, four miles from Reykjavík.
-
-
-I showed it to my uncle.
+I consulted the map to see where Gardär was. I saw there was a small town of that name on the banks of the Hvalfjord, four miles from Reykjavík. I showed it to my uncle.
 
 
 “Four miles only!” he exclaimed; “four miles out of twenty-eight. What a nice little walk!”
-s=prof;e:prof=annoyed
+s=prof;e:prof=thinkinglookdown
 
 He was about to make an observation to the guide, who without answering resumed his place at the head, and went on his way.
 s=none;e:hans=neutral
@@ -3040,17 +3007,11 @@ In that place the fjord was at least three English miles wide; the waves rolled 
 However much I might respect the intelligence of our quadrupeds, I hardly cared to put it to the test by trusting myself to it on horseback across an arm of the sea.
 e:axel=nervous
 
-If they are as intelligent as they are said to be, I thought, they won’t try it.
-
-
-In any case, I will tax my intelligence to direct theirs.
+If they are as intelligent as they are said to be, I thought, they won’t try it. In any case, I will tax my intelligence to direct theirs.
 e:axel=thinking
 
-But my uncle would not wait. He spurred on to the edge.
+But my uncle would not wait. He spurred on to the edge. His steed lowered his head to examine the nearest waves and stopped.
 e:prof=annoyed
-
-His steed lowered his head to examine the nearest waves and stopped.
-
 
 My uncle, who had an instinct of his own, too, applied pressure, and was again refused by the animal significantly shaking his head.
 
@@ -3061,38 +3022,41 @@ Then followed strong language, and the whip; but the brute answered these argume
 At last the clever little pony, with a bend of his knees, started from under the Professor’s legs, and left him standing upon two boulders on the shore just like the colossus of Rhodes.
 
 
-“Confounded brute!” cried the unhorsed horseman, suddenly degraded into a pedestrian, just as ashamed as a cavalry officer degraded to a foot soldier.
-s=prof;e:prof=angry
+“Confounded brute!” cried the unhorsed horseman,
+s=prof;e:prof=angry;m=break,1
+
+suddenly degraded into a pedestrian, just as ashamed as a cavalry officer degraded to a foot soldier.
+s=
 
 “*Färja*,” said the guide, touching his shoulder.
-s=hans
+s=hans;e:hans=shouldertouching
 
 “What! A boat?”
 s=prof;e:prof=surprised
 
 “*Der*,” replied Hans, pointing to one.
-s=hans
+s=hans;e:hans=neutrallook
 
 “Yes,” I cried; “there is a boat.”
-s=axel;e:axel=excited
+s=axel;e:axel=surprisedlook
 
 “Why did not you say so then? Well, let us go on.”
 s=prof;e:prof=annoyed
 
 “*Tidvatten*,” said the guide.
-s=hans
+s=hans;e:hans=;i=2
 
 “What is he saying?”
-s=prof;e:prof=confused
+s=axel;e:axel=confused
 
 “He says tide,” said my uncle, translating the Danish word.
-e:prof=neutral
+e:prof=serious;s=prof
 
 “No doubt we must wait for the tide.”
 e:prof=annoyed
 
 “*Förbida*,” said my uncle.
-
+e:prof=thinking
 
 “*Ja*,” replied Hans.
 s=hans
@@ -3109,20 +3073,17 @@ Then the ebb and flow have no sensible effect, and the boat does not risk being 
 That favourable moment arrived only with six o’clock; when my uncle, myself, the guide, two other passengers and the four horses, trusted ourselves to a somewhat fragile raft.
 
 
-Accustomed as I was to the swift and sure steamers on the Elbe, I found the oars of the rowers rather a slow means of propulsion.
-
-
-It took us more than an hour to cross the fjord; but the passage was effected without any mishap.
+Accustomed as I was to the swift and sure steamers on the Elbe, I found the oars of the rowers rather a slow means of propulsion. It took us more than an hour to cross the fjord; but the passage was effected without any mishap.
 
 
 In another half hour we had reached the *aðalkirkja* of Gardär.
-
+b=gardar-wide
 
 ## XIII. Hospitality Under the Arctic Circle
 r=title
 
 It ought to have been nighttime, but under the 65th parallel there was nothing surprising in the nocturnal polar light. In Iceland during the months of June and July the sun does not set.
-e:axel=contemplative
+e:axel=contemplative;b=gardar-wide
 
 But the temperature was much lower. I was cold and more hungry than cold.
 e:axel=weary
