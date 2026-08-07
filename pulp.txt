@@ -3274,19 +3274,13 @@ s=none;b=stapi-wide;f:b:stapi-wide=blur(3px)
 ## XIV. But Arctics Can Be Inhospitable, Too
 r=title
 
-Stapi is a village consisting of about thirty huts, built of lava, at the south side of the base of the volcano.
+Stapi is a village consisting of about thirty huts, built of lava, at the south side of the base of the volcano. It extends along the inner edge of a small fjord, enclosed between basaltic walls of the strangest construction.
 b=stapi-wide
-
-It extends along the inner edge of a small fjord, enclosed between basaltic walls of the strangest construction.
-
 
 Basalt is a brownish rock of igneous origin. It assumes regular forms, the arrangement of which is often very surprising.
 
 
-Here nature had done her work geometrically, with square and compass and plummet.
-
-
-Everywhere else her art consists alone in throwing down huge masses together in disorder.
+Here nature had done her work geometrically, with square and compass and plummet. Everywhere else her art consists alone in throwing down huge masses together in disorder.
 
 
 You see cones imperfectly formed, irregular pyramids, with a fantastic disarrangement of lines; but here, as if to exhibit an example of regularity, though in advance of the very earliest architects, she has created a severely simple order of architecture, never surpassed either by the splendours of Babylon or the wonders of Greece.
@@ -3323,51 +3317,36 @@ On arriving at the door of the rector’s house, which was not different from th
 s=hans
 
 “*God dag*,” said the blacksmith in good Danish.
-n:blacksmith=Blacksmith;s=blacksmith;e:blacksmith=neutral
+n:blacksmith=?;s=blacksmith;e:blacksmith=contemplative
 
 “*Kyrkoherde*,” said Hans, turning round to my uncle.
-s=hans
+s=hans;e:hans=neutrallook
 
 “The rector,” repeated the Professor.
-s=prof;e:prof=neutral
+s=prof;e:prof=contemplative;x:prof=hat
 
 “It seems, Axel, that this good man is the rector.”
-
+e:prof=curious
 
 Our guide in the meanwhile was making the *kyrkoherde* aware of the position of things; when the latter, suspending his labours for a moment, uttered a sound no doubt understood between horses and farriers, and immediately a tall and ugly hag appeared from the hut.
 s=none
 
-She must have been six feet at the least.
-
-
-I was in great alarm lest she should treat me to the Icelandic kiss; but there was no occasion to fear, nor did she do the honours at all too gracefully.
+She must have been six feet at the least. I was in great alarm lest she should treat me to the Icelandic kiss; but there was no occasion to fear, nor did she do the honours at all too gracefully.
 e:axel=fearful
 
 The visitors’ room seemed to me the worst in the whole cabin.
+b=stapi-room
+
+It was close, dirty, and evil smelling. But we had to be content.
 
 
-It was close, dirty, and evil smelling.
-
-
-But we had to be content.
-e:axel=upset
-
-The rector did not seem to go in for antique hospitality.
-
-
-Very far from it.
-
-
-Before the day was over I saw that we had to do with a blacksmith, a fisherman, a hunter, a joiner, but not at all with a minister of the Gospel.
-
+The rector did not seem to go in for antique hospitality. Very far from it. Before the day was over I saw that we had to do with a blacksmith, a fisherman, a hunter, a joiner, but not at all with a minister of the Gospel.
+f:b:stapi-room=blur(3px)
 
 To be sure, it was a weekday; perhaps on a Sunday he made amends.
 
 
-I don’t mean to say anything against these poor priests, who after all are very wretched.
-
-
-They receive from the Danish Government a ridiculously small pittance, and they get from the parish the fourth part of the tithe, which does not come to sixty marks a year (about £4).
+I don’t mean to say anything against these poor priests, who after all are very wretched. They receive from the Danish Government a ridiculously small pittance, and they get from the parish the fourth part of the tithe, which does not come to sixty marks a year (about £4).
 
 
 Hence the necessity to work for their livelihood; but after fishing, hunting, and shoeing horses for any length of time, one soon gets into the ways and manners of fishermen, hunters, and farriers, and other rather rude and uncultivated people; and that evening I found out that temperance was not among the virtues that distinguished my host.
@@ -3376,92 +3355,62 @@ Hence the necessity to work for their livelihood; but after fishing, hunting, an
 My uncle soon discovered what sort of a man he had to do with; instead of a good and learned man he found a rude and coarse peasant.
 e:prof=annoyed
 
-He therefore resolved to commence the grand expedition at once, and to leave this inhospitable parsonage.
-
-
-He cared nothing about fatigue, and resolved to spend some days upon the mountain.
+He therefore resolved to commence the grand expedition at once, and to leave this inhospitable parsonage. He cared nothing about fatigue, and resolved to spend some days upon the mountain.
 
 
 The preparations for our departure were therefore made the very day after our arrival at Stapi.
+b=stapi-wide
 
-
-Hans hired the services of three Icelanders to do the duty of the horses in the transport of the burdens; but as soon as we had arrived at the crater these natives were to turn back and leave us to our own devices.
-
-
-This was to be clearly understood.
+Hans hired the services of three Icelanders to do the duty of the horses in the transport of the burdens; but as soon as we had arrived at the crater these natives were to turn back and leave us to our own devices. This was to be clearly understood.
 
 
 My uncle now took the opportunity to explain to Hans that it was his intention to explore the interior of the volcano to its farthest limits.
 
 
-Hans merely nodded.
+Hans merely nodded. There or elsewhere, down in the bowels of the earth, or anywhere on the surface, all was alike to him.
 e:hans=neutral
-
-There or elsewhere, down in the bowels of the earth, or anywhere on the surface, all was alike to him.
-
 
 For my own part the incidents of the journey had hitherto kept me amused, and made me forgetful of coming evils; but now my fears again were beginning to get the better of me.
 e:axel=nervous
 
-But what could I do?
-
-
-The place to resist the Professor would have been Hamburg, not the foot of Snæfells.
+But what could I do? The place to resist the Professor would have been Hamburg, not the foot of Snæfells.
 
 
 One thought, above all others, harassed and alarmed me; it was one calculated to shake firmer nerves than mine.
 e:axel=fearful
 
-Now, thought I, here we are, about to climb Snæfells. Very good.
+Now, thought I, here we are, about to climb Snæfells. Very good. We will explore the crater. Very good, too, others have done as much without dying for it.
 
 
-We will explore the crater. Very good, too, others have done as much without dying for it.
-
-
-But that is not all.
-
-
-If there is a way to penetrate into the very bowels of the island, if that ill-advised Saknussemm has told a true tale, we shall lose our way amidst the deep subterranean passages of this volcano.
+But that is not all. If there is a way to penetrate into the very bowels of the island, if that ill-advised Saknussemm has told a true tale, we shall lose our way amidst the deep subterranean passages of this volcano.
 
 
 Now, there is no proof that Snæfells is extinct. Who can assure us that an eruption is not brewing at this very moment?
 
 
-Does it follow that because the monster has slept since 1229 he must therefore never awake again?<e>1219 earlier, but both dates are wrong, so whatever.</e>
+Does it follow that because the monster has slept since 1229 he must therefore never awake again?<e>Book said 1219 earlier. Sure hope somebody got fired for that blunder.</e>
 
 
 And if he wakes up presently, where shall we be?
 
 
-It was worth while debating this question, and I did debate it.
-
-
-I could not sleep for dreaming about eruptions.
-
-
-Now, the part of ejected scoriae and ashes seemed to my mind a very rough one to act.
-
+It was worth while debating this question, and I did debate it. I could not sleep for dreaming about eruptions. Now, the part of ejected scoriae and ashes seemed to my mind a very rough one to act.
+f:b:stapi-wide=blur(3px)
 
 So, at last, when I could hold out no longer, I resolved to lay the case before my uncle, as prudently and as cautiously as possible, just under the form of an almost impossible hypothesis.
 e:axel=nervous
 
-I went to him.
-
-
-I communicated my fears to him, and drew back a step to give him room for the explosion which I knew must follow.
-
+I went to him. I communicated my fears to him, and drew back a step to give him room for the explosion which I knew must follow.
+b=stapi-room;f:b:stapi-room=
 
 But I was mistaken.
 e:axel=surprised
 
 “I was thinking of that,” he replied with great simplicity.
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;x:prof=;i=2
 
-What could those words mean?﻿—Was he actually going to listen to reason?
+What could those words mean?﻿—Was he actually going to listen to reason? Was he contemplating the abandonment of his plans?
 s=none;e:axel=confused
-
-Was he contemplating the abandonment of his plans?
-
 
 This was too good to be true.
 
@@ -3469,59 +3418,50 @@ This was too good to be true.
 After a few moments’ silence, during which I dared not question him, he resumed:
 
 
-“I was thinking of that.”
+“I was thinking of that. Ever since we arrived at Stapi I have been occupied with the important question you have just opened, for we must not be guilty of imprudence.”
 s=prof;e:prof=thinking
 
-“Ever since we arrived at Stapi I have been occupied with the important question you have just opened, for we must not be guilty of imprudence.”
-
-
 “No, indeed!” I replied with forcible emphasis.
-s=axel;e:axel=excited
+s=axel;e:axel=confused
 
 “For six hundred years Snæfells has been dumb; but he may speak again.”
 s=prof;e:prof=serious
 
-“Now, eruptions are always preceded by certain well-known phenomena.”
-
-
-“I have therefore examined the natives, I have studied external appearances, and I can assure you, Axel, that there will be no eruption.”
-
+“Now, eruptions are always preceded by certain well-known phenomena. I have therefore examined the natives, I have studied external appearances, and I can assure you, Axel, that there will be no eruption.”
+e:prof=thiking
 
 At this positive affirmation I stood amazed and speechless.
 s=none;e:axel=surprised
 
 “You don’t doubt my word?” said my uncle.
-s=prof;e:prof=curious
+s=prof;e:prof=suspicious
 
 “Well, follow me.”
-e:prof=serious
+e:prof=thinking;i=2
 
 I obeyed like an automaton.
-s=none;e:axel=weary
+s=none;e:axel=weary;f:b:stapi-room=blur(3px)
 
 Coming out from the priest’s house, the Professor took a straight road, which, through an opening in the basaltic wall, led away from the sea.
-
+b=stapi-wide;f:b:stapi-wide=
 
 We were soon in the open country, if one may give that name to a vast extent of mounds of volcanic products.
-
+b=iceland-steam
 
 This tract seemed crushed under a rain of enormous ejected rocks of trap, basalt, granite, and all kinds of igneous rocks.
 
 
-Here and there I could see puffs and jets of steam curling up into the air, called in Icelandic *reykir*, issuing from thermal springs, and indicating by their motion the volcanic energy underneath.
-
-
-This seemed to justify my fears.
+Here and there I could see puffs and jets of steam curling up into the air, called in Icelandic *reykir*, issuing from thermal springs, and indicating by their motion the volcanic energy underneath. This seemed to justify my fears.
 e:axel=fearful
 
 But I fell from the height of my newborn hopes when my uncle said:
 e:axel=unhappy
 
 “You see all these volumes of steam, Axel; well, they demonstrate that we have nothing to fear from the fury of a volcanic eruption.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;x:prof=hat;x:axel=hat
 
 “Am I to believe that?” I cried.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;i=2
 
 “Understand this clearly,” added the Professor.
 s=prof;e:prof=serious
@@ -3530,7 +3470,7 @@ s=prof;e:prof=serious
 
 
 “For the elastic fluids, being no longer under pressure, go off by way of the crater instead of escaping by their usual passages through the fissures in the soil.”
-
+e:prof=thinking
 
 “Therefore, if these vapours remain in their usual condition, if they display no augmentation of force, and if you add to this the observation that the wind and rain are not ceasing and being replaced by a still and heavy atmosphere, then you may affirm that no eruption is preparing.”
 
@@ -3541,11 +3481,11 @@ s=axel;e:axel=nervous
 “No more; that is sufficient.”
 s=prof;e:prof=annoyed
 
-“When science has uttered her voice, let babblers hold their peace.”<e>100% factually accurate science throughout the whole book.</e>
+“When science has uttered her voice, let babblers hold their peace.”<e>Trust.</e>
 
 
 I returned to the parsonage, very crestfallen.
-s=none;e:axel=upset
+s=none;e:axel=upset;b=stapi-room;f:b:stapi-room=
 
 My uncle had beaten me with the weapons of science.
 
@@ -3554,21 +3494,15 @@ Still I had one hope left, and this was, that when we had reached the bottom of 
 
 
 I spent that whole night in one constant nightmare; in the heart of a volcano, and from the deepest depths of the earth I saw myself tossed up amongst the interplanetary spaces under the form of an eruptive rock.
-e:axel=fearful
+e:axel=fearful;b=night
 
 The next day, June 23, Hans was awaiting us with his companions carrying provisions, tools, and instruments; two iron pointed sticks, two rifles, and two shot belts were for my uncle and myself.
-
+b=stapi-wide;f:b:stapi-wide=
 
 Hans, as a cautious man, had added to our luggage a leathern bottle full of water, which, with that in our flasks, would ensure us a supply of water for eight days.
 e:hans=neutral
 
-It was nine in the morning.
-
-
-The priest and his tall Megæra were awaiting us at the door.
-
-
-We supposed they were standing there to bid us a kind farewell.
+It was nine in the morning. The priest and his tall Megæra were awaiting us at the door. We supposed they were standing there to bid us a kind farewell.
 
 
 But the farewell was put in the unexpected form of a heavy bill, in which everything was charged, even to the very air we breathed in the pastoral house, infected as it was.
@@ -3581,7 +3515,7 @@ My uncle paid without a remark: a man who is starting for the centre of the eart
 e:prof=neutral
 
 This point being settled, Hans gave the signal, and we soon left Stapi behind us.
-e:hans=neutral
+e:hans=neutral;f:b:stapi-wide=blur(3px)
 
 ## XV. Snæfells at Last
 r=title
