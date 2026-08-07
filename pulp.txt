@@ -556,7 +556,7 @@ s=prof;e:prof=thinking;m=break,1;t=
 taking up the leaf upon which I had written.
 s=
 
-“Here is a series of one hundred and thirty-two letters in apparent disorder. There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”
+“Here is a series of one hundred and thirty-two letters in apparent disorder. There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”<e>Look, don't go down the rabbit hole of checking whether these words were all in the scrambled word set. This puzzle isn't worth it.</e>
 s=prof;e:prof=seriouslookdown
 
 “Now this arrangement has evidently not been premeditated; it has arisen mathematically in obedience to the unknown law which has ruled in the succession of these letters.”
