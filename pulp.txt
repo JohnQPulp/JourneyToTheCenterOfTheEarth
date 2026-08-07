@@ -3085,11 +3085,8 @@ r=title
 It ought to have been nighttime, but under the 65th parallel there was nothing surprising in the nocturnal polar light. In Iceland during the months of June and July the sun does not set.
 e:axel=contemplative;b=gardar-wide
 
-But the temperature was much lower. I was cold and more hungry than cold.
+But the temperature was much lower. I was cold and more hungry than cold. Welcome was the sight of the boër which was hospitably opened to receive us.
 e:axel=weary
-
-Welcome was the sight of the boër which was hospitably opened to receive us.
-e:axel=happy
 
 It was a peasant’s house, but in point of hospitality it was equal to a king’s.
 
@@ -3101,7 +3098,7 @@ To accompany him down the long, narrow, dark passage, would have been impossible
 
 
 The building was constructed of roughly squared timbers, with rooms on both sides, four in number, all opening out into the one passage: these were the kitchen, the weaving shop, the *badstofa*, or family sleeping-room, and the visitors’ room, which was the best of all.
-
+b=gardar-rooms
 
 My uncle, whose height had not been thought of in building the house, of course hit his head several times against the beams that projected from the ceilings.
 e:prof=annoyed
@@ -3149,7 +3146,7 @@ At that moment our hunter returned, who had been seeing his horses provided for;
 e:hans=neutral
 
 “*Sællvertu*,” said Hans.
-s=hans
+s=hans;e:hans=happy
 
 Then calmly, automatically, and dispassionately he kissed the host, the hostess, and their nineteen children.
 s=none
@@ -3173,22 +3170,25 @@ As soon as the meal was over the children disappeared, and their elders gathered
 
 
 After this little pinch of warmth the different groups retired to their respective rooms.
-
+f:b:gardar-rooms=blur(3px)
 
 Our hostess hospitably offered us her assistance in undressing, according to Icelandic usage; but on our gracefully declining, she insisted no longer, and I was able at last to curl myself up in my mossy bed.
 e:axel=weary
 
 At five next morning we bade our host farewell, my uncle with difficulty persuading him to accept a proper remuneration; and Hans signalled the start.
-e:axel=neutral
+e:axel=neutral;f:b:gardar-rooms=
 
 At a hundred yards from Gardär the soil began to change its aspect; it became boggy and less favourable to progress.
-
+b=iceland-trip-2
 
 On our right the chain of mountains was indefinitely prolonged like an immense system of natural fortifications, of which we were following the counter-scarp or lesser steep; often we were met by streams, which we had to ford with great care, not to wet our packages.
 
 
-The desert became wider and more hideous; yet from time to time we seemed to descry a human figure that fled at our approach, sometimes a sharp turn would bring us suddenly within a short distance of one of these spectres, and I was filled with loathing at the sight of a huge deformed head, the skin shining and hairless, and repulsive sores visible through the gaps in the poor creature’s wretched rags.
-e:axel=nervous
+The desert became wider and more hideous; yet from time to time we seemed to descry a human figure that fled at our approach, sometimes a sharp turn would bring us suddenly within a short distance of one of these spectres,
+e:axel=nervous;m=break,1
+
+and I was filled with loathing at the sight of a huge deformed head, the skin shining and hairless, and repulsive sores visible through the gaps in the poor creature’s wretched rags.
+
 
 The unhappy being forbore to approach us and offer his misshapen hand.
 
@@ -3197,16 +3197,13 @@ He fled away, but not before Hans had saluted him with the customary *Sællvertu
 
 
 “*Spetelsk*,” said he.
-s=hans
+s=hans;e:hans=contemplativelook
 
 “A leper!” my uncle repeated.
-s=prof;e:prof=surprised
+s=prof;e:prof=scowling
 
-This word produced a repulsive effect.
+This word produced a repulsive effect. The horrible disease of leprosy is too common in Iceland; it is not contagious, but hereditary, and lepers are forbidden to marry.
 s=none;e:axel=upset
-
-The horrible disease of leprosy is too common in Iceland; it is not contagious, but hereditary, and lepers are forbidden to marry.
-
 
 These apparitions were not cheerful, and did not throw any charm over the less and less attractive landscapes.
 
@@ -3214,14 +3211,11 @@ These apparitions were not cheerful, and did not throw any charm over the less a
 The last tufts of grass had disappeared from beneath our feet. Not a tree was to be seen, unless we except a few dwarf birches as low as brushwood.
 
 
-Not an animal but a few wandering ponies that their owners would not feed.
-
-
-Sometimes we could see a hawk balancing himself on his wings under the grey cloud, and then darting away south with rapid flight.
+Not an animal but a few wandering ponies that their owners would not feed. Sometimes we could see a hawk balancing himself on his wings under the grey cloud, and then darting away south with rapid flight.
 
 
 I felt melancholy under this savage aspect of nature, and my thoughts went away to the cheerful scenes I had left in the far south.
-e:axel=unhappy
+e:axel=unhappy;f:b:iceland-trip-2=blur(3px)
 
 We had to cross a few narrow fjords, and at last quite a wide gulf; the tide, then high, allowed us to pass over without delay, and to reach the hamlet of Álftanes, one mile beyond.
 
@@ -3232,16 +3226,13 @@ e:axel=wary
 The ice king certainly held court here, and gave us all night long samples of what he could do.
 
 
-No particular event marked the next day.
+No particular event marked the next day. Bogs, dead levels, melancholy desert tracks, wherever we travelled. By nightfall we had accomplished half our journey, and we lay at Krösolbt.
 
 
-Bogs, dead levels, melancholy desert tracks, wherever we travelled.
+On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country *hraun*;
+b=iceland-trip-3
 
-
-By nightfall we had accomplished half our journey, and we lay at Krösolbt.
-
-
-On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country *hraun*; the writhen surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions.
+the writhen surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions.
 
 
 Yet here and there were a few jets of steam from hot springs.
@@ -3259,14 +3250,11 @@ Our route now lay westward; we had turned the great bay of Faxa, and the twin pe
 The horses did their duty well, no difficulties stopped them in their steady career.
 
 
-I was getting tired; but my uncle was as firm and straight as he was at our first start.
+I was getting tired; but my uncle was as firm and straight as he was at our first start. I could not help admiring his persistency, as well as the hunter’s, who treated our expedition like a mere promenade.
 e:axel=weary;e:prof=serious
 
-I could not help admiring his persistency, as well as the hunter’s, who treated our expedition like a mere promenade.
-
-
 June 20. At six p.m. we reached Büdir, a village on the sea shore; and the guide there claiming his due, my uncle settled with him.
-
+f:b:iceland-trip-3=blur(3px)
 
 It was Hans’ own family, that is, his uncles and cousins, who gave us hospitality; we were kindly received, and without taxing too much the goodness of these folks, I would willingly have tarried here to recruit after my fatigues.
 
@@ -3274,26 +3262,20 @@ It was Hans’ own family, that is, his uncles and cousins, who gave us hospital
 But my uncle, who wanted no recruiting, would not hear of it, and the next morning we had to bestride our beasts again.
 e:prof=determined
 
-The soil told of the neighbourhood of the mountain, whose granite foundations rose from the earth like the knotted roots of some huge oak.
+The soil told of the neighbourhood of the mountain, whose granite foundations rose from the earth like the knotted roots of some huge oak. We were rounding the immense base of the volcano.
 
 
-We were rounding the immense base of the volcano.
-
-
-The Professor hardly took his eyes off it.
+The Professor hardly took his eyes off it. He tossed up his arms and seemed to defy it, and to declare, “There stands the giant that I shall conquer.”
 e:prof=contemplative
 
-He tossed up his arms and seemed to defy it, and to declare, “There stands the giant that I shall conquer.”
-s=prof;e:prof=excited
-
 After about four hours’ walking the horses stopped of their own accord at the door of the priest’s house at Stapi.
-s=none
+s=none;b=stapi-wide;f:b:stapi-wide=blur(3px)
 
 ## XIV. But Arctics Can Be Inhospitable, Too
 r=title
 
 Stapi is a village consisting of about thirty huts, built of lava, at the south side of the base of the volcano.
-
+b=stapi-wide
 
 It extends along the inner edge of a small fjord, enclosed between basaltic walls of the strangest construction.
 
