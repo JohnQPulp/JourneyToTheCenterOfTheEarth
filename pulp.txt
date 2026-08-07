@@ -3950,18 +3950,12 @@ s=none
 r=title
 
 Now began our real journey. Hitherto our toil had overcome all difficulties, now difficulties would spring up at every step.
-e:axel=serious
+e:axel=serious;b=snaffels-middle-chimney
 
-I had not yet ventured to look down the bottomless pit into which I was about to take a plunge.
+I had not yet ventured to look down the bottomless pit into which I was about to take a plunge. The supreme hour had come. I might now either share in the enterprise or refuse to move forward.
 e:axel=fearful
 
-The supreme hour had come. I might now either share in the enterprise or refuse to move forward.
-e:axel=thinking
-
-But I was ashamed to recoil in the presence of the hunter.
-e:axel=nervous
-
-Hans accepted the enterprise with such calmness, such indifference, such perfect disregard of any possible danger that I blushed at the idea of being less brave than he.
+But I was ashamed to recoil in the presence of the hunter. Hans accepted the enterprise with such calmness, such indifference, such perfect disregard of any possible danger that I blushed at the idea of being less brave than he.
 e:hans=neutral;e:axel=upset
 
 If I had been alone I might have once more tried the effect of argument; but in the presence of the guide I held my peace; my heart flew back to my sweet *Virlandaise*, and I approached the central chimney.
@@ -3973,11 +3967,8 @@ e:axel=curious
 My hair stood on end with terror. The bewildering feeling of vacuity laid hold upon me.
 e:axel=fearful
 
-I felt my centre of gravity shifting its place, and giddiness mounting into my brain like drunkenness.
+I felt my centre of gravity shifting its place, and giddiness mounting into my brain like drunkenness. There is nothing more treacherous than this attraction down deep abysses.
 e:axel=nervous
-
-There is nothing more treacherous than this attraction down deep abysses.
-e:axel=thinking
 
 I was just about to drop down, when a hand laid hold of me. It was that of Hans.
 e:hans=neutral;e:axel=surprised
@@ -3991,11 +3982,8 @@ e:axel=thinking
 Its almost perpendicular walls were bristling with innumerable projections which would facilitate the descent.
 e:axel=neutral
 
-But if there was no want of steps, still there was no rail. A rope fastened to the edge of the aperture might have helped us down.
+But if there was no want of steps, still there was no rail. A rope fastened to the edge of the aperture might have helped us down. But how were we to unfasten it, when arrived at the other end?
 e:axel=wary
-
-But how were we to unfasten it, when arrived at the other end?
-e:axel=confused
 
 My uncle employed a very simple expedient to obviate this difficulty.
 e:prof=neutral
@@ -4007,25 +3995,31 @@ Each of us could then descend by holding with the hand both halves of the rope, 
 e:axel=thinking
 
 Then the exercise would go on again *ad infinitum*.
-e:axel=neutral
+e:axel=neutral;x:axel=hat;x:prof=hat
 
-“Now,” said my uncle, after having completed these preparations, “now let us look to our loads. I will divide them into three lots; each of us will strap one upon his back. I mean only fragile articles.”
+“Now,” said my uncle,
+s=prof;e:prof=thinking;m=break,1
+
+after having completed these preparations,
+s=
+
+“now let us look to our loads. I will divide them into three lots; each of us will strap one upon his back. I mean only fragile articles.”
 s=prof;e:prof=serious
 
 Of course, we were not included under that head.
 s=none;e:axel=smirking
 
 “Hans,” said he, “will take charge of the tools and a portion of the provisions; you, Axel, will take another third of the provisions, and the arms; and I will take the rest of the provisions and the delicate instruments.”
-s=prof;e:prof=neutral
+s=prof;e:prof=thinkinglook
 
 “But,” said I, “the clothes, and that mass of ladders and ropes, what is to become of them?”
-s=axel;e:axel=confused
+s=axel;e:axel=contemplative
 
 “They will go down by themselves.”
 s=prof;e:prof=neutral
 
 “How so?” I asked.
-s=axel;e:axel=curious
+s=axel;e:axel=confused
 
 “You will see presently.”
 s=prof;e:prof=smirking
@@ -4043,13 +4037,16 @@ My uncle, leaning over the abyss, followed the descent of the luggage with a sat
 e:prof=happy
 
 “Very well, now it is our turn.”
-s=prof;e:prof=excited
+s=prof;e:prof=happylook
 
 Now I ask any sensible man if it was possible to hear those words without a shudder.
 s=none;e:axel=nervous
 
-The Professor fastened his package of instruments upon his shoulders; Hans took the tools; I took the arms: and the descent commenced in the following order; Hans, my uncle, and myself.
-e:prof=serious;e:hans=neutral;e:axel=serious
+The Professor fastened his package of instruments upon his shoulders; Hans took the tools; I took the arms:
+e:prof=serious;e:hans=neutral;e:axel=serious;x:axel=hat,pack;x:prof=hat,pack;x:hans=pack
+
+and the descent commenced in the following order; Hans, my uncle, and myself.
+b=snaffels-middle-chimney-down
 
 It was effected in profound silence, broken only by the descent of loosened stones down the dark gulf.
 e:axel=wary
@@ -4060,17 +4057,14 @@ e:axel=fearful
 One idea overpowered me almost, fear lest the rock should give way from which I was hanging.
 e:axel=nervous
 
-This cord seemed a fragile thing for three persons to be suspended from.
-e:axel=wary
-
-I made as little use of it as possible, performing wonderful feats of equilibrium upon the lava projections which my foot seemed to catch hold of like a hand.
+This cord seemed a fragile thing for three persons to be suspended from. I made as little use of it as possible, performing wonderful feats of equilibrium upon the lava projections which my foot seemed to catch hold of like a hand.
 e:axel=serious
 
 When one of these slippery steps shook under the heavier form of Hans, he said in his tranquil voice:
 e:hans=neutral
 
 “*Giv akt!*”
-s=hans
+s=hans;e:hans=neutrallookdown
 
 “Attention!” repeated my uncle.
 s=prof;e:prof=serious
@@ -4085,7 +4079,7 @@ Leaning over the edge of our narrow standing ground, I observed that the bottom 
 e:axel=nervous
 
 The same manoeuvre was repeated with the cord, and half an hour after we had descended another two hundred feet.
-e:axel=weary
+e:axel=weary;f:b:snaffels-middle-chimney-down=blur(3px)
 
 I don’t suppose the maddest geologist under such circumstances would have studied the nature of the rocks that we were passing. I am sure I did not trouble my head about them.
 e:axel=thinking
@@ -4094,16 +4088,16 @@ Pliocene, Miocene, Eocene, Cretaceous, Jurassic, Triassic, Permian, Carboniferou
 e:axel=bored
 
 But the Professor, no doubt, was pursuing his observations or taking notes, for in one of our halts he said to me:
-e:prof=contemplative
+e:prof=contemplative;f:b:snaffels-middle-chimney-down=
 
 “The farther I go the more confidence I feel. The order of these volcanic formations affords the strongest confirmation to the theories of Davy.”
 s=prof;e:prof=happy
 
 “We are now among the primitive rocks, upon which the chemical operations took place which are produced by the contact of elementary bases of metals with water.”
-e:prof=thinking
+
 
 “I repudiate the notion of central heat altogether. We shall see further proof of that very soon.”
-e:prof=excited
+e:prof=smirking
 
 No variation, always the same conclusion.
 s=none;e:axel=annoyed
@@ -4112,18 +4106,12 @@ Of course, I was not inclined to argue. My silence was taken for consent and the
 e:axel=weary
 
 Another three hours, and I saw no bottom to the chimney yet.
-e:axel=wary
+e:axel=wary;f:b:snaffels-middle-chimney-down=blur(3px)
 
-When I lifted my head I perceived the gradual contraction of its aperture.
-e:axel=curious
+When I lifted my head I perceived the gradual contraction of its aperture. Its walls, by a gentle incline, were drawing closer to each other, and it was beginning to grow darker.
+e:axel=curious;b=snaffels-middle-chimney-up;f:b:snaffels-middle-chimney-up=blur(3px)
 
-Its walls, by a gentle incline, were drawing closer to each other, and it was beginning to grow darker.
-e:axel=nervous
-
-Still we kept descending.
-e:axel=serious
-
-It seemed to me that the falling stones were meeting with an earlier resistance, and that the concussion gave a more abrupt and deadened sound.
+Still we kept descending. It seemed to me that the falling stones were meeting with an earlier resistance, and that the concussion gave a more abrupt and deadened sound.
 e:axel=thinking
 
 As I had taken care to keep an exact account of our manoeuvres with the rope, which I knew that we had repeated fourteen times, each descent occupying half an hour, the conclusion was easy that we had been seven hours, plus fourteen quarters of rest, making ten hours and a half.
@@ -4133,16 +4121,16 @@ We had started at one, it must therefore now be eleven o’clock; and the depth 
 e:axel=thinking
 
 At this moment I heard the voice of Hans.
-e:hans=neutral
+e:hans=neutral;f:b:snaffels-middle-chimney-up=
 
 “Halt!” he cried.
-s=hans
+s=hans;e:hans=seriouslookdown
 
 I stopped short just as I was going to place my feet upon my uncle’s head.
 s=none;e:axel=surprised
 
 “We are there,” he cried.
-s=prof;e:prof=neutral
+s=prof;e:prof=excited
 
 “Where?” said I, stepping near to him.
 s=axel;e:axel=confused
@@ -4151,31 +4139,34 @@ s=axel;e:axel=confused
 s=prof;e:prof=smirking
 
 “Is there no way farther?”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative
 
 “Yes; there is a sort of passage which inclines to the right. We will see about that tomorrow. Let us have our supper, and go to sleep.”
-s=prof;e:prof=weary
+s=prof;e:prof=happylook
 
 The darkness was not yet complete.
 s=none;e:axel=neutral
 
-The provision case was opened; we refreshed ourselves, and went to sleep as well as we could upon a bed of stones and lava fragments.
-e:axel=weary
+The provision case was opened; we refreshed ourselves,
+e:axel=weary;m=break,1
+
+and went to sleep as well as we could upon a bed of stones and lava fragments.
+f:b:snaffels-middle-chimney-up=blur(3px)
 
 When lying on my back, I opened my eyes and saw a bright sparkling point of light at the extremity of the gigantic tube 3,000 feet long, now a vast telescope.
 e:axel=surprised
 
-It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor.
+It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor.<e>Verne didn't forget the <book>Midnight Sun|midnight sun</book>. 19th-century scientists just thought you could see stars during the day from the bottom of dark chimneys. (Because they were stupid.)</e>
 e:axel=thinking
 
 Then I fell fast asleep.
-e:axel=neutral
+e:axel=neutral;f:b:snaffels-middle-chimney-up=blur(5px) brightness(85%)
 
 ## XVIII. The Wonders of Terrestrial Depths
 r=title
 
 At eight in the morning a ray of daylight came to wake us up.
-e:axel=surprised
+e:axel=surprised;b=snaffels-middle-chimney-up
 
 The thousand shining surfaces of lava on the walls received it on its passage, and scattered it like a shower of sparks.
 e:axel=happy
