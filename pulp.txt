@@ -2396,12 +2396,9 @@ f:b:reykjavik-roads=blur(3px)
 r=title
 
 Dinner was ready. Professor Liedenbrock devoured his portion voraciously, for his compulsory fast on board had converted his stomach into a vast unfathomable gulf.
+b=frid-room
 
-
-There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old.
-
-
-It was evident that we were more at home than he was himself.
+There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old. It was evident that we were more at home than he was himself.
 
 
 The conversation was carried on in the vernacular tongue, which my uncle mixed with German and M. Fridrikssen with Latin for my benefit.
@@ -2414,22 +2411,19 @@ In the first place M. Fridrikssen wanted to know what success my uncle had had a
 e:fridrikssen=curious
 
 “Your library! Why there is nothing but a few tattered books upon almost deserted shelves.”
-s=prof;e:prof=annoyed
-
-“Indeed!” replied M. Fridrikssen, “why we possess eight thousand volumes, many of them valuable and scarce, works in the old Scandinavian language, and we have all the novelties that Copenhagen sends us every year.”
-s=fridrikssen;e:fridrikssen=surprised
-
-“Where do you keep your eight thousand volumes? For my part—”
 s=prof;e:prof=confused
 
-“Oh, M. Liedenbrock, they are all over the country.”
+“Indeed!” replied M. Fridrikssen, “why we possess eight thousand volumes, many of them valuable and scarce, works in the old Scandinavian language, and we have all the novelties that Copenhagen sends us every year.”
+s=fridrikssen;e:fridrikssen=curiousthinking
+
+“Where do you keep your eight thousand volumes? For my part—”
+s=prof;e:prof=confused;i=2
+
+“Oh, M. Liedenbrock, they are all over the country. In this icy region we are fond of study. There is not a farmer nor a fisherman that cannot read and does not read.”
 s=fridrikssen;e:fridrikssen=happy
 
-“In this icy region we are fond of study. There is not a farmer nor a fisherman that cannot read and does not read.”
-
-
 “Our principle is, that books, instead of growing mouldy behind an iron grating, should be worn out under the eyes of many readers.”
-
+e:fridrikssen=
 
 “Therefore, these volumes are passed from one to another, read over and over, referred to again and again; and it often happens that they find their way back to their shelves only after an absence of a year or two.”
 
@@ -2437,14 +2431,11 @@ s=fridrikssen;e:fridrikssen=happy
 “And in the meantime,” said my uncle rather spitefully, “strangers—”
 s=prof;e:prof=annoyed
 
-“Well, what would you have? Foreigners have their libraries at home, and the first essential for labouring people is that they should be educated.”
-s=fridrikssen;e:fridrikssen=serious
+“Well, what would you have? Foreigners have their libraries at home, and the first essential for labouring people is that they should be educated. I repeat to you the love of reading runs in Icelandic blood.”
+s=fridrikssen;e:fridrikssen=thinking
 
-“I repeat to you the love of reading runs in Icelandic blood. In 1816 we founded a prosperous literary society; learned strangers think themselves honoured in becoming members of it.”
-
-
-“It publishes books which educate our fellow-countrymen, and do the country great service.”
-
+“In 1816 we founded a prosperous literary society; learned strangers think themselves honoured in becoming members of it. It publishes books which educate our fellow-countrymen, and do the country great service.”
+e:fridrikssen=happy
 
 “If you will consent to be a corresponding member, Herr Liedenbrock, you will be giving us great pleasure.”
 e:fridrikssen=happy
@@ -2455,35 +2446,38 @@ s=none;e:prof=happy
 “Now,” said he, “will you be kind enough to tell me what books you hoped to find in our library and I may perhaps enable you to consult them?”
 s=fridrikssen;e:fridrikssen=curious
 
-My uncle’s eyes and mine met. He hesitated.
+My uncle’s eyes and mine met. He hesitated. This direct question went to the root of the matter.
 s=none;e:prof=nervous;e:axel=wary
 
-This direct question went to the root of the matter. But after a moment’s reflection he decided on speaking.
+But after a moment’s reflection he decided on speaking.
 
 
 “Monsieur Fridrikssen, I wished to know if amongst your ancient books you possessed any of the works of Arne Saknussemm?”
 s=prof;e:prof=serious
 
-“Arne Saknussemm!” replied the Reykjavík professor. “You mean that learned sixteenth century savant, a naturalist, a chemist, and a traveller?”
+“Arne Saknussemm!” replied the Reykjavík professor.
 s=fridrikssen;e:fridrikssen=surprised
+
+“You mean that learned sixteenth century savant, a naturalist, a chemist, and a traveller?”
+e:fridrikssen=contemplative
 
 “Just so!”
 s=prof;e:prof=excited
 
 “One of the glories of Icelandic literature and science?”
-s=fridrikssen;e:fridrikssen=happy
+s=fridrikssen;i=2
 
 “That’s the man.”
-s=prof
+s=prof;e:prof=
 
 “An illustrious man anywhere!”
-s=fridrikssen
+s=fridrikssen;e:fridrikssen=excited
 
 “Quite so.”
-s=prof
+s=prof;e:prof=;i=2
 
 “And whose courage was equal to his genius!”
-s=fridrikssen
+s=fridrikssen;i=2
 
 “I see that you know him well.”
 s=prof;e:prof=happy
@@ -2495,28 +2489,31 @@ s=none
 s=prof;e:prof=excited
 
 “His works, we have them not.”
-s=fridrikssen;e:fridrikssen=neutral
+s=fridrikssen;e:fridrikssen=confused
 
 “What—not in Iceland?”
-s=prof;e:prof=surprised
+s=prof;e:prof=contemplative
 
 “They are neither in Iceland nor anywhere else.”
-s=fridrikssen
+s=fridrikssen;e:fridrikssen=thinking
 
 “Why is that?”
-s=prof;e:prof=confused
+s=prof;e:prof=confused;i=2
 
 “Because Arne Saknussemm was persecuted for heresy, and in 1573 his books were burned by the hands of the common hangman.”
 s=fridrikssen;e:fridrikssen=serious
 
-“Very good! Excellent!” cried my uncle, to the great scandal of the professor of natural history.
-s=prof;e:prof=happy
+“Very good! Excellent!” cried my uncle,
+s=prof;e:prof=excited;m=break,1
+
+to the great scandal of the professor of natural history.
+s=
 
 “What!” he cried.
-s=fridrikssen;e:fridrikssen=surprised
+s=fridrikssen;e:fridrikssen=confusedunhappy
 
 “Yes, yes; now it is all clear, now it is all unravelled; and I see why Saknussemm, put into the *Index Expurgatorius*, and compelled to hide the discoveries made by his genius, was obliged to bury in an incomprehensible cryptogram the secret—”
-s=prof;e:prof=excited
+s=prof;e:prof=thinking
 
 “What secret?” asked M. Fridrikssen, starting.
 s=fridrikssen;e:fridrikssen=confused
@@ -2525,13 +2522,16 @@ s=fridrikssen;e:fridrikssen=confused
 s=prof;e:prof=nervous
 
 “Have you some private document in your possession?” asked our host.
-s=fridrikssen;e:fridrikssen=curious
+s=fridrikssen;e:fridrikssen=serious
 
 “No; I was only supposing a case.”
-s=prof;e:prof=wary
+s=prof;e:prof=thinking
 
-“Oh, very well,” answered M. Fridrikssen, who was kind enough not to pursue the subject when he had noticed the embarrassment of his friend.
-s=fridrikssen;e:fridrikssen=smirking
+“Oh, very well,” answered M. Fridrikssen,
+s=fridrikssen;e:fridrikssen=contemplative;m=break,1
+
+who was kind enough not to pursue the subject when he had noticed the embarrassment of his friend.
+s=
 
 “I hope you will not leave our island until you have seen some of its mineralogical wealth.”
 e:fridrikssen=happy
@@ -2539,38 +2539,53 @@ e:fridrikssen=happy
 “Certainly,” replied my uncle; “but I am rather late; or have not others been here before me?”
 s=prof;e:prof=neutral
 
-“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*,<f>*Recherche* was sent out in 1835 by Admiral Duperré to learn the fate of the lost expedition of M. de Blosseville in the *Lilloise* which has never been heard of.</f> and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland.”
-s=fridrikssen
+“Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued by order of the king, the researches of Troïl, the scientific mission of MM. Gaimard and Robert on the French corvette *La Recherche*,<f>*Recherche* was sent out in 1835 by Admiral Duperré to learn the fate of the lost expedition of M. de Blosseville in the *Lilloise* which has never been heard of.</f>”
+s=fridrikssen;m=break,1
+
+“and lately the observations of scientific men who came in the *Reine Hortense*, have added materially to our knowledge of Iceland.”
+
 
 “But I assure you there is plenty left.”
+e:fridrikssen=happy;i=2
 
+“Do you think so?” said my uncle,
+s=prof;e:prof=smirking;i=2;m=break,1
 
-“Do you think so?” said my uncle, pretending to look very modest, and trying to hide the curiosity that was flashing out of his eyes.
-s=prof;e:prof=smirking
+pretending to look very modest, and trying to hide the curiosity that was flashing out of his eyes.
+s=
 
 “Oh, yes; how many mountains, glaciers, and volcanoes there are to study, which are as yet but imperfectly known!”
 s=fridrikssen;e:fridrikssen=happy
 
 “Then, without going any further, that mountain in the horizon. That is Snæfells.”
+e:fridrikssen=neutrallook
 
+“Ah!” said my uncle, as coolly as he was able,
+s=prof;e:prof=thinking
 
-“Ah!” said my uncle, as coolly as he was able, “is that Snæfells?”
-s=prof;e:prof=wary
+“is that Snæfells?”
+e:prof=contemplative
 
 “Yes; one of the most curious volcanoes, and the crater of which has scarcely ever been visited.”
-s=fridrikssen;e:fridrikssen=excited
+s=fridrikssen;e:fridrikssen=happy
 
 “Is it extinct?”
-s=prof;e:prof=curious
+s=prof;e:prof=contemplative;i=2
 
 “Oh, yes; more than five hundred years.”
 s=fridrikssen;e:fridrikssen=neutral
 
-“Well,” replied my uncle, who was frantically locking his legs together to keep himself from jumping up in the air, “that is where I mean to begin my geological studies, there on that Seffel—Fessel—what do you call it?”
-s=prof;e:prof=wary
+“Well,” replied my uncle,
+s=prof;e:prof=serious;m=break,1
+
+who was frantically locking his legs together to keep himself from jumping up in the air,
+s=
+
+“that is where I mean to begin my geological studies, there on that Seffel—Fessel—what do you call it?”
+s=prof;e:prof=smirkingthinking
 
 “Snæfells,” replied the excellent M. Fridrikssen.
-s=fridrikssen;e:fridrikssen=smirking
+s=fridrikssen;e:fridrikssen=curious
 
 This part of the conversation was in Latin; I had understood every word of it, and I could hardly conceal my amusement at seeing my uncle trying to keep down the excitement and satisfaction which were brimming over in every limb and every feature.
 s=none;e:axel=smirking
@@ -2578,20 +2593,20 @@ s=none;e:axel=smirking
 He tried hard to put on an innocent little expression of simplicity; but it looked like a diabolical grin.
 e:prof=smirking
 
-“Yes,” said he, “your words decide me.”
-s=prof;e:prof=excited
-
-“We will try to scale that Snæfells; perhaps even we may pursue our studies in its crater!”
-
+“Yes,” said he, “your words decide me. We will try to scale that Snæfells; perhaps even we may pursue our studies in its crater!”
+s=prof;e:prof=contemplativesmirking
 
 “I am very sorry,” said M. Fridrikssen, “that my engagements will not allow me to absent myself, or I would have accompanied you myself with both pleasure and profit.”
 s=fridrikssen;e:fridrikssen=unhappy
 
-“Oh, no, no!” replied my uncle with great animation, “we would not disturb anyone for the world, M. Fridrikssen.”
-s=prof;e:prof=nervous
+“Oh, no, no!” replied my uncle with great animation,
+s=prof;e:prof=wary
+
+“we would not disturb anyone for the world, M. Fridrikssen.”
+e:prof=thinking
 
 “Still, I thank you with all my heart: the company of such a talented man would have been very serviceable, but the duties of your profession—”
-
+e:prof=curious
 
 I am glad to think that our host, in the innocence of his Icelandic soul, was blind to the transparent artifices of my uncle.
 s=none;e:axel=happy
@@ -2612,10 +2627,10 @@ s=fridrikssen;e:fridrikssen=serious
 s=prof;e:prof=confused
 
 “Because we don’t possess a single boat at Reykjavík.”
-s=fridrikssen;e:fridrikssen=neutral
+s=fridrikssen;e:fridrikssen=neutral;i=2
 
 “You don’t mean to say so?”
-s=prof;e:prof=surprised
+s=prof;e:prof=unhappy
 
 “You will have to go by land, following the shore. It will be longer, but more interesting.”
 s=fridrikssen;e:fridrikssen=happy
@@ -2624,34 +2639,31 @@ s=fridrikssen;e:fridrikssen=happy
 s=prof;e:prof=thinking
 
 “I have one to offer you.”
-s=fridrikssen;e:fridrikssen=smirking
+s=fridrikssen;e:fridrikssen=happy;i=2
 
 “A safe, intelligent man.”
-s=prof;e:prof=curious
+s=prof;e:prof=contemplative
 
-“Yes; an inhabitant of that peninsula.”
-s=fridrikssen;e:fridrikssen=neutral
-
-“He is an eiderdown hunter, and very clever. He speaks Danish perfectly.”
-
+“Yes; an inhabitant of that peninsula. He is an eiderdown hunter, and very clever. He speaks Danish perfectly.”
+s=fridrikssen;e:fridrikssen=neutrallook
 
 “When can I see him?”
-s=prof;e:prof=excited
+s=prof;e:prof=contemplative;i=2
 
 “Tomorrow, if you like.”
-s=fridrikssen
+s=fridrikssen;e:fridrikssen=
 
 “Why not today?”
-s=prof;e:prof=annoyed
+s=prof;e:prof=unhappy
 
 “Because he won’t be here till tomorrow.”
-s=fridrikssen;e:fridrikssen=neutral
+s=fridrikssen;e:fridrikssen=thinking
 
 “Tomorrow, then,” added my uncle with a sigh.
-s=prof;e:prof=weary
+s=prof;e:prof=unhappy
 
 This momentous conversation ended in a few minutes with warm acknowledgements paid by the German to the Icelandic Professor.
-s=none;e:prof=neutral
+s=none;e:prof=neutral;f:b:frid-room=blur(3px)
 
 At this dinner my uncle had just elicited important facts, amongst others, the history of Saknussemm, the reason of the mysterious document, that his host would not accompany him in his expedition, and that the very next day a guide would be waiting upon him.
 
