@@ -1882,14 +1882,14 @@ f:b:prof-wide=blur(3px)
 ## VIII. Serious Preparations for Vertical Descent
 r=title
 
-Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.
-e:axel=neutral
+Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.<e>Taking the carriage down the road from the "Free and Hanseatic City of Hamburg" into the Danish Duchy of Holstein. Holstein itself would get itself conquered by Germany in the Second Schleswig War in 1864, while Verne was writing the book, which is why he set the story in 1863.</e>
+e:axel=neutral;b=altona-road
 
 At half-past six the carriage stopped at the station; my uncle’s numerous packages, his voluminous impedimenta, were unloaded, removed, labelled, weighed, put into the luggage vans, and at seven we were seated face to face in our compartment.
-
+f:b:altona-road=blur(3px)
 
 The whistle sounded, the engine started, we were off.
-
+b=rail-wide;f:b:rail-wide=blur(3px)
 
 Was I resigned? No, not yet.
 e:axel=unhappy
@@ -1903,28 +1903,19 @@ e:prof=thinking
 My uncle examined all his pockets and his travelling bag with the minutest care. I saw that he had not forgotten the smallest matter of detail.
 e:prof=serious
 
-Amongst other documents, a sheet of paper, carefully folded, bore the heading of the Danish consulate with the signature of W. Christiensen, consul at Hamburg and the Professor’s friend.
+Amongst other documents, a sheet of paper, carefully folded, bore the heading of the Danish consulate with the signature of W. Christiensen, consul at Hamburg and the Professor’s friend. With this we possessed the proper introductions to the Governor of Iceland.
 
 
-With this we possessed the proper introductions to the Governor of Iceland.
-
-
-I also observed the famous document most carefully laid up in a secret pocket in his portfolio.
-e:axel=wary
-
-I bestowed a malediction upon it, and then proceeded to examine the country.
+I also observed the famous document most carefully laid up in a secret pocket in his portfolio. I bestowed a malediction upon it, and then proceeded to examine the country.
 e:axel=annoyed
 
 It was a very long succession of uninteresting loamy and fertile flats, a very easy country for the construction of railways, and propitious for the laying-down of these direct level lines so dear to railway companies.
-e:axel=bored
+e:axel=bored;f:b:rail-wide=
 
 I had no time to get tired of the monotony; for in three hours we stopped at Kiel, close to the sea.
-e:axel=neutral
+e:axel=neutral;b=kiel-docks-wide
 
-The luggage being labelled for Copenhagen, we had no occasion to look after it.
-
-
-Yet the Professor watched every article with jealous vigilance, until all were safe on board. There they disappeared in the hold.
+The luggage being labelled for Copenhagen, we had no occasion to look after it. Yet the Professor watched every article with jealous vigilance, until all were safe on board. There they disappeared in the hold.
 e:prof=wary
 
 My uncle, notwithstanding his hurry, had so well calculated the relations between the train and the steamer that we had a whole day to spare. The steamer *Ellenora*, did not start until night.
@@ -1939,8 +1930,11 @@ e:axel=weary
 At Kiel, as elsewhere, we must do something to while away the time.
 e:axel=bored
 
-What with walking on the verdant shores of the bay within which nestles the little town, exploring the thick woods which make it look like a nest embowered amongst thick foliage, admiring the villas, each provided with a little bathing house, and moving about and grumbling, at last ten o’clock came.
-e:axel=contemplative
+What with walking on the verdant shores of the bay within which nestles the little town, exploring the thick woods which make it look like a nest embowered amongst thick foliage, admiring the villas, each provided with a little bathing house, and moving about and grumbling,
+e:axel=contemplative;m=break,1
+
+at last ten o’clock came.
+b=kiel-docks-wide-night;f=fade
 
 The heavy coils of smoke from the *Ellenora*’s funnel unrolled in the sky, the bridge shook with the quivering of the struggling steam; we were on board, and owners for the time of two berths, one over the other, in the only saloon cabin on board.
 e:axel=neutral
@@ -1949,10 +1943,10 @@ At a quarter past the moorings were loosed and the throbbing steamer pursued her
 
 
 The night was dark; there was a sharp breeze and a rough sea, a few lights appeared on shore through the thick darkness; later on, I cannot tell when, a dazzling light from some lighthouse threw a bright stream of fire along the waves; and this is all I can remember of this first portion of our sail.
-e:axel=weary
+e:axel=weary;f:b:kiel-docks-wide-night=blur(3px)
 
 At seven in the morning we landed at Korsor, a small town on the west coast of Zealand. There we were transferred from the boat to another line of railway, which took us by just as flat a country as the plain of Holstein.
-
+b=danish-rail-wide
 
 Three hours’ travelling brought us to the capital of Denmark.
 
@@ -1964,19 +1958,19 @@ At last he discerned a stretch of sea.
 
 
 “The Sound!” he cried.
-s=prof;e:prof=excited
+s=prof;e:prof=excitedlook;x:prof=hat
 
 At our left was a huge building that looked like a hospital.
 s=none;e:axel=neutral
 
 “That’s a lunatic asylum,” said one of our travelling companions.
-n:passenger1=?;s=passenger1;e:passenger1=neutral
+n:passenger1=?;s=passenger1;e:passenger1=neutrallook;x:passenger1=hat
 
 Very good! thought I, just the place we want to end our days in; and great as it is, that asylum is not big enough to contain all Professor Liedenbrock’s madness!
 s=none;e:axel=annoyed
 
 At ten in the morning, at last, we set our feet in Copenhagen; the luggage was put upon a carriage and taken with ourselves to the Phoenix Hotel in Breda Gate.
-e:axel=neutral
+e:axel=neutral;b=copenhagen-wide
 
 This took half an hour, for the station is out of the town. Then my uncle, after a hasty toilet, dragged me after him.
 e:prof=excited;e:axel=weary
@@ -1987,10 +1981,7 @@ e:prof=smirking
 The curator of this curious establishment, in which wonders are gathered together out of which the ancient history of the country might be reconstructed by means of its stone weapons, its cups and its jewels, was a learned savant, the friend of the Danish consul at Hamburg, Professor Thomsen.
 n:thomsen=Professor Thomsen
 
-My uncle had a cordial letter of introduction to him. As a general rule one savant greets another with coolness.
-
-
-But here the case was different. M. Thomsen, like a good friend, gave the Professor Liedenbrock a cordial greeting, and he even vouchsafed the same kindness to his nephew.
+My uncle had a cordial letter of introduction to him. As a general rule one savant greets another with coolness. But here the case was different. M. Thomsen, like a good friend, gave the Professor Liedenbrock a cordial greeting, and he even vouchsafed the same kindness to his nephew.
 e:thomsen=happy
 
 It is hardly necessary to say the secret was sacredly kept from the excellent curator; we were simply disinterested travellers visiting Iceland out of harmless curiosity.
@@ -2002,10 +1993,10 @@ e:thomsen=neutral
 I was yet in hopes that there would be no means of getting to Iceland. But there was no such luck.
 e:axel=unhappy
 
-A small Danish schooner, the *Valkyria*, was to set sail for Reykjavík on the 2nd of June. The captain, M. Bjarne, was on board.
-n:bjarne=Captain Bjarne
+A small Danish schooner, the *Valkyria*, was to set sail for Reykjavík on the 2nd of June.
+n:bjarne=Captain Bjarne;b=copenhagen-docks
 
-His intending passenger was so joyful that he almost squeezed his hands till they ached.
+The captain, M. Bjarne, was on board. His intending passenger was so joyful that he almost squeezed his hands till they ached.
 e:prof=excited;e:bjarne=wary
 
 That good man was rather surprised at his energy. To him it seemed a very simple thing to go to Iceland, as that was his business; but to my uncle it was sublime.
@@ -2014,17 +2005,20 @@ e:bjarne=surprised
 The worthy captain took advantage of his enthusiasm to charge double fares; but we did not trouble ourselves about mere trifles.
 e:bjarne=smirking
 
-“You must be on board on Tuesday, at seven in the morning,” said Captain Bjarne, after having pocketed more dollars than were his due.
-s=bjarne;e:bjarne=happy
+“You must be on board on Tuesday, at seven in the morning,” said Captain Bjarne,
+s=bjarne;e:bjarne=curiouswary;m=break,1;x:bjarne=hat
+
+after having pocketed more dollars than were his due.
+s=
 
 Then we thanked M. Thomsen for his kindness, and we returned to the Phoenix Hotel.
-s=none;e:axel=neutral
+s=none;e:axel=neutral;b=copenhagen-wide
 
-“It’s all right, it’s all right,” my uncle repeated. “How fortunate we are to have found this boat ready for sailing.”
+“It’s all right, it’s all right,” my uncle repeated.
 s=prof;e:prof=happy
 
-“Now let us have some breakfast and go about the town.”
-e:prof=excited
+“How fortunate we are to have found this boat ready for sailing. Now let us have some breakfast and go about the town.”
+
 
 We went first to Kongens Nytorv, an irregular square in which are two innocent-looking guns, which need not alarm anyone.
 s=none;e:axel=neutral
@@ -2032,41 +2026,50 @@ s=none;e:axel=neutral
 Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)
 
 
-Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum, nor that immense cenotaph of Thorvaldsen’s, adorned with horrible mural painting, and containing within it a collection of the sculptor’s works, nor in a fine park the toylike château of Rosenberg, nor the beautiful renaissance edifice of the Exchange, nor its spire composed of the twisted tails of four bronze dragons, nor the great windmill on the ramparts, whose huge arms dilated in the sea breeze like the sails of a ship.
-e:axel=happy;e:prof=bored
+Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum,
+m=break
 
-What delicious walks we should have had together, my pretty *Virlandaise* and I, along the harbour where the two-deckers and the frigate slept peaceably by the red roofing of the warehouse, by the green banks of the strait, through the deep shades of the trees amongst which the fort is half concealed, where the guns are thrusting out their black throats between branches of alder and willow.
+nor that immense cenotaph of Thorvaldsen’s, adorned with horrible mural painting, and containing within it a collection of the sculptor’s works, nor in a fine park the toylike château of Rosenberg,
+
+
+nor the beautiful renaissance edifice of the Exchange, nor its spire composed of the twisted tails of four bronze dragons, nor the great windmill on the ramparts, whose huge arms dilated in the sea breeze like the sails of a ship.<e>RIP the <a href="https://en.wikipedia.org/wiki/B%C3%B8rsen">Exchange</a>.</e>
+e:axel=happy;e:prof=bored;m=
+
+What delicious walks we should have had together, my pretty *Virlandaise* and I, along the harbour where the two-deckers and the frigate slept peaceably by the red roofing of the warehouse, by the green banks of the strait,
+m=break,1;f:b:copenhagen-wide=blur(3px)
+
+through the deep shades of the trees amongst which the fort is half concealed, where the guns are thrusting out their black throats between branches of alder and willow.
 e:axel=sadsmile
 
 But, alas! Gräuben was far away; and I never hoped to see her again.
 e:axel=unhappy
 
 But if my uncle felt no attraction towards these romantic scenes he was very much struck with the aspect of a certain church spire situated in the island of Amager, which forms the southwest quarter of Copenhagen.
-e:prof=curious
+e:prof=curious;b=copenhagen-docks;f:b:copenhagen-docks=blur(3px)
 
 I was ordered to direct my feet that way; I embarked on a small steamer which plies on the canals, and in a few minutes she touched the quay of the dockyard.
 e:axel=neutral
 
-After crossing a few narrow streets where some convicts, in trousers half yellow and half grey, were at work under the orders of the gangers, we arrived at the Vor Frelsers Kirke.
+After crossing a few narrow streets where some convicts, in trousers half yellow and half grey, were at work under the orders of the gangers,
+m=break,1
 
+we arrived at the Vor Frelsers Kirke.
+b=kirke-wide
 
-There was nothing remarkable about the church; but there was a reason why its tall spire had attracted the Professor’s attention.
-e:prof=excited
-
-Starting from the top of the tower, an external staircase wound around the spire, the spirals circling up into the sky.
-
+There was nothing remarkable about the church; but there was a reason why its tall spire had attracted the Professor’s attention. Starting from the top of the tower, an external staircase wound around the spire, the spirals circling up into the sky.
+e:prof=excited;x:prof=hat;x:axel=hat
 
 “Let us get to the top,” said my uncle.
-s=prof;e:prof=excited
+s=prof;e:prof=excitedlookup
 
 “I shall be dizzy,” I said.
-s=axel;e:axel=nervous
+s=axel;e:axel=nervouslookup
 
 “The more reason why we should go up; we must get used to it.”
-s=prof;e:prof=serious
+s=prof;e:prof=seriouslook
 
 “But—”
-s=axel;e:axel=wary
+s=axel;e:axel=contemplative
 
 “Come, I tell you; don’t waste our time.”
 s=prof;e:prof=annoyed
@@ -2084,10 +2087,10 @@ There the aerial staircase began its gyrations, only guarded by a thin iron rail
 e:axel=fearful
 
 “Never shall I be able to do it,” I said.
-s=axel;e:axel=fearful
+s=axel;e:axel=upset
 
 “Don’t be a coward; come up, sir,” said my uncle with the coldest cruelty.
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;i=2
 
 I had to follow, clutching at every step.
 s=none;e:axel=fearful
@@ -2099,7 +2102,7 @@ At last I reached the apex, with the assistance of my uncle dragging me up by th
 e:prof=annoyed;e:axel=weary
 
 “Look down!” he cried. “Look down well! You must take a lesson in abysses.”
-s=prof;e:prof=serious
+s=prof;e:prof=seriouslookdown
 
 I opened my eyes. I saw houses squashed flat as if they had all fallen down from the skies; a smoke fog seemed to drown them.
 s=none;e:axel=surprised
@@ -2126,7 +2129,7 @@ e:axel=upset
 s=prof;e:prof=smirking
 
 And it was so; for five days in succession, I was obliged to undergo this anti-vertiginous exercise; and whether I would or not, I made some improvement in the art of “lofty contemplations.”
-s=none;e:axel=weary
+s=none;e:axel=weary;;f:b:kirke-wide=blur(3px)
 
 ## IX. Iceland! But What Next?
 r=title
