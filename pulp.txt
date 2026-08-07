@@ -3701,25 +3701,22 @@ I could stand it no longer. I was yielding to the effects of hunger and cold. Th
 e:axel=weary
 
 At last, at eleven in the sunlight night, the summit of Snæfells was reached, and before going in for shelter into the crater I had time to observe the midnight sun, at his lowest point, gilding with his pale rays the island that slept at my feet.
-e:axel=happy;b=snafells-view
+e:axel=happy;b=snafells-view;f:b:snafells-view=blur(3px)
 
 ## XVI. Boldly Down the Crater
 r=title
 
 Supper was rapidly devoured, and the little company housed themselves as best they could.
+b=snafells-view;f:b:snafells-view=blur(3px)
 
-
-The bed was hard, the shelter not very substantial, and our position an anxious one, at five thousand feet above the sea level.
-
-
-Yet I slept particularly well; it was one of the best nights I had ever had, and I did not even dream.
-
+The bed was hard, the shelter not very substantial, and our position an anxious one, at five thousand feet above the sea level. Yet I slept particularly well; it was one of the best nights I had ever had, and I did not even dream.
+f:b:snafells-view=blur(3px)
 
 Next morning we awoke half frozen by the sharp keen air, but with the light of a splendid sun.
 
 
 I rose from my granite bed and went out to enjoy the magnificent spectacle that lay unrolled before me.
-
+f:b:snafells-view=
 
 I stood on the very summit of the southernmost of Snæfells’ peaks. The range of the eye extended over the whole island.
 
@@ -3739,10 +3736,7 @@ If I looked westward, there the ocean lay spread out in all its magnificence, li
 I was thus steeped in the marvellous ecstasy which all high summits develop in the mind; and now without giddiness, for I was beginning to be accustomed to these sublime aspects of nature.
 e:axel=excited
 
-My dazzled eyes were bathed in the bright flood of the solar rays.
-
-
-I was forgetting where and who I was, to live the life of elves and sylphs, the fanciful creation of Scandinavian superstitions.
+My dazzled eyes were bathed in the bright flood of the solar rays. I was forgetting where and who I was, to live the life of elves and sylphs, the fanciful creation of Scandinavian superstitions.
 
 
 I felt intoxicated with the sublime pleasure of lofty elevations without thinking of the profound abysses into which I was shortly to be plunged.
@@ -3755,19 +3749,16 @@ My uncle pointed out to me in the far west a light steam or mist, a semblance of
 
 
 “Greenland!” said he.
-s=prof
+s=prof;x:prof=hat;e:prof=excitedlook
 
 “Greenland?” I cried.
-s=axel;e:axel=surprised
+s=axel;e:axel=confusedlook;x:axel=hat
 
 “Yes; we are only thirty-five leagues from it; and during thaws the white bears, borne by the ice fields from the north, are carried even into Iceland.”
-s=prof;e:prof=neutral
+s=prof;e:prof=happy
 
-“But never mind that. Here we are at the top of Snæfells and here are two peaks, one north and one south.”
-
-
-“Hans will tell us the name of that on which we are now standing.”
-
+“But never mind that. Here we are at the top of Snæfells and here are two peaks, one north and one south. Hans will tell us the name of that on which we are now standing.”
+e:prof=
 
 The question being put, Hans replied:
 s=none
@@ -3782,7 +3773,7 @@ s=none;e:prof=smirking
 s=prof;e:prof=excited
 
 The crater of Snæfells resembled an inverted cone, the opening of which might be half a league in diameter. Its depth appeared to be about two thousand feet.
-s=none;e:axel=wary
+s=none;e:axel=wary;b=snafells-crater
 
 Imagine the aspect of such a reservoir, brim full and running over with liquid fire amid the rolling thunder.
 
@@ -3790,14 +3781,14 @@ Imagine the aspect of such a reservoir, brim full and running over with liquid f
 The bottom of the funnel was about 250 feet in circuit, so that the gentle slope allowed its lower brim to be reached without much difficulty.
 
 
-Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.<e>The revised translation uses "grenade launcher" here, which is clearly superior.</e>
+Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.<e>The revised translation uses the clearly superior "grenade launcher".</e>
 e:axel=fearful
 
 “What madness,” I thought, “to go down into a mortar, perhaps a loaded mortar, to be shot up into the air at a moment’s notice!”
-s=axel
+t=axel;e:axel=nervous
 
 But I did not try to back out of it. Hans with perfect coolness resumed the lead, and I followed him without a word.
-s=none;e:axel=nervous
+s=none;e:axel=nervous;t=
 
 In order to facilitate the descent, Hans wound his way down the cone by a spiral path.
 
@@ -3808,28 +3799,22 @@ Our route lay amidst eruptive rocks, some of which, shaken out of their loosened
 In certain parts of the cone there were glaciers. Here Hans advanced only with extreme precaution, sounding his way with his iron-pointed pole, to discover any crevasses in it.
 
 
-At particularly dubious passages we were obliged to connect ourselves with each other by a long cord, in order that any man who missed his footing might be held up by his companions.
-
-
-This solid formation was prudent, but did not remove all danger.
+At particularly dubious passages we were obliged to connect ourselves with each other by a long cord, in order that any man who missed his footing might be held up by his companions. This solid formation was prudent, but did not remove all danger.
 
 
 Yet, notwithstanding the difficulties of the descent, down steeps unknown to the guide, the journey was accomplished without accidents, except the loss of a coil of rope, which escaped from the hands of an Icelander, and took the shortest way to the bottom of the abyss.
 
 
 At midday we arrived. I raised my head and saw straight above me the upper aperture of the cone, framing a bit of sky of very small circumference, but almost perfectly round.
-e:axel=neutral
+e:axel=neutral;b=snaffels-chimneys
 
 Just upon the edge appeared the snowy peak of Scartaris, standing out sharp and clear against endless space.
 
 
-At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfells had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter.
-
-
-They gaped before us right in our path. I had not the courage to look down either of them.
+At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfells had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter. They gaped before us right in our path.
 e:axel=fearful
 
-But Professor Liedenbrock had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions.
+I had not the courage to look down either of them. But Professor Liedenbrock had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions.
 e:prof=excited
 
 Hans and his comrades, seated upon loose lava rocks, looked at him with as much wonder as they knew how to express, and perhaps taking him for an escaped lunatic.
@@ -3844,26 +3829,23 @@ But, no; I saw him, with arms outstretched and legs straddling wide apart, erect
 He stood like a man stupefied, but the stupefaction soon gave way to delirious rapture.
 
 
-“Axel, Axel,” he cried.
-s=prof;e:prof=happy
-
-“Come, come!”
-
+“Axel, Axel,” he cried. “Come, come!”
+s=prof;e:prof=excitedlook;x:prof=hat;x:axel=hat
 
 I ran. Hans and the Icelanders never stirred.
 s=none
 
 “Look!” cried the Professor.
-s=prof
+s=prof;e:prof=excitedlookdown
 
 And, sharing his astonishment, but I think not his joy, I read on the western face of the block, in Runic characters, half mouldered away with lapse of ages, this thrice-accursed name:
 s=none;e:axel=surprised;o=glyph-2
 
 “Arne Saknussemm!” replied my uncle.
-s=prof;e:prof=smirking
+s=prof;e:prof=excited
 
 “Do you yet doubt?”
-
+e:prof=smirking
 
 I made no answer; and I returned in silence to my lava seat in a state of utter speechless consternation. Here was crushing evidence.
 s=none;e:axel=unhappy
@@ -3884,21 +3866,18 @@ I had neither the wish nor the strength to rise, and following the guide’s exa
 e:axel=fearful
 
 Thus the first night in the crater passed away.
-
+f:b:snaffels-chimneys=blur(3px)
 
 The next morning, a grey, heavy, cloudy sky seemed to droop over the summit of the cone.
-
+f:b:snaffels-chimneys=;b=snaffels-chimneys-clouded
 
 I did not know this first from the appearances of nature, but I found it out by my uncle’s impetuous wrath.
 e:prof=angry
 
 I soon found out the cause, and hope dawned again in my heart. For this reason.
-e:axel=happy
-
-Of the three ways open before us, one had been taken by Saknussemm.
 
 
-The indications of the learned Icelander hinted at in the cryptogram, pointed to this fact that the shadow of Scartaris came to touch that particular way during the latter days of the month of June.
+Of the three ways open before us, one had been taken by Saknussemm. The indications of the learned Icelander hinted at in the cryptogram, pointed to this fact that the shadow of Scartaris came to touch that particular way during the latter days of the month of June.
 
 
 That sharp peak might hence be considered as the gnomon of a vast sun dial, the shadow projected from which on a certain day would point out the road to the centre of the earth.
@@ -3911,7 +3890,7 @@ My limited powers of description would fail, were I to attempt a picture of the 
 e:prof=angry
 
 The day wore on, and no shadow came to lay itself along the bottom of the crater.
-
+f:b:snaffels-chimneys-clouded=blur(3px)
 
 Hans did not move from the spot he had selected; yet he must be asking himself what were we waiting for, if he asked himself anything at all.
 
@@ -3919,10 +3898,7 @@ Hans did not move from the spot he had selected; yet he must be asking himself w
 My uncle spoke not a word to me. His gaze, ever directed upwards, was lost in the grey and misty space beyond.
 
 
-On the 26th nothing yet. Rain mingled with snow was falling all day long.
-
-
-Hans built a hut of pieces of lava.
+On the 26th nothing yet. Rain mingled with snow was falling all day long. Hans built a hut of pieces of lava.
 
 
 I felt a malicious pleasure in watching the thousand rills and cascades that came tumbling down the sides of the cone, and the deafening continuous din awaked by every stone against which they bounded.
@@ -3934,13 +3910,13 @@ e:prof=angry
 But Heaven never sends unmixed grief, and for Professor Liedenbrock there was a satisfaction in store proportioned to his desperate anxieties.
 e:prof=neutral
 
-The next day the sky was again overcast; but on the 29th of June, the last day but one of the month, with the change of the moon came a change of weather.
+The next day the sky was again overcast;
 
 
-The sun poured a flood of light down the crater.
+but on the 29th of June, the last day but one of the month, with the change of the moon came a change of weather.
+b=snaffels-chimneys
 
-
-Every hillock, every rock and stone, every projecting surface, had its share of the beaming torrent, and threw its shadow on the ground.
+The sun poured a flood of light down the crater. Every hillock, every rock and stone, every projecting surface, had its share of the beaming torrent, and threw its shadow on the ground.
 
 
 Amongst them all, Scartaris laid down his sharp-pointed angular shadow which began to move slowly in the opposite direction to that of the radiant orb.
@@ -3950,7 +3926,7 @@ My uncle turned too, and followed it.
 e:prof=serious
 
 At noon, being at its least extent, it came and softly fell upon the edge of the middle chimney.
-
+b=snaffels-middle-chimney
 
 “There it is! There it is!” shouted the Professor.
 s=prof;e:prof=excited
@@ -3962,9 +3938,9 @@ I looked at Hans, to hear what he would say.
 s=none;e:axel=curious
 
 “*Forüt!*” was his tranquil answer.
-s=hans;e:hans=neutral
+s=hans;e:hans=thinking
 
-“Forward!” replied my uncle.
+“Forward!” replied my uncle.<e>… <book>Forward!|A History of Dane<s>: The Capital County</s> Explorers</book></e>
 s=prof;e:prof=happy
 
 It was thirteen minutes past one.
