@@ -5524,7 +5524,7 @@ s=
 On Thursday, at 8 a.m., we started afresh.
 s=none;e:axel=neutral
 
-The granite tunnel winding from side to side, earned us past unexpected turns, and seemed almost to form a labyrinth; but, on the whole, its direction seemed to be southeasterly.
+The granite tunnel winding from side to side, carried us past unexpected turns, and seemed almost to form a labyrinth; but, on the whole, its direction seemed to be southeasterly.
 f:b:tunnel-6-water=blur(3px)
 
 My uncle never ceased to consult his compass, to keep account of the ground gone over.
@@ -6010,7 +6010,7 @@ e:axel=weary
 But how had I left the course of the stream? For it was a terrible fact that it no longer ran at my side.
 e:axel=confused
 
-Then I understood the reason of that fearful, silence, when for the last time I listened to hear if any sound from my companions could reach my ears.
+Then I understood the reason of that fearful silence, when for the last time I listened to hear if any sound from my companions could reach my ears.
 e:axel=thinking
 
 At the moment when I left the right road I had not noticed the absence of the stream.
