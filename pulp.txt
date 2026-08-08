@@ -5207,52 +5207,58 @@ e:axel=surprised
 r=title
 
 For a whole hour I was trying to work out in my delirious brain the reasons which might have influenced this seemingly tranquil huntsman.
-e:axel=confused
+e:axel=confused;b=tunnel-5
 
 The absurdest notions ran in utter confusion through my mind. I thought madness was coming on!
 e:axel=fearful
 
 But at last a noise of footsteps was heard in the dark abyss. Hans was approaching.
-e:axel=nervous
+e:axel=nervous;f:b:tunnel-5=brightness(85%)
 
-A flickering light was beginning to glimmer on the wall of our darksome prison; then it came out full at the mouth of the gallery. Hans appeared.
-e:axel=wary
+A flickering light was beginning to glimmer on the wall of our darksome prison; then it came out full at the mouth of the gallery.
+e:axel=wary;f:b:tunnel-5=brightness(85%)
 
-He drew close to my uncle, laid his hand upon his shoulder, and gently woke him.
+Hans appeared.
+;f:b:tunnel-5=
+
+He drew close to my uncle, laid his hand upon his shoulder, and gently woke him. My uncle rose up.
 e:hans=neutral
 
-My uncle rose up.
-e:prof=confused
-
 “What is the matter?” he asked.
-s=prof
+s=prof;e:prof=weary
 
 “*Watten!*” replied the huntsman.
-s=hans
+s=hans;e:hans=serious
 
 No doubt under the inspiration of intense pain everybody becomes endowed with the gift of divers tongues. I did not know a word of Danish, yet instinctively I understood the word he had uttered.
 s=none;e:axel=thinking
 
-“Water! water!” I cried, clapping my hands and gesticulating like a madman.
-s=axel;e:axel=excited
+“Water! water!” I cried,
+s=axel;e:axel=sadsmile;m=break,1
 
-“Water!” repeated my uncle. “*Hvar?*” he asked, in Icelandic.
-s=prof;e:prof=excited
+clapping my hands and gesticulating like a madman.
+s=
+
+“Water!” repeated my uncle.
+s=prof;e:prof=confused
+
+“*Hvar?*” he asked, in Icelandic.
+e:prof=suspicious
 
 “*Nedat*,” replied Hans.
-s=hans;e:hans=neutral
+s=hans;e:hans=seriouslook
 
 “Where? Down below!”
-s=axel;e:axel=excited
+s=axel;e:axel=sadsmile;i=2
 
 I understood it all. I seized the hunter’s hands, and pressed them while he looked on me without moving a muscle of his countenance.
 s=none;e:axel=happy
 
 The preparations for our departure were not long in making, and we were soon on our way down a passage inclining two feet in seven.
-e:axel=serious
+e:axel=serious;f:b:tunnel-5=blur(3px)
 
 In an hour we had gone a mile and a quarter, and descended two thousand feet.
-e:axel=neutral
+e:axel=neutral;b=tunnel-6
 
 Then I began to hear distinctly quite a new sound of something running within the thickness of the granite wall, a kind of dull, dead rumbling, like distant thunder.
 e:axel=wary
@@ -5261,13 +5267,13 @@ During the first part of our walk, not meeting with the promised spring, I felt 
 e:axel=unhappy
 
 “Hans was not mistaken,” he said. “What you hear is the rushing of a torrent.”
-s=prof;e:prof=happy
+s=prof;e:prof=thinking;x:prof=hat,pack;x:axel=hat,pack
 
 “A torrent?” I exclaimed.
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 “There can be no doubt; a subterranean river is flowing around us.”
-s=prof;e:prof=excited
+s=prof;e:prof=sadsmile
 
 We hurried forward in the greatest excitement. I was no longer sensible of my fatigue.
 s=none;e:axel=excited
@@ -5279,13 +5285,13 @@ The torrent, after having for some time flowed over our heads, was now running w
 e:axel=curious
 
 Frequently I touched the wall, hoping to feel some indications of moisture: But there was no hope here.
-e:axel=unhappy
+e:axel=unhappy;f:b:tunnel-6=blur(3px)
 
 Yet another half hour, another half league was passed.
 e:axel=weary
 
 Then it became clear that the hunter had gone no farther.
-e:axel=thinking
+
 
 Guided by an instinct peculiar to mountaineers he had as it were felt this torrent through the rock; but he had certainly seen none of the precious liquid; he had drunk nothing himself.
 e:hans=neutral
@@ -5294,7 +5300,7 @@ Soon it became evident that if we continued our walk we should widen the distanc
 e:axel=nervous
 
 We returned. Hans stopped where the torrent seemed closest.
-e:hans=thinking
+e:hans=thinking;f:b:tunnel-6=
 
 I sat near the wall, while the waters were flowing past me at a distance of two feet with extreme violence.
 e:axel=unhappy
@@ -5327,16 +5333,16 @@ But I could not but understand, and applaud and cheer him on, when I saw him lay
 e:axel=excited
 
 “We are saved!” I cried.
-s=axel
+s=axel;x:axel=;e:axel=sadsmile;x:prof=
 
-“Yes,” cried my uncle, almost frantic with excitement. “Hans is right. Capital fellow! Who but he would have thought of it?”
-s=prof;e:prof=excited
+“Yes,” cried my uncle, almost frantic with excitement.
+s=prof;e:prof=sadsmile
 
-Yes; who but he?
+“Hans is right. Capital fellow! Who but he would have thought of it?”
+
+
+Yes; who but he? Such an expedient, however simple, would never have entered into our minds.
 s=none;e:axel=thinking
-
-Such an expedient, however simple, would never have entered into our minds.
-e:axel=surprised
 
 True, it seemed most hazardous to strike a blow of the hammer in this part of the earth’s structure. Suppose some displacement should occur and crush us all!
 e:axel=fearful
@@ -5347,11 +5353,8 @@ e:axel=nervous
 But still no fears of falling rocks or rushing floods could stay us now; and our thirst was so intense that, to satisfy it, we would have dared the waves of the north Atlantic.
 e:axel=serious
 
-Hans set about the task which my uncle and I together could not have accomplished.
+Hans set about the task which my uncle and I together could not have accomplished. If our impatience had armed our hands with power, we should have shattered the rock into a thousand fragments.
 e:hans=serious
-
-If our impatience had armed our hands with power, we should have shattered the rock into a thousand fragments.
-e:axel=thinking
 
 Not so Hans. Full of self possession, he calmly wore his way through the rock with a steady succession of light and skilful strokes, working through an aperture six inches wide at the outside.
 e:hans=neutral
@@ -5362,23 +5365,26 @@ e:axel=happy
 The pick had soon penetrated two feet into the granite partition, and our man had worked for above an hour. I was in an agony of impatience.
 e:axel=nervous
 
-My uncle wanted to employ stronger measures, and I had some difficulty in dissuading him; still he had just taken a pickaxe in his hand, when a sudden hissing was heard, and a jet of water spurted out with violence against the opposite wall.
-e:prof=annoyed
+My uncle wanted to employ stronger measures, and I had some difficulty in dissuading him; still he had just taken a pickaxe in his hand, when a sudden hissing was heard,
+e:prof=annoyed;m=break,1
+
+and a jet of water spurted out with violence against the opposite wall.
+b=tunnel-6-water
 
 Hans, almost thrown off his feet by the violence of the shock, uttered a cry of grief and disappointment, of which I soon understood the cause, when plunging my hands into the spouting torrent, I withdrew them in haste, for the water was scalding hot.
 e:hans=surprised
 
 “The water is at the boiling point,” I cried.
-s=axel;e:axel=fearful
+s=axel;e:axel=upset
 
 “Well, never mind, let it cool,” my uncle replied.
-s=prof;e:prof=happy
+s=prof;e:prof=contemplative
 
 The tunnel was filling with steam, whilst a stream was forming, which by degrees wandered away into subterranean windings, and soon we had the satisfaction of swallowing our first draught.
 s=none;e:axel=happy
 
 Could anything be more delicious than the sensation that our burning intolerable thirst was passing away, and leaving us to enjoy comfort and pleasure?
-e:axel=excited
+e:axel=excited;f:b:tunnel-6-water=blur(3px)
 
 But where was this water from? No matter. It was water; and though still warm, it brought life back to the dying.
 e:axel=happy
@@ -5386,26 +5392,29 @@ e:axel=happy
 I kept drinking without stopping, and almost without tasting.
 e:axel=excited
 
-At last after a most delightful time of reviving energy, I cried, “Why, this is a chalybeate spring!”
-s=axel;e:axel=surprised
+At last after a most delightful time of reviving energy, I cried,
+;f:b:tunnel-6-water=
 
-“Nothing could be better for the digestion,” said my uncle. “It is highly impregnated with iron. It will be as good for us as going to the Spa, or to Töplitz.”
+“Why, this is a chalybeate spring!”
+s=axel;e:axel=excited
+
+“Nothing could be better for the digestion,” said my uncle.
 s=prof;e:prof=happy
 
+“It is highly impregnated with iron. It will be as good for us as going to the Spa, or to Töplitz.”
+
+
 “Well, it is delicious!”
-s=axel;e:axel=happy
+s=axel;e:axel=happylookdown
 
-“Of course it is, water should be, found six miles underground.”
-s=prof
-
-“It has an inky flavour, which is not at all unpleasant.”
-
+“Of course it is, water should be, found six miles underground. It has an inky flavour, which is not at all unpleasant.”
+s=prof;e:prof=happy
 
 “What a capital source of strength Hans has found for us here. We will call it after his name.”
-
+e:prof=happylook
 
 “Agreed,” I cried.
-s=axel
+s=axel;e:axel=happy
 
 And Hansbach it was from that moment.
 s=none;e:axel=happy
@@ -5416,11 +5425,14 @@ e:hans=neutral
 “Now,” I said, “we must not lose this water.”
 s=axel;e:axel=serious
 
-“What is the use of troubling ourselves?” my uncle, replied. “I fancy it will never fail.”
-s=prof;e:prof=smirking
+“What is the use of troubling ourselves?” my uncle, replied.
+s=prof;e:prof=curious
+
+“I fancy it will never fail.”
+e:prof=smirking
 
 “Never mind, we cannot be sure; let us fill the water bottle and our flasks, and then stop up the opening.”
-s=axel;e:axel=wary
+s=axel;e:axel=serious;i=2
 
 My advice was followed so far as getting in a supply; but the stopping up of the hole was not so easy to accomplish.
 s=none;e:axel=neutral
@@ -5432,19 +5444,19 @@ The pressure was too great, and our efforts were fruitless.
 e:axel=upset
 
 “It is quite plain,” said I, “that the higher body of this water is at a considerable elevation. The force of the jet shows that.”
-s=axel;e:axel=thinking
+s=axel;e:axel=contemplative
 
-“No doubt,” answered my uncle. “If this column of water is 32,000 feet high—that is, from the surface of the earth, it is equal to the weight of a thousand atmospheres.”
-s=prof;e:prof=thinking
+“No doubt,” answered my uncle.
+s=prof;e:prof=smirking
 
-“But I have got an idea.”
-e:prof=smirking
+“If this column of water is 32,000 feet high—that is, from the surface of the earth, it is equal to the weight of a thousand atmospheres. But I have got an idea.”
+e:prof=happy
 
 “Well?”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative;i=2
 
 “Why should we trouble ourselves to stop the stream from coming out at all?”
-s=prof
+s=prof;i=2
 
 “Because—”
 s=axel;e:axel=confused
@@ -5453,7 +5465,7 @@ Well, I could not assign a reason.
 s=none
 
 “When our flasks are empty, where shall we fill them again? Can we tell that?”
-s=axel;e:axel=wary
+s=prof;e:prof=smirking
 
 No; there was no certainty.
 s=none
@@ -5461,23 +5473,26 @@ s=none
 “Well, let us allow the water to run on. It will flow down, and will both guide and refresh us.”
 s=prof;e:prof=happy
 
-“That is well planned,” I cried. “With this stream for our guide, there is no reason why we should not succeed in our undertaking.”
+“That is well planned,” I cried.
 s=axel;e:axel=excited
 
+“With this stream for our guide, there is no reason why we should not succeed in our undertaking.”
+
+
 “Ah, my boy! you agree with me now,” cried the Professor, laughing.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;i=2
 
 “I agree with you most heartily.”
 s=axel;e:axel=happy
 
 “Well, let us rest awhile; and then we will start again.”
-s=prof
+s=prof;e:prof=thinking
 
-I was forgetting that it was night.
+I was forgetting that it was night. The chronometer soon informed me of that fact;
 s=none;e:axel=weary
 
-The chronometer soon informed me of that fact; and in a very short time, refreshed and thankful, we all three fell into a sound sleep.
-e:axel=happy
+and in a very short time, refreshed and thankful, we all three fell into a sound sleep.
+e:axel=happy;f:b:tunnel-6-water=blur(3px)
 
 ## XXIV. Well Said, Old Mole! Canst Thou Work i’ the Ground So Fast?
 r=title
