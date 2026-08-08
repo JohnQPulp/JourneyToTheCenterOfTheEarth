@@ -7541,7 +7541,7 @@ seeing him continually with his glass to his eye.
 s=
 
 “Anxious! No, not at all.”
-s=prof;e:prof=annoyedglass
+s=prof;x:prof=glass;e:prof=annoyed
 
 “Impatient, then?”
 s=axel;e:axel=wary
@@ -7553,7 +7553,7 @@ s=prof;e:prof=serious
 s=axel;e:axel=contemplative;i=2
 
 “What does that signify? I am not complaining that the rate is slow, but that the sea is so wide.”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;x:prof=
 
 I then remembered that the Professor, before starting, had estimated the length of this underground sea at thirty leagues.
 s=none;e:axel=thinking
@@ -7766,7 +7766,7 @@ s=hans;e:hans=serious
 s=axel;e:axel=confused
 
 “He is right,” said my uncle,
-s=prof;e:prof=seriousglass;m=break,1
+s=prof;e:prof=serious;x:prof=glass;m=break,1
 
 whose glass has never left his eye.
 s=
@@ -7775,7 +7775,7 @@ s=
 s=axel;e:axel=confused
 
 “No: the first of those monsters has a porpoise’s snout, a lizard’s head, a crocodile’s teeth; and hence our mistake. It is the ichthyosaurus (the fish lizard), the most terrible of the ancient monsters of the deep.”
-s=prof;e:prof=seriousglass;i=2
+s=prof;e:prof=serious;i=2
 
 “And the other?”
 s=axel;e:axel=nervous
@@ -7784,7 +7784,7 @@ s=axel;e:axel=nervous
 s=prof
 
 Hans had spoken truly. Two monsters only were creating all this commotion; and before my eyes are two reptiles of the primitive world.
-s=none;e:axel=surprised;b=tunnel-sea-fight
+s=none;e:axel=surprised;b=tunnel-sea-fight;x:prof=
 
 I can distinguish the eye of the ichthyosaurus glowing like a red-hot coal, and as large as a man’s head. Nature has endowed it with an optical apparatus of extreme power, and capable of resisting the pressure of the great volume of water in the depths it inhabits.
 
@@ -7850,7 +7850,7 @@ About noon a distant noise is heard. I note the fact without being able to expla
 e:axel=curious;f:b:tunnel-sea-raft-wide-2=
 
 “In the distance,” says the Professor, “there is a rock or islet, against which the sea is breaking.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;x:prof=glass
 
 Hans climbs up the mast, but sees no breakers. The ocean is smooth and unbroken to its farthest limit.
 s=none;e:hans=serious
@@ -7862,19 +7862,16 @@ I remark upon this to my uncle, who replies doubtfully:
 e:prof=thinking
 
 “Yes, I am convinced that I am right.”
-s=prof
+s=prof;x:prof=glass;e:prof=contemplative
 
 Are we, then, speeding forward to some cataract which will cast us down an abyss?
 s=none;e:axel=fearful
 
 This method of getting on may please the Professor, because it is vertical; but for my part I prefer the more ordinary modes of horizontal progression.
-e:axel=nervous
+e:axel=nervous;x:prof=
 
-At any rate, some leagues to the windward there must be some noisy phenomenon, for now the roarings are heard with increasing loudness.
+At any rate, some leagues to the windward there must be some noisy phenomenon, for now the roarings are heard with increasing loudness. Do they proceed from the sky or the ocean?
 e:axel=serious
-
-Do they proceed from the sky or the ocean?
-e:axel=confused
 
 I look up to the atmospheric vapours, and try to fathom their depths. The sky is calm and motionless.
 
@@ -7898,22 +7895,22 @@ Thence his eye sweeps a large area of sea, and it is fixed upon a point. His cou
 
 
 “He sees something,” says my uncle.
-s=prof;e:prof=curious
+s=prof;e:prof=serious
 
 “I believe he does.”
-s=axel;e:axel=serious
+s=axel;e:axel=wary
 
 Hans comes down, then stretches his arm to the south, saying:
 s=none;e:hans=neutral
 
 “*Der nere!*”
-s=hans
+s=hans;e:hans=seriouslook
 
 “Down there?” repeated my uncle.
 s=prof;e:prof=surprised
 
 Then, seizing his glass, he gazes attentively for a minute, which seems to me an age.
-s=none;e:prof=serious
+s=none;e:prof=serious;x:prof=glass
 
 “Yes, yes!” he cried. “I see a vast inverted cone rising from the surface.”
 s=prof;e:prof=excited
@@ -7922,13 +7919,13 @@ s=prof;e:prof=excited
 s=axel;e:axel=fearful
 
 “Perhaps it is.”
-s=prof;e:prof=wary
+s=prof;e:prof=serious
 
 “Then let us steer farther westward, for we know something of the danger of coming across monsters of that sort.”
 s=axel;e:axel=nervous
 
 “Let us go straight on,” replied my uncle.
-s=prof;e:prof=serious
+s=prof;e:prof=seriouslook;x:prof=
 
 I appealed to Hans. He maintained his course inflexibly.
 s=none;e:hans=serious;e:axel=upset
@@ -7937,7 +7934,7 @@ Yet, if at our present distance from the animal, a distance of twelve leagues at
 e:axel=thinking
 
 The commonest prudence would counsel immediate flight; but we did not come so far to be prudent.
-e:axel=weary
+e:axel=weary;f:b:tunnel-sea-raft-wide=blur(3px)
 
 Imprudently, therefore, we pursue our way. The nearer we approach, the higher mounts the jet of water.
 e:axel=wary
@@ -7946,7 +7943,7 @@ What monster can possibly fill itself with such a quantity of water, and spurt i
 e:axel=confused
 
 At eight in the evening we are not two leagues distant from it.
-
+b=tunnel-sea-island-wide;f:b:tunnel-sea-island-wide=blur(3px)
 
 Its body﻿—dusky, enormous, hillocky﻿—lies spread upon the sea like an islet. Is it illusion or fear?
 e:axel=fearful
@@ -7970,28 +7967,28 @@ I am in open mutiny against the Professor, who vouchsafes no answer.
 e:prof=serious
 
 Suddenly Hans rises, and pointing with his finger at the menacing object, he says:
-e:hans=neutral
+e:hans=neutral;f:b:tunnel-sea-island-wide=
 
 “*Holm.*”
-s=hans
+s=hans;e:hans=serious
 
 “An island!” cries my uncle.
-s=prof;e:prof=surprised
+s=prof;e:prof=excited
 
 “That’s not an island!” I cried sceptically.
-s=axel;e:axel=suspicious
+s=axel;e:axel=fearful;i=2
 
 “It’s nothing else,” shouted the Professor, with a loud laugh.
-s=prof;e:prof=happy
+s=prof;e:prof=smirking
 
 “But that column of water?”
 s=axel;e:axel=confused
 
 “*Geysir*,” said Hans.
-s=hans
+s=hans;e:hans=
 
 “No doubt it is a geyser, like those in Iceland.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;i=2
 
 At first I protest against being so widely mistaken as to have taken an island for a marine monster.
 s=none;e:axel=annoyed
@@ -7999,11 +7996,8 @@ s=none;e:axel=annoyed
 But the evidence is against me, and I have to confess my error. It is nothing worse than a natural phenomenon.
 e:axel=neutral
 
-As we approach nearer the dimensions of the liquid column become magnificent.
+As we approach nearer the dimensions of the liquid column become magnificent. The islet resembles, with a most deceiving likeness, an enormous cetacean, whose head dominates the waves at a height of twenty yards.
 e:axel=surprised
-
-The islet resembles, with a most deceiving likeness, an enormous cetacean, whose head dominates the waves at a height of twenty yards.
-
 
 The geyser, a word meaning “fury,” rises majestically from its extremity.
 
@@ -8011,29 +8005,23 @@ The geyser, a word meaning “fury,” rises majestically from its extremity.
 Deep and heavy explosions are heard from time to time, when the enormous jet, possessed with more furious violence, shakes its plumy crest, and springs with a bound till it reaches the lowest stratum of the clouds.
 e:axel=wary
 
-It stands alone. No steam vents, no hot springs surround it, and all the volcanic power of the region is concentrated here.
+It stands alone. No steam vents, no hot springs surround it, and all the volcanic power of the region is concentrated here. Sparks of electric fire mingle with the dazzling sheaf of lighted fluid, every drop of which refracts the prismatic colours.
 e:axel=thinking
 
-Sparks of electric fire mingle with the dazzling sheaf of lighted fluid, every drop of which refracts the prismatic colours.
-
-
 “Let us land,” said the Professor.
-s=prof;e:prof=excited
+s=prof;e:prof=happy
 
 “But we must carefully avoid this waterspout, which would sink our raft in a moment.”
 s=axel;e:axel=wary
 
 Hans, steering with his usual skill, brought us to the other extremity of the islet.
-s=none;e:hans=serious
+s=none;e:hans=serious;b=tunnel-sea-island
 
 I leaped up on the rock; my uncle lightly followed, while our hunter remained at his post, like a man too wise ever to be astonished.
 e:axel=neutral;e:prof=happy
 
-We walked upon granite mingled with siliceous tufa.
+We walked upon granite mingled with siliceous tufa. The soil shivers and shakes under our feet, like the sides of an overheated boiler filled with steam struggling to get loose.
 
-
-The soil shivers and shakes under our feet, like the sides of an overheated boiler filled with steam struggling to get loose.
-e:axel=nervous
 
 We come in sight of a small central basin, out of which the geyser springs. I plunge a register thermometer into the boiling water.
 e:axel=curious
@@ -8045,10 +8033,13 @@ I cannot help making the remark.
 
 
 “Well,” he replied, “how does that make against my doctrine?”
-s=prof;e:prof=suspicious
+s=prof;e:prof=annoyed
 
-“Oh, nothing at all,” I said, seeing that I was going in opposition to immovable obstinacy.
-s=axel;e:axel=weary
+“Oh, nothing at all,” I said,
+s=axel;e:axel=contemplative;i=3;m=break,1
+
+seeing that I was going in opposition to immovable obstinacy.
+s=
 
 Still I am constrained to confess that hitherto we have been wonderfully favoured, and that for some reason unknown to myself we have accomplished our journey under singularly favourable conditions of temperature.
 s=none;e:axel=contemplative
@@ -8069,7 +8060,7 @@ I notice that it throws up its column of water with variable force: sometimes se
 
 
 At last we leave the island, rounding away past the low rocks on its southern shore.
-e:axel=neutral
+e:axel=neutral;f:b:tunnel-sea-island=blur(3px)
 
 Hans has taken advantage of the halt to refit his rudder.
 e:hans=neutral
