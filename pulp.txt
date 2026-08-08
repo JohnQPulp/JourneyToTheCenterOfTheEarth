@@ -5675,46 +5675,52 @@ s=prof;e:prof=serious
 s=axel;e:axel=curious
 
 “Yes; I have everywhere observed the angles and the inclines. I am sure there is no error.”
-s=prof;e:prof=neutral
+s=prof;e:prof=thinking
 
 “Let us see where we are now. Take your compass, and note the direction.”
-
+e:prof=serious
 
 I looked, and replied carefully:
 s=none;e:axel=serious
 
 “Southeast by east.”
-s=axel
+s=axel;e:axel=contemplativelookdown
 
-“Well,” answered the Professor, after a rapid calculation, “I infer that we have gone eighty-five leagues since we started.”
-s=prof;e:prof=thinking
+“Well,” answered the Professor,
+s=prof;e:prof=thinking;m=break,1
+
+after a rapid calculation,
+s=
+
+“I infer that we have gone eighty-five leagues since we started.”
+e:prof=smirking;s=prof
 
 “Therefore we are under mid-Atlantic?”
 s=axel;e:axel=surprised
 
 “To be sure we are.”
-s=prof;e:prof=neutral
+s=prof;e:prof=happy
 
 “And perhaps at this very moment there is a storm above, and ships over our heads are being rudely tossed by the tempest.”
-s=axel;e:axel=thinking
+s=axel;e:axel=wary
 
 “Quite probable.”
-s=prof
+s=prof;e:prof=thinking
 
 “And whales are lashing the roof of our prison with their tails?”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative
 
-“It may be, Axel, but they won’t shake us here. But let us go back to our calculation.”
+“It may be, Axel, but they won’t shake us here.”
 s=prof;e:prof=smirking
 
-“Here we are eighty-five leagues southeast of Snæfells, and I reckon that we are at a depth of sixteen leagues.”
-e:prof=serious
+“But let us go back to our calculation. Here we are eighty-five leagues southeast of Snæfells, and I reckon that we are at a depth of sixteen leagues.”
+e:prof=thinking;i=2
 
 “Sixteen leagues?” I cried.
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 “No doubt.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;i=2
 
 “Why, this is the very limit assigned by science to the thickness of the crust of the earth.”
 s=axel;e:axel=thinking
@@ -5723,19 +5729,19 @@ s=axel;e:axel=thinking
 s=prof
 
 “And here, according to the law of increasing temperature, there ought to be a heat of 2,732° Fahr.!”
-s=axel;e:axel=excited
+s=axel;e:axel=confused;i=2
 
 “So there should, my lad.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;i=2
 
 “And all this solid granite ought to be running in fusion.”
-s=axel
+s=axel;e:axel=suspicious
 
 “You see that it is not so, and that, as so often happens, facts come to overthrow theories.”
 s=prof;e:prof=happy
 
 “I am obliged to agree; but, after all, it is surprising.”
-s=axel;e:axel=surprised
+s=axel;e:axel=contemplative
 
 “What does the thermometer say?”
 s=prof;e:prof=curious
@@ -5743,11 +5749,8 @@ s=prof;e:prof=curious
 “Twenty-seven, six tenths (82° Fahr.)”
 s=axel;e:axel=neutral
 
-“Therefore the savants are wrong by 2,705°, and the proportional increase is a mistake.”
+“Therefore the savants are wrong by 2,705°, and the proportional increase is a mistake. Therefore Humphry Davy was right, and I am not wrong in following him. What do you say now?”
 s=prof;e:prof=smirking
-
-“Therefore Humphry Davy was right, and I am not wrong in following him. What do you say now?”
-e:prof=happy
 
 “Nothing.”
 s=axel;e:axel=thinking
@@ -5774,19 +5777,19 @@ s=axel;e:axel=thinking
 e:axel=serious
 
 “So you say.”
-s=prof
+s=prof;e:prof=thinking
 
 “And these twelve at a cost of 85 leagues diagonally?”
-s=axel
+s=axel;i=2
 
 “Exactly so.”
-s=prof
+s=prof;i=2
 
 “In twenty days?”
 s=axel
 
 “Yes.”
-s=prof
+s=prof;e:prof=contemplative
 
 “Now, sixteen leagues are the hundredth part of the earth’s radius. At this rate we shall be two thousand days, or nearly five years and a half, in getting to the centre.”
 s=axel;e:axel=annoyed
@@ -5795,22 +5798,19 @@ No answer was vouchsafed to this rational conclusion.
 s=none;e:prof=annoyed
 
 “Without reckoning, too, that if a vertical depth of sixteen leagues can be attained only by a diagonal descent of eighty-four, it follows that we must go eight thousand miles in a southeasterly direction; so that we shall emerge from some point in the earth’s circumference instead of getting to the centre!”
-s=axel;e:axel=upset
+s=axel;e:axel=unhappy
 
 “Confusion to all your figures, and all your hypotheses besides,” shouted my uncle in a sudden rage.
-s=prof;e:prof=angry
+s=prof;e:prof=scowling
 
-“What is the basis of them all? How do you know that this passage does not run straight to our destination?”
+“What is the basis of them all? How do you know that this passage does not run straight to our destination? Besides, there is a precedent. What one man has done, another may do.”
 
-
-“Besides, there is a precedent. What one man has done, another may do.”
-e:prof=serious
 
 “I hope so; but, still, I may be permitted—”
 s=axel;e:axel=wary
 
 “You shall have my leave to hold your tongue, Axel, but not to talk in that irrational way.”
-s=prof;e:prof=scowling
+s=prof;e:prof=annoyed
 
 I could see the awful Professor bursting through my uncle’s skin, and I took timely warning.
 s=none;e:axel=nervous
@@ -5819,55 +5819,55 @@ s=none;e:axel=nervous
 s=prof;e:prof=serious
 
 “It says we are under considerable pressure.”
-s=axel;e:axel=neutral
+s=axel;e:axel=contemplativelookdown
 
 “Very good; so you see that by going gradually down, and getting accustomed to the density of the atmosphere, we don’t suffer at all.”
-s=prof;e:prof=smirking
+s=prof;e:prof=serious;i=2
 
 “Nothing, except a little pain in the ears.”
-s=axel
+s=axel;e:axel=contemplative
 
 “That’s nothing, and you may get rid of even that by quick breathing whenever you feel the pain.”
-s=prof;e:prof=neutral
+s=prof;e:prof=suspicious
 
-“Exactly so,” I said, determined not to say a word that might cross my uncle’s prejudices.
-s=axel;e:axel=wary
+“Exactly so,” I said,
+s=axel;e:axel=wary;m=break,1
+
+determined not to say a word that might cross my uncle’s prejudices.
+s=
 
 “There is even positive pleasure in living in this dense atmosphere. Have you observed how intense sound is down here?”
-e:axel=neutral
+e:axel=curious
 
 “No doubt it is. A deaf man would soon learn to hear perfectly.”
-s=prof;e:prof=happy
-
-“But won’t this density augment?”
-s=axel;e:axel=curious
-
-“Yes; according to a rather obscure law. It is well known that the weight of bodies diminishes as fast as we descend.”
 s=prof;e:prof=thinking
 
-“You know that it is at the surface of the globe that weight is most sensibly felt, and that at the centre there is no weight at all.”
+“But won’t this density augment?”
+s=axel;e:axel=contemplative
 
+“Yes; according to a rather obscure law. It is well known that the weight of bodies diminishes as fast as we descend. You know that it is at the surface of the globe that weight is most sensibly felt, and that at the centre there is no weight at all.”
+s=prof;e:prof=thinking;i=2
 
 “I am aware of that; but, tell me, will not air at last acquire the density of water?”
-s=axel;e:axel=thinking
+s=axel;i=2
 
 “Of course, under a pressure of seven hundred and ten atmospheres.”
-s=prof;e:prof=neutral
+s=prof;
 
 “And how, lower down still?”
-s=axel;e:axel=curious
+s=axel;e:axel=wary
 
 “Lower down the density will still increase.”
-s=prof
+s=prof;e:prof=contemplative
 
 “But how shall we go down then.”
-s=axel
+s=axel;e:axel=confused
 
-“Why, we must fill our pockets with stones.”
-s=prof;e:prof=smirking
+“Why, we must fill our pockets with stones.”<e>Virginia Woolf plagiarism.</e>
+s=prof;e:prof=annoyed
 
 “Well, indeed, my worthy uncle, you are never at a loss for an answer.”
-s=axel;e:axel=sadsmile
+s=axel;e:axel=unhappy
 
 I dared venture no farther into the region of probabilities, for I might presently have stumbled upon an impossibility, which would have brought the Professor on the scene when he was not wanted.
 s=none;e:axel=wary
@@ -5875,14 +5875,17 @@ s=none;e:axel=wary
 Still, it was evident that the air, under a pressure which might reach that of thousands of atmospheres, would at last reach the solid state, and then, even if our bodies could resist the strain, we should be stopped, and no reasonings would be able to get us on any farther.
 e:axel=thinking
 
-But I did not advance this argument. My uncle would have met it with his inevitable Saknussemm, a precedent which possessed no weight with me; for even if the journey of the learned Icelander were really attested, there was one very simple answer, that in the sixteenth century there was neither barometer or aneroid and therefore Saknussemm could not tell how far he had gone.
+But I did not advance this argument.
+
+
+My uncle would have met it with his inevitable Saknussemm, a precedent which possessed no weight with me; for even if the journey of the learned Icelander were really attested, there was one very simple answer, that in the sixteenth century there was neither barometer or aneroid and therefore Saknussemm could not tell how far he had gone.
 e:axel=annoyed
 
 But I kept this objection to myself, and waited the course of events.
 e:axel=weary
 
 The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of Professor Liedenbrock, and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.
-e:axel=neutral;e:hans=neutral
+e:axel=neutral;e:hans=neutral;f:b:tunnel-grotto=blur(3px)
 
 ## XXVI. The Worst Peril of All
 r=title
