@@ -4427,16 +4427,19 @@ e:axel=contemplative;f:b:tunnel-cavern-1=blur(3px)
 r=title
 
 Next day, Tuesday, June 30, at 6 a.m., the descent began again.
-
+b=tunnel-intersection;f:b:tunnel-intersection=blur(3px)
 
 We were still following the gallery of lava, a real natural staircase, and as gently sloping as those inclined planes which in some old houses are still found instead of flights of steps.
 
 
 And so we went on until 12:17, the precise moment when we overtook Hans, who had stopped.
-e:hans=neutral
+e:hans=neutral;f:b:tunnel-intersection=
 
-“Ah! Here we are,” exclaimed my uncle, “at the very end of the chimney.”
-s=prof;e:prof=excited
+“Ah! Here we are,” exclaimed my uncle,
+s=prof;e:prof=excited;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack
+
+“at the very end of the chimney.”
+e:prof=smirking
 
 I looked around me. We were standing at the intersection of two roads, both dark and narrow.
 s=none
@@ -4444,8 +4447,11 @@ s=none
 Which were we to take? This was a difficulty.
 e:axel=confused
 
-Still my uncle refused to admit an appearance of hesitation, either before me or the guide; he pointed out the eastern tunnel, and we were soon all three in it.
-e:prof=serious
+Still my uncle refused to admit an appearance of hesitation, either before me or the guide; he pointed out the eastern tunnel,
+e:prof=serious;m=break,1
+
+and we were soon all three in it.
+b=tunnel-2
 
 Besides there would have been interminable hesitation before this choice of roads; for since there was no indication whatever to guide our choice, we were obliged to trust to chance.
 e:axel=thinking
@@ -4466,7 +4472,7 @@ The heat was perfectly bearable.
 
 
 Involuntarily I began to think of its heat when the lava thrown out by Snæfells was boiling and working through this now silent road.
-e:axel=thinking
+e:axel=thinking;f:b:tunnel-2=blur(3px)
 
 I imagined the torrents of fire hurled back at every angle in the gallery, and the accumulation of intensely heated vapours in the midst of this confined channel.
 e:axel=fearful
@@ -4474,20 +4480,14 @@ e:axel=fearful
 I only hope, thought I, that this so-called extinct volcano won’t take a fancy in his old age to begin his sports again!
 e:axel=wary
 
-I abstained from communicating these fears to Professor Liedenbrock. He would never have understood them at all.
+I abstained from communicating these fears to Professor Liedenbrock. He would never have understood them at all. He had but one idea﻿—forward! He walked, he slid, he scrambled, he tumbled, with a persistency which one could not but admire.
 e:axel=neutral
-
-He had but one idea﻿—forward! He walked, he slid, he scrambled, he tumbled, with a persistency which one could not but admire.
-e:prof=serious
 
 By six in the evening, after a not very fatiguing walk, we had gone two leagues south, but scarcely a quarter of a mile down.
-
-
-My uncle said it was time to go to sleep.
 e:prof=weary
 
-We ate without talking, and went to sleep without reflection.
-e:axel=neutral
+My uncle said it was time to go to sleep. We ate without talking, and went to sleep without reflection.
+e:axel=neutral;f:b:tunnel-2=blur(6px)
 
 Our arrangements for the night were very simple; a railway rug each, into which we rolled ourselves, was our sole covering.
 
@@ -4495,62 +4495,50 @@ Our arrangements for the night were very simple; a railway rug each, into which 
 We had neither cold nor intrusive visits to fear.
 
 
-Travellers who penetrate into the wilds of central Africa, and into the pathless forests of the New World, are obliged to watch over each other by night.
+Travellers who penetrate into the wilds of central Africa, and into the pathless forests of the New World, are obliged to watch over each other by night. But we enjoyed absolute safety and utter seclusion; no savages or wild beasts infested these silent depths.
 e:axel=contemplative
 
-But we enjoyed absolute safety and utter seclusion; no savages or wild beasts infested these silent depths.
-
-
 Next morning, we awoke fresh and in good spirits. The road was resumed.
-e:axel=happy
+e:axel=happy;f:b:tunnel-2=blur(3px)
 
-As the day before, we followed the path of the lava.
+As the day before, we followed the path of the lava. It was impossible to tell what rocks we were passing: the tunnel, instead of tending lower, approached more and more nearly to a horizontal direction, I even fancied a slight rise.
 e:axel=neutral
 
-It was impossible to tell what rocks we were passing: the tunnel, instead of tending lower, approached more and more nearly to a horizontal direction, I even fancied a slight rise.
-e:axel=thinking
-
 But about ten this upward tendency became so evident, and therefore so fatiguing, that I was obliged to slacken my pace.
-e:axel=weary
+e:axel=weary;f:b:tunnel-2=
 
 “Well, Axel?” demanded the Professor impatiently.
 s=prof;e:prof=annoyed
 
 “Well, I cannot stand it any longer,” I replied.
-s=axel;e:axel=weary
+s=axel;e:axel=unhappy
 
 “What! After three hours’ walk over such easy ground.”
-s=prof;e:prof=surprised
+s=prof;e:prof=scowling
 
 “It may be easy, but it is tiring all the same.”
-s=axel;e:axel=annoyed
+s=axel;e:axel=unhappy;i=2
 
 “What, when we have nothing to do but keep going down!”
-s=prof;e:prof=confused
+s=prof;e:prof=angry
 
 “Going up, if you please.”
 s=axel;e:axel=serious
 
 “Going up!” said my uncle, with a shrug.
-s=prof;e:prof=surprised
+s=prof;e:prof=scowling;i=2
 
 “No doubt, for the last half-hour the inclines have gone the other way, and at this rate we shall soon arrive upon the level soil of Iceland.”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;i=2
 
 The Professor nodded slowly and uneasily like a man that declines to be convinced.
 s=none;e:prof=wary
 
-I tried to resume the conversation.
+I tried to resume the conversation. He answered not a word, and gave the signal for a start. I saw that his silence was nothing but ill-humour.
 e:axel=neutral
 
-He answered not a word, and gave the signal for a start. I saw that his silence was nothing but ill-humour.
-e:prof=annoyed
-
-Still I had courageously shouldered my burden again, and was rapidly following Hans, whom my uncle preceded.
+Still I had courageously shouldered my burden again, and was rapidly following Hans, whom my uncle preceded. I was anxious not to be left behind. My greatest care was not to lose sight of my companions.
 e:axel=serious
-
-I was anxious not to be left behind. My greatest care was not to lose sight of my companions.
-e:axel=wary
 
 I shuddered at the thought of being lost in the mazes of this vast subterranean labyrinth.
 e:axel=fearful
@@ -4559,10 +4547,10 @@ Besides, if the ascending road did become steeper, I was comforted with the thou
 e:axel=thinking
 
 There was hope in this. Every step confirmed me in it, and I was rejoicing at the thought of meeting my little Gräuben again.
-e:axel=happy
+e:axel=happy;f:b:tunnel-2=blur(3px)
 
 By midday there was a change in the appearance of this wall of the gallery.
-e:axel=neutral
+e:axel=neutral;b=tunnel-3
 
 I noticed it by a diminution of the amount of light reflected from the sides; solid rock was appearing in the place of the lava coating.
 e:axel=curious
@@ -4571,34 +4559,34 @@ The mass was composed of inclined and sometimes vertical strata. We were passing
 e:axel=thinking
 
 “It is evident,” I cried, “the marine deposits formed in the second period, these shales, limestones, and sandstones. We are turning away from the primary granite.”
-s=axel;e:axel=excited
+s=axel;e:axel=thinkinglook
 
 “We are just as if we were people of Hamburg going to Lübeck by way of Hanover!”
+e:axel=upset
 
-
-I had better have kept my observations to myself.
+I had better have kept my observations to myself. But my geological instinct was stronger than my prudence, and uncle Liedenbrock heard my exclamation.
 s=none;e:axel=annoyed
 
-But my geological instinct was stronger than my prudence, and uncle Liedenbrock heard my exclamation.
-e:axel=neutral
-
 “What’s that you are saying?” he asked.
-s=prof;e:prof=curious
+s=prof;e:prof=annoyed
 
-“See,” I said, pointing to the varied series of sandstones and limestones, and the first indication of slate.
-s=axel;e:axel=excited
+“See,” I said,
+s=axel;e:axel=seriouslook;m=break,1
+
+pointing to the varied series of sandstones and limestones, and the first indication of slate.
+s=
 
 “Well?”
-s=prof;e:prof=neutral
-
-“We are at the period when the first plants and animals appeared.”
-s=axel;e:axel=excited
-
-“Do you think so?”
 s=prof;e:prof=suspicious
 
-“Look close, and examine.”
+“We are at the period when the first plants and animals appeared.”
 s=axel;e:axel=serious
+
+“Do you think so?”
+s=prof;e:prof=suspicious;i=2
+
+“Look close, and examine.”
+s=axel;e:axel=serious;i=2
 
 I obliged the Professor to move his lamp over the walls of the gallery.
 s=none;e:axel=neutral
@@ -4606,71 +4594,56 @@ s=none;e:axel=neutral
 I expected some signs of astonishment; but he spoke not a word, and went on.
 e:prof=serious;e:axel=confused
 
-Had he understood me or not?
-e:axel=confused
-
-Did he refuse to admit, out of self-love as an uncle and a philosopher, that he had mistaken his way when he chose the eastern tunnel? Or was he determined to examine this passage to its farthest extremity?
-e:axel=thinking
+Had he understood me or not? Did he refuse to admit, out of self-love as an uncle and a philosopher, that he had mistaken his way when he chose the eastern tunnel? Or was he determined to examine this passage to its farthest extremity?
+e:axel=thinking;f:b:tunnel-3=blur(3px)
 
 It was evident that we had left the lava path, and that this road could not possibly lead to the extinct furnace of Snæfells.
 e:axel=serious
 
-Yet I asked myself if I was not depending too much on this change in the rock. Might I not myself be mistaken?
+Yet I asked myself if I was not depending too much on this change in the rock. Might I not myself be mistaken? Were we really crossing the layers of rock which overlie the granite foundation?
 e:axel=thinking
 
-Were we really crossing the layers of rock which overlie the granite foundation?
-e:axel=confused
-
-If I am right, I thought, I must soon find some fossil remains of primitive life; and then we must yield to evidence.
+If I am right, I thought, I must soon find some fossil remains of primitive life; and then we must yield to evidence. I will look.
 e:axel=thinking
-
-I will look.
-e:axel=serious
 
 I had not gone a hundred paces before incontestable proofs presented themselves.
-e:axel=excited
+e:axel=excited;f:b:tunnel-3=
 
 It could not be otherwise, for in the Silurian age the seas contained at least fifteen hundred vegetable and animal species.
 e:axel=thinking
 
-My feet, which had become accustomed to the indurated lava floor, suddenly rested upon a dust composed of the debris of plants and shells.
+My feet, which had become accustomed to the indurated lava floor, suddenly rested upon a dust composed of the debris of plants and shells. In the walls were distinct impressions of fucoids and Lycopodites.
 e:axel=curious
-
-In the walls were distinct impressions of fucoids and Lycopodites.
-e:axel=excited
 
 Professor Liedenbrock could not be mistaken, I thought, and yet he pushed on, with, I suppose, his eyes resolutely shut.
 e:axel=annoyed
 
-This was only invincible obstinacy. I could hold out no longer.
-
-
-I picked up a perfectly formed shell, which had belonged to an animal not unlike the woodlouse: then, joining my uncle, I said:
+This was only invincible obstinacy. I could hold out no longer. I picked up a perfectly formed shell, which had belonged to an animal not unlike the woodlouse: then, joining my uncle, I said:
 e:axel=curious
 
 “Look at this!”
-s=axel;e:axel=excited
+s=axel;e:axel=seriouslook
 
 “Very well,” said he quietly, “it is the shell of a crustacean, of an extinct species called a trilobite. Nothing more.”
-s=prof;e:prof=neutral
+s=prof;e:prof=contemplativelookdown
 
 “But don’t you conclude﻿—?”
 s=axel;e:axel=confused
 
-“Just what you conclude yourself. Yes; I do, perfectly. We have left the granite and the lava.”
-s=prof;e:prof=serious
+“Just what you conclude yourself. Yes; I do, perfectly. We have left the granite and the lava. It is possible that I may be mistaken.”
+s=prof;e:prof=thinking
 
-“It is possible that I may be mistaken. But I cannot be sure of that until I have reached the very end of this gallery.”
-e:prof=thinking
+“But I cannot be sure of that until I have reached the very end of this gallery.”
+e:prof=serious
 
 “You are right in doing this, my uncle, and I should quite approve of your determination, if there were not a danger threatening us nearer and nearer.”
-s=axel;e:axel=wary
+s=axel;e:axel=unhappy
 
 “What danger?”
-s=prof;e:prof=surprised
+s=prof;e:prof=contemplative
 
 “The want of water.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;i=2
 
 “Well, Axel, we will put ourselves upon rations.”
 s=prof;e:prof=serious
@@ -4679,7 +4652,7 @@ s=prof;e:prof=serious
 r=title
 
 In fact, we had to ration ourselves. Our provision of water could not last more than three days.
-s=none;e:axel=unhappy
+s=none;e:axel=unhappy;b=tunnel-3;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;f:b:tunnel-3=blur(3px)
 
 I found that out for certain when suppertime came. And, to our sorrow, we had little reason to expect to find a spring in these transition beds.
 e:axel=weary
