@@ -6752,7 +6752,7 @@ When I was able to reopen them, I stood more stupefied even than surprised.
 e:axel=confused;f:b:tunnel-sea=
 
 “The sea!” I cried.
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 “Yes,” my uncle replied, “the Liedenbrock Sea; and I don’t suppose any other discoverer will ever dispute my claim to name it after myself as its first discoverer.”
 s=prof;e:prof=smirking
@@ -6763,16 +6763,10 @@ s=none;e:axel=curious
 The deeply indented shore was lined with a breadth of fine shining sand, softly lapped by the waves, and strewn with the small shells which had been inhabited by the first of created beings.
 
 
-The waves broke on this shore with the hollow echoing murmur peculiar to vast enclosed spaces.
+The waves broke on this shore with the hollow echoing murmur peculiar to vast enclosed spaces. A light foam flew over the waves before the breath of a moderate breeze, and some of the spray fell upon my face.
 
 
-A light foam flew over the waves before the breath of a moderate breeze, and some of the spray fell upon my face.
-
-
-On this slightly inclining shore, about a hundred fathoms from the limit of the waves, came down the foot of a huge wall of vast cliffs, which rose majestically to an enormous height.
-
-
-Some of these, dividing the beach with their sharp spurs, formed capes and promontories, worn away by the ceaseless action of the surf.
+On this slightly inclining shore, about a hundred fathoms from the limit of the waves, came down the foot of a huge wall of vast cliffs, which rose majestically to an enormous height. Some of these, dividing the beach with their sharp spurs, formed capes and promontories, worn away by the ceaseless action of the surf.
 
 
 Farther on the eye discerned their massive outline sharply defined against the hazy distant horizon.
@@ -6802,10 +6796,7 @@ e:axel=confused
 But then “the weather was fine.” The play of the electric light produced singular effects upon the upper strata of cloud.
 
 
-Deep shadows reposed upon their lower wreaths; and often, between two separated fields of cloud, there glided down a ray of unspeakable lustre.
-
-
-But it was not solar light, and there was no heat.
+Deep shadows reposed upon their lower wreaths; and often, between two separated fields of cloud, there glided down a ray of unspeakable lustre. But it was not solar light, and there was no heat.
 
 
 The general effect was sad, supremely melancholy.
@@ -6817,14 +6808,8 @@ e:axel=weary
 Then I remembered the theory of an English captain, who likened the earth to a vast hollow sphere, in the interior of which the air became luminous because of the vast pressure that weighed upon it; while two stars, Pluto and Persephone, rolled within upon the circuit of their mysterious orbits.
 e:axel=thinking
 
-We were in reality shut up inside an immeasurable excavation.
+We were in reality shut up inside an immeasurable excavation. Its width could not be estimated, since the shore ran widening as far as eye could reach, nor could its length, for the dim horizon bounded the new. As for its height, it must have been several leagues.
 e:axel=serious
-
-Its width could not be estimated, since the shore ran widening as far as eye could reach, nor could its length, for the dim horizon bounded the new.
-
-
-As for its height, it must have been several leagues.
-
 
 Where this vault rested upon its granite base no eye could tell; but there was a cloud hanging far above, the height of which we estimated at 12,000 feet, a greater height than that of any terrestrial vapour, and no doubt due to the great density of the air.
 
@@ -6848,10 +6833,10 @@ But what were these cavities compared to that in which I stood with wonder and a
 e:axel=surprised
 
 My imagination fell powerless before such immensity.
-e:axel=confused
+
 
 I gazed upon these wonders in silence. Words failed me to express my feelings.
-e:axel=contemplative
+e:axel=confused
 
 I felt as if I was in some distant planet—Uranus or Neptune—and in the presence of phenomena of which my terrestrial experience gave me no cognisance.
 
@@ -6860,10 +6845,10 @@ For such novel sensations, new words were wanted; and my imagination failed to s
 
 
 I gazed, I thought, I admired, with a stupefaction mingled with a certain amount of fear.
-e:axel=fearful
+
 
 The unforeseen nature of this spectacle brought back the colour to my cheeks.
-e:axel=neutral
+e:axel=fearful
 
 I was under a new course of treatment with the aid of astonishment, and my convalescence was promoted by this novel system of therapeutics; besides, the dense and breezy air invigorated me, supplying more oxygen to my lungs.
 e:axel=happy
@@ -6878,19 +6863,16 @@ e:prof=neutral
 s=prof;e:prof=curious
 
 “Yes, certainly; and nothing could be more delightful.”
-s=axel;e:axel=happy
+s=axel;e:axel=awe
 
 “Well, take my arm, Axel, and let us follow the windings of the shore.”
-s=prof;e:prof=happy
+s=prof;e:prof=happylook
 
 I eagerly accepted, and we began to coast along this new sea.
 s=none
 
-On the left huge pyramids of rock, piled one upon another, produced a prodigious titanic effect.
+On the left huge pyramids of rock, piled one upon another, produced a prodigious titanic effect. Down their sides flowed numberless waterfalls, which went on their way in brawling but pellucid streams.
 e:axel=surprised
-
-Down their sides flowed numberless waterfalls, which went on their way in brawling but pellucid streams.
-
 
 A few light vapours, leaping from rock to rock, denoted the place of hot springs; and streams flowed softly down to the common basin, gliding down the gentle slopes with a softer murmur.
 
@@ -6899,19 +6881,19 @@ Amongst these streams I recognised our faithful travelling companion, the Hansba
 e:axel=sadsmile
 
 “We shall see it no more,” I said, with a sigh.
-s=axel
+s=axel;e:axel=unhappy
 
 “What matters,” replied the philosopher, “whether this or another serves to guide us?”
-s=prof;e:prof=serious
+s=prof;e:prof=thinking
 
 I thought him rather ungrateful.
 s=none;e:axel=annoyed
 
 But at that moment my attention was drawn to an unexpected sight.
-e:axel=surprised
+e:axel=surprised;f:b:tunnel-sea=blur(3px)
 
 At a distance of five hundred paces, at the turn of a high promontory, appeared a high, tufted, dense forest.
-
+b=tunnel-sea-forest;f:b:tunnel-sea-forest=blur(3px)
 
 It was composed of trees of moderate height, formed like umbrellas, with exact geometrical outlines.
 
@@ -6919,11 +6901,8 @@ It was composed of trees of moderate height, formed like umbrellas, with exact g
 The currents of wind seemed to have had no effect upon their shape, and in the midst of the windy blasts they stood unmoved and firm, just like a clump of petrified cedars.
 
 
-I hastened forward.
+I hastened forward. I could not give any name to these singular creations.
 e:axel=curious
-
-I could not give any name to these singular creations.
-e:axel=confused
 
 Were they some of the two hundred thousand species of vegetables known hitherto, and did they claim a place of their own in the lacustrine flora?
 e:axel=thinking
@@ -6935,13 +6914,10 @@ There stood before me productions of earth, but of gigantic stature, which my un
 
 
 “It is only a forest of mushrooms,” said he.
-s=prof;e:prof=smirking
+s=prof;e:prof=happylookup;f:b:tunnel-sea-forest=
 
-And he was right.
+And he was right. Imagine the large development attained by these plants, which prefer a warm, moist climate.
 s=none;e:axel=neutral
-
-Imagine the large development attained by these plants, which prefer a warm, moist climate.
-
 
 I knew that the *Lycopodon giganteum* attains, according to Bulliard, a circumference of eight or nine feet; but here were pale mushrooms, thirty to forty feet high, and crowned with a cap of equal diameter.
 
@@ -6964,56 +6940,38 @@ They were lowly shrubs of earth, here attaining gigantic size; lycopodiums, a hu
 “Wonderful, magnificent, splendid!” cried my uncle.
 s=prof;e:prof=excited
 
-“Here is the entire flora of the second period of the world—the Transition period.”
-
-
-“These, humble garden plants with us, were tall trees in the early ages.”
-
+“Here is the entire flora of the second period of the world—the Transition period. These, humble garden plants with us, were tall trees in the early ages.”
+e:prof=happy
 
 “Look, Axel, and admire it all. Never had botanist such a feast as this!”
+e:prof=excitedlook
 
-
-“You are right, my uncle.”
+“You are right, my uncle. Providence seems to have preserved in this immense conservatory the antediluvian plants which the wisdom of philosophers has so sagaciously put together again.”
 s=axel;e:axel=happy
-
-“Providence seems to have preserved in this immense conservatory the antediluvian plants which the wisdom of philosophers has so sagaciously put together again.”
-
 
 “It is a conservatory, Axel; but is it not also a menagerie?”
 s=prof;e:prof=smirking
 
 “Surely not a menagerie!”
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
-“Yes; no doubt of it.”
-s=prof;e:prof=serious
-
-“Look at that dust under your feet; see the bones scattered on the ground.”
-
+“Yes; no doubt of it. Look at that dust under your feet; see the bones scattered on the ground.”
+s=prof;e:prof=smirkinglookdown
 
 “So there are!” I cried; “bones of extinct animals.”
-s=axel;e:axel=excited
+s=axel;e:axel=confusedlookdown
 
 I had rushed upon these remains, formed of indestructible phosphates of lime, and without hesitation I named these monstrous bones, which lay scattered about like decayed trunks of trees.
 s=none
 
 “Here is the lower jaw of a mastodon,”<f>These animals belonged to a late geological period, the Pliocene, just before the glacial epoch, and therefore could have no connection with the Carboniferous vegetation. —﻿Tr.</f> I said.
-s=axel
+s=axel;e:axel=contemplativelookdown
 
-“These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium.”
-
-
-“It certainly is a menagerie, for these remains were not brought here by a deluge.”
+“These are the molar teeth of the Deinotherium; this femur must have belonged to the greatest of those beasts, the Megatherium. It certainly is a menagerie, for these remains were not brought here by a deluge.”
 
 
-“The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees.”
-
-
-“Here are entire skeletons.”
-
-
-“And yet I cannot understand the appearance of these quadrupeds in a granite cavern.”
-e:axel=confused
+“The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees. Here are entire skeletons. And yet I cannot understand the appearance of these quadrupeds in a granite cavern.”
+e:axel=confusedlook
 
 “Why?”
 s=prof;e:prof=curious
@@ -7022,28 +6980,28 @@ s=prof;e:prof=curious
 s=axel;e:axel=serious
 
 “Well, Axel, there is a very simple answer to your objection that this soil is alluvial.”
-s=prof;e:prof=smirking
+s=prof;e:prof=happy
 
 “What! at such a depth below the surface of the earth?”
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 “No doubt; and there is a geological explanation of the fact.”
 s=prof;e:prof=neutral
 
 “At a certain period the earth consisted only of an elastic crust or bark, alternately acted on by forces from above or below, according to the laws of attraction and gravitation.”
-
+e:prof=thinking
 
 “Probably there were subsidences of the outer crust, when a portion of the sedimentary deposits was carried down sudden openings.”
 
 
 “That may be,” I replied; “but if there have been creatures now extinct in these underground regions, why may not some of those monsters be now roaming through these gloomy forests, or hidden behind the steep crags?”
-s=axel;e:axel=fearful
+s=axel;e:axel=wary
 
 And as this unpleasant notion got hold of me, I surveyed with anxious scrutiny the open spaces before me; but no living creature appeared upon the barren strand.
-s=none;e:axel=wary
+s=none;e:axel=wary;f:b:tunnel-sea-forest=blur(3px)
 
 I felt rather tired, and went to sit down at the end of a promontory, at the foot of which the waves came and beat themselves into spray.
-e:axel=weary
+e:axel=weary;b=tunnel-sea;f:b:tunnel-sea=
 
 Thence my eye could sweep every part of the bay; within its extremity a little harbour was formed between the pyramidal cliffs, where the still waters slept untouched by the boisterous winds.
 
@@ -7058,7 +7016,7 @@ But this illusion lasted a very short time. We were the only living creatures in
 e:axel=unhappy
 
 When the wind lulled, a deeper silence than that of the deserts fell upon the arid, naked rocks, and weighed upon the surface of the ocean.
-
+f:b:tunnel-sea=blur(3px)
 
 I then desired to pierce the distant haze, and to rend asunder the mysterious curtain that hung across the horizon. Anxious queries arose to my lips.
 e:axel=curious
@@ -7070,13 +7028,13 @@ My uncle made no doubt about it at all; I both desired and feared.
 e:prof=serious;e:axel=wary
 
 After spending an hour in the contemplation of this marvellous spectacle, we returned to the shore to regain the grotto, and I fell asleep in the midst of the strangest thoughts.
-e:axel=weary
+e:axel=weary;f:b:tunnel-sea=blur(5px)
 
 ## XXXI. Preparations for a Voyage of Discovery
 r=title
 
 The next morning I awoke feeling perfectly well.
-e:axel=happy
+e:axel=happy;b=tunnel-wake
 
 I thought a bath would do me good, and I went to plunge for a few minutes into the waters of this mediterranean sea, for assuredly it better deserved this name than any other sea.
 
