@@ -6188,13 +6188,10 @@ Suddenly my ear, resting by chance against the wall, caught, or seemed to catch,
 e:axel=surprised
 
 “This is a delusion,” I thought.
-s=axel;e:axel=suspicious
+t=axel;e:axel=weary
 
-But it was not. Listening more attentively, I heard in reality a murmuring of voices.
-s=none;e:axel=nervous
-
-But my weakness prevented me from understanding what the voices said. Yet it was language, I was sure of it.
-e:axel=thinking
+But it was not. Listening more attentively, I heard in reality a murmuring of voices. But my weakness prevented me from understanding what the voices said. Yet it was language, I was sure of it.
+t=none;e:axel=nervous
 
 For a moment I feared the words might be my own, brought back by the echo. Perhaps I had been crying out unknown to myself.
 e:axel=confused
@@ -6203,19 +6200,19 @@ I closed my lips firmly, and laid my ear against the wall again.
 e:axel=serious
 
 “Yes, truly, someone is speaking; those are words!”
-s=axel;e:axel=surprised
+t=axel;e:axel=surprised
 
-Even a few feet from the wall I could hear distinctly.
-s=none;e:axel=thinking
-
-I succeeded in catching uncertain, strange, undistinguishable words. They came as if pronounced in low murmured whispers.
-
+Even a few feet from the wall I could hear distinctly. I succeeded in catching uncertain, strange, undistinguishable words. They came as if pronounced in low murmured whispers.
+t=none;e:axel=thinking
 
 The word *förlorad* was several times repeated in a tone of sympathy and sorrow.
 e:axel=serious
 
-“Help!” I cried with all my might. “Help!”
+“Help!” I cried with all my might.
 s=axel;e:axel=upset
+
+“Help!”
+
 
 I listened, I watched in the darkness for an answer, a cry, a mere breath of sound, but nothing came.
 s=none;e:axel=nervous
@@ -6227,7 +6224,7 @@ I thought that my weakened voice could never penetrate to my companions.
 e:axel=unhappy
 
 “It is they,” I repeated. “What other men can be thirty leagues under ground?”
-s=axel;e:axel=surprised
+s=axel;e:axel=weary
 
 I again began to listen. Passing my ear over the wall from one place to another, I found the point where the voices seemed to be best heard.
 s=none;e:axel=serious
@@ -6236,10 +6233,10 @@ The word *förlorad* again returned; then the rolling of thunder which had rouse
 
 
 “No,” I said, “no; it is not through such a mass that a voice can be heard. I am surrounded by granite walls, and the loudest explosion could never be heard here!”
-s=axel;e:axel=thinking
+s=axel;e:axel=confused
 
 “This noise comes along the gallery. There must be here some remarkable exercise of acoustic laws!”
-e:axel=curious
+
 
 I listened again, and this time, yes this time, I did distinctly hear my name pronounced across the wide interval.
 s=none;e:axel=surprised
@@ -6257,7 +6254,7 @@ I therefore approached the wall, and pronounced these words as clearly as possib
 e:axel=serious
 
 “Uncle Liedenbrock!”
-s=axel;e:axel=excited
+s=axel;e:axel=upset
 
 I waited with the deepest anxiety.
 s=none;e:axel=nervous
@@ -6269,31 +6266,31 @@ Seconds, which seemed ages, passed away, and at last these words reached me:
 e:axel=nervous
 
 “Axel! Axel! is it you?”
-s=prof;e:prof=surprised
+s=prof;e:prof=surprised;m=nospeaker,1
 
 …
 s=none
 
 “Yes, yes,” I replied.
-s=axel;e:axel=upset
-
-…
-s=none
-
-“My boy, where are you?”
-s=prof;e:prof=fearful
-
-…
-s=none
-
-“Lost, in the deepest darkness.”
 s=axel;e:axel=unhappy
 
 …
 s=none
 
+“My boy, where are you?”
+s=prof;e:prof=fearful;m=nospeaker,1
+
+…
+s=none
+
+“Lost, in the deepest darkness.”
+s=axel;e:axel=unhappy;i=2
+
+…
+s=none
+
 “Where is your lamp?”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;m=nospeaker,1
 
 …
 s=none
@@ -6305,46 +6302,40 @@ s=axel;e:axel=weary
 s=none
 
 “And the stream?”
-s=prof;e:prof=confused
+s=prof;e:prof=confused;m=nospeaker,1
 
 …
 s=none
 
 “Disappeared.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=weary;i=2
 
 …
 s=none
 
 “Axel, Axel, take courage!”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker,1
 
 …
 s=none
 
 “Wait! I am exhausted! I can’t answer. Speak to me!”
-s=axel;e:axel=weary
+s=axel;e:axel=upset
 
 …
 s=none
 
 “Courage,” resumed my uncle.
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker
 
-“Don’t speak. Listen to me. We have looked for you up the gallery and down the gallery. Could not find you.”
-
-
-“I wept for you, my poor boy. At last, supposing you were still on the Hansbach, we fired our guns.”
+“Don’t speak. Listen to me. We have looked for you up the gallery and down the gallery. Could not find you. I wept for you, my poor boy. At last, supposing you were still on the Hansbach, we fired our guns.”
 e:prof=unhappy
 
-“Our voices are audible to each other, but our hands cannot touch.”
-e:prof=weary
-
-“But don’t despair, Axel! It is a great thing that we can hear each other.”
+“Our voices are audible to each other, but our hands cannot touch. But don’t despair, Axel! It is a great thing that we can hear each other.”
 e:prof=sadsmile
 
 …
-s=none
+s=none;m=
 
 During this time I had been reflecting. A vague hope was returning to my heart. There was one thing I must know to begin with.
 e:axel=thinking
@@ -6353,37 +6344,37 @@ I placed my lips close to the wall, saying:
 e:axel=serious
 
 “My uncle!”
-s=axel
+s=axel;e:axel=weary
 
 …
 s=none
 
 “My boy!” came to me after a few seconds.
-s=prof
+s=prof;m=nospeaker,1
 
 …
 s=none
 
 “We must know how far we are apart.”
-s=axel;e:axel=thinking
+s=axel;e:axel=unhappy
 
 …
 s=none
 
 “That is easy.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker,1
 
 …
 s=none
 
 “You have your chronometer?”
-s=axel;e:axel=curious
+s=axel;e:axel=thinking
 
 …
 s=none
 
 “Yes.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;m=nospeaker,1
 
 …
 s=none
@@ -6394,32 +6385,35 @@ s=axel;e:axel=serious
 “I will repeat it as soon as it shall come to me, and you will observe the exact moment when you get my answer.”
 
 
+…
+s=none
+
 “Yes; and half the time between my call and your answer will exactly indicate that which my voice will take in coming to you.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;m=nospeaker,1
 
 …
 s=none
 
 “Just so, my uncle.”
-s=axel;e:axel=serious
+s=axel;e:axel=thinking
 
 …
 s=none
 
 “Are you ready?”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;m=nospeaker,1
 
 …
 s=none
 
 “Yes.”
-s=axel;e:axel=neutral
+s=axel;e:axel=serious
 
 ……
 s=none
 
 “Now, attention. I am going to call your name.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker,1
 
 …
 s=none
@@ -6431,7 +6425,7 @@ e:axel=serious
 s=none
 
 “Forty seconds,” said my uncle.
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;m=nospeaker
 
 “Forty seconds between the two words; so the sound takes twenty seconds in coming.”
 
@@ -6440,28 +6434,28 @@ s=prof;e:prof=thinking
 
 
 …
-s=none
+s=none;m=
 
 “Four miles and a quarter!” I murmured.
-s=axel;e:axel=surprised
+s=axel;e:axel=weary
 
 …
 s=none
 
 “It will soon be over, Axel.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker,1
 
 …
 s=none
 
 “Must I go up or down?”
-s=axel;e:axel=curious
+s=axel;e:axel=unhappy
 
 …
 s=none
 
 “Down—for this reason: We are in a vast chamber, with endless galleries.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;m=nospeaker
 
 “Yours must lead into it, for it seems as if all the clefts and fractures of the globe radiated round this vast cavern.”
 e:prof=thinking
@@ -6470,31 +6464,28 @@ e:prof=thinking
 e:prof=excited
 
 …
-s=none
+s=none;m=
 
 These words cheered me up.
 e:axel=happy
 
-“Goodbye, uncle.” I cried.
-s=axel;e:axel=excited
-
-“I am going. There will be no more voices heard when once I have started. So goodbye!”
-
+“Goodbye, uncle.” I cried. “I am going. There will be no more voices heard when once I have started. So goodbye!”
+s=axel;e:axel=sadsmile
 
 …
 s=none
 
 “Goodbye, Axel, *au revoir*!”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;m=nospeaker,1
 
 …
 s=none
 
 These were the last words I heard.
-e:axel=sadsmile
+
 
 This wonderful underground conversation, carried on with a distance of four miles and a quarter between us, concluded with these words of hope.
-e:axel=happy
+e:axel=sadsmile
 
 I thanked God from my heart, for it was He who had conducted me through those vast solitudes to the point where, alone of all others perhaps, the voices of my companions could have reached me.
 
@@ -6515,16 +6506,19 @@ Following the direction by which the sound came, of course I should arrive in hi
 e:axel=contemplative
 
 I therefore rose; I rather dragged myself than walked. The slope was rapid, and I slid down.
-e:axel=weary
+e:axel=weary;f:b:night=
 
 Soon the swiftness of the descent increased horribly, and threatened to become a fall. I no longer had the strength to stop myself.
-e:axel=fearful
+e:axel=fearful;f:b:night=blur(3px)
 
 Suddenly there was no ground under me.
 e:axel=surprised
 
-I felt myself revolving in air, striking and rebounding against the craggy projections of a vertical gallery, quite a well; my head struck against a sharp corner of the rock, and I became unconscious.
+I felt myself revolving in air, striking and rebounding against the craggy projections of a vertical gallery, quite a well;
+f:b:night=blur(5px)
 
+my head struck against a sharp corner of the rock, and I became unconscious.
+f:b:night=blur(8px)
 
 ## XXIX. Thalatta! Thalatta!
 r=title
