@@ -5891,7 +5891,7 @@ e:axel=neutral;e:hans=neutral;f:b:tunnel-grotto=blur(3px)
 r=title
 
 It must be confessed that hitherto things had not gone on so badly, and that I had small reason to complain. If our difficulties became no worse, we might hope to reach our end.
-e:axel=neutral
+e:axel=neutral;b=tunnel-grotto;f:b:tunnel-grotto=blur(3px)
 
 And to what a height of scientific glory we should then attain! I had become quite a Liedenbrock in my reasonings; seriously I had.
 e:axel=excited
@@ -5924,7 +5924,7 @@ But I have good reason for remembering one very serious event which took place a
 e:axel=serious
 
 By the 7th of August our successive descents had brought us to a depth of thirty leagues; that is, that for a space of thirty leagues there were over our heads solid beds of rock, ocean, continents, and towns. We must have been two hundred leagues from Iceland.
-e:axel=thinking
+e:axel=thinking;b=tunnel-8;f:b:tunnel-8=blur(3px)
 
 On that day the tunnel went down a gentle slope. I was ahead of the others.
 e:axel=neutral
@@ -5933,7 +5933,7 @@ My uncle was carrying one of Ruhmkorff’s lamps and I the other. I was examinin
 
 
 Suddenly turning round I observed that I was alone.
-e:axel=surprised
+e:axel=surprised;f:b:tunnel-8=
 
 Well, well, I thought; I have been going too fast, or Hans and my uncle have stopped on the way.
 e:axel=thinking
@@ -5942,7 +5942,7 @@ Come, this won’t do; I must join them. Fortunately there is not much of an asc
 e:axel=nervous
 
 I retraced my steps. I walked for a quarter of an hour.
-e:axel=serious
+e:axel=serious;f:b:tunnel-8=blur(3px)
 
 I gazed into the darkness. I shouted.
 e:axel=wary
@@ -5953,14 +5953,14 @@ e:axel=fearful
 I began to feel uneasy. A shudder ran through me.
 e:axel=nervous
 
-“Calmly!” I said aloud to myself, “I am sure to find my companions again. There are not two roads.”
-s=axel;e:axel=wary
+“Calmly!” I said aloud to myself,
+s=axel;e:axel=wary;f:b:tunnel-8=;x:axel=hat,pack
 
-“I was too far ahead. I will return!”
+“I am sure to find my companions again. There are not two roads. I was too far ahead. I will return!”
 
 
 For half an hour I climbed up. I listened for a call, and in that dense atmosphere a voice could reach very far.
-s=none;e:axel=serious
+s=none;e:axel=serious;f:b:tunnel-8=blur(3px)
 
 But there was a dreary silence in all that long gallery. I stopped.
 e:axel=fearful
@@ -5969,61 +5969,40 @@ I could not believe that I was lost. I was only bewildered for a time, not lost.
 e:axel=nervous
 
 “Come,” I repeated, “since there is but one road, and they are on it, I *must* find them again. I have but to ascend still.”
-s=axel;e:axel=wary
+s=axel;e:axel=unhappy;f:b:tunnel-8=
 
-“Unless, indeed, missing me, and supposing me to be behind, they too should have gone back.”
-e:axel=nervous
+“Unless, indeed, missing me, and supposing me to be behind, they too should have gone back. But even in this case I have only to make the greater haste. I shall find them, I am sure.”
+e:axel=weary
 
-“But even in this case I have only to make the greater haste. I shall find them, I am sure.”
-e:axel=wary
-
-I repeated these words in the fainter tones of a half-convinced man.
+I repeated these words in the fainter tones of a half-convinced man. Besides, to associate even such simple ideas with words, and reason with them, was a work of time.
 s=none;e:axel=nervous
-
-Besides, to associate even such simple ideas with words, and reason with them, was a work of time.
-e:axel=confused
 
 A doubt then seized upon me. Was I indeed in advance when we became separated?
 e:axel=fearful
 
-Yes, to be sure I was. Hans was after me, preceding my uncle.
+Yes, to be sure I was. Hans was after me, preceding my uncle. He had even stopped for a while to strap his baggage better over his shoulders. I could remember this little incident. It was at that very moment that I must have gone on.
 e:axel=thinking
 
-He had even stopped for a while to strap his baggage better over his shoulders.
-
-
-I could remember this little incident. It was at that very moment that I must have gone on.
-e:axel=serious
-
-Besides, I thought, have not I a guarantee that I shall not lose my way, a clue in the labyrinth, that cannot be broken, my faithful stream?
+Besides, I thought, have not I a guarantee that I shall not lose my way, a clue in the labyrinth, that cannot be broken, my faithful stream? I have but to trace it back, and I must come upon them.
 e:axel=contemplative
 
-I have but to trace it back, and I must come upon them.
-e:axel=happy
-
 This conclusion revived my spirits, and I resolved to resume my march without loss of time.
-e:axel=excited
-
-How I then blessed my uncle’s foresight in preventing the hunter from stopping up the hole in the granite.
 e:axel=happy
 
-This beneficent spring, after having satisfied our thirst on the road, would now be my guide among the windings of the terrestrial crust.
-
+How I then blessed my uncle’s foresight in preventing the hunter from stopping up the hole in the granite. This beneficent spring, after having satisfied our thirst on the road, would now be my guide among the windings of the terrestrial crust.
+e:axel=happy
 
 Before starting afresh I thought a wash would do me good. I stooped to bathe my face in the Hansbach.
 e:axel=neutral
 
-To my stupefaction and utter dismay my feet trod only—the rough dry granite.
-e:axel=surprised
-
-The stream was no longer at my feet.
-e:axel=fearful
+To my stupefaction and utter dismay my feet trod only—the rough dry granite. The stream was no longer at my feet.
+e:axel=fearful;f:b:tunnel-8=blur(3px)
 
 ## XXVII. Lost in the Bowels of the Earth
 r=title
 
 To describe my despair would be impossible. No words could tell it. I was buried alive, with the prospect before me of dying of hunger and thirst.
-e:axel=upset
+e:axel=upset;b=tunnel-8
 
 Mechanically I swept the ground with my hands. How dry and hard the rock seemed to me!
 e:axel=weary
