@@ -6524,22 +6524,25 @@ f:b:night=blur(8px)
 r=title
 
 When I came to myself, I was stretched in half darkness, covered with thick coats and blankets.
-e:axel=weary
+e:axel=weary;b=tunnel-wake;x:axel=undressed
 
-My uncle was watching over me, to discover the least sign of life.
+My uncle was watching over me, to discover the least sign of life. At my first sigh he took my hand; when I opened my eyes he uttered a cry of joy.
 e:prof=serious
 
-At my first sigh he took my hand; when I opened my eyes he uttered a cry of joy.
-e:prof=happy
-
 “He lives! he lives!” he cried.
-s=prof;e:prof=excited
+s=prof;e:prof=sadsmile
 
 “Yes, I am still alive,” I answered feebly.
 s=axel;e:axel=weary
 
-“My dear nephew,” said my uncle, pressing me to his breast, “you are saved.”
-s=prof;e:prof=happy
+“My dear nephew,” said my uncle,
+s=prof;e:prof=sadsmile;i=2;m=break,1
+
+pressing me to his breast,
+s=
+
+“you are saved.”
+e:prof=sadsmilelookdown;s=prof
 
 I was deeply touched with the tenderness of his manner as he uttered these words, and still more with the care with which he watched over me.
 s=none;e:axel=happy
@@ -6553,37 +6556,37 @@ e:hans=happy
 “*God dag*,” said he.
 s=hans
 
-“How do you do, Hans? How are you? And now, uncle, tell me where we are at the present moment?”
-s=axel;e:axel=curious
+“How do you do, Hans? How are you?”
+s=axel;e:axel=sadsmilelook
+
+“And now, uncle, tell me where we are at the present moment?”
+e:axel=confused
 
 “Tomorrow, Axel, tomorrow. Now you are too faint and weak.”
-s=prof;e:prof=neutral
+s=prof;e:prof=contemplative
 
 “I have bandaged your head with compresses which must not be disturbed. Sleep now, and tomorrow I will tell you all.”
-
+e:prof=thinking
 
 “But do tell me what time it is, and what day.”
-s=axel;e:axel=curious
+s=axel;e:axel=confused;i=2
 
 “It is Sunday, the 8th of August, and it is ten at night. You must ask me no more questions until the 10th.”
 s=prof;e:prof=serious
 
 In truth I was very weak, and my eyes involuntarily closed.
-s=none;e:axel=weary
+s=none;e:axel=weary;f:b:tunnel-wake=blur(3px)
 
 I wanted a good night’s rest; and I therefore went off to sleep, with the knowledge that I had been four long days alone in the heart of the earth.
 
 
 Next morning, on awakening, I looked round me.
-e:axel=neutral
+e:axel=neutral;f:b:tunnel-wake=
 
 My couch, made up of all our travelling gear, was in a charming grotto, adorned with splendid stalactites, and the soil of which was a fine sand.
 
 
-It was half light.
-
-
-There was no torch, no lamp, yet certain mysterious glimpses of light came from without through a narrow opening in the grotto.
+It was half light. There was no torch, no lamp, yet certain mysterious glimpses of light came from without through a narrow opening in the grotto.
 e:axel=curious
 
 I heard too a vague and indistinct noise, something like the murmuring of waves breaking upon a shingly shore, and at times I seemed to hear the whistling of wind.
@@ -6595,11 +6598,8 @@ e:axel=confused
 Yet neither eyes, nor ears could be so utterly deceived.
 e:axel=serious
 
-It is a ray of daylight, I thought, sliding in through this cleft in the rock!
+It is a ray of daylight, I thought, sliding in through this cleft in the rock! That is indeed the murmuring of waves! That is the rustling noise of wind.
 e:axel=surprised
-
-That is indeed the murmuring of waves! That is the rustling noise of wind.
-
 
 Am I quite mistaken, or have we returned to the surface of the earth? Has my uncle given up the expedition, or is it happily terminated?
 e:axel=thinking
@@ -6607,26 +6607,29 @@ e:axel=thinking
 I was asking myself these unanswerable questions when the Professor entered.
 
 
-“Good morning, Axel,” he cried cheerily. “I feel sure you are better.”
+“Good morning, Axel,” he cried cheerily.
 s=prof;e:prof=happy
+
+“I feel sure you are better.”
+
 
 “Yes, I am indeed,” said I, sitting up on my couch.
-s=axel;e:axel=happy
+s=axel;e:axel=happylook
 
 “You can hardly fail to be better, for you have slept quietly.”
-s=prof;e:prof=neutral
+s=prof;e:prof=smirking
 
 “Hans and I watched you by turns, and we have noticed you were evidently recovering.”
-
+e:prof=happy
 
 “Indeed, I do feel a great deal better, and I will give you a proof of that presently if you will let me have my breakfast.”
-s=axel;e:axel=excited
+s=axel;e:axel=curious
 
 “You shall eat, lad. The fever has left you.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;i=2
 
 “Hans rubbed your wounds with some ointment or other of which the Icelanders keep the secret, and they have healed marvellously. Our hunter is a splendid fellow!”
-
+e:prof=happylook
 
 Whilst he went on talking, my uncle prepared a few provisions, which I devoured eagerly, notwithstanding his advice to the contrary.
 s=none;e:axel=happy
@@ -6641,13 +6644,13 @@ This frightful conveyance had thus carried me into the arms of my uncle, where I
 
 
 “Truly it is wonderful that you have not been killed a hundred times over.”
-s=prof;e:prof=serious
+s=prof;e:prof=thinking
 
 “But, for the love of God, don’t let us ever separate again, or we many never see each other more.”
-
+e:prof=serious
 
 “Not separate! Is the journey not over, then?”
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 I opened a pair of astonished eyes, which immediately called for the question:
 s=none
@@ -6656,49 +6659,49 @@ s=none
 s=prof;e:prof=confused
 
 “I have a question to ask you. You say that I am safe and sound?”
-s=axel;e:axel=wary
+s=axel;e:axel=contemplative
 
 “No doubt you are.”
-s=prof;e:prof=neutral
+s=prof;e:prof=suspicious
 
 “And all my limbs unbroken?”
-s=axel;e:axel=nervous
+s=axel;e:axel=thinking
 
 “Certainly.”
-s=prof
+s=prof;e:prof=contemplative
 
 “And my head?”
-s=axel
+s=axel;i=2
 
 “Your head, except for a few bruises, is all right; and it is on your shoulders, where it ought to be.”
 s=prof;e:prof=smirking
 
 “Well, I am afraid my brain is affected.”
-s=axel;e:axel=confused
+s=axel;e:axel=unhappy
 
 “Your mind affected!”
-s=prof;e:prof=surprised
+s=prof;e:prof=confused;i=2
 
 “Yes, I fear so. Are we again on the surface of the globe?”
-s=axel;e:axel=serious
+s=axel;e:axel=unhappy;i=2
 
 “No, certainly not.”
 s=prof;e:prof=serious
 
 “Then I must be mad; for don’t I see the light of day, and don’t I hear the wind blowing, and the sea breaking on the shore?”
-s=axel;e:axel=upset
+s=axel;e:axel=unhappylook
 
 “Ah! is that all?”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;i=2
 
 “Do tell me all about it.”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative
 
 “I can’t explain the inexplicable, but you will soon see and understand that geology has not yet learnt all it has to learn.”
 s=prof;e:prof=smirking
 
 “Then let us go,” I answered quickly.
-s=axel;e:axel=excited
+s=axel;e:axel=confusedlook
 
 “No, Axel; the open air might be bad for you.”
 s=prof;e:prof=serious
@@ -6707,16 +6710,13 @@ s=prof;e:prof=serious
 s=axel;e:axel=confused
 
 “Yes; the wind is rather strong. You must not expose yourself.”
-s=prof
+s=prof;e:prof=thinking
 
 “But I assure you I am perfectly well.”
 s=axel;e:axel=serious
 
-“A little patience, my nephew.”
-s=prof;e:prof=neutral
-
-“A relapse might get us into trouble, and we have no time to lose, for the voyage may be a long one.”
-
+“A little patience, my nephew. A relapse might get us into trouble, and we have no time to lose, for the voyage may be a long one.”
+s=prof;e:prof=serious
 
 “The voyage!”
 s=axel;e:axel=surprised
@@ -6724,8 +6724,11 @@ s=axel;e:axel=surprised
 “Yes, rest today, and tomorrow we will set sail.”
 s=prof;e:prof=happy
 
-“Set sail!”—and I almost leaped up.
-s=axel;e:axel=excited
+“Set sail!”—
+s=axel;e:axel=confused;i=2;m=break,1;m=nospace,1
+
+and I almost leaped up.
+s=
 
 What did it all mean? Had we a river, a lake, a sea to depend upon? Was there a ship at our disposal in some underground harbour?
 s=none;e:axel=thinking
@@ -6737,16 +6740,16 @@ When he saw that my impatience was doing me harm, he yielded.
 e:prof=sadsmile
 
 I dressed in haste. For greater safety I wrapped myself in a blanket, and came out of the grotto.
-e:axel=excited
+e:axel=excited;f:b:tunnel-wake=blur(3px)
 
 ## XXX. A New *Mare Internum*
 r=title
 
 At first I could hardly see anything. My eyes, unaccustomed to the light, quickly closed.
-e:axel=surprised
+e:axel=surprised;x:axel=blanket;b=tunnel-sea;f:b:tunnel-sea=blur(3px)
 
 When I was able to reopen them, I stood more stupefied even than surprised.
-e:axel=confused
+e:axel=confused;f:b:tunnel-sea=
 
 “The sea!” I cried.
 s=axel;e:axel=surprised
