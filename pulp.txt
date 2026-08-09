@@ -1099,11 +1099,11 @@ s=none
 It was conceived in the following terms:
 
 
-In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.<f>In the cipher, *audax* is written *avdas*, and *quod* and *quem*, *hod* and *ken*. —﻿Tr.</f>
-
+<span class='italics'>In Snæfells Joculis craterem quem delibat umbra Scartaris Julii intra calendas descende, audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm.<f>In the cipher, *audax* is written *avdas*, and *quod* and *quem*, *hod* and *ken*. —﻿Tr.</f></span>
+m=margin
 
 Which bad Latin may be translated thus:
-
+m=
 
 “Descend, bold traveller, into the crater of the Jökull of Snæfells, which the shadow of Scartaris touches before the kalends of July, and you will attain the centre of the earth; which I have done, Arne Saknussemm.”
 
@@ -2869,11 +2869,11 @@ e:prof=happy
 Then we bestrode our steeds and with his last adieu M. Fridrikssen treated me to a line of Virgil eminently applicable to such uncertain wanderers as we were likely to be:
 e:fridrikssen=happy;x:fridrikssen=hat
 
-“Et quacumque viam dedent fortuna sequamur.”
-m=dialogue
+<span class='italics dialogue'>“Et quacumque viam dedent fortuna sequamur.”</span>
+m=margin
 
 “Wherever fortune clears a way, thither our ready footsteps stray.”
-s=;f:b:reykjavik-roads=blur(3px)
+s=;f:b:reykjavik-roads=blur(3px);
 
 ## XII. A Barren Land
 r=title
@@ -4246,10 +4246,7 @@ s=none;e:axel=neutral
 Breakfast over, my uncle drew from his pocket a small notebook, intended for scientific observations. He consulted his instruments, and recorded:
 e:prof=serious
 
-“Monday, July 1.”
-
-
-“Chronometer, 8:17 a.m.; barometer, 297 in.; thermometer, 6° (43° F.) Direction, E. S. E.”
+<div class='aright supermargin'>Monday, July 1.</div><div class='supermargin'>Chronometer, 8:17 a.m.; barometer, 297 in.; thermometer, 6° (43° F.) Direction, E. S. E.</div>
 
 
 This last observation applied to the dark gallery, and was indicated by the compass.
