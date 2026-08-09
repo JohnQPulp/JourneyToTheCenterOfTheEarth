@@ -8333,12 +8333,9 @@ e:axel=surprised;f:b:tunnel-sea-raft-wide-storm=blur(3px)
 r=title
 
 Here I end what I may call my log, happily saved from the wreck, and I resume my narrative as before.
-e:axel=neutral
+e:axel=neutral;b=storm;f:b:storm=blur(3px)
 
-What happened when the raft was dashed upon the rocks is more than I can tell.
-
-
-I felt myself hurled into the waves; and if I escaped from death, and if my body was not torn over the sharp edges of the rocks, it was because the powerful arm of Hans came to my rescue.
+What happened when the raft was dashed upon the rocks is more than I can tell. I felt myself hurled into the waves; and if I escaped from death, and if my body was not torn over the sharp edges of the rocks, it was because the powerful arm of Hans came to my rescue.
 
 
 The brave Icelander carried me out of the reach of the waves, over a burning sand where I found myself by the side of my uncle.
@@ -8357,10 +8354,10 @@ A few overhanging rocks afforded us some shelter from the storm.
 
 
 Hans prepared some food, which I could not touch; and each of us, exhausted with three sleepless nights, fell into a broken and painful sleep.
-
+f:b:storm=blur(3px)
 
 The next day the weather was splendid.
-e:axel=happy
+e:axel=happy;b=tunnel-sea-grotto
 
 The sky and the sea had sunk into sudden repose. Every trace of the awful storm had disappeared.
 
@@ -8384,25 +8381,25 @@ All these painful reflections rapidly crossed my mind before I could answer my u
 e:axel=sadsmile
 
 “Well, now,” he repeated, “won’t you tell me how you have slept?”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;i=2
 
 “Oh, very well,” I said. “I am only a little knocked up, but I shall soon be better.”
-s=axel;e:axel=neutral
+s=axel;e:axel=contemplative
 
 “Oh,” says my uncle, “that’s nothing to signify. You are only a little bit tired.”
-s=prof
+s=prof;e:prof=thinking
 
 “But you, uncle, you seem in very good spirits this morning.”
-s=axel
+s=axel;e:axel=confused
 
 “Delighted, my boy, delighted. We have got there.”
 s=prof;e:prof=excited
 
 “To our journey’s end?”
-s=axel;e:axel=curious
+s=axel;e:axel=confused;i=2
 
 “No; but we have got to the end of that endless sea. Now we shall go by land, and really begin to go down! down! down!”
-s=prof
+s=prof;i=2
 
 “But, my dear uncle, do let me ask you one question.”
 s=axel;e:axel=wary
@@ -8411,25 +8408,25 @@ s=axel;e:axel=wary
 s=prof;e:prof=happy
 
 “How about returning?”
-s=axel
+s=axel;i=2
 
 “Returning? Why, you are talking about the return before the arrival.”
-s=prof;e:prof=confused
+s=prof;e:prof=annoyed
 
 “No, I only want to know how that is to be managed.”
-s=axel;e:axel=neutral
+s=axel;e:axel=unhappy
 
 “In the simplest way possible. When we have reached the centre of the globe, either we shall find some new way to get back, or we shall come back like decent folks the way we came.”
-s=prof;e:prof=neutral
+s=prof;e:prof=;i=2
 
 “I feel pleased at the thought that it is sure not to be shut against us.”
 e:prof=happy
 
 “But then we shall have to refit the raft.”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative
 
 “Of course.”
-s=prof
+s=prof;i=2
 
 “Then, as to provisions, have we enough to last?”
 s=axel;e:axel=wary
@@ -8438,43 +8435,37 @@ s=axel;e:axel=wary
 s=prof;e:prof=happy
 
 We left this grotto which lay open to every wind.
-s=none;e:axel=neutral
+s=none;e:axel=neutral;f:b:tunnel-sea-grotto=blur(3px)
 
 At the same time I cherished a trembling hope which was a fear as well. It seemed to me impossible that the terrible wreck of the raft should not have destroyed everything on board.
 e:axel=nervous
 
 On my arrival on the shore I found Hans surrounded by an assemblage of articles all arranged in good order.
-e:axel=surprised
+e:axel=surprised;b=tunnel-sea-shore
 
-My uncle shook hands with him with a lively gratitude.
+My uncle shook hands with him with a lively gratitude. This man, with almost superhuman devotion, had been at work all the while that we were asleep, and had saved the most precious of the articles at the risk of his life.
 e:prof=happy
 
-This man, with almost superhuman devotion, had been at work all the while that we were asleep, and had saved the most precious of the articles at the risk of his life.
-e:hans=neutral
-
-Not that we had suffered no losses. For instance, our firearms; but we might do without them.
+Not that we had suffered no losses. For instance, our firearms; but we might do without them. Our stock of powder had remained uninjured after having risked blowing up during the storm.
 e:axel=thinking
 
-Our stock of powder had remained uninjured after having risked blowing up during the storm.
-e:axel=happy
-
 “Well,” cried the Professor, “as we have no guns we cannot hunt, that’s all.”
-s=prof;e:prof=neutral
+s=prof;e:prof=thinking
 
 “Yes, but how about the instruments?”
-s=axel;e:axel=curious
+s=axel;e:axel=contemplative;i=3
 
 “Here is the aneroid, the most useful of all, and for which I would have given all the others.”
-s=prof;e:prof=excited
+s=prof;e:prof=happylookdown
 
 “By means of it I can calculate the depth and know when we have reached the centre; without it we might very likely go beyond, and come out at the antipodes!”
-
+e:prof=excited
 
 Such high spirits as these were rather too strong.
 s=none;e:axel=wary
 
 “But where is the compass?” I asked.
-s=axel;e:axel=curious
+s=axel;e:axel=confused
 
 “Here it is, upon this rock, in perfect condition, as well as the thermometers and the chronometer. The hunter is a splendid fellow.”
 s=prof;e:prof=happy
@@ -8485,20 +8476,26 @@ s=none;e:axel=happy
 As for tools and appliances, there they all lay on the ground﻿—ladders, ropes, picks, spades, etc.
 
 
-Still there was the question of provisions to be settled, and I asked﻿—“How are we off for provisions?”
-s=axel;e:axel=curious
+Still there was the question of provisions to be settled, and I asked﻿—
+m=allowbreak,1;m=nospace,1
+
+“How are we off for provisions?”
+s=axel;e:axel=nervous
 
 The boxes containing these were in a line upon the shore, in a perfect state of preservation; for the most part the sea had spared them, and what with biscuits, salt meat, spirits, and salt fish, we might reckon on four months’ supply.
 s=none;e:axel=happy
 
-“Four months!” cried the Professor. “We have time to go and to return; and with what is left I will give a grand dinner to my friends at the Johannæum.”
+“Four months!” cried the Professor.
 s=prof;e:prof=excited
+
+“We have time to go and to return; and with what is left I will give a grand dinner to my friends at the Johannæum.”
+e:prof=happy
 
 I ought by this time to have been quite accustomed to my uncle’s ways; yet there was always something fresh about him to astonish me.
 s=none;e:axel=surprised
 
 “Now,” said he, “we will replenish our supply of water with the rain which the storm has left in all these granite basins; therefore we shall have no reason to fear anything from thirst.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;i=2
 
 “As for the raft, I will recommend Hans to do his best to repair it, although I don’t expect it will be of any further use to us.”
 e:prof=smirking
@@ -8507,7 +8504,7 @@ e:prof=smirking
 s=axel;e:axel=confused
 
 “An idea of my own, my lad. I don’t think we shall come out by the way that we went in.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;i=2
 
 I stared at the Professor with a good deal of mistrust. I asked, was he not touched in the brain? And yet there was method in his madness.
 s=none;e:axel=suspicious
@@ -8518,11 +8515,8 @@ s=prof;e:prof=happy
 I followed him to a headland, after he had given his instructions to the hunter.
 s=none;e:axel=neutral
 
-There preserved meat, biscuit, and tea made us an excellent meal, one of the best I ever remember.
+There preserved meat, biscuit, and tea made us an excellent meal, one of the best I ever remember. Hunger, the fresh air, the calm quiet weather, after the commotions we had gone through, all contributed to give me a good appetite.
 e:axel=happy
-
-Hunger, the fresh air, the calm quiet weather, after the commotions we had gone through, all contributed to give me a good appetite.
-
 
 Whilst breakfasting I took the opportunity to put to my uncle the question where we were now.
 e:axel=thinking
@@ -8531,34 +8525,34 @@ e:axel=thinking
 s=axel
 
 “Yes, it is difficult,” he said, “to calculate exactly; perhaps even impossible, since during these three stormy days I have been unable to keep any account of the rate or direction of the raft; but still we may get an approximation.”
-s=prof;e:prof=thinking
+s=prof;e:prof=serious
 
 “The last observation,” I remarked, “was made on the island, when the geyser was﻿—”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;i=2
 
 “You mean Axel Island. Don’t decline the honour of having given your name to the first island ever discovered in the central parts of the globe.”
 s=prof;e:prof=smirking
 
 “Well,” said I, “let it be Axel Island. Then we had cleared two hundred and seventy leagues of sea, and we were six hundred leagues from Iceland.”
-s=axel;e:axel=neutral
+s=axel;e:axel=contemplative
 
 “Very well,” answered my uncle; “let us start from that point and count four days’ storm, during which our rate cannot have been less than eighty leagues in the twenty-four hours.”
 s=prof;e:prof=thinking
 
 “That is right; and this would make three hundred leagues more.”
-s=axel
+s=axel;i=2
 
 “Yes, and the Liedenbrock sea would be six hundred leagues from shore to shore. Surely, Axel, it may vie in size with the Mediterranean itself.”
 s=prof;e:prof=happy
 
 “Especially,” I replied, “if it happens that we have only crossed it in its narrowest part.”
-s=axel
+s=axel;i=3
 
 “And it is a curious circumstance,” I added, “that if my computations are right, and we are nine hundred leagues from Reykjavík, we have now the Mediterranean above our head.”
-
+e:axel=contemplativelookup
 
 “That is a good long way, my friend. But whether we are under Turkey or the Atlantic depends very much upon the question in what direction we have been moving. Perhaps we have deviated.”
-s=prof;e:prof=thinking
+s=prof;e:prof=;i=2
 
 “No, I think not. Our course has been the same all along, and I believe this shore is southeast of Port Gräuben.”
 s=axel;e:axel=thinking
@@ -8566,11 +8560,8 @@ s=axel;e:axel=thinking
 “Well,” replied my uncle, “we may easily ascertain this by consulting the compass. Let us go and see what it says.”
 s=prof;e:prof=happy
 
-The Professor moved towards the rock upon which Hans had laid down the instruments.
+The Professor moved towards the rock upon which Hans had laid down the instruments. He was gay and full of spirits; he rubbed his hands, he studied his attitudes.
 s=none;e:axel=neutral
-
-He was gay and full of spirits; he rubbed his hands, he studied his attitudes.
-e:prof=excited
 
 I followed him, curious to know if I was right in my estimate.
 e:axel=curious
@@ -8578,14 +8569,11 @@ e:axel=curious
 As soon as we had arrived at the rock my uncle took the compass, laid it horizontally, and questioned the needle, which, after a few oscillations, presently assumed a fixed position.
 
 
-My uncle looked, and looked, and looked again.
+My uncle looked, and looked, and looked again. He rubbed his eyes, and then turned to me thunderstruck with some unexpected discovery.
 
-
-He rubbed his eyes, and then turned to me thunderstruck with some unexpected discovery.
-e:prof=surprised
 
 “What is the matter?” I asked.
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 He motioned to me to look. An exclamation of astonishment burst from me.
 s=none
@@ -8593,20 +8581,17 @@ s=none
 The north pole of the needle was turned to what we supposed to be the south. It pointed to the shore instead of to the open sea!
 
 
-I shook the box, examined it again, it was in perfect condition.
+I shook the box, examined it again, it was in perfect condition. In whatever position I placed the box the needle pertinaciously returned to this unexpected quarter.
 e:axel=confused
 
-In whatever position I placed the box the needle pertinaciously returned to this unexpected quarter.
-
-
 Therefore there seemed no reason to doubt that during the storm there had been a sudden change of wind unperceived by us, which had brought our raft back to the shore which we thought we had left so long a distance behind us.
-
+f:b:tunnel-sea-shore=blur(3px)
 
 ## XXXVII. The Liedenbrock Museum of Geology
 r=title
 
 How shall I describe the strange series of passions which in succession shook the breast of Professor Liedenbrock? First stupefaction, then incredulity, lastly a downright burst of rage.
-e:axel=thinking;e:prof=angry
+e:axel=thinking;e:prof=angry;b=tunnel-sea-shore
 
 Never had I seen the man so put out of countenance and so disturbed.
 e:axel=wary
