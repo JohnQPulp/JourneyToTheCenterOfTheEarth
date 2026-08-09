@@ -10235,7 +10235,7 @@ I was not seriously hurt, but I was shaken and bruised and battered all over.
 e:axel=weary
 
 I found myself lying on the sloping side of a mountain only two yards from a gaping gulf, which would have swallowed me up had I leaned at all that way.
-e:axel=surprised
+e:axel=surprised;f:b:med-mountain=
 
 Hans had saved me from death whilst I lay rolling on the edge of the crater.
 e:axel=serious
@@ -10247,10 +10247,10 @@ The hunter shook his head in token of complete ignorance.
 s=none;e:hans=neutral
 
 “Is it Iceland?” I asked.
-s=axel;e:axel=curious
+s=axel;e:axel=confused
 
 “*Nej*,” replied Hans.
-s=hans;e:hans=neutral
+s=hans;e:hans=neutral;x:hans=undressed
 
 “What! Not Iceland?” cried the Professor.
 s=prof;e:prof=surprised
@@ -10261,7 +10261,10 @@ s=axel;e:axel=suspicious
 This was our final surprise after all the astonishing events of our wonderful journey.
 s=none;e:axel=surprised
 
-I expected to see a white cone covered with the eternal snow of ages rising from the midst of the barren deserts of the icy north, faintly lighted with the pale rays of the arctic sun, far away in the highest latitudes known; but contrary to all our expectations, my uncle, the Icelander, and myself were sitting halfway down a mountain baked under the burning rays of a southern sun, which was blistering us with the heat, and blinding us with the fierce light of his nearly vertical rays.
+I expected to see a white cone covered with the eternal snow of ages rising from the midst of the barren deserts of the icy north, faintly lighted with the pale rays of the arctic sun, far away in the highest latitudes known;
+
+
+but contrary to all our expectations, my uncle, the Icelander, and myself were sitting halfway down a mountain baked under the burning rays of a southern sun, which was blistering us with the heat, and blinding us with the fierce light of his nearly vertical rays.
 
 
 I could not believe my own eyes; but the heated air and the sensation of burning left me no room for doubt.
@@ -10280,19 +10283,19 @@ The Professor was the first to speak, and said:
 s=none;e:prof=serious
 
 “Well, this is not much like Iceland.”
-s=prof
+s=prof;e:prof=contemplative
 
 “But is it Jan Mayen?” I asked.
-s=axel;e:axel=curious
+s=axel;e:axel=confused;i=2
 
 “Nor that either,” he answered. “This is no northern mountain; here are no granite peaks capped with snow.”
-s=prof;e:prof=excited
+s=prof;e:prof=contemplative;i=2
 
 “Look, Axel, look!”
-
+e:prof=seriouslook
 
 Above our heads, at a height of five hundred feet or more, we saw the crater of a volcano, through which, at intervals of fifteen minutes or so, there issued with loud explosions lofty columns of fire, mingled with pumice stones, ashes, and flowing lava.
-s=none;e:axel=surprised
+s=none;e:axel=surprised;b=med-mountain-view
 
 I could feel the heaving of the mountain, which seemed to breathe like a huge whale, and puff out fire and wind from its vast blowholes.
 
@@ -10334,16 +10337,13 @@ My uncle looked round with dumb surprise.
 e:prof=surprised
 
 “Well, whatever mountain this may be,” he said at last, “it is very hot here.”
-s=prof;e:prof=serious
+s=prof;e:prof=confused
 
-“The explosions are going on still, and I don’t think it would look well to have come out by an eruption, and then to get our heads broken by bits of falling rock.”
-
-
-“Let us get down. Then we shall know better what we are about.”
-
+“The explosions are going on still, and I don’t think it would look well to have come out by an eruption, and then to get our heads broken by bits of falling rock. Let us get down. Then we shall know better what we are about.”
+e:prof=serious
 
 “Besides, I am starving, and parching with thirst.”
-e:prof=weary
+e:prof=thinking
 
 Decidedly the Professor was not given to contemplation.
 s=none;e:axel=sadsmile
@@ -10357,26 +10357,26 @@ e:axel=wary
 As we went I chattered and asked all sorts of questions as to our whereabouts, for I was too much excited not to talk a great deal.
 e:axel=excited
 
-“We are in Asia,” I cried, “on the coasts of India, in the Malay Islands, or in Oceania.”
-s=axel
-
-“We have passed through half the globe, and come out nearly at the antipodes.”
-
+“We are in Asia,” I cried, “on the coasts of India, in the Malay Islands, or in Oceania. We have passed through half the globe, and come out nearly at the antipodes.”
+s=axel;e:axel=confusedexcited
 
 “But the compass?” said my uncle.
-s=prof;e:prof=confused
+s=prof;e:prof=contemplative
 
-“Aye, the compass!” I said, greatly puzzled. “According to the compass we have gone northward.”
+“Aye, the compass!” I said, greatly puzzled.
 s=axel;e:axel=confused
 
+“According to the compass we have gone northward.”
+
+
 “Has it lied?”
-s=prof
+s=prof;e:prof=serious
 
 “Surely not. Could it lie?”
-s=axel
+s=axel;e:axel=wary
 
 “Unless, indeed, this is the North Pole!”
-s=prof;e:prof=surprised
+s=prof;e:prof=serious
 
 “Oh, no, it is not the Pole; but—”
 s=axel;e:axel=thinking
@@ -10385,10 +10385,10 @@ Well, here was something that baffled us completely. I could not tell what to sa
 s=none;e:axel=confused
 
 But now we were coming into that delightful greenery, and I was suffering greatly from hunger and thirst.
-e:axel=weary
+e:axel=weary;f:b:med-mountain-view=blur(3px)
 
 Happily, after two hours’ walking, a charming country lay open before us, covered with olive trees, pomegranate trees, and delicious vines, all of which seemed to belong to anybody who pleased to claim them.
-e:axel=happy
+e:axel=happy;b=med-mountain-country;f:b:med-mountain-country=blur(3px)
 
 Besides, in our state of destitution and famine we were not likely to be particular. Oh, the inexpressible pleasure of pressing those cool, sweet fruits to our lips, and eating grapes by mouthfuls off the rich, full bunches!
 e:axel=excited
@@ -10397,10 +10397,10 @@ Not far off, in the grass, under the delicious shade of the trees, I discovered 
 e:axel=happy
 
 Whilst we were thus enjoying the sweets of repose a child appeared out of a grove of olive trees.
-e:axel=surprised
+e:axel=surprised;f:b:med-mountain-country=
 
 “Ah!” I cried, “here is an inhabitant of this happy land!”
-s=axel;e:axel=excited
+s=axel;e:axel=surprised
 
 It was but a poor boy, miserably ill-clad, a sufferer from poverty, and our aspect seemed to alarm him a great deal; in fact, only half clothed, with ragged hair and beards, we were a suspicious-looking party; and if the people of the country knew anything about thieves, we were very likely to frighten them.
 s=none;e:axel=contemplative
@@ -10414,32 +10414,41 @@ e:prof=happy
 “*Was heißt diesen Berg, mein Knablein? Sage mir geschwind!*”
 s=prof
 
-(“What is this mountain called, my little friend?”)<e>Couldn't be bothered with translating the second sentence.</e>
+(“What is this mountain called, my little friend?”)<e>Couldn't be bothered translating that second sentence huh.</e>
 s=none
 
 The child made no answer.
 e:axel=curious
 
-“Very well,” said my uncle. “I infer that we are not in Germany.”
-s=prof;e:prof=thinking
+“Very well,” said my uncle.
+s=prof;e:prof=contemplative
+
+“I infer that we are not in Germany.”
+
 
 He put the same question in English.
 s=none;e:prof=neutral
 
 We got no forwarder. I was a good deal puzzled.
-e:axel=confused
 
-“Is the child dumb?” cried the Professor, who, proud of his knowledge of many languages, now tried French: “*Comment appelle t’on cette montagne, mon enfant?*”
-s=prof;e:prof=annoyed
+
+“Is the child dumb?” cried the Professor,<e>Non-Germanic language speakers btfo.</e>
+s=prof;e:prof=annoyed;m=break,1
+
+who, proud of his knowledge of many languages, now tried French:
+s=
+
+“*Comment appelle t’on cette montagne, mon enfant?*”
+s=prof;i=2
 
 Silence still.
 s=none
 
 “Now let us try Italian,” said my uncle; and he said:
-e:prof=thinking
+e:prof=serious
 
 “*Dove noi siamo?*”
-s=prof
+s=prof;i=2
 
 “Yes, where are we?” I impatiently repeated.
 s=axel;e:axel=annoyed
@@ -10447,11 +10456,20 @@ s=axel;e:axel=annoyed
 But there was no answer still.
 s=none
 
-“Will you speak when you are told?” Exclaimed my uncle, shaking the urchin by the ears. “*Come si noma questa isola?*”
-s=prof;e:prof=angry
+“Will you speak when you are told?” exclaimed my uncle,
+s=prof;e:prof=angry;m=break,1
 
-“**Stromboli**,” replied the little herdboy, slipping out of Hans’ hands, and scudding into the plain across the olive trees.
-n:boy=Little Herdboy;s=boy;e:boy=fearful
+shaking the urchin by the ears.
+s=
+
+“*Come si noma questa isola?*”
+s=prof;e:prof=angrylookdown
+
+“**Stromboli**,” replied the little herdboy,
+n:boy=Little Herdboy;s=boy;e:boy=fearful;m=break,1
+
+slipping out of Hans’ hands, and scudding into the plain across the olive trees.
+s=
 
 We were hardly thinking of that. Stromboli! What an effect this unexpected name produced upon my mind!
 s=none;e:axel=surprised
@@ -10463,7 +10481,7 @@ And those distant blue mountains in the east were the mountains of Calabria. And
 
 
 “Stromboli, Stromboli!” I repeated.
-s=axel;e:axel=excited
+s=axel;e:axel=surprised;i=2
 
 My uncle kept time to my exclamations with hands and feet, as well as with words. We seemed to be chanting in chorus!
 s=none;e:prof=excited
@@ -10481,7 +10499,7 @@ We had left over our heads the murky sky and cold fogs of the frigid zone to rev
 e:axel=excited
 
 After our delicious repast of fruits and cold, clear water we set off again to reach the port of Stromboli.
-e:axel=happy
+e:axel=happy;f:b:med-mountain-country=blur(3px)
 
 It would not have been wise to tell how we came there. The superstitious Italians would have set us down for fire-devils vomited out of hell; so we presented ourselves in the humble guise of shipwrecked mariners.
 e:axel=thinking
@@ -10489,26 +10507,23 @@ e:axel=thinking
 It was not so glorious, but it was safer.
 e:axel=smirking
 
-On my way I could hear my uncle murmuring: “But the compass! that compass! It pointed due north. How are we to explain that fact?”
-s=prof;e:prof=confused
+On my way I could hear my uncle murmuring:
+;f:b:med-mountain-country=
 
-“My opinion is,” I replied disdainfully, “that it is best not to explain it.”
-s=axel;e:axel=smirking
-
-“That is the easiest way to shelve the difficulty.”
-
-
-“Indeed, sir! The occupant of a professorial chair at the Johannæum unable to explain the reason of a cosmical phenomenon!”
+“But the compass! that compass! It pointed due north. How are we to explain that fact?”
 s=prof;e:prof=annoyed
 
-“Why, it would be simply disgraceful!”
-e:prof=angry
+“My opinion is,” I replied disdainfully, “that it is best not to explain it. That is the easiest way to shelve the difficulty.”
+s=axel;e:axel=unhappy
+
+“Indeed, sir! The occupant of a professorial chair at the Johannæum unable to explain the reason of a cosmical phenomenon! Why, it would be simply disgraceful!”
+s=prof;e:prof=angrylook
 
 And as he spoke, my uncle, half undressed, in rags, a perfect scarecrow, with his leathern belt around him, settling his spectacles upon his nose and looking learned and imposing, was himself again, the terrible German professor of mineralogy.
 s=none;e:axel=sadsmile
 
 One hour after we had left the grove of olives, we arrived at the little port of San Vicenzo, where Hans claimed his thirteen weeks’ wages, which was counted out to him with a hearty shaking of hands all round.
-e:axel=happy
+e:axel=happy;b=med-wide;f:b:med-wide=blur(3px)
 
 At that moment, if he did not share our natural emotion, at least his countenance expanded in a manner very unusual with him, and while with the ends of his fingers he lightly pressed our hands, I believe he smiled.
 e:hans=sadsmile
@@ -10517,7 +10532,7 @@ e:hans=sadsmile
 r=title
 
 Such is the conclusion of a history which I cannot expect everybody to believe, for some people will believe nothing against the testimony of their own experience.
-e:axel=contemplative
+e:axel=contemplative;b=med-wide;f:b:med-wide=blur(3px)
 
 However, I am indifferent to their incredulity, and they may believe as much or as little as they please.
 e:axel=smirking
@@ -10532,22 +10547,25 @@ On Friday, September the 4th, we embarked on the steamer *Volturno*, employed by
 e:axel=wary
 
 On the 9th of September, in the evening, we arrived at Hamburg.
-e:axel=excited
+e:axel=excited;b=hamburg-wide
 
 I cannot describe to you the astonishment of Martha or the joy of Gräuben.
-e:martha=surprised;e:grauben=happy
+e:martha=surprised;e:grauben=happy;b=prof-dining
 
-“Now you are a hero, Axel,” said to me my blushing fiancée, my betrothed, “you will not leave me again!”
-s=grauben;e:grauben=excited;e:axel=happy
+“Now you are a hero, Axel,” said to me my blushing fiancée, my betrothed,
+s=grauben;e:grauben=sadsmile;e:axel=happy
+
+“you will not leave me again!”
+
 
 I looked tenderly upon her, and she smiled through her tears.
 s=none;e:grauben=sadsmile
 
 How can I describe the extraordinary sensation produced by the return of Professor Liedenbrock?
-e:axel=excited;e:prof=happy
+e:axel=excited;e:prof=happy;f:b:prof-dining=blur(3px)
 
 Thanks to Martha’s ineradicable tattling, the news that the Professor had gone to discover a way to the centre of the earth had spread over the whole civilised world.
-e:martha=smirking
+e:martha=smirking;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 
 People refused to believe it, and when they saw him they would not believe him any the more.
 e:prof=neutral
@@ -10558,20 +10576,17 @@ e:hans=neutral
 Then my uncle became a great man, and I was now the nephew of a great man﻿—which is not a privilege to be despised.
 e:axel=happy;e:prof=smirking
 
-Hamburg gave a grand fête in our honour.
+Hamburg gave a grand fête in our honour. A public audience was given to the Professor at the Johannæum, at which he told all about our expedition, with only one omission, the unexplained and inexplicable behaviour of our compass.
 e:axel=excited
-
-A public audience was given to the Professor at the Johannæum, at which he told all about our expedition, with only one omission, the unexplained and inexplicable behaviour of our compass.
-e:prof=happy
 
 On the same day, with much state, he deposited in the archives of the city the now famous document of Saknussemm, and expressed his regret that circumstances over which he had no control had prevented him from following to the very centre of the earth the track of the learned Icelander.
 e:prof=serious
 
 He was modest notwithstanding his glory, and he was all the more famous for his humility.
-e:prof=neutral
+
 
 So much honour could not but excite envy.
-e:axel=thinking
+e:prof=neutral
 
 There were those who envied him his fame; and as his theories, resting upon known facts, were in opposition to the systems of science upon the question of the central fire, he sustained with his pen and by his voice remarkable discussions with the learned of every country.
 e:prof=serious
@@ -10583,7 +10598,7 @@ But I admit that certain circumstances not yet sufficiently understood may tend 
 e:axel=contemplative
 
 While these questions were being debated with great animation, my uncle met with a real sorrow.
-e:prof=unhappy
+e:prof=unhappy;b=prof-wide;f:b:prof-wide=blur(3px)
 
 Our faithful Hans, in spite of our entreaties, had left Hamburg; the man to whom we owed all our success and our lives too would not suffer us to reward him as we could have wished.
 e:hans=serious
@@ -10591,16 +10606,19 @@ e:hans=serious
 He was seized with the *mal de pays*, a complaint for which we have not even a name in English.<e>"homesickness", you incompetent translator.</e>
 e:hans=unhappy
 
-“*Farval*,” said he one day; and with that simple word he left us and sailed for Reykjavík, which he reached in safety.
-s=hans;e:hans=sadsmile
+“*Farval*,” said he one day;
+s=hans;e:hans=happy;f:b:prof-wide=
+
+and with that simple word he left us and sailed for Reykjavík, which he reached in safety.
+;f:b:prof-wide=blur(3px);s=
 
 We were strongly attached to our brave eiderdown hunter; though far away in the remotest north, he will never be forgotten by those whose lives he protected, and certainly I shall not fail to endeavour to see him once more before I die.
 s=none;e:axel=contemplative
 
 To conclude, I have to add that this “Journey into the Interior of the Earth” created a wonderful sensation in the world.
-e:axel=happy
+e:axel=happy;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 
-It was translated into all civilised languages.
+It was translated into all civilised languages.<e>And Italian.</e>
 
 
 The leading newspapers extracted the most interesting passages, which were commented upon, picked to pieces, discussed, attacked, and defended with equal enthusiasm and determination, both by believers and sceptics.
@@ -10612,14 +10630,11 @@ e:prof=smirking
 But there was one “dead fly” amidst all this glory and honour; one fact, one incident, of the journey remained a mystery.
 e:axel=thinking
 
-Now to a man eminent for his learning, an unexplained phenomenon is an unbearable hardship.
+Now to a man eminent for his learning, an unexplained phenomenon is an unbearable hardship. Well! it was yet reserved for my uncle to be completely happy.
 e:prof=annoyed
 
-Well! it was yet reserved for my uncle to be completely happy.
-e:prof=happy
-
 One day, while arranging a collection of minerals in his cabinet, I noticed in a corner this unhappy compass, which we had long lost sight of; I opened it, and began to watch it.
-e:axel=curious
+e:axel=curious;b=prof-study
 
 It had been in that corner for six months, little mindful of the trouble it was giving.
 
@@ -10628,7 +10643,7 @@ Suddenly, to my intense astonishment, I noticed a strange fact, and I uttered a 
 e:axel=surprised
 
 “What is the matter?” my uncle asked.
-s=prof;e:prof=curious
+s=prof;e:prof=surprised
 
 “That compass!”
 s=axel;e:axel=excited
@@ -10637,19 +10652,19 @@ s=axel;e:axel=excited
 s=prof;e:prof=confused
 
 “See, its poles are reversed!”
-s=axel;e:axel=excited
+s=axel;e:axel=excitedlook
 
 “Reversed?”
-s=prof;e:prof=surprised
+s=prof;e:prof=surprised;i=2
 
 “Yes, they point the wrong way.”
-s=axel;e:axel=serious
+s=axel;e:axel=excited;i=2
 
 My uncle looked, he compared, and the house shook with his triumphant leap of exultation.
 s=none;e:prof=excited
 
 A light broke in upon his spirit and mine.
-e:axel=happy
+
 
 “See there,” he cried, as soon as he was able to speak.
 s=prof;e:prof=excited
@@ -10661,10 +10676,10 @@ s=prof;e:prof=excited
 s=axel;e:axel=excited
 
 “Here, then, is the explanation of our mistake. But what phenomenon could have caused this reversal of the poles?”
-s=prof;e:prof=thinking
+s=prof;e:prof=contemplative
 
 “The reason is evident, uncle.”
-s=axel;e:axel=smirking
+s=axel;e:axel=happy
 
 “Tell me, then, Axel.”
 s=prof;e:prof=curious
@@ -10679,7 +10694,7 @@ s=prof;e:prof=happy
 
 
 From that day forth the Professor was the most glorious of savants, and I was the happiest of men; for my pretty *Virlandaise*, resigning her place as ward, took her position in the old house on the Königstrasse in the double capacity of niece to my uncle and wife to a certain happy youth.
-s=none;e:axel=happy
+s=none;e:axel=happy;f:b:prof-study=blur(3px)
 
 What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?
 e:axel=smirking
