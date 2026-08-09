@@ -8804,15 +8804,12 @@ Thus, at one bound, the record of the existence of man receded far back into the
 
 
 Such then was the state of palaeontological science, and what we knew of it was sufficient to explain our behaviour in the presence of this stupendous Golgotha.
-
+f:b:light=blur(3px)
 
 Anyone may now understand the frenzied excitement of my uncle, when, twenty yards farther on, he found himself face to face with a primitive man!
-e:axel=excited
+e:axel=excited;b=tunnel-sea-shore-2
 
-It was a perfectly recognisable human body.
-
-
-Had some particular soil, like that of the cemetery St. Michel, at Bordeaux, preserved it thus for so many ages? It might be so.
+It was a perfectly recognisable human body. Had some particular soil, like that of the cemetery St. Michel, at Bordeaux, preserved it thus for so many ages? It might be so.
 e:axel=thinking
 
 But this dried corpse, with its parchment-like skin drawn tightly over the bony frame, the limbs still preserving their shape, sound teeth, abundant hair, and finger and toe nails of frightful length, this desiccated mummy startled us by appearing just as it had lived countless ages ago.
@@ -8840,40 +8837,43 @@ s=prof;e:prof=serious
 e:prof=smirking
 
 “I am quite aware that science has to be on its guard with discoveries of this kind. I know what capital enterprising individuals like Barnum have made out of fossil men.”
-e:prof=serious
+e:prof=serious;i=2
 
 “I have heard the tale of the kneepan of Ajax, the pretended body of Orestes claimed to have been found by the Spartans, and of the body of Asterius, ten cubits long, of which Pausanias speaks.”
-
+e:prof=thinking
 
 “I have read the reports of the skeleton of Trapani, found in the fourteenth century, and which was at the time identified as that of Polyphemus; and the history of the giant unearthed in the sixteenth century near Palermo.”
 
 
 “You know as well as I do, gentlemen, the analysis made at Lucerne in 1577 of those huge bones which the celebrated Dr. Felix Plater affirmed to be those of a giant nineteen feet high.”
-
+e:prof=serious
 
 “I have gone through the treatises of Cassanion, and all those memoirs, pamphlets, answers, and rejoinders published respecting the skeleton of Teutobochus, the invader of Gaul, dug out of a sandpit in the Dauphiné, in 1613.”
 
 
 “In the eighteenth century I would have stood up for Scheuchzer’s pre-adamite man against Peter Campet. I have perused a writing, entitled *Gigan*﻿—”
-
+e:prof=contemplative
 
 Here my uncle’s unfortunate infirmity met him﻿—that of being unable in public to pronounce hard words.
 s=none;e:axel=smirking
 
 “The pamphlet entitled *Gigan*﻿—”
-s=prof;e:prof=nervous
+s=prof;i=2
 
 He could get no further.
 s=none
 
 “*Giganteo*﻿—”
-s=prof
+s=prof;e:prof=annoyed
 
 It was not to be done. The unlucky word would not come out. At the Johannæum there would have been a laugh.
 s=none
 
-“*Gigantosteologie*,” at last the Professor burst out, between two words which I shall not record here.
-s=prof;e:prof=angry
+“*Gigantosteologie*,”
+s=prof;e:prof=angry;m=break,1
+
+at last the Professor burst out, between two words which I shall not record here.
+s=
 
 Then rushing on with renewed vigour, and with great animation:
 s=none;e:prof=excited
@@ -8881,38 +8881,35 @@ s=none;e:prof=excited
 “Yes, gentlemen, I know all these things, and more. I know that Cuvier and Blumenbach have recognised in these bones nothing more remarkable than the bones of the mammoth and other mammals of the post-tertiary period.”
 s=prof
 
-“But in the presence of this specimen to doubt would be to insult science. There stands the body! You may see it, touch it.”
-e:prof=serious
-
-“It is not a mere skeleton; it is an entire body, preserved for a purely anthropological end and purpose.”
-
+“But in the presence of this specimen to doubt would be to insult science. There stands the body! You may see it, touch it. It is not a mere skeleton; it is an entire body, preserved for a purely anthropological end and purpose.”
+e:prof=smirkinglook
 
 I was good enough not to contradict this startling assertion.
 s=none;e:axel=smirking
 
-“If I could only wash it in a solution of sulphuric acid,” pursued my uncle, “I should be able to clear it from all the earthy particles and the shells which are incrusted about it.”
-s=prof;e:prof=thinking
+“If I could only wash it in a solution of sulphuric acid,” pursued my uncle,
+s=prof;e:prof=contemplative
 
-“But I do not possess that valuable solvent. Yet, such as it is, the body shall tell us its own wonderful story.”
+“I should be able to clear it from all the earthy particles and the shells which are incrusted about it. But I do not possess that valuable solvent.”
+
+
+“Yet, such as it is, the body shall tell us its own wonderful story.”
 e:prof=happy
 
 Here the Professor laid hold of the fossil skeleton, and handled it with the skill of a dexterous showman.
 s=none;e:prof=excited
 
 “You see,” he said, “that it is not six feet long, and that we are still separated by a long interval from the pretended race of giants.”
-s=prof
+s=prof;e:prof=happylookdown
 
-“As for the family to which it belongs, it is evidently Caucasian. It is the white race, our own.”
-
-
-“The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws.”
-
+“As for the family to which it belongs, it is evidently Caucasian. It is the white race, our own. The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws.”
+e:prof=smirking
 
 “It presents no appearance of that prognathism which diminishes the facial angle.<f>The facial angle is formed by two lines, one touching the brow and the front teeth, the other from the orifice of the ear to the lower line of the nostrils. The greater this angle, the higher intelligence denoted by the formation of the skull. Prognathism is that projection of the jawbones which sharpens or lessens this angle.</f> Measure that angle. It is nearly ninety degrees.”
-
+e:prof=contemplativelookdown
 
 “But I will go further in my deductions, and I will affirm that this specimen of the human family is of the Japhetic race, which has since spread from the Indies to the Atlantic. Don’t smile, gentlemen.”
-
+e:prof=thinking
 
 Nobody was smiling; but the learned Professor was frequently disturbed by the broad smiles provoked by his learned eccentricities.
 s=none;e:axel=smirking
@@ -8932,17 +8929,14 @@ e:prof=serious
 “And unless he came here, like myself, as a tourist on a visit and as a pioneer of science, I can entertain no doubt of the authenticity of his remote origin.”
 e:prof=smirking
 
-The Professor ceased to speak, and the audience broke out into loud and unanimous applause.
+The Professor ceased to speak, and the audience broke out into loud and unanimous applause. For of course my uncle was right, and wiser men than his nephew would have had some trouble to refute his statements.
 s=none;e:axel=happy
 
-For of course my uncle was right, and wiser men than his nephew would have had some trouble to refute his statements.
-e:axel=smirking
+Another remarkable thing. This fossil body was not the only one in this immense catacomb.
 
-Another remarkable thing.
-e:axel=surprised
 
-This fossil body was not the only one in this immense catacomb. We came upon other bodies at every step amongst this mortal dust, and my uncle might select the most curious of these specimens to demolish the incredulity of sceptics.
-
+We came upon other bodies at every step amongst this mortal dust, and my uncle might select the most curious of these specimens to demolish the incredulity of sceptics.
+f:b:tunnel-sea-shore-2=blur(3px)
 
 In fact it was a wonderful spectacle, that of these generations of men and animals commingled in a common cemetery.
 e:axel=curious
@@ -8953,10 +8947,7 @@ e:axel=nervous
 Had all those creatures slid through a great fissure in the crust of the earth, down to the shores of the Liedenbrock sea, when they were dead and turning to dust, or had they lived and grown and died here in this subterranean world under a false sky, just like inhabitants of the upper earth?
 e:axel=thinking
 
-Until the present time we had seen alive only marine monsters and fishes.
-
-
-Might not some living man, some native of the abyss, be yet a wanderer below on this desert strand?
+Until the present time we had seen alive only marine monsters and fishes. Might not some living man, some native of the abyss, be yet a wanderer below on this desert strand?
 e:axel=fearful
 
 ## XXXIX. Forest Scenery Illuminated by Electricity
