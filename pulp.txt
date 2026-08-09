@@ -8954,19 +8954,13 @@ e:axel=fearful
 r=title
 
 For another half hour we trod upon a pavement of bones. We pushed on, impelled by our burning curiosity.
-e:axel=curious
+e:axel=curious;b=tunnel-sea-shore-2;f:b:tunnel-sea-shore-2=blur(3px)
 
-What other marvels did this cavern contain? What new treasures lay here for science to unfold?
+What other marvels did this cavern contain? What new treasures lay here for science to unfold? I was prepared for any surprise, my imagination was ready for any astonishment however astounding.
 e:axel=thinking
 
-I was prepared for any surprise, my imagination was ready for any astonishment however astounding.
-e:axel=excited
-
-We had long lost sight of the sea shore behind the hills of bones. The rash Professor, careless of losing his way, hurried me forward.
-e:prof=excited
-
-We advanced in silence, bathed in luminous electric fluid.
-
+We had long lost sight of the sea shore behind the hills of bones. The rash Professor, careless of losing his way, hurried me forward. We advanced in silence, bathed in luminous electric fluid.
+e:prof=excited;b=tunnel-shadowless-forest;f:b:tunnel-shadowless-forest=blur(3px)
 
 By some phenomenon which I am unable to explain, it lighted up all sides of every object equally. Such was its diffusiveness, there being no central point from which the light emanated, that shadows no longer existed.
 e:axel=confused
@@ -8974,14 +8968,11 @@ e:axel=confused
 You might have thought yourself under the rays of a vertical sun in a tropical region at noonday and the height of summer. No vapour was visible.
 
 
-The rocks, the distant mountains, a few isolated clumps of forest trees in the distance, presented a weird and wonderful aspect under these totally new conditions of a universal diffusion of light.
+The rocks, the distant mountains, a few isolated clumps of forest trees in the distance, presented a weird and wonderful aspect under these totally new conditions of a universal diffusion of light. We were like Hoffmann’s shadowless man.
 e:axel=surprised
 
-We were like Hoffmann’s shadowless man.
-
-
 After walking a mile we reached the outskirts of a vast forest, but not one of those forests of fungi which bordered Port Gräuben.
-
+b=tunnel-shadowless-forest
 
 Here was the vegetation of the tertiary period in its fullest blaze of magnificence.
 e:axel=surprised
@@ -8992,20 +8983,14 @@ Tall palms, belonging to species no longer living, splendid palmacites, firs, ye
 A few sparkling streams ran almost in silence under what would have been the shade of the trees, but that there was no shadow. On their banks grew tree-ferns similar to those we grow in hothouses.
 
 
-But a remarkable feature was the total absence of colour in all those trees, shrubs, and plants, growing without the life-giving heat and light of the sun.
+But a remarkable feature was the total absence of colour in all those trees, shrubs, and plants, growing without the life-giving heat and light of the sun. Everything seemed mixed-up and confounded in one uniform silver grey or light brown tint like that of fading and faded leaves.
 e:axel=thinking
-
-Everything seemed mixed-up and confounded in one uniform silver grey or light brown tint like that of fading and faded leaves.
-
 
 Not a green leaf anywhere, and the flowers﻿—which were abundant enough in the tertiary period, which first gave birth to flowers﻿—looked like brown-paper flowers, without colour or scent.
 
 
-My uncle Liedenbrock ventured to penetrate under this colossal grove. I followed him, not without fear.
+My uncle Liedenbrock ventured to penetrate under this colossal grove. I followed him, not without fear. Since nature had here provided vegetable nourishment, why should not the terrible mammals be there too?
 e:axel=fearful
-
-Since nature had here provided vegetable nourishment, why should not the terrible mammals be there too?
-e:axel=nervous
 
 I perceived in the broad clearings left by fallen trees, decayed with age, leguminose plants, acerineae, Rubiaceae and many other eatable shrubs, dear to ruminant animals at every period.
 
@@ -9017,13 +9002,13 @@ It was enough to distract the most ingenious classifier of terrestrial botany.
 
 
 Suddenly I halted. I drew back my uncle.
-e:axel=fearful
+e:axel=fearful;f:b:tunnel-shadowless-forest=blur(3px)
 
 The diffused light revealed the smallest object in the dense and distant thickets. I had thought I saw﻿—no! I did see, with my own eyes, vast colossal forms moving amongst the trees.
 e:axel=surprised
 
 They were gigantic animals; it was a herd of mastodons﻿—not fossil remains, but living and resembling those the bones of which were found in the marshes of Ohio in 1801.
-
+b=tunnel-shadowless-forest-mastodons
 
 I saw those huge elephants whose long, flexible trunks were grouting and turning up the soil under the trees like a legion of serpents.
 
@@ -9040,8 +9025,11 @@ e:axel=fearful
 My uncle was gazing with intense and eager interest.
 e:prof=excited
 
-“Come on!” said he, seizing my arm. “Forward! Forward!”
-s=prof
+“Come on!” said he, seizing my arm.
+s=prof;e:prof=excitedlook
+
+“Forward! Forward!”
+e:prof=excited
 
 “No, I will not!” I cried. “We have no firearms. What could we do in the midst of a herd of these four-footed giants?”
 s=axel;e:axel=fearful
@@ -9049,20 +9037,20 @@ s=axel;e:axel=fearful
 “Come away, uncle﻿—come! No human being may with safety dare the anger of these monstrous beasts.”
 
 
-“No human creature?” replied my uncle in a lower voice. “You are wrong, Axel. Look, look down there!”
+“No human creature?” replied my uncle in a lower voice.
 s=prof;e:prof=serious
 
-“I fancy I see a living creature similar to ourselves: it is a man!”
-e:prof=surprised
+“You are wrong, Axel. Look, look down there! I fancy I see a living creature similar to ourselves: it is a man!”
+e:prof=seriouslookdown
 
 I looked, shaking my head incredulously.
 s=none;e:axel=suspicious
 
 But though at first I was unbelieving I had to yield to the evidence of my senses.
-e:axel=surprised
+e:axel=surprised;f:b:tunnel-shadowless-forest-mastodons=blur(3px)
 
 In fact, at a distance of a quarter of a mile, leaning against the trunk of a gigantic kauri, stood a human being, the Proteus of those subterranean regions, a new son of Neptune, watching this countless herd of mastodons.
-
+b=tunnel-shadowless-forest-mastodons-man
 
 <span class='italics'>Immanis pecoris custos, immanior ipse.</span><f>“The shepherd of gigantic herds, and huger still himself.”</f>
 m=margin
@@ -9082,11 +9070,14 @@ e:axel=surprised;e:prof=surprised
 But he might see us! We must fly!
 e:axel=fearful
 
-“Come, do come!” I said to my uncle, who for once allowed himself to be persuaded.
-s=axel
+“Come, do come!” I said to my uncle,
+s=axel;e:axel=fearfullook;m=break,1
+
+who for once allowed himself to be persuaded.
+s=;f:b:tunnel-shadowless-forest-mastodons-man=blur(3px)
 
 In another quarter of an hour our nimble heels had carried us beyond the reach of this horrible monster.
-s=none;e:axel=nervous
+s=none;e:axel=nervous;b=tunnel-shadowless-forest;f:b:tunnel-shadowless-forest=blur(3px)
 
 And yet, now that I can reflect quietly, now that my spirit has grown calm again, now that months have slipped by since this strange and supernatural meeting, what am I to think? what am I to believe?
 e:axel=thinking
@@ -9113,7 +9104,7 @@ We kept running on for fear the horrible monster might be on our track. It was a
 e:axel=fearful
 
 Instinctively we got back to the Liedenbrock sea, and I cannot say into what vagaries my mind would not have carried me but for a circumstance which brought me back to practical matters.
-e:axel=neutral
+e:axel=neutral;b=tunnel-sea-shore-2;f:b:tunnel-sea-shore-2=blur(3px)
 
 Although I was certain that we were now treading upon a soil not hitherto touched by our feet, I often perceived groups of rocks which reminded me of those about Port Gräuben.
 e:axel=confused
@@ -9131,64 +9122,76 @@ Then a few paces farther on, the arrangement of the cliffs, the appearance of an
 e:axel=confused
 
 I communicated my doubts to my uncle. Like myself, he hesitated; he could recognise nothing again amidst this monotonous scene.
-e:prof=confused
+e:prof=confused;f:b:tunnel-sea-shore-2=
 
 “Evidently,” said I, “we have not landed again at our original starting point, but the storm has carried us a little higher, and if we follow the shore we shall find Port Gräuben.”
-s=axel;e:axel=thinking
+s=axel;e:axel=confused
 
 “If that is the case it will be useless to continue our exploration, and we had better return to our raft. But, Axel, are you not mistaken?”
-s=prof
+s=prof;e:prof=suspicious
 
 “It is difficult to speak decidedly, uncle, for all these rocks are so very much alike.”
-s=axel
+s=axel;e:axel=contemplative
 
-“Yet I think I recognise the promontory at the foot of which Hans constructed our launch. We must be very near the little port, if indeed this is not it,” I added, examining a creek which I thought I recognised.
-e:axel=curious
+“Yet I think I recognise the promontory at the foot of which Hans constructed our launch. We must be very near the little port, if indeed this is not it,” I added,
+e:axel=thinkinglook;m=break,1
+
+examining a creek which I thought I recognised.
+s=
 
 “No, Axel, we should at least find our own traces and I see nothing﻿—”
 s=prof;e:prof=serious
 
-“But I do see,” I cried, darting upon an object lying on the sand.
-s=axel;e:axel=surprised
+“But I do see,” I cried,
+s=axel;e:axel=surprisedlookdown;m=break,1
+
+darting upon an object lying on the sand.
+s=
 
 And I showed my uncle a rusty dagger which I had just picked up.
 s=none
 
 “Come,” said he, “had you this weapon with you?”
-s=prof;e:prof=curious
+s=prof;e:prof=suspicious;i=2
 
 “I! No, certainly! But you, perhaps﻿—”
-s=axel;e:axel=confused
+s=axel;e:axel=serious
 
-“Not that I am aware,” said the Professor. “I have never had this object in my possession.”
-s=prof;e:prof=serious
+“Not that I am aware,” said the Professor.
+s=prof;e:prof=annoyed
+
+“I have never had this object in my possession.”
+e:prof=serious
 
 “Well, this is strange!”
-s=axel
+s=axel;e:axel=confused
 
 “No, Axel, it is very simple. The Icelanders often wear arms of this kind. This must have belonged to Hans, and he has lost it.”
-s=prof
+s=prof;e:prof=annoyed;i=2
 
-I shook my head. Hans had never had an object like this in his possession.
+I shook my head.
 s=none;e:axel=suspicious
 
-“Did it not belong to some pre-adamite warrior?” I cried, “to some living man, contemporary with the huge cattle-driver? But no. This is not a relic of the stone age.”
-s=axel;e:axel=excited
+Hans had never had an object like this in his possession.
 
-“It is not even of the iron age. This blade is steel﻿—”
 
+“Did it not belong to some pre-adamite warrior?” I cried, “to some living man, contemporary with the huge cattle-driver?”
+s=axel;e:axel=confused;i=2
+
+“But no. This is not a relic of the stone age. It is not even of the iron age. This blade is steel﻿—”
+e:axel=contemplativelookdown
 
 My uncle stopped me abruptly on my way to a dissertation which would have taken me a long way, and said coolly:
 s=none;e:prof=serious
 
 “Be calm, Axel, and reasonable. This dagger belongs to the sixteenth century; it is a poniard, such as gentlemen carried in their belts to give the coup de grâce. Its origin is Spanish.”
-s=prof
+s=prof;e:prof=thinking
 
 “It was never either yours, or mine, or the hunter’s, nor did it belong to any of those human beings who may or may not inhabit this inner world.”
-
+e:prof=smirking
 
 “See, it was never jagged like this by cutting men’s throats; its blade is coated with a rust neither a day, nor a year, nor a hundred years old.”
-e:prof=thinking
+e:prof=happylookdown
 
 The Professor was getting excited according to his wont, and was allowing his imagination to run away with him.
 s=none;e:prof=excited
@@ -9203,16 +9206,16 @@ s=axel;e:axel=surprised
 s=prof;e:prof=serious
 
 “And who was that man?”
-s=axel;e:axel=curious
+s=axel;e:axel=confused
 
 “A man who has engraved his name somewhere with that dagger. That man wanted once more to mark the way to the centre of the earth. Let us look about: look about!”
 s=prof;e:prof=excited
 
 And, wonderfully interested, we peered all along the high wall, peeping into every fissure which might open out into a gallery.
-s=none;e:axel=curious
+s=none;e:axel=curious;f:b:tunnel-sea-shore-2=blur(3px)
 
 And so we arrived at a place where the shore was much narrowed. Here the sea came to lap the foot of the steep cliff, leaving a passage no wider than a couple of yards.
-
+b=tunnel-sea-tunnel
 
 Between two boldly projecting rocks appeared the mouth of a dark tunnel.
 
@@ -9220,14 +9223,17 @@ Between two boldly projecting rocks appeared the mouth of a dark tunnel.
 There, upon a granite slab, appeared two mysterious graven letters, half eaten away by time. They were the initials of the bold and daring traveller:
 e:axel=surprised;o=glyph-3
 
-“A. S.,” shouted my uncle. “Arne Saknussemm! Arne Saknussemm everywhere!”
+“A. S.,” shouted my uncle.
 s=prof;e:prof=excited
+
+“Arne Saknussemm! Arne Saknussemm everywhere!”
+
 
 ## XL. Preparations for Blasting a Passage to the Centre of the Earth
 r=title
 
 Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise.
-e:axel=neutral
+e:axel=neutral;b=tunnel-sea-tunnel;o=glyph-3
 
 Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement.
 e:axel=surprised
@@ -9239,7 +9245,7 @@ I could no longer doubt of the existence of that wonderful traveller and of the 
 e:axel=serious
 
 Whilst these reflections were occupying me, Professor Liedenbrock had launched into a somewhat rhapsodical eulogium, of which Arne Saknussemm was, of course, the hero.
-e:prof=excited
+e:prof=excited;o=
 
 “Thou marvellous genius!” he cried, “thou hast not forgotten one indication which might serve to lay open to mortals the road through the terrestrial crust; and thy fellow-creatures may even now, after the lapse of three centuries, again trace thy footsteps through these deep and darksome ways.”
 s=prof
