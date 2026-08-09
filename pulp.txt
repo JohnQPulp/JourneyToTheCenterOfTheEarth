@@ -9494,10 +9494,10 @@ s=none;e:prof=serious
 s=prof
 
 “Aye.”
-s=axel
+s=axel;e:axel=serious
 
 “Fire!”
-s=prof
+s=prof;e:axel=serious;i=2
 
 I instantly plunged the end of the fuse into the lantern.
 s=none;e:axel=excited
@@ -9506,34 +9506,37 @@ It spluttered and flamed, and I ran at the top of my speed to the raft.
 
 
 “Come on board quickly, and let us push off.”
-s=prof
+s=prof;e:prof=serious;i=3
 
 Hans, with a vigorous thrust, sent us from the shore. The raft shot twenty fathoms out to sea.
-s=none;e:hans=serious
+s=none;e:hans=serious;f:b:tunnel-sea-tunnel=blur(3px)
 
 It was a moment of intense excitement. The Professor was watching the hand of the chronometer.
 e:axel=excited;e:prof=serious
 
 “Five minutes more!” he said. “Four! Three!”
-s=prof
+m=dialogue
 
 My pulse beat half-seconds.
 s=none;e:axel=nervous
 
 “Two! One! Down, granite rocks; down with you.”
-s=prof;e:prof=excited
+
 
 What took place at that moment? I believe I did not hear the dull roar of the explosion.
-s=none;e:axel=confused
+s=none;e:axel=confused;m=;f:b:tunnel-sea-tunnel=blur(5px)
 
 But the rocks suddenly assumed a new arrangement: they rent asunder like a curtain. I saw a bottomless pit open on the shore.
-e:axel=surprised
+e:axel=surprised;b=explosion;f:b:explosion=blur(5px)
 
 The sea, lashed into sudden fury, rose up in an enormous billow, on the ridge of which the unhappy raft was uplifted bodily in the air with all its crew and cargo.
 
 
-We all three fell down flat. In less than a second we were in deep, unfathomable darkness.
+We all three fell down flat.
 e:axel=fearful
+
+In less than a second we were in deep, unfathomable darkness.
+b=night;f:b:night=blur(5px)
 
 Then I felt as if not only myself but the raft also had no support beneath. I thought it was sinking; but it was not so.
 
@@ -9544,10 +9547,7 @@ I wanted to speak to my uncle, but the roaring of the waves prevented him from h
 In spite of darkness, noise, astonishment, and terror, I then understood what had taken place.
 e:axel=thinking
 
-On the other side of the blown-up rock was an abyss.
-
-
-The explosion had caused a kind of earthquake in this fissured and abysmal region; a great gulf had opened; and the sea, now changed into a torrent, was hurrying us along into it.
+On the other side of the blown-up rock was an abyss. The explosion had caused a kind of earthquake in this fissured and abysmal region; a great gulf had opened; and the sea, now changed into a torrent, was hurrying us along into it.
 
 
 I gave myself up for lost.
@@ -9575,7 +9575,7 @@ To light a torch under these conditions would have been impossible; and our last
 
 
 I was therefore much surprised to see a clear light shining near me. It lighted up the calm and unmoved countenance of Hans.
-e:axel=surprised;e:hans=neutral
+e:axel=surprised;e:hans=neutral;b=tunnel-abyss;f:b:tunnel-abyss=blur(3px)
 
 The skilful huntsman had succeeded in lighting the lantern; and although it flickered so much as to threaten to go out, it threw a fitful light across the awful darkness.
 
@@ -9616,11 +9616,8 @@ e:axel=upset
 Not a spade, not a pickaxe, not a hammer was left us; and, irreparable disaster! we had only one day’s provisions left.
 
 
-I searched every nook and corner, every crack and cranny in the raft. There was nothing.
+I searched every nook and corner, every crack and cranny in the raft. There was nothing. Our provisions were reduced to one bit of salt meat and a few biscuits.
 e:axel=fearful
-
-Our provisions were reduced to one bit of salt meat and a few biscuits.
-
 
 I stared at our failing supplies stupidly. I refused to take in the gravity of our loss. And yet what was the use of troubling myself.
 e:axel=confused
@@ -9647,10 +9644,10 @@ But I had the courage to preserve silence. I wished to leave him cool and self-p
 e:axel=serious
 
 At that moment the light from our lantern began to sink by little and little, and then went out entirely. The wick had burnt itself out.
-
+f:b:tunnel-abyss=blur(5px) brightness(75%)
 
 Black night reigned again; and there was no hope left of being able to dissipate the palpable darkness. We had yet a torch left, but we could not have kept it alight.
-
+b=night;f:b:night=blur(3px)
 
 Then, like a child, I closed my eyes firmly, not to see the darkness.
 e:axel=fearful
@@ -9665,13 +9662,13 @@ My uncle’s hand, and the vigorous arm of Hans, held me fast.
 e:prof=serious;e:hans=serious
 
 Suddenly, after a space of time that I could not measure, I felt a shock. The raft had not struck against any hard resistance, but had suddenly been checked in its fall.
-
+f:b:night=blur(5px)
 
 A waterspout, an immense liquid column, was beating upon the surface of the waters. I was suffocating! I was drowning!
 e:axel=fearful
 
 But this sudden flood was not of long duration. In a few seconds I found myself in the air again, which I inhaled with all the force of my lungs.
-e:axel=surprised
+e:axel=surprised;f:b:night=
 
 My uncle and Hans were still holding me fast by the arms; and the raft was still carrying us.
 
@@ -9680,7 +9677,7 @@ My uncle and Hans were still holding me fast by the arms; and the raft was still
 r=title
 
 It might have been, as I guessed, about ten at night. The first of my senses which came into play after this last bout was that of hearing.
-
+b=night
 
 All at once I could hear; and it was a real exercise of the sense of hearing. I could hear the silence in the gallery after the din which for hours had stunned me.
 
