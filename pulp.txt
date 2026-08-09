@@ -9686,7 +9686,7 @@ At last these words of my uncle’s came to me like a vague murmuring:
 
 
 “We are going up.”
-s=prof
+s=prof;m=nospeaker
 
 “What do you mean?” I cried.
 s=axel;e:axel=confused
@@ -9701,40 +9701,43 @@ s=none;e:axel=surprised
 s=prof
 
 Not without difficulty Hans succeeded in lighting the torch; and the flame, preserving its upward tendency, threw enough light to show us what kind of a place we were in.
-s=none
+s=none;b=tunnel-abyss-2;m=
 
-“Just as I thought,” said the Professor “We are in a tunnel not four-and-twenty feet in diameter.”
-s=prof;e:prof=thinking
+“Just as I thought,” said the Professor.
+s=prof;e:prof=serious
 
-“The water had reached the bottom of the gulf. It is now rising to its level, and carrying us with it.”
-
+“We are in a tunnel not four-and-twenty feet in diameter. The water had reached the bottom of the gulf. It is now rising to its level, and carrying us with it.”
+e:prof=seriouslookup
 
 “Where to?”
-s=axel;e:axel=curious
+s=axel;e:axel=fearful
 
 “I cannot tell; but we must be ready for anything. We are mounting at a speed which seems to me of fourteen feet in a second, or ten miles an hour. At this rate we shall get on.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;i=2
 
 “Yes, if nothing stops us; if this well has an aperture. But suppose it to be stopped. If the air is condensed by the pressure of this column of water we shall be crushed.”
-s=axel;e:axel=wary
+s=axel;e:axel=unhappy
 
-“Axel,” replied the Professor with perfect coolness, “our situation is almost desperate; but there are some chances of deliverance, and it is these that I am considering.”
-s=prof;e:prof=serious
+“Axel,” replied the Professor with perfect coolness,
+s=prof;e:prof=;i=2
+
+“our situation is almost desperate; but there are some chances of deliverance, and it is these that I am considering.”
+e:prof=serious
 
 “If at every instant we may perish, so at every instant we may be saved. Let us then be prepared to seize upon the smallest advantage.”
 
 
 “But what shall we do now?”
-s=axel;e:axel=curious
+s=axel;e:axel=unhappy;i=2
 
 “Recruit our strength by eating.”
-s=prof
+s=prof;e:prof=;i=3
 
 At these words I fixed a haggard eye upon my uncle. That which I had been so unwilling to confess at last had to be told.
 s=none;e:axel=upset
 
 “Eat, did you say?”
-s=axel
+s=axel;e:axel=weary
 
 “Yes, at once.”
 s=prof
@@ -9742,23 +9745,26 @@ s=prof
 The Professor added a few words in Danish, but Hans shook his head mournfully.
 s=none;e:hans=unhappy
 
-“What!” cried my uncle. “Have we lost our provisions?”
+“What!” cried my uncle.
 s=prof;e:prof=surprised
 
+“Have we lost our provisions?”
+e:prof=scowling
+
 “Yes; here is all we have left; one bit of salt meat for the three.”
-s=axel;e:axel=sadsmile
+s=axel;e:axel=unhappylookdown
 
 My uncle stared at me as if he could not understand.
 s=none;e:prof=confused
 
 “Well,” said I, “do you think we have any chance of being saved?”
-s=axel;e:axel=weary
+s=axel;e:axel=weary;i=2
 
 My question was unanswered.
 s=none;e:prof=contemplative
 
 An hour passed away. I began to feel the pangs of a violent hunger.
-e:axel=weary
+e:axel=weary;f:b:tunnel-abyss-2=blur(3px)
 
 My companions were suffering too, and not one of us dared touch this wretched remnant of our goodly store.
 
@@ -9766,20 +9772,20 @@ My companions were suffering too, and not one of us dared touch this wretched re
 But now we were mounting up with excessive speed. Sometimes the air would cut our breath short, as is experienced by aeronauts ascending too rapidly.
 e:axel=wary
 
-But whilst they suffer from cold in proportion to their rise, we were beginning to feel a contrary effect.
+But whilst they suffer from cold in proportion to their rise, we were beginning to feel a contrary effect. The heat was increasing in a manner to cause us the most fearful anxiety, and certainly the temperature was at this moment at the height of 100° Fahr.
 
 
-The heat was increasing in a manner to cause us the most fearful anxiety, and certainly the temperature was at this moment at the height of 100° Fahr.
+What could be the meaning of such a change?
 e:axel=nervous
 
-What could be the meaning of such a change? Up to this time facts had supported the theories of Davy and of Liedenbrock; until now particular conditions of nonconducting rocks, electricity and magnetism, had tempered the laws of nature, giving us only a moderately warm climate, for the theory of a central fire remained in my estimation the only one that was true and explicable.
+Up to this time facts had supported the theories of Davy and of Liedenbrock; until now particular conditions of nonconducting rocks, electricity and magnetism, had tempered the laws of nature, giving us only a moderately warm climate, for the theory of a central fire remained in my estimation the only one that was true and explicable.
 e:axel=thinking
 
 Were we then turning back to where the phenomena of central heat ruled in all their rigour and would reduce the most refractory rocks to the state of a molten liquid?
 
 
 I feared this, and said to the Professor:
-e:axel=fearful
+e:axel=upset;f:b:tunnel-abyss-2=
 
 “If we are neither drowned, nor shattered to pieces, nor starved to death, there is still the chance that we may be burned alive and reduced to ashes.”
 s=axel
@@ -9788,55 +9794,52 @@ At this he shrugged his shoulders and returned to his thoughts.
 s=none;e:prof=thinking
 
 Another hour passed, and, except some slight increase in the temperature, nothing new had happened.
-
+;f:b:tunnel-abyss-2=blur(3px)
 
 “Come,” said he, “we must determine upon something.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;;f:b:tunnel-abyss-2=
 
 “Determine on what?” said I.
-s=axel;e:axel=confused
+s=axel;e:axel=weary
 
 “Yes, we must recruit our strength by carefully rationing ourselves, and so prolong our existence by a few hours. But we shall be reduced to very great weakness at last.”
-s=prof
+s=prof;i=2
 
 “And our last hour is not far off.”
-s=axel;e:axel=upset
+s=axel;e:axel=;i=2
 
 “Well, if there is a chance of safety, if a moment for active exertion presents itself, where should we find the required strength if we allowed ourselves to be enfeebled by hunger?”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;i=3
 
 “Well, uncle, when this bit of meat has been devoured what shall we have left?”
-s=axel
+s=axel;e:axel=unhappy
 
 “Nothing, Axel, nothing at all. But will it do you any more good to devour it with your eyes than with your teeth? Your reasoning has in it neither sense nor energy.”
 s=prof;e:prof=annoyed
 
 “Then don’t you despair?” I cried irritably.
-s=axel;e:axel=angry
+s=axel;e:axel=annoyedunhappy
 
 “No, certainly not,” was the Professor’s firm reply.
 s=prof;e:prof=serious
 
 “What! do you think there is any chance of safety left?”
-s=axel;e:axel=surprised
+s=axel;e:axel=confused
 
 “Yes, I do; as long as the heart beats, as long as body and soul keep together, I cannot admit that any creature endowed with a will has need to despair of life.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=serious;i=2
 
 Resolute words these! The man who could speak so, under such circumstances, was of no ordinary type.
 s=none;e:axel=surprised
 
 “Finally, what do you mean to do?” I asked.
-s=axel;e:axel=curious
+s=axel;e:axel=unhappy
 
-“Eat what is left to the last crumb, and recruit our fading strength. This meal will be our last, perhaps: so let it be!”
-s=prof;e:prof=serious
-
-“But at any rate we shall once more be men, and not exhausted, empty bags.”
-
+“Eat what is left to the last crumb, and recruit our fading strength. This meal will be our last, perhaps: so let it be! But at any rate we shall once more be men, and not exhausted, empty bags.”
+s=prof;e:prof=serious;i=3
 
 “Well, let us consume it then,” I cried.
-s=axel;e:axel=weary
+s=axel;e:axel=upset
 
 My uncle took the piece of meat and the few biscuits which had escaped from the general destruction. He divided them into three equal portions and gave one to each.
 s=none;e:prof=neutral
@@ -9851,10 +9854,10 @@ By diligent search he had found a flask of Hollands; he offered it to us each in
 e:axel=sadsmile
 
 “*Forträfflig*,” said Hans, drinking in his turn.
-s=hans;e:hans=happy
+s=hans;e:hans=thinking
 
 “Excellent,” replied my uncle.
-s=prof;e:prof=happy
+s=prof;e:prof=thinking
 
 A glimpse of hope had returned, although without cause. But our last meal was over, and it was now five in the morning.
 s=none;e:axel=contemplative
@@ -9866,7 +9869,7 @@ Therefore it was that after our long fast these few mouthfuls of meat and biscui
 e:axel=happy
 
 But as soon as the meal was done, we each of us fell deep into thought. What was Hans thinking of—that man of the far West, but who seemed ruled by the fatalist doctrines of the East?
-e:axel=thinking;e:hans=thinking
+e:axel=thinking;e:hans=thinking;f:b:tunnel-abyss-2=blur(3px)
 
 As for me, my thoughts were made up of remembrances, and they carried me up to the surface of the globe of which I ought never to have taken leave.
 e:axel=weary
@@ -9883,14 +9886,17 @@ This calculation could, at best, be but a vague approximation; but a learned man
 I could hear him murmuring geological terms. I could understand them, and in spite of myself I felt interested in this last geological study.
 e:axel=curious
 
-“Eruptive granite,” he was saying. “We are still in the primitive period. But we are going up, up, higher still. Who can tell?”
-s=prof;e:prof=thinking
+“Eruptive granite,” he was saying.
+s=prof;e:prof=contemplative;f:b:tunnel-abyss-2=
+
+“We are still in the primitive period. But we are going up, up, higher still. Who can tell?”
+
 
 Ah! who can tell? With his hand he was examining the perpendicular wall, and in a few more minutes he continued:
 s=none;e:axel=curious
 
 “This is gneiss! here is mica schist! Ah! presently we shall come to the transition period, and then—”
-s=prof;e:prof=excited
+s=prof;e:prof=seriousthinking
 
 What did the Professor mean? Could he be trying to measure the thickness of the crust of the earth that lay between us and the world above?
 s=none;e:axel=thinking
@@ -9899,36 +9905,42 @@ Had he any means of making this calculation? No, he had not the aneroid, and no 
 
 
 Still the temperature kept rising, and I felt myself steeped in a broiling atmosphere. I could only compare it to the heat of a furnace at the moment when the molten metal is running into the mould.
-e:axel=nervous
+e:axel=nervous;f:b:tunnel-abyss-2=blur(3px)
 
 Gradually we had been obliged to throw aside our coats and waistcoats, the lightest covering became uncomfortable and even painful.
-e:axel=weary
+e:axel=weary;x:axel=undressed;x:prof=undressed
 
 “Are we rising into a fiery furnace?” I cried at one moment when the heat was redoubling.
-s=axel;e:axel=fearful
+s=axel;e:axel=fearful;f:b:tunnel-abyss-2=
 
 “No,” replied my uncle, “that is impossible—quite impossible!”
 s=prof;e:prof=serious
 
 “Yet,” I answered, feeling the wall, “this well is burning hot.”
-s=axel
+s=axel;e:axel=unhappylook
 
 At the same moment, touching the water, I had to withdraw my hand in haste.
 s=none;e:axel=surprised
 
 “The water is scalding,” I cried.
-s=axel;e:axel=fearful
+s=axel;e:axel=upset
 
 This time the Professor’s only answer was an angry gesture.
 s=none;e:prof=angry
 
 Then an unconquerable terror seized upon me, from which I could no longer get free. I felt that a catastrophe was approaching before which the boldest spirit must quail.
-e:axel=fearful
+e:axel=fearful;f:b:tunnel-abyss-2=blur(3px)
 
 A dim, vague notion laid hold of my mind, but which was fast hardening into certainty. I tried to repel it, but it would return. I dared not express it in plain terms.
 e:axel=nervous
 
-Yet a few involuntary observations confirmed me in my view. By the flickering light of the torch I could distinguish contortions in the granite beds; a phenomenon was unfolding in which electricity would play the principal part; then this unbearable heat, this boiling water! I consulted the compass.
+Yet a few involuntary observations confirmed me in my view.
+
+
+By the flickering light of the torch I could distinguish contortions in the granite beds; a phenomenon was unfolding in which electricity would play the principal part; then this unbearable heat, this boiling water!
+
+
+I consulted the compass.
 
 
 The compass had lost its properties! it had ceased to act properly!
@@ -9938,7 +9950,7 @@ e:axel=surprised
 r=title
 
 Yes: our compass was no longer a guide; the needle flew from pole to pole with a kind of frenzied impulse; it ran round the dial, and spun hither and thither as if it were giddy or intoxicated.
-e:axel=surprised
+e:axel=surprised;b=tunnel-abyss-2;f:b:tunnel-abyss-2=blur(3px)
 
 I knew quite well that according to the best received theories the mineral covering of the globe is never at absolute rest; the changes brought about by the chemical decomposition of its component parts, the agitation caused by great liquid torrents, and the magnetic currents, are continually tending to disturb it—even when living beings upon its surface may fancy that all is quiet below.
 e:axel=thinking
