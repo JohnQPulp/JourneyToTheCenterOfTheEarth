@@ -1,4 +1,4 @@
-Journey to the Center of the Earth<br>Jules Verne<e>TODO</e>
+Journey to the Center of the Earth<br>Jules Verne<e>So this Malleson-translated edition of the novel adds in chapter title subheadings that Verne didn't have in the original. (Hope you like spoilers.)</e>
 r=title;t=author
 
 ## I. The Professor and His Family
@@ -2032,7 +2032,7 @@ m=break
 nor that immense cenotaph of Thorvaldsen’s, adorned with horrible mural painting, and containing within it a collection of the sculptor’s works, nor in a fine park the toylike château of Rosenberg,
 
 
-nor the beautiful renaissance edifice of the Exchange, nor its spire composed of the twisted tails of four bronze dragons, nor the great windmill on the ramparts, whose huge arms dilated in the sea breeze like the sails of a ship.<e>RIP the <a href="https://en.wikipedia.org/wiki/B%C3%B8rsen">Exchange</a>.</e>
+nor the beautiful renaissance edifice of the Exchange, nor its spire composed of the twisted tails of four bronze dragons, nor the great windmill on the ramparts, whose huge arms dilated in the sea breeze like the sails of a ship.<e>RIP <a href="https://en.wikipedia.org/wiki/B%C3%B8rsen">dragons</a>. (Isn't it ironic?)</e>
 e:axel=happy;e:prof=bored;m=
 
 What delicious walks we should have had together, my pretty *Virlandaise* and I, along the harbour where the two-deckers and the frigate slept peaceably by the red roofing of the warehouse, by the green banks of the strait,
@@ -6781,7 +6781,7 @@ It was not the light of the sun, with his dazzling shafts of brightness and the 
 No; the illuminating power of this light, its trembling diffusiveness, its bright, clear whiteness, and its low temperature, showed that it must be of electric origin.
 e:axel=thinking
 
-It was like an aurora borealis, a continuous cosmical phenomenon, filling a cavern of sufficient extent to contain an ocean.
+It was like an aurora borealis, a continuous cosmical phenomenon, filling a cavern of sufficient extent to contain an ocean.<e>"…, <s>filling a cavern of sufficient extent to contain an ocean</s> localized entirely within this cavern."</e>
 
 
 The vault that spanned the space above, the sky, if it could be called so, seemed composed of vast plains of cloud, shifting and variable vapours, which by their condensation must at certain times fall in torrents of rain.
@@ -7933,10 +7933,10 @@ e:axel=thinking
 The commonest prudence would counsel immediate flight; but we did not come so far to be prudent.
 e:axel=weary;f:b:tunnel-sea-raft-wide=blur(3px)
 
-Imprudently, therefore, we pursue our way. The nearer we approach, the higher mounts the jet of water.
-e:axel=wary
+Imprudently, therefore, we pursue our way.<e>The imprudently prudent prudence.</e>
 
-What monster can possibly fill itself with such a quantity of water, and spurt it up so continuously?
+
+The nearer we approach, the higher mounts the jet of water. What monster can possibly fill itself with such a quantity of water, and spurt it up so continuously?
 e:axel=confused
 
 At eight in the evening we are not two leagues distant from it.
@@ -8638,10 +8638,10 @@ With a few more pieces of surturbrand he had refitted our vessel. A sail already
 The Professor said a few words to the guide, and immediately he put everything on board and arranged every necessary for our departure. The air was clear—and the northwest wind blew steadily.
 e:prof=serious
 
-What could I do? Could I stand against the two? It was impossible? If Hans had but taken my side!
+What could I do? Could I stand against the two? It was impossible?<e>"I'm Ron Burgundy?"</e>
 e:axel=upset
 
-But no, it was not to be. The Icelander seemed to have renounced all will of his own and made a vow to forget and deny himself.
+If Hans had but taken my side! But no, it was not to be. The Icelander seemed to have renounced all will of his own and made a vow to forget and deny himself.
 e:hans=neutral
 
 I could get nothing out of a servant so feudalised, as it were, to his master. My only course was to proceed.
@@ -8833,7 +8833,7 @@ s=prof;e:prof=serious
 “Eminent geologists have denied his existence, others no less eminent have affirmed it. The St. Thomases of palaeontology, if they were here, might now touch him with their fingers, and would be obliged to acknowledge their error.”
 e:prof=smirking
 
-“I am quite aware that science has to be on its guard with discoveries of this kind. I know what capital enterprising individuals like Barnum have made out of fossil men.”
+“I am quite aware that science has to be on its guard with discoveries of this kind. I know what capital enterprising individuals like Barnum have made out of fossil men.”<e>P.T. Barnum, of Feejee mermaid fame. (Put a pin in this.)</e>
 e:prof=serious;i=2
 
 “I have heard the tale of the kneepan of Ajax, the pretended body of Orestes claimed to have been found by the Spartans, and of the body of Asterius, ten cubits long, of which Pausanias speaks.”
@@ -8869,7 +8869,7 @@ s=none
 “*Gigantosteologie*,”
 s=prof;e:prof=angry;m=break,1
 
-at last the Professor burst out, between two words which I shall not record here.
+at last the Professor burst out, between two words which I shall not record here.<e><i>"Gottverdammt Gigantosteologie Himmelkreuzdonnerwetter"</i></e>
 s=
 
 Then rushing on with renewed vigour, and with great animation:
@@ -10117,7 +10117,7 @@ s=prof;e:prof=serious
 “But the water—the rising water?”
 s=axel;i=2
 
-“There is no more water, Axel; only a lava paste, which is bearing us up on its surface to the top of the crater.”
+“There is no more water, Axel; only a lava paste, which is bearing us up on its surface to the top of the crater.”<e>♫Raft a river of lava♫</e>
 s=prof;e:prof=seriouslookup
 
 The liquid column had indeed disappeared, to give place to dense and still boiling eruptive matter of all kinds.
@@ -10441,7 +10441,7 @@ s=prof;i=2
 Silence still.
 s=none
 
-“Now let us try Italian,” said my uncle; and he said:
+“Now let us try Italian,” said my uncle; and he said:<e>"said my uncle; and he said"</e>
 e:prof=serious
 
 “*Dove noi siamo?*”
@@ -10588,7 +10588,7 @@ e:prof=neutral
 There were those who envied him his fame; and as his theories, resting upon known facts, were in opposition to the systems of science upon the question of the central fire, he sustained with his pen and by his voice remarkable discussions with the learned of every country.
 e:prof=serious
 
-For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.
+For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.<e>Somehow the most anti-scientific line in the book.</e>
 e:axel=serious
 
 But I admit that certain circumstances not yet sufficiently understood may tend to modify in places the action of natural phenomena.
@@ -10621,7 +10621,7 @@ It was translated into all civilised languages.<e>And Italian.</e>
 The leading newspapers extracted the most interesting passages, which were commented upon, picked to pieces, discussed, attacked, and defended with equal enthusiasm and determination, both by believers and sceptics.
 e:axel=excited
 
-Rare privilege! my uncle enjoyed during his lifetime the glory he had deservedly won; and he may even boast the distinguished honour of an offer from Mr. Barnum, to exhibit him on most advantageous terms in all the principal cities in the United States!
+Rare privilege! my uncle enjoyed during his lifetime the glory he had deservedly won; and he may even boast the distinguished honour of an offer from Mr. Barnum, to exhibit him on most advantageous terms in all the principal cities in the United States!<e>Good P.T. Barnum brick joke.</e>
 e:prof=smirking
 
 But there was one “dead fly” amidst all this glory and honour; one fact, one incident, of the journey remained a mystery.
@@ -10696,5 +10696,5 @@ s=none;e:axel=happy;f:b:prof-study=blur(3px)
 What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?
 e:axel=smirking
 
-<e>The End. TODO</e>
+<e>The End. What is the need, indeed. Good to close out with another pointless bit of repetition. I mean, maybe Verne doesn't have the best prose in the world, and maybe Malleson the translator exacerbated that issue, but to focus on the important point: Why do Verne novel titles always promise going further underground than they actually deliver on? (Maybe that's why Malleson went with "Journey to the <i>Interior</i> of the Earth". Less catchy though.</e>
 
