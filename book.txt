@@ -168,7 +168,7 @@ I was seated in a trice.
 
 The dictation commenced. I did my best. Every letter was given me one after the other, with the following remarkable result:
 
-<todo>
+<table class='center realtable'><tr><td>m̄.rnlls</td><td>esrevel</td><td>seecIde</td></tr><tr><td>sgtssmf</td><td>vnteief</td><td>niedrke</td></tr><tr><td>kt,samn</td><td>atrateS</td><td>saodrrn</td></tr><tr><td>emtnaeI</td><td>nvaect</td><td>rrilSa</td></tr><tr><td>Atvaar</td><td>.nscrc</td><td>ieaabs</td></tr><tr><td>ccdrmi</td><td>eevtVl</td><td>frAntv</td></tr><tr><td>dt,iac</td><td>oseibo</td><td>KediiI</td></tr></table>
 
 When this work was ended my uncle tore the paper from me and examined it attentively for a long time.
 
@@ -246,7 +246,7 @@ That is just where I was in my dream, when my uncle with a vehement thump on the
 
 I caught his meaning, and immediately produced the following literary wonder:
 
-<todo>
+<table class='center realtable'><tr><td>I</td><td>y</td><td>l</td><td>o</td><td>a</td><td>u</td></tr><tr><td>l</td><td>o</td><td>l</td><td>w</td><td>r</td><td>b</td></tr><tr><td>o</td><td>u</td><td>,</td><td>n</td><td>G</td><td>e</td></tr><tr><td>v</td><td>w</td><td>m</td><td>d</td><td>r</td><td>n</td></tr><tr><td>e</td><td>e</td><td>y</td><td>e</td><td>a</td><td>!</td></tr></table>
 
 “Good,” said the professor, without reading them, “now set down those words in a horizontal line.”
 
@@ -278,7 +278,7 @@ My uncle, falling back into his absorbing contemplations, had already forgotten 
 
 Just as the moment of the supreme experiment arrived the Professor’s eyes flashed right through his spectacles. There was a quivering in his fingers as he grasped the old parchment. He was deeply moved. At last he gave a preliminary cough, and with profound gravity, naming in succession the first, then the second letter of each word, he dictated me the following:
 
-<todo>
+<table class='center realtable'><tr><td>m̄essvnkaSenrA.icefdoK.segnittamvrtn</td></tr><tr><td>ecertserrette,rotaivsadva,ednecsedsadne</td></tr><tr><td>lacartniiilvIsiratracSarbmvtabiledmek</td></tr><tr><td>meretarcsilvcoIsleffenSnI.</td></tr></table>
 
 I confess I felt considerably excited in coming to the end; these letters named, one at a time, had carried no sense to my mind; I therefore waited for the Professor with great pomp to unfold the magnificent but hidden Latin of this mysterious phrase.
 
