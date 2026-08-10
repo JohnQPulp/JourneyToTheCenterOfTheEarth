@@ -622,7 +622,7 @@ s=prof;e:prof=serious;i=3
 I caught his meaning, and immediately produced the following literary wonder:
 s=none;e:axel=neutral
 
-<table class='center realtable'><tr><td>I</td><td>y</td><td>l</td><td>o</td><td>a</td><td>u</td></tr><tr><td>l</td><td>o</td><td>l</td><td>w</td><td>r</td><td>b</td></tr><tr><td>o</td><td>u</td><td>,</td><td>n</td><td>G</td><td>e</td></tr><tr><td>v</td><td>w</td><td>m</td><td>d</td><td>r</td><td>n</td></tr><tr><td>e</td><td>e</td><td>y</td><td>e</td><td>a</td><td>!</td></tr></table>
+<table class='center realtable'><tr><td>I</td><td>y</td><td>l</td><td>o</td><td>a</td><td>u</td></tr><tr><td>l</td><td>o</td><td>l</td><td>w</td><td>r</td><td>b</td></tr><tr><td>o</td><td>u</td><td>,</td><td>n</td><td>G</td><td>e</td></tr><tr><td>v</td><td>w</td><td>m</td><td>d</td><td>r</td><td>n</td></tr><tr><td>e</td><td>e</td><td>y</td><td>e</td><td>ä</td><td>!</td></tr></table>
 
 
 “Good,” said the professor, without reading them,
@@ -634,7 +634,7 @@ s=prof;e:prof=thinking
 I obeyed, and with this result:
 s=none;e:axel=serious
 
-Iyloau lolwrb ou,nGe vwmdrn eeyea!
+Iyloau lolwrb ou,nGe vwmdrn eeyeä!
 m=margin,1
 
 “Excellent!” said my uncle,
@@ -2285,7 +2285,7 @@ As for the bishop’s suffragan, M. Picturssen, he was at that moment engaged on
 
 
 But M. Fridrikssen, professor of natural sciences at the school of Reykjavík, was a delightful man, and his friendship became very precious to me.
-n:fridrikssen=M. Fridrikssen;e:fridrikssen=happy;f:b:reykjavik-roads=blur(3px)
+n:fridrikssen=Fridrikssen;e:fridrikssen=happy;f:b:reykjavik-roads=blur(3px)
 
 This modest philosopher spoke only Danish and Latin. He came to proffer me his good offices in the language of Horace, and I felt that we were made to understand each other. In fact he was the only person in Iceland with whom I could converse at all.
 
@@ -10463,7 +10463,7 @@ s=
 s=prof;e:prof=angrylookdown
 
 “**Stromboli**,” replied the little herdboy,
-n:boy=Little Herdboy;s=boy;e:boy=fearful;m=break,1
+n:boy=?;s=boy;e:boy=fearful;m=break,1
 
 slipping out of Hans’ hands, and scudding into the plain across the olive trees.
 s=

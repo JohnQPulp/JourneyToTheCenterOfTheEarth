@@ -246,13 +246,13 @@ That is just where I was in my dream, when my uncle with a vehement thump on the
 
 I caught his meaning, and immediately produced the following literary wonder:
 
-<table class='center realtable'><tr><td>I</td><td>y</td><td>l</td><td>o</td><td>a</td><td>u</td></tr><tr><td>l</td><td>o</td><td>l</td><td>w</td><td>r</td><td>b</td></tr><tr><td>o</td><td>u</td><td>,</td><td>n</td><td>G</td><td>e</td></tr><tr><td>v</td><td>w</td><td>m</td><td>d</td><td>r</td><td>n</td></tr><tr><td>e</td><td>e</td><td>y</td><td>e</td><td>a</td><td>!</td></tr></table>
+<table class='center realtable'><tr><td>I</td><td>y</td><td>l</td><td>o</td><td>a</td><td>u</td></tr><tr><td>l</td><td>o</td><td>l</td><td>w</td><td>r</td><td>b</td></tr><tr><td>o</td><td>u</td><td>,</td><td>n</td><td>G</td><td>e</td></tr><tr><td>v</td><td>w</td><td>m</td><td>d</td><td>r</td><td>n</td></tr><tr><td>e</td><td>e</td><td>y</td><td>e</td><td>ä</td><td>!</td></tr></table>
 
 “Good,” said the professor, without reading them, “now set down those words in a horizontal line.”
 
 I obeyed, and with this result:
 
-Iyloau lolwrb ou,nGe vwmdrn eeyea!
+Iyloau lolwrb ou,nGe vwmdrn eeyeä!
 
 “Excellent!” said my uncle, taking the paper hastily out of my hands. “This begins to look just like an ancient document: the vowels and the consonants are grouped together in equal disorder; there are even capitals in the middle of words, and commas too, just as in Saknussemm’s parchment.”
 
