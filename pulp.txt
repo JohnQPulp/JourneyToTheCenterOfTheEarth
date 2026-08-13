@@ -1946,7 +1946,7 @@ The night was dark; there was a sharp breeze and a rough sea, a few lights appea
 e:axel=weary;f:b:kiel-docks-wide-night=blur(3px)
 
 At seven in the morning we landed at Korsor, a small town on the west coast of Zealand. There we were transferred from the boat to another line of railway, which took us by just as flat a country as the plain of Holstein.
-b=danish-rail-wide
+b=danish-rail-wide;f:b:danish-rail-wide=blur(3px)
 
 Three hours’ travelling brought us to the capital of Denmark.
 
@@ -1955,7 +1955,7 @@ My uncle had not shut his eyes all night. In his impatience I believe he was try
 e:prof=annoyed
 
 At last he discerned a stretch of sea.
-
+;f:b:danish-rail-wide=
 
 “The Sound!” he cried.
 s=prof;e:prof=excitedlook;x:prof=
@@ -2027,7 +2027,7 @@ Close by, at No. 5, there was a French “restaurant,” kept by a cook of the n
 
 
 Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum,
-m=break
+m=break;f:b:copenhagen-wide=blur(3px)
 
 nor that immense cenotaph of Thorvaldsen’s, adorned with horrible mural painting, and containing within it a collection of the sculptor’s works, nor in a fine park the toylike château of Rosenberg,
 
