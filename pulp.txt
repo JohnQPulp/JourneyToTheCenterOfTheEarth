@@ -6521,7 +6521,7 @@ f:b:night=blur(8px)
 r=title
 
 When I came to myself, I was stretched in half darkness, covered with thick coats and blankets.
-e:axel=weary;b=tunnel-wake;x:axel=undressed
+e:axel=weary;b=tunnel-wake;x:axel=undressed,beard
 
 My uncle was watching over me, to discover the least sign of life. At my first sigh he took my hand; when I opened my eyes he uttered a cry of joy.
 e:prof=serious
@@ -10226,7 +10226,7 @@ and all the feeling I had left was just what I imagine must be the feeling of an
 r=title
 
 When I opened my eyes again I felt myself grasped by the belt with the strong hand of our guide. With the other arm he supported my uncle.
-e:axel=confused;b=med-mountain;f:b:med-mountain=blur(3px);x:axel=undressed;x:prof=undressed
+e:axel=confused;b=med-mountain;f:b:med-mountain=blur(3px);x:axel=undressed,beard;x:prof=undressed
 
 I was not seriously hurt, but I was shaken and bruised and battered all over.
 e:axel=weary
