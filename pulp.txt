@@ -953,7 +953,7 @@ s=axel;e:axel=unhappy
 e:axel=thinking
 
 “To discover it, would be to kill Professor Liedenbrock! Let him find it out himself if he can. I will never have it laid to my door that I led him to his destruction.”
-e:axel=seroius
+e:axel=serious
 
 Having formed this resolution, I folded my arms and waited.
 s=none;e:axel=neutral
@@ -3428,7 +3428,7 @@ s=axel;e:axel=confused
 s=prof;e:prof=serious
 
 “Now, eruptions are always preceded by certain well-known phenomena. I have therefore examined the natives, I have studied external appearances, and I can assure you, Axel, that there will be no eruption.”
-e:prof=thiking
+e:prof=thinking
 
 At this positive affirmation I stood amazed and speechless.
 s=none;e:axel=surprised
