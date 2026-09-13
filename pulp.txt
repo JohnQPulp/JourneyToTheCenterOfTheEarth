@@ -3029,7 +3029,7 @@ suddenly degraded into a pedestrian, just as ashamed as a cavalry officer degrad
 s=
 
 “*Färja*,” said the guide, touching his shoulder.
-s=hans;e:hans=shouldertouching
+s=hans;e:hans=neutrallook
 
 “What! A boat?”
 s=prof;e:prof=surprised
