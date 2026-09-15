@@ -3839,7 +3839,7 @@ s=none
 s=prof;e:prof=excitedlookdown
 
 And, sharing his astonishment, but I think not his joy, I read on the western face of the block, in Runic characters, half mouldered away with lapse of ages, this thrice-accursed name:
-s=none;e:axel=surprised;o=glyph-2
+s=none;e:axel=surprised;o=glyph-2,20
 
 “Arne Saknussemm!” replied my uncle.
 s=prof;e:prof=excited
@@ -9218,7 +9218,7 @@ Between two boldly projecting rocks appeared the mouth of a dark tunnel.
 
 
 There, upon a granite slab, appeared two mysterious graven letters, half eaten away by time. They were the initials of the bold and daring traveller:
-e:axel=surprised;o=glyph-3
+e:axel=surprised;o=glyph-3,20
 
 “A. S.,” shouted my uncle.
 s=prof;e:prof=excited
@@ -9230,7 +9230,7 @@ s=prof;e:prof=excited
 r=title
 
 Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise.
-e:axel=neutral;b=tunnel-sea-tunnel;o=glyph-3
+e:axel=neutral;b=tunnel-sea-tunnel;o=glyph-3,20
 
 Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement.
 e:axel=surprised
