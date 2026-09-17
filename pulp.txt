@@ -1631,7 +1631,7 @@ After all, I thought, the kalends of July are a long way off, and between this a
 e:axel=thinking
 
 It was night when we arrived at the house in Königstrasse.
-b=prof-entrance-night
+b=prof-entrance
 
 I expected to find all quiet there, my uncle in bed as was his custom, and Martha giving her last touches with the feather brush.
 e:axel=neutral
@@ -1667,7 +1667,7 @@ s=axel;e:axel=unhappy
 s=prof;e:prof=serious
 
 I could hear no more. I fled for refuge into my own little room.
-s=none;e:axel=upset;f:b:prof-entrance-night=blur(3px)
+s=none;e:axel=upset;f:b:prof-entrance=blur(3px)
 
 All hope was now at an end. My uncle had been all the morning making purchases of a part of the tools and apparatus required for this desperate undertaking.
 
@@ -1811,7 +1811,7 @@ s=martha;e:martha=confusedlookdown
 s=axel;e:axel=weary
 
 Night came. But I knew nothing about the lapse of time.
-s=none;e:axel=neutral;b=prof-entrance-night;f=fade;f:b:prof-entrance-night=
+s=none;e:axel=neutral;b=prof-entrance;f=fade;f:b:prof-entrance=
 
 “Tomorrow morning at six precisely,” my uncle decreed,
 s=prof;e:prof=serious
