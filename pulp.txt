@@ -1,5 +1,5 @@
 Journey to the Center of the Earth<br>Jules Verne<e>So this Malleson-translated edition of the novel adds in chapter title subheadings that Verne didn't have in the original. (Hope you like spoilers.)</e>
-r=title;t=author
+r=title;t=author;z:author=85,,11
 
 ## I. The Professor and His Family
 r=prof-wide
@@ -11,13 +11,13 @@ Martha must have concluded that she was very much behindhand, for the dinner had
 n:martha=Martha;e:martha=nervous;b=prof-dining
 
 “Well, now,” said I to myself,
-s=axel;e:axel=wary
+s=axel;e:axel=wary;z:axel=85,51,9
 
 “if that most impatient of men is hungry, what a disturbance he will make!”
 e:axel=unhappy
 
 “M. Liedenbrock so soon!” cried poor Martha in great alarm,
-s=martha;e:martha=fearful;m=break,1
+s=martha;e:martha=fearful;m=break,1;z:martha=86,,10
 
 half opening the dining-room door.
 s=
@@ -47,7 +47,7 @@ But on his rapid way he had found time to fling his hazel stick into a corner, h
 e:prof=seriouslook
 
 “Axel, follow me!”
-s=prof
+s=prof;z:prof=86,53,8
 
 I had scarcely had time to move when the Professor was again shouting after me:
 s=none;e:axel=surprised
@@ -1556,7 +1556,7 @@ s=none;e:grauben=fearful
 s=grauben;e:grauben=surprised;e:axel=neutral
 
 “What! Have you come to meet me? Is this why you are here, sir?”
-e:grauben=confused
+e:grauben=confused;z:grauben=85,53,10
 
 But when she had looked upon me, Gräuben could not fail to see the uneasiness and distress of my mind.
 s=none;e:grauben=wary;e:axel=upset
@@ -1694,7 +1694,7 @@ I thought my pale countenance and my red and sleepless eyes would work upon Grä
 e:axel=weary;e:grauben=neutral;x:axel=;x:grauben=
 
 “Ah! my dear Axel,” she said.
-s=grauben;e:grauben=happy
+s=grauben;e:grauben=happy;m=
 
 “I see you are better. A night’s rest has done you good.”
 
@@ -2183,7 +2183,7 @@ She was taking to Reykjavík coal, household goods, earthenware, woollen clothin
 s=prof;e:prof=thinking;f:b:straits-wide=
 
 “Ten days,” the captain replied,
-s=bjarne;e:bjarne=neutral
+s=bjarne;e:bjarne=neutral;z:bjarne=89,54,10
 
 “if we don’t meet a nor’-wester in passing the Faroes.”
 e:bjarne=contemplativelook
@@ -2408,7 +2408,7 @@ It turned upon scientific questions as befits philosophers; but Professor Lieden
 e:prof=serious
 
 In the first place M. Fridrikssen wanted to know what success my uncle had had at the library.
-e:fridrikssen=curious
+e:fridrikssen=curious;z:fridrikssen=84,,8
 
 “Your library! Why there is nothing but a few tattered books upon almost deserted shelves.”
 s=prof;e:prof=confused
@@ -3044,7 +3044,7 @@ s=axel;e:axel=surprisedlook
 s=prof;e:prof=annoyed
 
 “*Tidvatten*,” said the guide.
-s=hans;e:hans=;i=2
+s=hans;e:hans=;i=2;z:hans=86,54,9
 
 “What is he saying?”
 s=axel;e:axel=confused
@@ -3317,7 +3317,7 @@ On arriving at the door of the rector’s house, which was not different from th
 s=hans
 
 “*God dag*,” said the blacksmith in good Danish.
-n:blacksmith=?;s=blacksmith;e:blacksmith=contemplative
+n:blacksmith=?;s=blacksmith;e:blacksmith=contemplative;z:blacksmith=82,51,9
 
 “*Kyrkoherde*,” said Hans, turning round to my uncle.
 s=hans;e:hans=neutrallook
@@ -3662,7 +3662,7 @@ s=none
 s=hans;e:hans=
 
 “*Ja mistour*,” said one of the Icelanders in a tone of alarm.
-n:icelander1=?;s=icelander1;e:icelander1=fearfullook
+n:icelander1=?;s=icelander1;e:icelander1=fearfullook;z:icelander1=83,52,9
 
 “What does that word mean?” I asked uneasily.
 s=axel;e:axel=nervous;x:axel=hat
@@ -10442,7 +10442,7 @@ Silence still.
 s=none
 
 “Now let us try Italian,” said my uncle; and he said:<e>"said my uncle; and he said"</e>
-e:prof=serious
+e:prof=serious;s=prof
 
 “*Dove noi siamo?*”
 s=prof;i=2
@@ -10463,7 +10463,7 @@ s=
 s=prof;e:prof=angrylookdown
 
 “**Stromboli**,” replied the little herdboy,
-n:boy=?;s=boy;e:boy=fearful;m=break,1
+n:boy=?;s=boy;e:boy=fearful;m=break,1;z:boy=82,,7
 
 slipping out of Hans’ hands, and scudding into the plain across the olive trees.
 s=
