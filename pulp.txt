@@ -1700,7 +1700,7 @@ s=grauben;e:grauben=happy;m=
 
 
 “Done me good!” I exclaimed.
-s=axel;e:axel=confusedunhappy
+s=axel;e:axel=confused
 
 I rushed to the glass.
 s=
@@ -1733,7 +1733,7 @@ e:axel=serious;b=prof-study
 s=axel;e:axel=unhappy
 
 “Why do you doubt?”
-s=prof;e:prof=annoyedlook
+s=prof;e:prof=annoyed
 
 “Well, I don’t doubt,” I said, not to vex him;
 s=axel;e:axel=contemplative
@@ -1760,7 +1760,7 @@ s=axel;e:axel=wary
 s=prof;e:prof=serious
 
 “Go and pack up.”
-e:prof=annoyedlook
+e:prof=annoyed
 
 There was no reply to this.
 s=
@@ -1799,13 +1799,13 @@ I nodded again.
 s=none;e:axel=weary
 
 “Where to?”
-s=martha;e:martha=contemplative
+s=martha;e:martha=wary
 
 I pointed with my finger downward.
 s=none;e:axel=serious
 
 “Down into the cellar?” cried the old servant.
-s=martha;e:martha=confusedlookdown
+s=martha;e:martha=unhappy
 
 “No,” I said. “Lower down than that.”
 s=axel;e:axel=weary
@@ -1844,7 +1844,7 @@ A large carriage was there to take us to the Altona railway station. It was soon
 e:axel=wary
 
 “Where’s your box?” he cried.
-s=prof;e:prof=annoyedlook
+s=prof;e:prof=annoyed
 
 “It is ready,” I replied, with faltering voice.
 s=axel;e:axel=nervous
