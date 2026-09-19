@@ -178,8 +178,11 @@ e:axel=neutral;b=prof-study
 How well I knew all these bits of science! Many a time, instead of enjoying the company of lads of my own age, I had preferred dusting these graphites, anthracites, coals, lignites, and peats!
 e:axel=happy
 
-And there were bitumens, resins, organic salts, to be protected from the least grain of dust; and metals, from iron to gold, metals whose current value altogether disappeared in the presence of the republican equality of scientific specimens; and stones too, enough to rebuild entirely the house in Königstrasse, even with a handsome additional room, which would have suited me admirably.
+And there were bitumens, resins, organic salts, to be protected from the least grain of dust; and metals, from iron to gold, metals whose current value altogether disappeared in the presence of the republican equality of scientific specimens;
 e:axel=smirking
+
+and stones too, enough to rebuild entirely the house in Königstrasse, even with a handsome additional room, which would have suited me admirably.
+
 
 But on entering this study now I thought of none of all these wonders; my uncle alone filled my thoughts.
 e:axel=serious
@@ -188,16 +191,16 @@ He had thrown himself into a velvet easy-chair, and was grasping between his han
 e:prof=contemplative
 
 “Here’s a remarkable book! What a wonderful book!” he was exclaiming.
-s=prof;e:prof=excitedlookdown
+s=prof;e:prof=excitedlookdown;e:prof=sadsmilelookdown;i=
 
 These ejaculations brought to my mind the fact that my uncle was liable to occasional fits of bibliomania; but no old book had any value in his eyes unless it had the virtue of being nowhere else to be found, or, at any rate, of being illegible.
 s=none;e:axel=thinking
 
 “Well, now; don’t you see it yet? Why I have got a priceless treasure, that I found this morning, in rummaging in old Hevelius’s shop, the Jew.”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=happy;i=;e:prof=happy;i=2;e:prof=smirkingthinking;i=
 
 “Magnificent!” I replied, with a good imitation of enthusiasm.
-s=axel;e:axel=confusedhappy
+s=axel;e:axel=confusedhappy;e:axel=happywary;i=;e:axel=sadsmile;i=2
 
 What was the good of all this fuss about an old quarto, bound in rough calf, a yellow, faded volume, with a ragged seal depending from it?
 s=none;e:axel=confused
@@ -206,7 +209,7 @@ But for all that there was no lull yet in the admiring exclamations of the Profe
 e:axel=weary
 
 “See,” he went on,
-s=prof;e:prof=excited;m=break,1
+s=prof;e:prof=excited;m=break,1;e:prof=happylook;i=
 
 both asking the questions and supplying the answers.
 s=
@@ -215,7 +218,7 @@ s=
 s=prof;e:prof=happylookdown
 
 “And look at its back, after seven hundred years. Why, Bozerian, Closs, or Purgold might have been proud of such a binding!”
-
+;e:prof=excitedlookdown;i=
 
 While rapidly making these comments my uncle kept opening and shutting the old tome.
 s=none;e:prof=happy
@@ -224,10 +227,10 @@ I really could do no less than ask a question about its contents, although I did
 e:axel=bored
 
 “And what is the title of this marvellous work?” I asked with an affected eagerness which he must have been very blind not to see through.
-s=axel;e:axel=contemplativehappy
+s=axel;e:axel=contemplativehappy;e:axel=happywary
 
 “This work,” replied my uncle,
-s=prof;e:prof=happylookdown;m=break,1
+s=prof;e:prof=happylookdown;m=break,1;e:prof=contemplativesmirking;i=
 
 firing up with renewed enthusiasm,
 s=
@@ -235,11 +238,14 @@ s=
 “this work is the *Heims Kringla* of Snorre Turlleson, the most famous Icelandic author of the twelfth century! It is the chronicle of the Norwegian princes who ruled in Iceland.”
 s=prof;e:prof=excited
 
-“Indeed;” I cried, keeping up wonderfully,
-s=axel;e:axel=happywary
+“Indeed;” I cried,
+s=axel;e:axel=happywary;m=break,1;e:axel=confused;i=2
+
+keeping up wonderfully,
+s=
 
 “of course it is a German translation?”
-e:axel=contemplative
+e:axel=contemplative;s=axel;e:axel=nervous;e:axel=nervous;i=
 
 “What!” sharply replied the Professor,
 s=prof;e:prof=scowling
@@ -250,35 +256,38 @@ s=prof;e:prof=scowling
 “This is the Icelandic original, in the magnificent idiomatic vernacular, which is both rich and simple, and admits of an infinite variety of grammatical combinations and verbal modifications.”
 e:prof=seriouslookdown
 
-“Like German,” I happily ventured.
-s=axel;e:axel=happy
+“Like German,” I happily ventured.<e>"Die schreckliche deutsche Sprache lmao" —Jules Twain</e>
+s=axel;e:axel=happy;e:axel=confusedhappy;i=
 
-“Yes,” replied my uncle, shrugging his shoulders;
-s=prof;e:prof=serious
+“Yes,” replied my uncle,
+s=prof;e:prof=serious;m=break,1;e:prof=wary;i=2
+
+shrugging his shoulders;
+s=
 
 “but, in addition to all this, the Icelandic has three numbers like the Greek, and irregular declensions of nouns proper like the Latin.”
-
+s=prof;e:prof=serious
 
 “Ah!” said I,
-s=axel;e:axel=curious;m=break,1
+s=axel;e:axel=curious;m=break,1;e:axel=curiouswary;i=
 
 a little moved out of my indifference;
 s=
 
 “and is the type good?”
-s=axel;i=2
+s=axel;i=2;e:axel=nervous;i=;e:axel=contemplativelookdown;i=2
 
 “Type! What do you mean by talking of type, wretched Axel? Type! Do you take it for a printed book, you ignorant fool?”
 s=prof;e:prof=angry
 
 “It is a manuscript, a Runic manuscript.”
-e:prof=annoyed
+e:prof=annoyed;e:prof=seriouslookdown;i=2;e:prof=seriousthinking;i=
 
 “Runic?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=;e:axel=wary;i=2
 
 “Yes. Do you want me to explain what that is?”
-s=prof;e:prof=annoyed;i=2
+s=prof;e:prof=annoyed;i=2;e:prof=scowlinglook;i=;e:prof=serious;i=;e:prof=contemplativesmirking;i=
 
 “Of course not,” I replied in the tone of an injured man.
 s=axel;e:axel=confused
@@ -287,22 +296,19 @@ But my uncle persevered, and told me, against my will, of many things I cared no
 s=none;e:axel=weary
 
 “Runic characters were in use in Iceland in former ages. They were invented, it is said, by Odin himself.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=curious;i=
 
-“Look there, and wonder, impious young man, and admire these letters, the invention of the Scandinavian god!”
-e:prof=excitedlookdown
+“Look there, and wonder, impious young man, and admire these letters, the invention of the Scandinavian god!”<e>"Look west, impious young man" —Jules Greely</e>
+e:prof=excitedlookdown;e:prof=happy;i=2
 
 Well, well! Not knowing what to say, I was going to prostrate myself before this wonderful book, a way of answering equally pleasing to gods and kings, and which has the advantage of never giving them any embarrassment, when a little incident happened to divert conversation into another channel.
-s=none;e:axel=smirking
+s=none;e:axel=smirking;f:b:prof-study=blur(3px)
 
 This was the appearance of a dirty slip of parchment, which slipped out of the volume and fell upon the floor.
 e:axel=surprised
 
-My uncle pounced upon this shred with incredible avidity.
-e:prof=excited
-
-An old document, enclosed an immemorial time within the folds of this old book, had for him an immeasurable value.
-
+My uncle pounced upon this shred with incredible avidity. An old document, enclosed an immemorial time within the folds of this old book, had for him an immeasurable value.
+e:prof=excited;f:b:prof-study=
 
 “What’s this?” he cried.
 s=prof;e:prof=surprisedlookdown
@@ -329,25 +335,22 @@ At least, so it seemed to me, judging from his fingers, which were beginning to 
 e:prof=nervous
 
 “It is certainly old Icelandic,” he muttered between his teeth.
-s=prof;e:prof=thinkinglookdown
+s=prof;e:prof=thinkinglookdown;e:prof=seriouslookdown;i=
 
-And Professor Liedenbrock must have known, for he was acknowledged to be quite a polyglot.
+And Professor Liedenbrock must have known, for he was acknowledged to be quite a polyglot. Not that he could speak fluently in the two thousand languages and twelve thousand dialects which are spoken on the earth, but he knew at least his share of them.
 s=none;e:axel=neutral
 
-Not that he could speak fluently in the two thousand languages and twelve thousand dialects which are spoken on the earth, but he knew at least his share of them.
-
-
 So he was going, in the presence of this difficulty, to give way to all the impetuosity of his character, and I was preparing for a violent outbreak, when two o’clock struck by the little timepiece over the fireplace.
-e:axel=nervous;o=
+e:axel=nervous;o=;b=grauben-pic
 
 At that moment our good housekeeper Martha opened the study door, saying:
 e:martha=neutral
 
 “Dinner is ready!”
-s=martha;e:martha=wary
+s=martha;e:martha=wary;e:martha=surprisedlook;i=
 
 I am afraid he sent that soup to where it would boil away to nothing, and Martha took to her heels for safety.
-s=none;e:martha=fearful;e:prof=angry;f:b:prof-study=blur(3px)
+s=none;e:martha=fearful;e:prof=angry;f:b:grauben-pic=blur(3px)
 
 I followed her, and hardly knowing how I got there I found myself seated in my usual place.
 e:axel=nervous;b=prof-dining
@@ -367,11 +370,8 @@ e:axel=thinking
 As an affectionate and attentive nephew I considered it my duty to eat for him as well as for myself, which I did conscientiously.
 e:axel=smirking
 
-“I have never known such a thing,” said Martha.
-s=martha;e:martha=confused
-
-“M. Liedenbrock is not at table!”
-e:martha=upset
+“I have never known such a thing,” said Martha. “M. Liedenbrock is not at table!”
+s=martha;e:martha=confused;e:martha=nervous;i=;e:martha=upset;i=;e:martha=unhappy;i=
 
 “Who could have believed it?” I said, with my mouth full.
 s=axel;e:axel=boredeating
@@ -383,10 +383,10 @@ My opinion was, that nothing more serious would happen than an awful scene when 
 s=none;e:axel=thinking
 
 I had come to the last of the fruit when a very loud voice tore me away from the pleasures of my dessert.
-e:axel=surprised
+e:axel=surprised;f:b:prof-dining=blur(3px)
 
 With one spring I bounded out of the dining-room into the study.
-e:axel=nervous;f:b:prof-dining=blur(3px)
+e:axel=nervous;f:b:prof-dining=blur(10px)
 
 ## III. The Runic Writing Exercises the Professor
 r=title
