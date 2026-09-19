@@ -1,4 +1,4 @@
-Journey to the Center of the Earth<br>Jules Verne<e>So this Malleson-translated edition of the novel adds in chapter title subheadings that Verne didn't have in the original. (Hope you like spoilers.)</e>
+Journey to the Center of the Earth<br>Jules Verne<e>Get outta here with that "Interior of the Earth" or "Cen<i>tre</i> of the Earth". We're doing the Americanized title (in this otherwise faithful Malleson translation).</e>
 r=title;t=author;z:author=85,,11
 
 ## I. The Professor and His Family
@@ -11,28 +11,28 @@ Martha must have concluded that she was very much behindhand, for the dinner had
 n:martha=Martha;e:martha=nervous;b=prof-dining
 
 “Well, now,” said I to myself,
-s=axel;e:axel=wary;z:axel=85,51,9
+s=axel;e:axel=wary;z:axel=85,51,9;e:axel=confused;i=3
 
 “if that most impatient of men is hungry, what a disturbance he will make!”
 e:axel=unhappy
 
 “M. Liedenbrock so soon!” cried poor Martha in great alarm,
-s=martha;e:martha=fearful;m=break,1;z:martha=86,,10
+s=martha;e:martha=fearful;m=break,1;z:martha=85,,10
 
 half opening the dining-room door.
 s=
 
 “Yes, Martha; but very likely the dinner is not half cooked, for it is not two yet. Saint Michael’s clock has only just struck half-past one.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=unhappy;i=2
 
 “Then why has the master come home so soon?”
-s=martha;e:martha=confused
+s=martha;e:martha=confused;e:martha=unhappy;i=
 
 “Perhaps he will tell us that himself.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=wary;i=2
 
 “Here he is, Monsieur Axel; I will run and hide myself while you argue with him.”
-s=martha;e:martha=nervous
+s=martha;e:martha=nervous;e:martha=wary;i=
 
 And Martha retreated in safety into her own dominions.
 s=none;e:martha=neutral
@@ -41,13 +41,13 @@ I was left alone. But how was it possible for a man of my undecided turn of mind
 e:axel=nervous
 
 With this persuasion I was hurrying away to my own little retreat upstairs, when the street door creaked upon its hinges; heavy feet made the whole flight of stairs to shake; and the master of the house, passing rapidly through the dining-room, threw himself in haste into his own sanctum.
-e:prof=annoyed
+e:prof=annoyed;f:b:prof-dining=blur(3px)
 
 But on his rapid way he had found time to fling his hazel stick into a corner, his rough broadbrim upon the table, and these few emphatic words at his nephew:
-e:prof=seriouslook
+e:prof=seriouslook;f:b:prof-dining=
 
 “Axel, follow me!”
-s=prof;z:prof=86,53,8
+s=prof;z:prof=86,53,8;e:prof=wary;i=2
 
 I had scarcely had time to move when the Professor was again shouting after me:
 s=none;e:axel=surprised
@@ -56,10 +56,10 @@ s=none;e:axel=surprised
 s=prof;e:prof=scowlinglook
 
 And I rushed into my redoubtable master’s study.
-s=none;e:axel=nervous;b=prof-study
+s=none;e:axel=nervous;f:b:prof-dining=blur(3px)
 
 Otto Liedenbrock had no mischief in him, I willingly allow that; but unless he very considerably changes as he grows older, at the end he will be a most original character.
-e:axel=thinking;n:prof=Professor Otto Liedenbrock;f:b:prof-study=blur(3px)
+e:axel=thinking;n:prof=Professor Otto Liedenbrock;f:b:prof-dining=blur(10px)
 
 He was professor at the Johannæum, and was delivering a series of lectures on mineralogy, in the course of every one of which he broke into a passion once or twice at least.
 e:prof=angry;b=univ;f:b:univ=blur(3px)
@@ -83,7 +83,7 @@ The fact is, that during the course of his lectures at the Johannæum, the Profe
 e:prof=annoyed
 
 Now in mineralogy there are many half-Greek and half-Latin terms, very hard to articulate, and which would be most trying to a poet’s measures.
-e:axel=neutral;b=prof-study;f:b:prof-study=blur(3px)
+e:axel=neutral
 
 I don’t wish to say a word against so respectable a science, far be that from me.
 
@@ -101,7 +101,7 @@ Nevertheless my good uncle was a man of deep learning—a fact I am most anxious
 e:axel=serious
 
 Sometimes he might irretrievably injure a specimen by his too great ardour in handling it; but still he united the genius of a true geologist with the keen eye of the mineralogist.
-b=prof-study
+
 
 Armed with his hammer, his steel pointer, his magnetic needles, his blowpipe, and his bottle of nitric acid, he was a powerful man of science.
 e:prof=serious
@@ -115,20 +115,17 @@ b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 Humphry Davy,<f>As Sir Humphry Davy died in 1829, the translator must be pardoned for pointing out here an anachronism, unless we are to assume that the learned Professor’s celebrity dawned in his earliest years. —﻿Tr.</f> Humboldt, Captain Sir John Franklin, General Sabine, never failed to call upon him on their way through Hamburg.
 
 
-Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for considerable discoveries,
+Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for considerable discoveries, for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, *A Treatise Upon Transcendental Chemistry*, with plates;
 m=break,1
 
-for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, *A Treatise Upon Transcendental Chemistry*, with plates; a work, however, which failed to cover its expenses.
+a work, however, which failed to cover its expenses.
 
 
 To all these titles to honour let me add that my uncle was the curator of the museum of mineralogy formed by M. Struve, the Russian ambassador; a most valuable collection, the fame of which is European.
 
 
-Such was the gentleman who addressed me in that impetuous manner.
-b=prof-study;f:b:prof-study=
-
-Fancy a tall, spare man, of an iron constitution, and with a fair complexion which took off a good ten years from the fifty he must own to.
-
+Such was the gentleman who addressed me in that impetuous manner. Fancy a tall, spare man, of an iron constitution, and with a fair complexion which took off a good ten years from the fifty he must own to.
+b=prof-wide;f:b:prof-wide=blur(3px)
 
 His restless eyes were in incessant motion behind his full-sized spectacles. His long, thin nose was like a knife blade.
 
@@ -149,7 +146,7 @@ but after all, it stood firm, thanks to an old elm which buttressed it in front,
 
 
 My uncle was tolerably well off for a German professor. The house was his own, and everything in it.
-
+f:b:prof-wide=blur(3px)
 
 The living contents were his goddaughter Gräuben, a young *Virlandaise* of seventeen, Martha, and myself. As his nephew and an orphan, I became his laboratory assistant.
 n:grauben=Gräuben
@@ -166,8 +163,11 @@ e:axel=thinking
 In April, after he had planted in the terracotta pots outside his window seedling plants of mignonette and convolvulus, he would go and give them a little pull by their leaves to make them grow faster.
 e:prof=annoyed
 
-In dealing with such a strange individual there was nothing for it but prompt obedience. I therefore rushed after him.
+In dealing with such a strange individual there was nothing for it but prompt obedience.
 e:axel=happy;f:b:prof-wide=blur(3px)
+
+I therefore rushed after him.
+b=prof-study;f:b:prof-study=blur(3px)
 
 ## II. A Mystery to Be Solved at Any Price
 r=title
