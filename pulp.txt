@@ -7931,7 +7931,7 @@ Yet, if at our present distance from the animal, a distance of twelve leagues at
 e:axel=thinking
 
 The commonest prudence would counsel immediate flight; but we did not come so far to be prudent.
-e:axel=weary;f:b:tunnel-sea-raft-wide=blur(3px)
+e:axel=weary;f:b:tunnel-sea-raft-wide-2=blur(3px)
 
 Imprudently, therefore, we pursue our way.<e>The imprudently prudent prudence.</e>
 
