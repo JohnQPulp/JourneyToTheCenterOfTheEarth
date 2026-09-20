@@ -1996,7 +1996,7 @@ e:axel=sadsmile
 But, alas! Gräuben was far away; and I never hoped to see her again.
 e:axel=unhappy
 
-But if my uncle felt no attraction towards these romantic scenes he was very much struck with the aspect of a certain church spire situated in the island of Amager, which forms the southwest quarter of Copenhagen.
+But if my uncle felt no attraction towards these romantic scenes, he was very much struck with the aspect of a certain church spire situated in the island of Amager, which forms the southwest quarter of Copenhagen.
 e:prof=curious;b=kirke-wide;f:b:kirke-wide=blur(3px)
 
 I was ordered to direct my feet that way; I embarked on a small steamer which plies on the canals, and in a few minutes she touched the quay of the dockyard.
