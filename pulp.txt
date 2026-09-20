@@ -392,10 +392,10 @@ e:axel=nervous;f:b:prof-dining=blur(10px)
 r=title
 
 “Undoubtedly it is Runic,” said the Professor, bending his brows;
-s=prof;e:prof=serious;b=prof-study
+s=prof;e:prof=serious;b=prof-study;e:prof=seriousthinking;i=
 
 “but there is a secret in it, and I mean to discover the key.”
-e:prof=angry
+e:prof=angry;e:prof=angry;i=2
 
 A violent gesture finished the sentence.
 s=none;e:prof=angry
@@ -407,16 +407,16 @@ holding out his fist towards the table.
 s=
 
 “Sit there, and write.”
-s=prof;e:prof=angry;i=2
+s=prof;e:prof=angry;i=2;e:prof=annoyed;i=
 
 I was seated in a trice.
 s=none;e:axel=nervous
 
 “Now I will dictate to you every letter of our alphabet which corresponds with each of these Icelandic characters. We will see what that will give us.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslookdown;i=2
 
 “But, by St. Michael, if you should dare to deceive me—”
-e:prof=scowling
+e:prof=scowling;e:prof=scowling;i=2
 
 The dictation commenced. I did my best.
 s=none;e:axel=serious
@@ -431,16 +431,16 @@ When this work was ended my uncle tore the paper from me and examined it attenti
 e:prof=thinking
 
 “What does it all mean?” he kept repeating mechanically.
-s=prof;e:prof=confused
+s=prof;e:prof=confused;e:prof=seriousthinking;i=
 
 Upon my honour I could not have enlightened him. Besides he did not ask me, and he went on talking to himself.
 s=none;e:axel=neutral
 
 “This is what is called a cryptogram, or cipher,” he said, “in which letters are purposely thrown in confusion, which if properly arranged would reveal their sense.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=serious;i=3;e:prof=seriouslookdown;i=2
 
 “Only think that under this jargon there may lie concealed the clue to some great discovery!”
-e:prof=excited
+e:prof=excited;e:prof=weary;i=2
 
 As for me, I was of opinion that there was nothing at all, in it; though, of course, I took care not to say so.
 s=none;e:axel=neutral
@@ -449,19 +449,16 @@ Then the Professor took the book and the parchment, and diligently compared them
 e:prof=serious
 
 “These two writings are not by the same hand,” he said; “the cipher is of later date than the book, an undoubted proof of which I see in a moment.”
-s=prof;e:prof=seriouslookdown
+s=prof;e:prof=seriouslookdown;e:prof=seriousthinking;i=;e:prof=;i=2
 
 “The first letter is a double *m*, a letter which is not to be found in Turlleson’s book, and which was only added to the alphabet in the fourteenth century. Therefore there are two hundred years between the manuscript and the document.”
-
+;e:prof=seriouslookdown
 
 I admitted that this was a strictly logical conclusion.
 s=none;e:axel=thinking
 
-“I am therefore led to imagine,” continued my uncle, “that some possessor of this book wrote these mysterious letters.”
-s=prof;e:prof=contemplative
-
-“But who was that possessor? Is his name nowhere to be found in the manuscript?”
-e:prof=serious
+“I am therefore led to imagine,” continued my uncle, “that some possessor of this book wrote these mysterious letters. But who was that possessor? Is his name nowhere to be found in the manuscript?”
+s=prof;e:prof=contemplative;e:prof=suspicious;i=2
 
 My uncle raised his spectacles, took up a strong lens, and carefully examined the blank pages of the book.
 s=none;e:prof=serious
@@ -473,43 +470,43 @@ My uncle at once fastened upon this as the centre of interest, and he laboured a
 e:prof=serious
 
 “Arne Saknussemm!” he cried in triumph.
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=surprisedlookdown;i=;e:prof=excitedlookdown;i=
 
 “Why that is the name of another Icelander, a savant of the sixteenth century, a celebrated alchemist!”
-
+;e:prof=smirking;i=2
 
 I gazed at my uncle with satisfactory admiration.
 s=none;e:axel=surprised
 
 “Those alchemists,” he resumed, “Avicenna, Bacon, Lully, Paracelsus, were the real and only savants of their time. They made discoveries at which we are astonished.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=;i=2;e:prof=contemplativesmirking;i=
 
 “Has not this Saknussemm concealed under his cryptogram some surprising invention? It is so; it must be so!”
-e:prof=excited
+e:prof=excited;e:prof=sadsmilelookdown;i=
 
 The Professor’s imagination took fire at this hypothesis.
 s=none
 
 “No doubt,” I ventured to reply, “but what interest would he have in thus hiding so marvellous a discovery?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confused;i=2
 
 “Why? Why? How can I tell? Did not Galileo do the same by Saturn?”
 s=prof;e:prof=excitedthinking
 
 “We shall see. I will get at the secret of this document, and I will neither sleep nor eat until I have found it out.”
-e:prof=serious
+e:prof=serious;e:prof=seriouslookdown;i=2
 
 My comment on this was a half-suppressed “Oh!”
 s=
 
 “Nor you either, Axel,” he added.
-s=prof;e:prof=scowling
+s=prof;e:prof=scowling;e:prof=scowlinglook;i=
 
 “The deuce!” said I to myself;
-s=axel;e:axel=annoyed
+s=axel;e:axel=annoyed;e:axel=unhappy;i=
 
 “then it is lucky I have eaten two dinners today!”
-
+;e:axel=angry;i=2
 
 “First of all we must find out the key to this cipher; that cannot be difficult.”
 s=prof;e:prof=smirking
@@ -518,22 +515,22 @@ At these words I quickly raised my head; but my uncle went on soliloquising.
 s=none;e:axel=surprised
 
 “There’s nothing easier. In this document there are a hundred and thirty-two letters, viz., seventy-seven consonants and fifty-five vowels.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=2
 
 “This is the proportion found in southern languages, whilst northern tongues are much richer in consonants; therefore this is in a southern language.”
-
+e:prof=thinking;i=2;e:prof=suspicious;i=2
 
 These were very fair conclusions, I thought.
 s=none;e:axel=thinking
 
 “But what language is it?”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=serious;i=3
 
 Here I looked for a display of learning, but I met instead with profound analysis.
 s=none;e:axel=neutral
 
 “This Saknussemm,” he went on, “was a very well-informed man; now since he was not writing in his own mother tongue, he would naturally select that which was currently adopted by the choice spirits of the sixteenth century; I mean Latin.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriousthinking;i=
 
 “If I am mistaken, I can but try Spanish, French, Italian, Greek, or Hebrew. But the savants of the sixteenth century generally wrote in Latin. I am therefore entitled to pronounce this, *a priori*, to be Latin. It is Latin.”
 e:prof=smirking
@@ -545,28 +542,28 @@ s=none;e:axel=upset
 s=prof;e:prof=serious
 
 “but it is Latin confused and in disorder.”
-
+;e:prof=suspicious;i=2
 
 “Very well,” thought I, “if you can bring order out of that confusion, my dear uncle, you are a clever man.”
-t=axel;e:axel=happywary;s=
+t=axel;e:axel=happywary;s=;e:axel=contemplative;i=
 
 “Let us examine carefully,” said he again,
-s=prof;e:prof=thinking;m=break,1;t=
+s=prof;e:prof=thinking;m=break,1;t=;e:prof=seriouslook;i=
 
 taking up the leaf upon which I had written.
 s=
 
-“Here is a series of one hundred and thirty-two letters in apparent disorder. There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”<e>Look, don't go down the rabbit hole of checking whether these words were all in the scrambled word set. This puzzle isn't worth it.</e>
+“Here is a series of one hundred and thirty-two letters in apparent disorder. There are words consisting of consonants only, as *nrrlls*; others, on the other hand, in which vowels predominate, as for instance the fifth, *unteief*, or the last but one, *oseibo*.”<e>"m̄.rnlls" became "nrrlls" and "vnteief" became "unteief". Verne's mistake? Malleson's mistake? Norman M. Wolcott's mistake? It's impossible to tell, and it's also impossible to fix: you either break the puzzle or break this dialogue's vowel/consonant–counting.</e>
 s=prof;e:prof=seriouslookdown
 
 “Now this arrangement has evidently not been premeditated; it has arisen mathematically in obedience to the unknown law which has ruled in the succession of these letters.”
-
+;e:prof=suspicious;i=
 
 “It appears to me a certainty that the original sentence was written in a proper manner, and afterwards distorted by a law which we have yet to discover. Whoever possesses the key of this cipher will read it with fluency.”
-e:prof=thinking
+e:prof=thinking;e:prof=serious;i=3
 
 “What is that key? Axel, have you got it?”
-e:prof=seriouslook
+e:prof=seriouslook;e:prof=annoyed;i=2
 
 I answered not a word, and for a very good reason.
 s=none;e:axel=nervous
@@ -580,7 +577,7 @@ My uncle’s ward was at that time at Altona, staying with a relation, and in he
 We had become engaged unknown to my uncle, who was too much taken up with geology to be able to enter into such feelings as ours.
 
 
-Gräuben was a lovely blue-eyed blonde, rather given to gravity and seriousness; but that did not prevent her from loving me very sincerely.<e>Classic German hair-and-eye colors.</e>
+Gräuben was a lovely blue-eyed blonde, rather given to gravity and seriousness; but that did not prevent her from loving me very sincerely.<e><i>Jawohl, blau Gräu Frau</i></e>
 
 
 As for me, I *adored* her, if there is such a word in the German language.
@@ -599,22 +596,19 @@ What pleasant hours we have spent in study; and how often I envied the very ston
 
 
 Then, when our leisure hours came, we used to go out together and turn into the shady avenues by the Alster, and went happily side by side up to the old windmill, which forms such an improvement to the landscape at the head of the lake.
-b=hamburg-wide;f:b:hamburg-wide=blur(3px)
+f:b:grauben-pic=blur(6px)
 
-On the road we chatted hand in hand; I told her amusing tales at which she laughed heartily.
-
-
-Then we reached the banks of the Elbe, and after having bid goodbye to the swan, sailing gracefully amidst the white water lilies, we returned to the quay by the steamer.
+On the road we chatted hand in hand; I told her amusing tales at which she laughed heartily. Then we reached the banks of the Elbe, and after having bid goodbye to the swan, sailing gracefully amidst the white water lilies, we returned to the quay by the steamer.
 
 
 That is just where I was in my dream, when my uncle with a vehement thump on the table dragged me back to the realities of life.
-e:axel=surprised;e:prof=angry;b=prof-study
+e:axel=surprised;e:prof=angry;b=prof-study;
 
 “Come,” said he, “the very first idea which would come into anyone’s head to confuse the letters of a sentence would be to write the words vertically instead of horizontally.”
 s=prof;e:prof=serious
 
 “Indeed!” said I.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=
 
 “Now we must see what would be the effect of that, Axel; put down upon this paper any sentence you like, only instead of arranging the letters in the usual way, one after the other, place them in succession in vertical columns, so as to group them together in five or six vertical lines.”
 s=prof;e:prof=serious;i=3
@@ -626,10 +620,10 @@ s=none;e:axel=neutral
 
 
 “Good,” said the professor, without reading them,
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=serious;i=3;e:prof=;i=2
 
 “now set down those words in a horizontal line.”
-
+;e:prof=seriouslook;i=;e:prof=suspicious;i=2
 
 I obeyed, and with this result:
 s=none;e:axel=serious
@@ -638,46 +632,46 @@ Iyloau lolwrb ou,nGe vwmdrn eeyeä!
 m=margin,1
 
 “Excellent!” said my uncle,
-s=prof;e:prof=excitedlookdown;m=break,1
+s=prof;e:prof=excitedlookdown;m=break,1;e:prof=happylookdown;i=2
 
 taking the paper hastily out of my hands.
 s=
 
 “This begins to look just like an ancient document: the vowels and the consonants are grouped together in equal disorder; there are even capitals in the middle of words, and commas too, just as in Saknussemm’s parchment.”
-s=prof;e:prof=happylookdown
+s=prof;e:prof=happylookdown;e:prof=smirking;i=2;e:prof=smirkingthinking;i=
 
 I considered these remarks very clever.
 s=none;e:axel=neutral
 
 “Now,” said my uncle, looking straight at me,
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=contemplativesmirking;i=
 
 “to read the sentence which you have just written, and with which I am wholly unacquainted, I shall only have to take the first letter of each word, then the second, the third, and so forth.”
-e:prof=smirking
+e:prof=smirking;i=2
 
 And my uncle, to his great astonishment, and my much greater, read:
 s=none;e:axel=surprised;e:prof=surprised
 
 “I love you well, my own dear Gräuben!”
-s=prof
+s=prof;e:prof=surprisedlookdown;i=
 
 “Hallo!” cried the Professor.
-e:prof=confusedlook
+e:prof=confusedlook;e:prof=upset;i=;e:prof=weary;i=2
 
 Yes, indeed, without knowing what I was about, like an awkward and unlucky lover, I had compromised myself by writing this unfortunate sentence.
 s=none;e:axel=nervous
 
 “Aha! you are in love with Gräuben?” he said, with the right look for a guardian.
-s=prof;e:prof=suspicious
+s=prof;e:prof=suspicious;e:prof=;i=2;e:prof=seriouslookdown;i=2;e:prof=seriouslook;i=;e:prof=seriousthinking;i=
 
 “Yes; no!” I stammered.
 s=axel;e:axel=fearful
 
-“You love Gräuben,” he went on once or twice dreamily.<e>"once or twice"?</e>
+“You love Gräuben,” he went on once or twice dreamily.
 s=prof;e:prof=contemplative
 
 “Well, let us apply the process I have suggested to the document in question.”
-e:prof=seriouslookdown
+e:prof=seriouslookdown;e:prof=suspicious;i=2
 
 My uncle, falling back into his absorbing contemplations, had already forgotten my imprudent words.
 s=none;e:axel=surprised
@@ -685,11 +679,8 @@ s=none;e:axel=surprised
 I merely say imprudent, for the great mind of so learned a man of course had no place for love affairs, and happily the grand business of the document gained me the victory.
 e:axel=happy
 
-Just as the moment of the supreme experiment arrived the Professor’s eyes flashed right through his spectacles.
+Just as the moment of the supreme experiment arrived the Professor’s eyes flashed right through his spectacles. There was a quivering in his fingers as he grasped the old parchment. He was deeply moved.
 e:prof=excited
-
-There was a quivering in his fingers as he grasped the old parchment. He was deeply moved.
-
 
 At last he gave a preliminary cough, and with profound gravity, naming in succession the first, then the second letter of each word, he dictated me the following:
 e:prof=serious
@@ -704,10 +695,10 @@ But who could have foretold the result? A violent thump made the furniture rattl
 e:axel=surprised;e:prof=angry
 
 “That’s not it,” cried my uncle,
-s=prof;e:prof=scowling
+s=prof;e:prof=scowling;e:prof=angry
 
 “there’s no sense in it.”
-e:prof=unhappy
+
 
 Then darting out like a shot, bowling downstairs like an avalanche, he rushed into the Königstrasse and fled.
 s=none;f:b:prof-study=blur(3px)
