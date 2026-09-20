@@ -1118,7 +1118,7 @@ s=;f:b:prof-study=blur(3px)
 r=title
 
 At these words a cold shiver ran through me. Yet I controlled myself; I even resolved to put a good face upon it.
-e:axel=fearful;b=prof-study
+e:axel=fearful;b=prof-study;f:b:prof-study=blur(3px)
 
 Scientific arguments alone could have any weight with Professor Liedenbrock. Now there were good ones against the practicability of such a journey.
 e:axel=thinking
@@ -1130,7 +1130,7 @@ But I kept my dialectic battery in reserve for a suitable opportunity, and I int
 e:axel=neutral
 
 It is no use to tell of the rage and imprecations of my uncle before the empty table.
-e:prof=angry;b=prof-dining
+e:prof=angry;b=prof-dining;f:b:prof-dining=blur(3px)
 
 Explanations were given, Martha was set at liberty, ran off to the market, and did her part so well that in an hour afterwards my hunger was appeased, and I was able to return to the contemplation of the gravity of the situation.
 e:axel=neutral;e:martha=neutral
@@ -1139,43 +1139,43 @@ During all dinner time my uncle was almost merry; he indulged in some of those l
 e:prof=happy;f:b:prof-dining=blur(3px)
 
 Dessert over, he beckoned me into his study.
-b=prof-study
+b=prof-study;f:b:prof-study=
 
 I obeyed; he sat at one end of his table, I at the other.
 
 
 “Axel,” said he very mildly;
-s=prof;e:prof=
+s=prof;e:prof=;e:prof=;i=2
 
 “you are a very ingenious young man, you have done me a splendid service, at a moment when, wearied out with the struggle, I was going to abandon the contest. Where should I have lost myself? None can tell.”
-
+;e:prof=contemplativelookdown;i=2
 
 “Never, my lad, shall I forget it; and you shall have your share in the glory to which your discovery will lead.”
-e:prof=happy
+e:prof=happy;e:prof=happylook;i=
 
 “Oh, come!” thought I, “he is in a good way. Now is the time for discussing that same glory.”
-s=;t=axel;e:axel=curioussmirking
+s=;t=axel;e:axel=curioussmirking;e:axel=happywary;i=
 
 “Before all things,” my uncle resumed, “I enjoin you to preserve the most inviolable secrecy: you understand?”
-s=prof;e:prof=serious;t=
+s=prof;e:prof=serious;t=;e:prof=serious;i=3
 
 “There are not a few in the scientific world who envy my success, and many would be ready to undertake this enterprise, to whom our return should be the first news of it.”
-
+;e:prof=suspicious;i=2
 
 “Do you really think there are many people bold enough?” said I.
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=seriouslook;i=
 
 “Certainly; who would hesitate to acquire such renown? If that document were divulged, a whole army of geologists would be ready to rush into the footsteps of Arne Saknussemm.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=smirkingthinking;i=
 
 “I don’t feel so very sure of that, uncle,” I replied; “for we have no proof of the authenticity of this document.”
-s=axel;e:axel=suspicious
+s=axel;e:axel=suspicious;e:axel=unhappylookdown;i=
 
 “What! Not of the book, inside which we have discovered it?”
-s=prof;e:prof=suspicious
+s=prof;e:prof=suspicious;e:prof=serious;i=
 
 “Granted. I admit that Saknussemm may have written these lines. But does it follow that he has really accomplished such a journey? And may it not be that this old parchment is intended to mislead?”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=wary;i=2
 
 I almost regretted having uttered this last word, which dropped from me in an unguarded moment.
 s=none;e:axel=wary
@@ -1190,19 +1190,19 @@ e:prof=smirking
 s=prof;e:prof=smirking
 
 “Ah!” said I, rather put out.
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confusedlook;i=
 
 “But do let me exhaust all the possible objections against this document.”
-
+;e:axel=confused;i=
 
 “Speak, my boy, don’t be afraid. You are quite at liberty to express your opinions. You are no longer my nephew only, but my colleague. Pray go on.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=serious;i=3
 
 “Well, in the first place, I wish to ask what are this Jökull, this Snæfells, and this Scartaris, names which I have never heard before?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=curiouswary;i=
 
 “Nothing easier. I received not long ago a map from my friend, Augustus Petermann, at Leipzig. Nothing could be more apropos.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=smirkingthinking;i=
 
 “Take down the third atlas in the second shelf in the large bookcase, series *Z*, plate 4.”
 e:prof=happylook
@@ -1214,7 +1214,7 @@ My uncle opened it and said:
 
 
 “Here is one of the best maps of Iceland, that of Handersen, and I believe this will solve the worst of our difficulties.”
-s=prof;e:prof=happylookdown
+s=prof;e:prof=happylookdown;e:prof=happylookdown;i=2
 
 I bent over the map.
 s=none
@@ -1223,70 +1223,70 @@ s=none
 s=prof;e:prof=contemplativelookdown
 
 “observe that all the volcanoes are called Jökulls, a word which means glacier in Icelandic, and under the high latitude of Iceland nearly all the active volcanoes discharge through beds of ice.”
-
+;e:prof=smirking;i=2
 
 “Hence this term of Jökull is applied to all the eruptive mountains in Iceland.”
-e:prof=thinking
+e:prof=thinking;e:prof=smirkinglookdown;i=
 
 “Very good,” said I; “but what of Snæfells?”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=contemplativelookdown;i=2;e:axel=confusedlook;i=
 
 I was hoping that this question would be unanswerable; but I was mistaken. My uncle replied:
 s=none;e:axel=thinking
 
 “Follow my finger along the west coast of Iceland.”
-s=prof;e:prof=lookdown
+s=prof;e:prof=lookdown;e:prof=happylookdown;i=
 
-“Do you see Reykjavík, the capital? You do. Well; ascend the innumerable fjords that indent those sea-beaten shores, and stop at the sixty-fifth degree of latitude. What do you see there?”<e>TODO: map</e>
+“Do you see Reykjavík, the capital? You do. Well; ascend the innumerable fjords that indent those sea-beaten shores, and stop at the sixty-fifth degree of latitude. What do you see there?”<e>For help following along: <a href="https://osm.org/go/efoGbo-?layers=P&m=">https://osm.org/go/efoGbo-?layers=P&m=</a>.</e>
 e:prof=happylook
 
 “I see a peninsula looking like a thigh bone with the knee bone at the end of it.”
 s=axel;e:axel=contemplativelookdown;i=2
 
 “A very fair comparison, my lad. Now do you see anything upon that knee bone?”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happy;i=2
 
 “Yes; a mountain rising out of the sea.”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=unhappylookdown;i=
 
 “Right. That is Snæfells.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=curious;i=
 
 “That Snæfells?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confused;i=2
 
 “It is. It is a mountain five thousand feet high, one of the most remarkable in the world, if its crater leads down to the centre of the earth.”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=happylookdown;i=2
 
 “But that is impossible,” I said shrugging my shoulders, and disgusted at such a ridiculous supposition.
-s=axel;e:axel=annoyed
+s=axel;e:axel=annoyed;e:axel=serious;i=2;e:axel=angry;i=2
 
 “Impossible?” said the Professor severely;
 s=prof;e:prof=serious
 
 “and why, pray?”
-
+;e:prof=annoyed;i=2
 
 “Because this crater is evidently filled with lava and burning rocks, and therefore﻿—”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=upset;i=2
 
 “But suppose it is an extinct volcano?”
 s=prof;e:prof=smirking
 
 “Extinct?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “Yes; the number of active volcanoes on the surface of the globe is at the present time only about three hundred. But there is a very much larger number of extinct ones.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=wary;i=2
 
 “Now, Snæfells is one of these. Since historic times there has been but one eruption of this mountain, that of 1219; from that time it has quieted down more and more, and now it is no longer reckoned among active volcanoes.”
-e:prof=happy;i=2
+e:prof=happy;i=2;e:prof=thinking;e:prof=curious;i=
 
 To such positive statements I could make no reply. I therefore took refuge in other dark passages of the document.
 s=none;e:axel=thinking
 
 “What is the meaning of this word Scartaris, and what have the kalends of July to do with it?”
-s=axel;e:axel=contemplative;i=2
+s=axel;e:axel=contemplative;i=2;e:axel=wary;i=2
 
 My uncle took a few minutes to consider.
 s=none;e:prof=thinking;e:axel=nervous
@@ -1295,16 +1295,16 @@ For one short moment I felt a ray of hope, speedily to be extinguished. For he s
 
 
 “What is darkness to you is light to me. This proves the ingenious care with which Saknussemm guarded and defined his discovery.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=contemplativesmirking;i=
 
 “Snæfells has several craters. It was therefore necessary to point out which of these leads to the centre of the globe.”
-e:prof=thinking
+e:prof=thinking;e:prof=curious;i=2
 
 “What did the Icelandic sage do? He observed that at the approach of the kalends of July, that is to say in the last days of June, one of the peaks, called Scartaris, flung its shadow down the mouth of that particular crater, and he committed that fact to his document.”
-
+;e:prof=smirkinglookdown;i=
 
 “Could there possibly have been a more exact guide? As soon as we have arrived at the summit of Snæfells we shall have no hesitation as to the proper road to take.”
-e:prof=excited
+e:prof=excited;e:prof=excitedlookdown;i=;e:prof=happylook;i=
 
 Decidedly, my uncle had answered every one of my objections. I saw that his position on the old parchment was impregnable.
 s=none;e:axel=weary
@@ -1316,67 +1316,67 @@ e:axel=serious
 s=axel;e:axel=unhappy
 
 “That learned philosopher did get to the bottom of Snæfells, he has seen the shadow of Scartaris touch the edge of the crater before the kalends of July; he may even have heard the legendary stories told in his day about that crater reaching to the centre of the world;”
-e:axel=thinking
+e:axel=thinking;e:axel=confused;i=
 
 “but as for reaching it himself, as for performing the journey, and returning, if he ever went, I say no﻿—he never, never did that.”
-e:axel=serious
+e:axel=serious;e:axel=angry;i=2
 
 “Now for your reason?” said my uncle ironically.
-s=prof;e:prof=smirking;i=2
+s=prof;e:prof=smirking;i=2;e:prof=smirking;i=
 
 “All the theories of science demonstrate such a feat to be impracticable.”
-s=axel;e:axel=serious;i=2
+s=axel;e:axel=serious;i=2;e:axel=seriouslook;i=
 
 “The theories say that, do they?” replied the Professor in the tone of a meek disciple.
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=smirkingthinking;i=
 
 “Oh! Unpleasant theories! How the theories will hinder us, won’t they?”
-
+;e:prof=happy;i=2
 
 I saw that he was only laughing at me; but I went on all the same.
 s=none;e:axel=annoyed
 
 “Yes; it is perfectly well known that the internal temperature rises one degree for every 70 feet in depth; now, admitting this proportion to be constant, and the radius of the earth being fifteen hundred leagues, there must be a temperature of 360,032 degrees at the centre of the earth.”
-s=axel;e:axel=annoyed
+s=axel;e:axel=annoyed;e:axel=annoyedunhappy;i=
 
 “Therefore, all the substances that compose the body of this earth must exist there in a state of incandescent gas; for the metals that most resist the action of heat, gold, and platinum, and the hardest rocks, can never be either solid or liquid under such a temperature.”
-
+;e:axel=angry;i=2
 
 “I have therefore good reason for asking if it is possible to penetrate through such a medium.”
-e:axel=thinking
+e:axel=thinking;e:axel=weary;i=2
 
 “So, Axel, it is the heat that troubles you?”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;e:prof=curious;i=2
 
 “Of course it is. Were we to reach a depth of thirty miles we should have arrived at the limit of the terrestrial crust, for there the temperature will be more than 2,372 degrees.”
 s=axel;e:axel=serious
 
 “Are you afraid of being put into a state of fusion?”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=smirkingthinking;i=
 
 “I will leave you to decide that question,” I answered rather sullenly.
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=upset;i=2
 
 “This is my decision,” replied Professor Liedenbrock,
-s=prof;e:prof=serious;m=break,1
+s=prof;e:prof=serious;m=break,1;e:prof=suspicious;i=2
 
 putting on one of his grandest airs.
 s=
 
 “Neither you nor anybody else knows with any certainty what is going on in the interior of this globe, since not the twelve thousandth part of its radius is known; science is eminently perfectible; and every new theory is soon routed by a newer.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=serious;i=
 
 “Was it not always believed until Fourier that the temperature of the interplanetary spaces decreased perpetually? and is it not known at the present time that the greatest cold of the ethereal regions is never lower than 40 degrees below zero Fahr.?”
-
+;e:prof=seriouslookup;i=
 
 “Why should it not be the same with the internal heat? Why should it not, at a certain depth, attain an impassable limit, instead of rising to such a point as to fuse the most infusible metals?”
-e:prof=excited
+e:prof=excited;e:prof=suspicious;i=2
 
 As my uncle was now taking his stand upon hypotheses, of course, there was nothing to be said.
 s=none;e:axel=weary
 
 “Well, I will tell you that true savants, amongst them Poisson, have demonstrated that if a heat of 360,000 degrees<f>The degrees of temperature are given by Jules Verne according to the centigrade system, for which we will in each case substitute the Fahrenheit measurement. —﻿Tr.</f> existed in the interior of the globe, the fiery gases arising from the fused matter would acquire an elastic force which the crust of the earth would be unable to resist, and that it would explode like the plates of a bursting boiler.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=;i=2
 
 “That is Poisson’s opinion, my uncle, nothing more.”
 s=axel;e:axel=weary
@@ -1388,58 +1388,58 @@ s=prof;e:prof=serious
 s=axel;e:axel=upset
 
 “But is it the same with facts! Is it not known that the number of volcanoes has diminished since the first days of creation? And if there is central heat may we not thence conclude that it is in process of diminution?”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=smirking;i=2
 
 “My good uncle, if you will enter into the legion of speculation, I can discuss the matter no longer.”
 s=axel;e:axel=unhappy
 
 “But I have to tell you that the highest names have come to the support of my views.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriousthinking;i=
 
 “Do you remember a visit paid to me by the celebrated chemist, Humphry Davy, in 1825?”
-e:prof=smirking
+e:prof=smirking;e:prof=smirkingthinking;i=
 
 “Not at all, for I was not born until nineteen years afterwards.”
-s=axel;e:axel=neutral
+s=axel;e:axel=neutral;e:axel=seriouslook;i=
 
 “Well, Humphry Davy did call upon me on his way through Hamburg.”
 s=prof;e:prof=happy
 
 “We were long engaged in discussing, amongst other problems, the hypothesis of the liquid structure of the terrestrial nucleus. We were agreed that it could not be in a liquid state, for a reason which science has never been able to confute.”
-e:prof=thinking
+e:prof=thinking;e:prof=wary;i=2
 
 “What is that reason?” I said, rather astonished.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confused;i=2
 
-“Because this liquid mass would be subject, like the ocean, to the lunar attraction, and therefore twice every day there would be internal tides, which, upheaving the terrestrial crust, would cause periodical earthquakes!”
-s=prof;e:prof=excited
+“Because this liquid mass would be subject, like the ocean, to the lunar attraction, and therefore twice every day there would be internal tides, which, upheaving the terrestrial crust, would cause periodical earthquakes!”<e>Look how much more fun science used to be.</e>
+s=prof;e:prof=excited;e:prof=happy;i=2
 
 “Yet it is evident that the surface of the globe has been subject to the action of fire,” I replied, “and it is quite reasonable to suppose that the external crust cooled down first, whilst the heat took refuge down to the centre.”
 s=axel;e:axel=serious
 
 “Quite a mistake,” my uncle answered.
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=curious;i=
 
 “The earth has been heated by combustion on its surface, that is all. Its surface was composed of a great number of metals, such as potassium and sodium, which have the peculiar property of igniting at the mere contact with air and water;”
-
+;e:prof=thinking;i=2
 
 “these metals kindled when the atmospheric vapours fell in rain upon the soil; and by and by, when the waters penetrated into the fissures of the crust of the earth, they broke out into fresh combustion with explosions and eruptions.”
-e:prof=contemplative
+e:prof=contemplative;e:prof=suspicious;i=
 
 “Such was the cause of the numerous volcanoes at the origin of the earth.”
-e:prof=happy
+e:prof=happy;e:prof=smirkinglookdown;i=
 
 “Upon my word, this is a very clever hypothesis,” I exclaimed, in spite rather of myself.
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=confusedlook;i=
 
 “And which Humphry Davy demonstrated to me by a simple experiment.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=smirkingthinking;i=
 
 “He formed a small ball of the metals which I have named, and which was a very fair representation of our globe; whenever he caused a fine dew of rain to fall upon its surface, it heaved up into little monticules, it became oxidized and formed miniature mountains;”
-e:prof=happy
+e:prof=happy;e:prof=;i=2;e:prof=thinking;i=
 
 “a crater broke open at one of its summits; the eruption took place, and communicated to the whole of the ball such a heat that it could not be held in the hand.”
-
+;e:prof=curious;i=2
 
 In truth, I was beginning to be shaken by the Professor’s arguments, besides which he gave additional weight to them by his usual ardour and fervent enthusiasm.
 s=none;e:axel=thinking
@@ -1448,25 +1448,25 @@ s=none;e:axel=thinking
 s=prof;e:prof=happy
 
 “my opinion is that there is no such thing, it cannot be; besides we shall see for ourselves, and, like Arne Saknussemm, we shall know exactly what to hold as truth concerning this grand question.”
-e:prof=smirking
+e:prof=smirking;e:prof=serious;i=;e:prof=excitedlookdown;i=
 
 “Very well, we *shall* see,” I replied, feeling myself carried off by his contagious enthusiasm.
-s=axel;e:axel=curiouswary
+s=axel;e:axel=curiouswary;e:axel=happywary;i=
 
 “Yes, we shall see; that is, if it is possible to see anything there.”
-
+;e:axel=upset;i=2;e:axel=confusedlook;i=
 
 “And why not? May we not depend upon electric phenomena to give us light? May we not even expect light from the atmosphere, the pressure of which may render it luminous as we approach the centre?”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;e:prof=serious;i=3;e:prof=smirkingthinking;i=
 
 “Yes, yes,” said I; “that is possible, too.”
-s=axel;e:axel=curiouswary
+s=axel;e:axel=curiouswary;e:axel=sadsmile;i=2
 
 “It is certain,” exclaimed my uncle in a tone of triumph.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=excited;i=2
 
 “But silence, do you hear me? Silence upon the whole subject; and let no one get before us in this design of discovering the centre of the earth.”
-e:prof=serious
+e:prof=serious;e:prof=wary;i=2
 
 ## VII. A Woman’s Courage
 r=title
