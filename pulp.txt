@@ -1478,7 +1478,7 @@ I came out of my uncle’s study as if I had been stunned, and as if there was n
 e:axel=weary;f:b:prof-study=blur(3px)
 
 I therefore made for the banks of the Elbe, where the steamer lands her passengers, which forms the communication between the city and the Hamburg railway.
-b=hamburg-wide
+b=hamburg-wide;f:b:hamburg-wide=
 
 Was I convinced of the truth of what I had heard? Had I not bent under the iron rule of the Professor Liedenbrock?
 e:axel=thinking
@@ -1499,90 +1499,78 @@ I had at that moment quite courage enough to strap my knapsack to my shoulders a
 e:axel=excited
 
 But I must confess that in another hour this unnatural excitement abated, my nerves became unstrung, and from the depths of the abysses of this earth I ascended to its surface again.
-e:axel=weary;x:axel=hat
+e:axel=weary;x:axel=hat;b=light
 
-“It is quite absurd!” I cried, “there is no sense about it.”
-s=axel;e:axel=upset
+“It is quite absurd!” I cried, “there is no sense about it. No sensible young man should for a moment entertain such a proposal.”
+s=axel;e:axel=upset;e:axel=confused;i=;b=light;f:b:light=;e:axel=nervouslookup;i=
 
-“No sensible young man should for a moment entertain such a proposal. The whole thing is nonexistent.”
-e:axel=annoyed
+“The whole thing is nonexistent. I have had a bad night, I have been dreaming of horrors.”
+e:axel=annoyed;e:axel=wary;i=
 
-“I have had a bad night, I have been dreaming of horrors.”
-e:axel=thinking
-
-But I had followed the banks of the Elbe and passed the town.
-s=none;e:axel=neutral;f:b:hamburg-wide=blur(3px)
-
-After passing the port too, I had reached the Altona road.
-b=altona-road
+But I had followed the banks of the Elbe and passed the town. After passing the port too, I had reached the Altona road.
+s=none;e:axel=neutral;b=altona-road
 
 I was led by a presentiment, soon to be realised; for shortly I espied my little Gräuben bravely returning with her light step to Hamburg.
 e:axel=surprised;x:grauben=hat
 
 “Gräuben!” I cried from afar off.
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=excited;i=2;e:axel=confusedlook;i=
 
 The young girl stopped, rather frightened perhaps to hear her name called after her on the high road. Ten yards more, and I had joined her.
 s=none;e:grauben=fearful
 
 “Axel!” she cried surprised.
-s=grauben;e:grauben=surprised;e:axel=neutral
+s=grauben;e:grauben=surprised;i=2
 
 “What! Have you come to meet me? Is this why you are here, sir?”
-e:grauben=confused;z:grauben=85,53,10
+e:grauben=confused;z:grauben=85,53,10;e:grauben=excited;i=
 
 But when she had looked upon me, Gräuben could not fail to see the uneasiness and distress of my mind.
 s=none;e:grauben=wary;e:axel=upset
 
 “What is the matter?” she said, holding out her hand.
-s=grauben;e:grauben=unhappy
+s=grauben;e:grauben=unhappy;e:grauben=confused;i=
 
 “What is the matter, Gräuben?” I cried.
-s=axel;e:axel=upset
+s=axel;e:axel=upset;e:axel=nervouslookup;i=
 
 In a couple of minutes my pretty *Virlandaise* was fully informed of the position of affairs.
 s=none;e:grauben=thinking;f:b:altona-road=blur(3px)
 
-For a time she was silent.
-
-
-Did her heart palpitate as mine did? I don’t know about that, but I know that her hand did not tremble in mine.
+For a time she was silent. Did her heart palpitate as mine did? I don’t know about that, but I know that her hand did not tremble in mine. We went on a hundred yards without speaking.
 e:grauben=serious
-
-We went on a hundred yards without speaking.
-
 
 At last she said,
 f:b:altona-road=
 
 “Axel!”
-s=grauben;e:grauben=confused
+s=grauben;e:grauben=confused;e:grauben=surprised;i=
 
 “My dear Gräuben.”
 s=axel;e:axel=nervous
 
 “That will be a splendid journey!”
-s=grauben;e:grauben=excited
+s=grauben;e:grauben=excited;e:grauben=happy;i=
 
 I gave a bound at these words.
 s=none;e:axel=surprised
 
 “Yes, Axel, a journey worthy of the nephew of a savant; it is a good thing for a man to be distinguished by some great enterprise.”
-s=grauben;e:grauben=happy
+s=grauben;e:grauben=happy;e:grauben=excited;i=
 
 “What, Gräuben, won’t you dissuade me from such an undertaking?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=wary;i=
 
 “No, my dear Axel, and I would willingly go with you, but that a poor girl would only be in your way.”
 s=grauben;e:grauben=sadsmile
 
 “Is that quite true?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=serious;i=
 
 “It is true.”
-s=grauben;e:grauben=thinking
+s=grauben;e:grauben=thinking;e:grauben=;i=
 
-Ah! Women and young girls, how incomprehensible are your feminine hearts! When you are not the timidest, you are the bravest of creatures. Reason has nothing to do with your actions.
+Ah! Women and young girls, how incomprehensible are your feminine hearts! When you are not the timidest, you are the bravest of creatures. Reason has nothing to do with your actions.<e>Waah waah waah. (You don't see <book>The Picture of Dorian Gray|Oscar Wilde</book> sounding so whiny when he's mocking women.)</e>
 s=none;e:axel=confused
 
 What! Did this child encourage me in such an expedition! Would she not be afraid to join it herself? And she was driving me to it, one whom she loved!
@@ -1592,10 +1580,10 @@ I was disconcerted, and, if I must tell the whole truth, I was ashamed.
 e:axel=upset
 
 “Gräuben, we will see whether you will say the same thing tomorrow.”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=unhappy;i=
 
 “Tomorrow, dear Axel, I will say what I say today.”
-s=grauben;e:grauben=
+s=grauben;e:grauben=;e:grauben=thinking;i=
 
 Gräuben and I, hand in hand, but in silence, pursued our way. The emotions of that day were breaking my heart.
 s=none;e:axel=unhappy;f:b:altona-road=blur(3px)
@@ -1616,40 +1604,40 @@ Our old servant was at her wits’ end.
 e:martha=upset
 
 “Come, Axel, come, you miserable wretch,” my uncle cried from as far off as he could see me.
-s=prof;e:prof=scowlinglook
+s=prof;e:prof=scowlinglook;e:prof=angrylook;i=
 
 “Your boxes are not packed, and my papers are not arranged; where’s the key of my carpet bag? And what have you done with my gaiters?”
-e:prof=annoyedlookdown
+e:prof=annoyedlookdown;e:prof=seriouslookdown;i=2
 
-I stood thunderstruck.<e>My mind raced, and I thought, "what could I do?"</e>
+I stood thunderstruck. My voice failed.<e>"My voice failed, and I thought, what could I do?" —Jules/DC</e>
 s=none;e:axel=surprised
 
-My voice failed. Scarcely could my lips utter the words:
+Scarcely could my lips utter the words:
 
 
 “Are we really going?”
-s=axel;e:axel=confusedfearful
+s=axel;e:axel=confusedfearful;e:axel=wary;i=
 
 “Of course, you unhappy boy! Could I have dreamed that you would have gone out for a walk instead of hurrying your preparations forward?”
-s=prof;e:prof=angrylook
+s=prof;e:prof=angrylook;e:prof=scowling;i=
 
 “Are we to go?” I asked again, with sinking hopes.
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=upset;i=
 
 “Yes; the day after tomorrow, early.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=scowlinglook;i=
 
 I could hear no more. I fled for refuge into my own little room.
 s=none;e:axel=upset;f:b:prof-entrance=blur(3px)
 
 All hope was now at an end. My uncle had been all the morning making purchases of a part of the tools and apparatus required for this desperate undertaking.
-
+b=night;f:b:night=blur(3px)
 
 The passage was encumbered with rope ladders, knotted cords, torches, flasks, grappling irons, alpenstocks, pickaxes, iron shod sticks, enough to load ten men.
 
 
 I spent an awful night.
-b=night;f:b:night=blur(3px)
+b=night
 
 Next morning I was called early. I had quite decided I would not open the door.
 e:axel=unhappy;b=prof-axel
@@ -1661,16 +1649,13 @@ But how was I to resist the sweet voice which was always music to my ears, sayin
 e:axel=sadsmile;s=grauben;m=nospeaker
 
 I came out of my room.
-b=prof-entrance;s=
+b=prof-entrance;s=;f:b:prof-entrance=
 
 I thought my pale countenance and my red and sleepless eyes would work upon Gräuben’s sympathies and change her mind.
 e:axel=weary;e:grauben=neutral;x:axel=;x:grauben=
 
-“Ah! my dear Axel,” she said.
+“Ah! my dear Axel,” she said. “I see you are better. A night’s rest has done you good.”
 s=grauben;e:grauben=happy;m=
-
-“I see you are better. A night’s rest has done you good.”
-
 
 “Done me good!” I exclaimed.
 s=axel;e:axel=confused
@@ -1682,10 +1667,10 @@ Well, in fact I did look better than I had expected. I could hardly believe my o
 s=none;e:axel=confused
 
 “Axel,” she said, “I have had a long talk with my guardian. He is a bold philosopher, a man of immense courage, and you must remember that his blood flows in your veins.”
-s=grauben;e:grauben=thinking
+s=grauben;e:grauben=thinking;e:grauben=sadsmile;i=2
 
 “He has confided to me his plans, his hopes, and why and how he hopes to attain his object. He will no doubt succeed.”
-e:grauben=happy
+e:grauben=happy;e:grauben=sadsmile;i=
 
 “My dear Axel, it is a grand thing to devote yourself to science! What honour will fall upon Herr Liedenbrock, and so be reflected upon his companion!”
 e:grauben=excited
@@ -1700,43 +1685,43 @@ Yet I refused to believe we should start.
 
 
 I drew Gräuben into the Professor’s study.
-e:axel=serious;b=prof-study
+e:axel=serious;b=grauben-pic;f:b:grauben-pic=
 
 “Uncle, is it true that we are to go?”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=unhappy;i=2
 
 “Why do you doubt?”
 s=prof;e:prof=annoyed
 
 “Well, I don’t doubt,” I said, not to vex him;
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “but, I ask, what need is there to hurry?”
-
+;e:axel=confused;i=3
 
 “Time, time, flying with irreparable rapidity.”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=serious;i=3
 
 “But it is only the 16th May, and until the end of June—”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=
 
 “What, you monument of ignorance! Do you think you can get to Iceland in a couple of days?”
 s=prof;e:prof=angry
 
 “If you had not deserted me like a fool I should have taken you to the Copenhagen office, to Liffender & Co., and you would have learned then that there is only one trip every month from Copenhagen to Reykjavík, on the 22nd.”
-e:prof=annoyed
+e:prof=annoyed;e:prof=annoyed;i=2
 
 “Well?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=wary;i=2
 
 “Well, if we waited for the 22nd June we should be too late to see the shadow of Scartaris touch the crater of Snæfells. Therefore we must get to Copenhagen as fast as we can to secure our passage.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=annoyed;i=
 
 “Go and pack up.”
-e:prof=annoyed
+e:prof=annoyed;e:prof=seriouslook;i=
 
 There was no reply to this.
-s=
+s=;f:b:grauben-pic=blur(3px)
 
 I went up to my room. Gräuben followed me.
 s=none;e:axel=weary;b=prof-axel
@@ -1750,29 +1735,26 @@ e:grauben=happy
 She delighted me, and yet I was angry with her. Now and then I felt I ought to break out into a passion, but she took no notice and went on her way as methodically as ever.
 e:axel=annoyed
 
-Finally the last strap was buckled;
-f:b:prof-axel=
-
-I came downstairs.
-e:axel=neutral;b=prof-entrance;f:b:prof-entrance=
+Finally the last strap was buckled; I came downstairs.
+e:axel=neutral;b=prof-entrance;f:b:prof-entrance=blur(3px)
 
 All that day the philosophical instrument makers and the electricians kept coming and going. Martha was distracted.
 e:martha=confused
 
 “Is master mad?” she asked.
-s=martha;e:martha=wary
+s=martha;e:martha=wary;f:b:prof-entrance=;e:martha=nervous;i=
 
 I nodded my head.
 s=none;e:axel=serious
 
 “And is he going to take you with him?”
-s=martha;e:martha=unhappy
+s=martha;e:martha=unhappy;e:martha=confused;i=
 
 I nodded again.
 s=none;e:axel=weary
 
 “Where to?”
-s=martha;e:martha=wary
+s=martha;e:martha=wary;e:martha=nervous;i=
 
 I pointed with my finger downward.
 s=none;e:axel=serious
@@ -1784,16 +1766,16 @@ s=martha;e:martha=unhappy
 s=axel;e:axel=weary
 
 Night came. But I knew nothing about the lapse of time.
-s=none;e:axel=neutral;b=prof-entrance;f=fade;f:b:prof-entrance=
+s=none;e:axel=neutral;b=prof-entrance;f:b:prof-entrance=blur(3px) brightness(85%)
 
 “Tomorrow morning at six precisely,” my uncle decreed,
-s=prof;e:prof=serious
+s=prof;e:prof=serious;f:b:prof-entrance=brightness(85%)
 
 “we start.”
-
+;e:prof=;i=2
 
 At ten o’clock I fell upon my bed, a dead lump of inert matter. All through the night terror had hold of me. I spent it dreaming of abysses.
-s=none;e:axel=fearful;b=night
+s=none;e:axel=fearful;b=night;f:b:night=
 
 I was a prey to delirium. I felt myself grasped by the Professor’s sinewy hand, dragged along, hurled down, shattered into little bits.
 e:axel=upset
@@ -1802,7 +1784,7 @@ I dropped down unfathomable precipices with the accelerating velocity of bodies 
 e:axel=fearful
 
 I awoke at five with shattered nerves, trembling and weary.
-b=prof-axel
+b=prof-axel;f:b:prof-axel=
 
 I came downstairs. My uncle was at table, devouring his breakfast.
 e:prof=happy;e:axel=upset;b=prof-dining
@@ -1817,28 +1799,28 @@ A large carriage was there to take us to the Altona railway station. It was soon
 e:axel=wary
 
 “Where’s your box?” he cried.
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=serious;i=
 
 “It is ready,” I replied, with faltering voice.
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=unhappylookdown;i=
 
 “Then make haste down, or we shall lose the train.”
-s=prof;e:prof=seriouslook
+s=prof;e:prof=seriouslook;e:prof=scowlinglook;i=
 
 It was now manifestly impossible to maintain the struggle against destiny.
-s=none;e:axel=weary
+s=none;e:axel=weary;f:b:prof-dining=blur(3px)
 
 I went up again to my room, and rolling my portmanteaus downstairs I darted after him.
-b=prof-entrance
+b=prof-entrance;f:b:prof-entrance=blur(3px)
 
 At that moment my uncle was solemnly investing Gräuben with the reins of government. My pretty *Virlandaise* was as calm and collected as was her wont.
-e:prof=serious;e:grauben=neutral;b=prof-wide
+e:prof=serious;e:grauben=neutral;b=prof-wide;f:b:prof-wide=blur(3px)
 
 She kissed her guardian; but could not restrain a tear in touching my cheek with her gentle lips.
 e:grauben=sadsmile
 
 “Gräuben!” I murmured.
-s=axel;e:axel=upset;x:axel=hat
+s=axel;e:axel=upset;x:axel=hat;f:b:prof-wide=;e:axel=nervous;i=
 
 “Go, my dear Axel, go! I am now your betrothed; and when you come back I will be your wife.”
 s=grauben;e:grauben=sadsmile;x:grauben=hat
