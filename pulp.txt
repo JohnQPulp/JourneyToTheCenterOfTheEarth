@@ -1975,7 +1975,7 @@ s=prof;e:prof=happy
 We went first to Kongens Nytorv, an irregular square in which are two innocent-looking guns, which need not alarm anyone.
 s=none;e:axel=neutral;f:b:copenhagen-wide=blur(3px)
 
-Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)<e>“““restaurant”””</e>
+Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)<e>“““““restaurant”””””</e>
 
 
 Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum,
@@ -2087,7 +2087,7 @@ s=none;e:axel=weary;;f:b:kirke-wide=blur(3px)
 r=title
 
 The day for our departure arrived. The day before it our kind friend M. Thomsen brought us letters of introduction to Count Trampe, the Governor of Iceland, M. Picturssen, the bishop’s suffragan, and M. Finsen, mayor of Reykjavík.
-b=copenhagen-wide
+b=copenhagen-wide;f:b:copenhagen-wide=blur(3px)
 
 My uncle expressed his gratitude by tremendous compressions of both his hands.
 
@@ -2096,25 +2096,25 @@ On the 2nd, at six in the evening, all our precious baggage being safely on boar
 b=valk-cabin
 
 “Is the wind favourable?” my uncle asked.
-s=prof;e:prof=curious;x:prof=hat;x:bjarne=hat
+s=prof;e:prof=curious;x:prof=hat;x:bjarne=hat;e:prof=happylook;i=;e:prof=serious;i=
 
 “Excellent,” replied Captain Bjarne;
-s=bjarne;e:bjarne=
+s=bjarne;e:bjarne=;e:bjarne=;i=2
 
 “a sou’-easter. We shall pass down the Sound full speed, with all sails set.”
-
+;e:bjarne=contemplativelook;i=
 
 In a few minutes the schooner, under her mizzen, brigantine, topsail, and topgallant sail, loosed from her moorings and made full sail through the straits.
-s=none;b=straits-wide
+s=none;b=straits-wide;f:b:straits-wide=blur(3px)
 
 In an hour the capital of Denmark seemed to sink below the distant waves, and the *Valkyria* was skirting the coast by Elsinore. In my nervous frame of mind I expected to see the ghost of Hamlet wandering on the legendary castle terrace.
-e:axel=nervous
+e:axel=nervous;f:b:straits-wide=
 
 “Sublime madman!” I said, “no doubt you would approve of our expedition.”
-s=axel;e:axel=scowling;x:axel=hat
+s=axel;e:axel=scowling;e:axel=weary;i=2
 
 “Perhaps you would keep us company to the centre of the globe, to find the solution of your eternal doubts.”
-e:axel=contemplative
+e:axel=contemplative;e:axel=fearful;i=3
 
 But there was no ghostly shape upon the ancient walls.
 s=none;e:axel=neutral
@@ -2129,31 +2129,28 @@ The *Valkyria* was a splendid sailer, but on a sailing vessel you can place no d
 
 
 She was taking to Reykjavík coal, household goods, earthenware, woollen clothing, and a cargo of wheat. The crew consisted of five men, all Danes.
-
+b=valk-cabin;f:b:valk-cabin=blur(3px)
 
 “How long will the passage take?” my uncle asked.
-s=prof;e:prof=thinking;f:b:straits-wide=
+s=prof;e:prof=thinking;f:b:straits-wide=;b=valk-cabin;x:prof=;e:prof=unhappy;i=;f:b:valk-cabin=
 
 “Ten days,” the captain replied,
-s=bjarne;e:bjarne=neutral;z:bjarne=89,54,10
+s=bjarne;e:bjarne=neutral;z:bjarne=89,54,10;e:bjarne=;i=
 
 “if we don’t meet a nor’-wester in passing the Faroes.”
 e:bjarne=contemplativelook
 
 “But are you not subject to considerable delays?”
-s=prof;e:prof=wary
+s=prof;e:prof=wary;e:prof=nervous;i=
 
 “No, M. Liedenbrock, don’t be uneasy, we shall get there in very good time.”
-s=bjarne;e:bjarne=;i=2
+s=bjarne;e:bjarne=;i=2;e:bjarne=curiouswary;i=
 
-At evening the schooner doubled the Scaw at the northern point of Denmark,
-s=none;m=break,1
-
-in the night passed the Skagerrak, skirted Norway by Cape Lindesnes, and entered the North Sea.
-b=night
+At evening the schooner doubled the Scaw at the northern point of Denmark, in the night passed the Skagerrak, skirted Norway by Cape Lindesnes, and entered the North Sea.
+s=none;;f:b:valk-cabin=blur(3px)
 
 In two days more we sighted the coast of Scotland near Peterhead, and the *Valkyria* turned her head towards the Faroe Islands, passing between the Orkneys and Shetlands.
-b=north-sea-wide
+b=north-sea-wide;f:b:north-sea-wide=blur(3px)
 
 Soon the schooner encountered the great Atlantic swell; she had to tack against the north wind, and reached the Faroes only with some difficulty.
 
@@ -2161,11 +2158,8 @@ Soon the schooner encountered the great Atlantic swell; she had to tack against 
 On the 8th the captain made out Mykines, the southernmost of these islands, and from that moment took a straight course for Cape Portland, the most southerly point of Iceland.
 
 
-The passage was marked by nothing unusual. I bore the troubles of the sea pretty well;
-e:prof=upset
-
-my uncle, to his own intense disgust, and his greater shame, was ill all through the voyage.
-b=valk-cabin
+The passage was marked by nothing unusual. I bore the troubles of the sea pretty well; my uncle, to his own intense disgust, and his greater shame, was ill all through the voyage.
+;f:b:north-sea-wide=blur(3px)
 
 He therefore was unable to converse with the captain about Snæfells, the way to get to it, the facilities for transport, he was obliged to put off these inquiries until his arrival, and spent all his time at full length in his cabin, of which the timbers creaked and shook with every pitch she took.
 
@@ -2174,7 +2168,7 @@ It must be confessed he was not undeserving of his punishment.
 e:axel=smirking
 
 On the 11th we reached Cape Portland.
-e:axel=neutral;b=portland-wide
+e:axel=neutral;b=portland-wide;f:b:portland-wide=blur(3px)
 
 The clear open weather gave us a good view of Myrdals Jökull, which overhangs it. The cape is merely a low hill with steep sides, standing lonely by the beach.
 
@@ -2189,13 +2183,10 @@ From that time the schooner took a wide berth and swept at a great distance roun
 f:b:portland-wide=blur(3px)
 
 The rough sea prevented my uncle from coming on deck to admire these shattered and surf-beaten coasts.
-b=night;f:b:night=blur(3px)
 
-Forty-eight hours after, coming out of a storm which forced the schooner to scud under bare poles,
-m=break,1
 
-we sighted east of us the beacon on Cape Skagen, where dangerous rocks extend far away seaward.
-b=reykjavik-sea-wide
+Forty-eight hours after, coming out of a storm which forced the schooner to scud under bare poles, we sighted east of us the beacon on Cape Skagen, where dangerous rocks extend far away seaward.
+b=reykjavik-sea-wide;f:b:reykjavik-sea-wide=blur(3px)
 
 An Icelandic pilot came on board, and in three hours the *Valkyria* dropped her anchor before Reykjavík, in Faxa Bay.
 
@@ -2219,7 +2210,7 @@ Then recommending me, by an impressive gesture, to keep silence, he went into th
 s=none;e:prof=serious;f:b:snafells-sea-wide=blur(3px)
 
 I followed, and presently we were treading the soil of Iceland.
-b=reykjavik-roads
+b=reykjavik-roads;f:b:reykjavik-roads=blur(3px)
 
 The first man we saw was a good-looking fellow enough, in a general’s uniform. Yet he was not a general but a magistrate, the Governor of the island, M. le Baron Trampe himself.
 
@@ -2243,31 +2234,31 @@ This modest philosopher spoke only Danish and Latin. He came to proffer me his g
 
 
 This good-natured gentleman made over to us two of the three rooms which his house contained, and we were soon installed in it with all our luggage, the abundance of which rather astonished the good people of Reykjavík.
-b=frid-room
+b=frid-room;f:b:frid-room=blur(3px)
 
 “Well, Axel,” said my uncle,
-s=prof;e:prof=happy;x:prof=;x:axel=
+s=prof;e:prof=happy;x:prof=;x:axel=;f:b:frid-room=;e:prof=happy;i=2;e:prof=thinking;i=2
 
 “we are getting on, and now the worst is over.”
-
+;e:prof=smirkingthinking;i=;e:prof=smirking;i=
 
 “The worst!” I said, astonished.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=fearful;i=3
 
 “To be sure, now we have nothing to do but go down.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=smirkingthinking;i=
 
 “Oh, if that is all, you are quite right; but after all, when we have gone down, we shall have to get up again, I suppose?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=weary;i=
 
 “Oh I don’t trouble myself about that. Come, there’s no time to lose; I am going to the library. Perhaps there is some manuscript of Saknussemm’s there, and I should be glad to consult it.”
-s=prof;e:prof=happylook
+s=prof;e:prof=happylook;e:prof=suspicious;i=2
 
 “Well, while you are there I will go into the town. Won’t you?”
 s=axel;e:axel=contemplative
 
 “Oh, that is very uninteresting to me. It is not what is upon this island, but what is underneath, that interests me.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=serious;i=3
 
 I went out, and wandered wherever chance took me.
 s=none;e:axel=neutral;f:b:frid-room=blur(3px)
@@ -2284,11 +2275,11 @@ On the other extends the vast bay of Faxa, shut in at the north by the enormous 
 Usually the English and French conservators of fisheries moor in this bay, but just then they were cruising about the western coasts of the island.
 
 
-The longest of the only two streets that Reykjavík possesses was parallel with the beach.
+The longest of the only two streets that Reykjavík possesses was parallel with the beach. Here live the merchants and traders, in wooden cabins made of red planks set horizontally;
 
 
-Here live the merchants and traders, in wooden cabins made of red planks set horizontally; the other street, running west, ends at the little lake between the house of the bishop and other noncommercial people.
-
+the other street, running west, ends at the little lake between the house of the bishop and other noncommercial people.
+b=reykjavik-roads;f:b:reykjavik-roads=
 
 I had soon explored these melancholy ways; here and there I got a glimpse of faded turf, looking like a worn-out bit of carpet, or some appearance of a kitchen garden, the sparse vegetables of which (potatoes, cabbages, and lettuces), would have figured appropriately upon a Lilliputian table.
 
@@ -2312,22 +2303,16 @@ after an examination I should have had to stand last of the forty scholars educa
 
 
 In three hours I had seen not only the town but its environs. The general aspect was wonderfully dull. No trees, and scarcely any vegetation. Everywhere bare rocks, signs of volcanic action.
-f:b:reykjavik-sea-wide=blur(3px)
+f:b:reykjavik-sea-wide=blur(3px);f:b:reykjavik-roads=blur(3px)
 
-The Icelandic huts are made of earth and turf, and the walls slope inward; they rather resemble roofs placed on the ground.
-
-
-But then these roofs are meadows of comparative fertility. Thanks to the internal heat, the grass grows on them to some degree of perfection.
+The Icelandic huts are made of earth and turf, and the walls slope inward; they rather resemble roofs placed on the ground. But then these roofs are meadows of comparative fertility. Thanks to the internal heat, the grass grows on them to some degree of perfection.
 
 
 It is carefully mown in the hay season; if it were not, the horses would come to pasture on these green abodes.
 
 
-In my excursion I met but few people.
-
-
-On returning to the main street I found the greater part of the population busied in drying, salting, and putting on board codfish, their chief export.
-b=reykjavik-roads
+In my excursion I met but few people. On returning to the main street I found the greater part of the population busied in drying, salting, and putting on board codfish, their chief export.
+b=reykjavik-roads;f:b:reykjavik-roads=blur(3px)
 
 The men looked like robust but heavy, blond Germans with pensive eyes, conscious of being far removed from their fellow creatures, poor exiles relegated to this land of ice, poor creatures who should have been Eskimo, since nature had condemned them to live only just outside the arctic circle!
 
@@ -2342,7 +2327,7 @@ The women looked as sad and as resigned as the men; their faces were agreeable b
 
 
 After a good walk I returned to M. Fridrikssen’s house, where I found my uncle already in his host’s company.
-f:b:reykjavik-roads=blur(3px)
+f:b:reykjavik-roads=blur(3px);b=frid-room
 
 ## X. Interesting Conversations with Icelandic Savants
 r=title
