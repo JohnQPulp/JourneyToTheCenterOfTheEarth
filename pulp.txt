@@ -707,34 +707,34 @@ s=none;f:b:prof-study=blur(3px)
 r=title
 
 “He is gone!” cried Martha,
-s=martha;e:martha=surprisedlook;b=prof-dining;m=break,1
+s=martha;e:martha=surprisedlook;b=prof-dining;m=break,1;e:martha=fearful;i=
 
 running out of her kitchen at the noise of the violent slamming of doors.
 s=
 
 “Yes,” I replied, “completely gone.”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=seriouslook;i=
 
 “Well; and how about his dinner?” said the old servant.
-s=martha;e:martha=confused
+s=martha;e:martha=confused;e:martha=nervous;i=
 
 “He won’t have any.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=wary;i=2
 
 “And his supper?”
-s=martha;e:martha=unhappy
+s=martha;e:martha=unhappy;e:martha=upset;i=
 
 “He won’t have any.”
-s=axel;i=2
+s=axel;i=2;e:axel=weary;i=2;e:axel=annoyed;i=2
 
 “What?” cried Martha, with clasped hands.
-s=martha;e:martha=fearful
+s=martha;e:martha=fearful;e:martha=unhappy;i=
 
 “No, my dear Martha, he will eat no more. No one in the house is to eat anything at all.”
 s=axel;e:axel=unhappy
 
 “Uncle Liedenbrock is going to make us all fast until he has succeeded in deciphering an undecipherable scrawl.”
-
+;e:axel=weary;i=2
 
 “Oh, my dear! Must we then all die of hunger?”
 s=martha;e:martha=upset
@@ -746,7 +746,7 @@ The old servant, visibly moved, returned to the kitchen, moaning piteously.
 e:martha=unhappy
 
 When I was alone, I thought I would go and tell Gräuben all about it. But how should I be able to escape from the house? The Professor might return at any moment.
-e:axel=thinking
+e:axel=thinking;f:b:prof-dining=blur(3px)
 
 And suppose he called me? And suppose he tackled me again with this logomachy, which might vainly have been set before ancient Oedipus. And if I did not obey his call, who could answer for what might happen?
 e:axel=fearful
@@ -755,7 +755,7 @@ The wisest course was to remain where I was.
 e:axel=serious
 
 A mineralogist at Besançon had just sent us a collection of siliceous nodules, which I had to classify: so I set to work; I sorted, labelled, and arranged in their own glass case all these hollow specimens, in the cavity of each of which was a nest of little crystals.
-b=prof-study
+b=prof-study;f:b:prof-study=blur(3px)
 
 But this work did not succeed in absorbing all my attention. That old document kept working in my brain.
 e:axel=thinking;f:b:prof-study=blur(3px)
@@ -773,7 +773,7 @@ Now and then I listened to hear whether a well-known step was on the stairs. No.
 e:axel=curious
 
 I fancied him running under the noble trees which line the road to Altona, gesticulating, making shots with his cane, thrashing the long grass, cutting the heads off the thistles, and disturbing the contemplative storks in their peaceful solitude.
-e:axel=smirking;f:b:prof-study=blur(3px)
+e:axel=smirking
 
 Would he return in triumph or in discouragement? Which would get the upper hand, he or the secret?
 e:axel=thinking
@@ -791,28 +791,25 @@ e:axel=thinking
 t=axel;e:axel=serious
 
 “In the fourth line appeared the word ‘luco,’ which means a sacred wood. It is true that in the third line was the word ‘tabiled,’ which looked like Hebrew, and in the last the purely French words *mer*, *arc*, *mere*.”
-e:axel=thinking
+e:axel=thinking;e:axel=contemplative;i=
 
 All this was enough to drive a poor fellow crazy. Four different languages in this ridiculous sentence! What connection could there possibly be between such words as ice, sir, anger, cruel, sacred wood, changeable, mother, bow, and sea?
-t=none;e:axel=annoyed
+t=none;e:axel=annoyed;f:b:prof-study=blur(3px)
 
 The first and the last might have something to do with each other; it was not at all surprising that in a document written in Iceland there should be mention of a sea of ice; but it was quite another thing to get to the end of this cryptogram with so small a clue.
 e:axel=thinking
 
 So I was struggling with an insurmountable difficulty; my brain got heated, my eyes watered over that sheet of paper; its hundred and thirty-two letters seemed to flutter and fly around me like those motes of mingled light and darkness which float in the air around the head when the blood is rushing upwards with undue violence.
-e:axel=upset
+e:axel=upset;f:b:prof-study=blur(6px)
 
-I was a prey to a kind of hallucination; I was stifling; I wanted air.
+I was a prey to a kind of hallucination; I was stifling; I wanted air. Unconsciously I fanned myself with the bit of paper, the back and front of which successively came before my eyes.
 e:axel=fearful
-
-Unconsciously I fanned myself with the bit of paper, the back and front of which successively came before my eyes.
-
 
 What was my surprise when, in one of those rapid revolutions, at the moment when the back was turned to me I thought I caught sight of the Latin words *craterem*, *terrestre*, and others.
 e:axel=surprised
 
 A sudden light burst in upon me; these hints alone gave me the first glimpse of the truth; I had discovered the key to the cipher.
-e:axel=excited;f:b:prof-study=
+e:axel=excited;f:b:prof-study=blur(3px)
 
 To read the document, it would not even be necessary to read it through the paper. Such as it was, just such as it had been dictated to me, so it might be spelt out with ease.
 
@@ -824,10 +821,10 @@ You may be sure I felt stirred up. My eyes were dim, I could scarcely see. I had
 e:axel=nervous
 
 At last I became more calm. I made a wise resolve to walk twice round the room quietly and settle my nerves, and then I returned into the deep gulf of the huge armchair.
-e:axel=serious
+e:axel=serious;f:b:prof-study=
 
 “Now I’ll read it,” I cried,
-s=axel;e:axel=curiouswarylookdown;m=break,1
+s=axel;e:axel=curiouswarylookdown;m=break,1;e:axel=fearful;i=3
 
 after having well distended my lungs with air.
 s=
@@ -835,38 +832,35 @@ s=
 I leaned over the table; I laid my finger successively upon every letter; and without a pause, without one moment’s hesitation, I read off the whole sentence aloud.
 s=none;e:axel=serious
 
-Stupefaction! Terror! I sat overwhelmed as if with a sudden deadly blow. What! That which I read had actually, really been done! A mortal man had had the audacity to penetrate!…
+Stupefaction! Terror! I sat overwhelmed as if with a sudden deadly blow. What! That which I read had actually, really been done! A mortal man had had the audacity to penetrate!…<e>"the audacity to penetrate" —Jules Verne</e>
 e:axel=fearful
 
 “Ah!” I cried, springing up.
-s=axel;e:axel=fearful
+s=axel;e:axel=fearful;e:axel=surprisedlookdown;i=
 
 “But no! No! My uncle shall never know it. He would insist upon doing it too. He would want to know all about it. Ropes could not hold him, such a determined geologist as he is!”
-
+;e:axel=fearful
 
 “He would start, he would, in spite of everything and everybody, and he would take me with him, and we should never get back. No, never! never!”
-e:axel=upset
+
 
 My over-excitement was beyond all description.
 s=none
 
 “No! No! It shall not be,” I declared energetically;
-s=axel;e:axel=angry
+s=axel;e:axel=angry;e:axel=annoyed;i=
 
-“and as it is in my power to prevent the knowledge of it coming into the mind of my tyrant, I will do it.”
-
-
-“By dint of turning this document round and round, he too might discover the key. I will destroy it.”
-e:axel=seriouslook
+“and as it is in my power to prevent the knowledge of it coming into the mind of my tyrant, I will do it. By dint of turning this document round and round, he too might discover the key. I will destroy it.”
+e:axel=seriouslook;e:axel=thinking;i=
 
 There was a little fire left on the hearth.
-s=
+s=;b=grauben-pic
 
 I seized not only the paper but Saknussemm’s parchment; with a feverish hand I was about to fling it all upon the coals and utterly destroy and abolish this dangerous secret,
 s=none;e:axel=nervous;e:axel=surprised;e:prof=neutral;m=break,1
 
 when the study door opened, and my uncle appeared.
-f:b:prof-study=blur(3px)
+f:b:grauben-pic=blur(3px)
 
 ## V. Famine, Then Victory, Followed by Dismay
 r=title
