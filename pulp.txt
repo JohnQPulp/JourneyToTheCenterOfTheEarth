@@ -1837,8 +1837,8 @@ f:b:prof-wide=blur(3px)
 ## VIII. Serious Preparations for Vertical Descent
 r=title
 
-Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.<e>Taking the carriage down the road from the "Free and Hanseatic City of Hamburg" into the Danish Duchy of Holstein. Holstein itself would get itself conquered by Germany in the Second Schleswig War in 1864, while Verne was writing the book, which is why he set the story in 1863.</e>
-e:axel=neutral;b=altona-road
+Altona, which is but a suburb of Hamburg, is the terminus of the Kiel railway, which was to carry us to the Belts. In twenty minutes we were in Holstein.<e>In 1863, the Free and Hanseatic City of Hamburg was still just down the road from the Danish Duchy of Holstein (which included Altona). But then Holstein got itself conquered in the Second Schleswig War in 1864 — bad timing for Verne, who was still writing the book. (But then he just set the book one year earlier, so whatever.)</e>
+e:axel=neutral;b=altona-road;f:b:altona-road=blur(3px)
 
 At half-past six the carriage stopped at the station; my uncle’s numerous packages, his voluminous impedimenta, were unloaded, removed, labelled, weighed, put into the luggage vans, and at seven we were seated face to face in our compartment.
 f:b:altona-road=blur(3px)
@@ -1846,11 +1846,8 @@ f:b:altona-road=blur(3px)
 The whistle sounded, the engine started, we were off.
 b=rail-wide;f:b:rail-wide=blur(3px)
 
-Was I resigned? No, not yet.
+Was I resigned? No, not yet. Yet the cool morning air and the scenes on the road, rapidly changed by the swiftness of the train, drew me away somewhat from my sad reflections.
 e:axel=unhappy
-
-Yet the cool morning air and the scenes on the road, rapidly changed by the swiftness of the train, drew me away somewhat from my sad reflections.
-e:axel=contemplative
 
 As for the Professor’s reflections, they went far in advance of the swiftest express. We were alone in the carriage, but we sat in silence.
 e:prof=thinking
@@ -1919,13 +1916,13 @@ At our left was a huge building that looked like a hospital.
 s=none;e:axel=neutral
 
 “That’s a lunatic asylum,” said one of our travelling companions.
-n:passenger1=?;s=passenger1;e:passenger1=neutrallook
+n:passenger1=?;s=passenger1;e:passenger1=neutrallook;z:passenger1=82,52,8
 
 Very good! thought I, just the place we want to end our days in; and great as it is, that asylum is not big enough to contain all Professor Liedenbrock’s madness!
-s=none;e:axel=annoyed
+s=none;e:axel=annoyed;f:b:danish-rail-wide=blur(3px)
 
 At ten in the morning, at last, we set our feet in Copenhagen; the luggage was put upon a carriage and taken with ourselves to the Phoenix Hotel in Breda Gate.
-e:axel=neutral;b=copenhagen-wide;x:prof=hat
+e:axel=neutral;b=copenhagen-wide;x:prof=hat;f:b:copenhagen-wide=blur(3px)
 
 This took half an hour, for the station is out of the town. Then my uncle, after a hasty toilet, dragged me after him.
 e:prof=excited;e:axel=weary
@@ -1943,13 +1940,13 @@ It is hardly necessary to say the secret was sacredly kept from the excellent cu
 e:prof=smirking
 
 M. Thomsen placed his services at our disposal, and we visited the quays with the object of finding out the next vessel to sail.
-e:thomsen=neutral
+e:thomsen=neutral;b=copenhagen-docks;f:b:copenhagen-docks=blur(3px)
 
 I was yet in hopes that there would be no means of getting to Iceland. But there was no such luck.
 e:axel=unhappy
 
 A small Danish schooner, the *Valkyria*, was to set sail for Reykjavík on the 2nd of June.
-n:bjarne=Captain Bjarne;b=copenhagen-docks
+n:bjarne=Captain Bjarne;b=copenhagen-docks;f:b:copenhagen-docks=
 
 The captain, M. Bjarne, was on board. His intending passenger was so joyful that he almost squeezed his hands till they ached.
 e:prof=excited;e:bjarne=wary
@@ -1961,24 +1958,24 @@ The worthy captain took advantage of his enthusiasm to charge double fares; but 
 e:bjarne=smirking
 
 “You must be on board on Tuesday, at seven in the morning,” said Captain Bjarne,
-s=bjarne;e:bjarne=curiouswary;m=break,1;x:bjarne=hat
+s=bjarne;e:bjarne=curiouswary;m=break,1;x:bjarne=hat;e:bjarne=;i=
 
 after having pocketed more dollars than were his due.
 s=
 
 Then we thanked M. Thomsen for his kindness, and we returned to the Phoenix Hotel.
-s=none;e:axel=neutral;b=copenhagen-wide
+s=none;e:axel=neutral;b=copenhagen-wide;f:b:copenhagen-wide=
 
 “It’s all right, it’s all right,” my uncle repeated.
 s=prof;e:prof=happy
 
 “How fortunate we are to have found this boat ready for sailing. Now let us have some breakfast and go about the town.”
-
+;e:prof=happylook;i=
 
 We went first to Kongens Nytorv, an irregular square in which are two innocent-looking guns, which need not alarm anyone.
-s=none;e:axel=neutral
+s=none;e:axel=neutral;f:b:copenhagen-wide=blur(3px)
 
-Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)
+Close by, at No. 5, there was a French “restaurant,” kept by a cook of the name of Vincent, where we had an ample breakfast for four marks each (2s. 4d.)<e>“““restaurant”””</e>
 
 
 Then I took a childish pleasure in exploring the city; my uncle let me take him with me, but he took notice of nothing, neither the insignificant king’s palace, nor the pretty seventeenth century bridge, which spans the canal before the museum,
@@ -1991,7 +1988,7 @@ nor the beautiful renaissance edifice of the Exchange, nor its spire composed of
 e:axel=happy;e:prof=bored;m=
 
 What delicious walks we should have had together, my pretty *Virlandaise* and I, along the harbour where the two-deckers and the frigate slept peaceably by the red roofing of the warehouse, by the green banks of the strait,
-m=break,1;f:b:copenhagen-wide=blur(3px)
+m=break,1;f:b:copenhagen-wide=blur(6px)
 
 through the deep shades of the trees amongst which the fort is half concealed, where the guns are thrusting out their black throats between branches of alder and willow.
 e:axel=sadsmile
@@ -2000,16 +1997,13 @@ But, alas! Gräuben was far away; and I never hoped to see her again.
 e:axel=unhappy
 
 But if my uncle felt no attraction towards these romantic scenes he was very much struck with the aspect of a certain church spire situated in the island of Amager, which forms the southwest quarter of Copenhagen.
-e:prof=curious;b=copenhagen-docks;f:b:copenhagen-docks=blur(3px)
+e:prof=curious;b=kirke-wide;f:b:kirke-wide=blur(3px)
 
 I was ordered to direct my feet that way; I embarked on a small steamer which plies on the canals, and in a few minutes she touched the quay of the dockyard.
 e:axel=neutral
 
-After crossing a few narrow streets where some convicts, in trousers half yellow and half grey, were at work under the orders of the gangers,
-m=break,1
-
-we arrived at the Vor Frelsers Kirke.
-b=kirke-wide
+After crossing a few narrow streets where some convicts, in trousers half yellow and half grey, were at work under the orders of the gangers, we arrived at the Vor Frelsers Kirke.
+b=kirke-wide;f:b:kirke-wide=
 
 There was nothing remarkable about the church; but there was a reason why its tall spire had attracted the Professor’s attention. Starting from the top of the tower, an external staircase wound around the spire, the spirals circling up into the sky.
 e:prof=excited;x:prof=hat;x:axel=hat
@@ -2021,13 +2015,13 @@ s=prof;e:prof=excitedlookup
 s=axel;e:axel=nervouslookup
 
 “The more reason why we should go up; we must get used to it.”
-s=prof;e:prof=seriouslook
+s=prof;e:prof=seriouslook;e:prof=;i=
 
 “But—”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “Come, I tell you; don’t waste our time.”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;;e:prof=seriouslook
 
 I had to obey. A keeper who lived at the other end of the street handed us the key, and the ascent began.
 s=none;e:axel=weary
@@ -2042,10 +2036,10 @@ There the aerial staircase began its gyrations, only guarded by a thin iron rail
 e:axel=fearful
 
 “Never shall I be able to do it,” I said.
-s=axel;e:axel=upset
+s=axel;e:axel=upset;e:axel=confusedlook;i=
 
 “Don’t be a coward; come up, sir,” said my uncle with the coldest cruelty.
-s=prof;e:prof=annoyed;i=2
+s=prof;e:prof=annoyed;i=2;e:prof=confusedscowling;i=
 
 I had to follow, clutching at every step.
 s=none;e:axel=fearful
@@ -2057,10 +2051,13 @@ At last I reached the apex, with the assistance of my uncle dragging me up by th
 e:prof=annoyed;e:axel=weary
 
 “Look down!” he cried. “Look down well! You must take a lesson in abysses.”
-s=prof;e:prof=seriouslookdown
+s=prof;e:prof=seriouslookdown;e:prof=excitedlookdown;i=
 
-I opened my eyes. I saw houses squashed flat as if they had all fallen down from the skies; a smoke fog seemed to drown them.
+I opened my eyes.
 s=none;e:axel=surprised
+
+I saw houses squashed flat as if they had all fallen down from the skies; a smoke fog seemed to drown them.
+f:b:kirke-wide=blur(3px)
 
 Over my head ragged clouds were drifting past, and by an optical inversion they seemed stationary, while the steeple, the ball and I were all spinning along with fantastic speed.
 e:axel=confused
@@ -2078,7 +2075,7 @@ But I was compelled to rise, to stand up, to look. My first lesson in dizziness 
 e:axel=weary
 
 When I got permission to come down and feel the solid street pavements I was afflicted with severe lumbago.
-e:axel=upset
+e:axel=upset;f:b:kirke-wide=
 
 “Tomorrow we will do it again,” said the Professor.
 s=prof;e:prof=smirking
