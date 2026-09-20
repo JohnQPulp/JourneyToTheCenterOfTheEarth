@@ -778,7 +778,7 @@ e:axel=smirking
 Would he return in triumph or in discouragement? Which would get the upper hand, he or the secret?
 e:axel=thinking
 
-I was thus asking myself questions, and mechanically taking between my fingers the sheet of paper mysteriously disfigured with the incomprehensible succession of letters I had written down; and I repeated to myself “What does it all mean?”<e>Axel Skellington.</e>
+I was thus asking myself questions, and mechanically taking between my fingers the sheet of paper mysteriously disfigured with the incomprehensible succession of letters I had written down; and I repeated to myself “What does it all mean?”<e>"What does it all mean? <i>What does it all mean?</i>" —Jules Skellington</e>
 e:axel=confused
 
 I sought to group the letters so as to form words. Quite impossible! When I put them together by twos, threes, fives or sixes, nothing came of it but nonsense.
@@ -883,7 +883,7 @@ He sat in his armchair, and pen in hand he began what looked very much like alge
 Might not some unhoped-for result come of it? I trembled, too, very unnecessarily, since the true key was in my hands, and no other would open the secret.
 e:axel=fearful
 
-For three long hours my uncle worked on without a word, without lifting his head; rubbing out, beginning again, then rubbing out again, and so on a hundred times.<e>"rubbing out"</e>
+For three long hours my uncle worked on without a word, without lifting his head; rubbing out, beginning again, then rubbing out again, and so on a hundred times.<e>"rubbing out, beginning again, then rubbing out again" —Jules Verne</e>
 e:prof=serious;f:b:prof-study=blur(3px)
 
 I knew very well that if he succeeded in setting down these letters in every possible relative position, the sentence would come out.
@@ -899,19 +899,19 @@ So I felt reassured as far as regarded this heroic method of solving the difficu
 e:axel=neutral
 
 But time was passing away; night came on; the street noises ceased; my uncle, bending over his task, noticed nothing, not even Martha half opening the door; he heard not a sound, not even that excellent woman saying:
-e:martha=neutral;f:b:prof-study=brightness(85%)
+e:martha=neutral;f:b:prof-study=
 
 “Will not Monsieur take any supper tonight?”
-s=martha;e:martha=unhappy
+s=martha;e:martha=unhappy;e:martha=nervous;i=
 
 And poor Martha had to go away unanswered.
 s=none;e:martha=unhappy
 
 As for me, after long resistance, I was overcome by sleep, and fell off at the end of the sofa, while uncle Liedenbrock went on calculating and rubbing out his calculations.
-e:axel=weary;e:prof=weary;f:b:prof-study=brightness(85%) blur(3px)
+e:axel=weary;e:prof=weary;f:b:prof-study=blur(10px)
 
 When I awoke next morning that indefatigable worker was still at his post.
-f:b:prof-study=
+f:b:prof-study=blur(3px)
 
 His red eyes, his pale complexion, his hair tangled between his feverish fingers, the red spots on his cheeks, revealed his desperate struggle with impossibilities, and the weariness of spirit, the mental wrestlings he must have undergone all through that unhappy night.
 
@@ -932,13 +932,13 @@ Yet I was not an ill-natured fellow. Why was I dumb at such a crisis? Why so ins
 e:axel=thinking
 
 “No, no,” I repeated, “I shall not speak. He would insist upon going; nothing on earth could stop him.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;f:b:prof-study=;e:axel=unhappylookdown;i=
 
 “His imagination is a volcano, and to do that which other geologists have never done he would risk his life. I will preserve silence. I will keep the secret which mere chance has revealed to me.”
-e:axel=thinking
+e:axel=thinking;e:axel=unhappy;i=2
 
 “To discover it, would be to kill Professor Liedenbrock! Let him find it out himself if he can. I will never have it laid to my door that I led him to his destruction.”
-e:axel=serious
+e:axel=serious;e:axel=unhappy;i=
 
 Having formed this resolution, I folded my arms and waited.
 s=none;e:axel=neutral
@@ -947,7 +947,7 @@ But I had not reckoned upon one little incident which turned up a few hours afte
 f:b:prof-study=blur(3px)
 
 When our good Martha wanted to go to market, she found the door locked.
-e:martha=surprised;b=prof-entrance
+e:martha=surprised;b=prof-entrance;f:b:prof-entrance=blur(3px)
 
 The big key was gone. Who could have taken it out? Assuredly, it was my uncle, when he returned the night before from his hurried walk.
 e:axel=thinking
@@ -976,11 +976,8 @@ e:axel=annoyed;f:b:prof-entrance=blur(3px)
 My uncle went on working, his imagination went off rambling into the ideal world of combinations; he was far away from earth, and really far away from earthly wants.
 e:prof=thinking;b=prof-study;f:b:prof-study=blur(3px)
 
-About noon hunger began to stimulate me severely.
+About noon hunger began to stimulate me severely. Martha had, without thinking any harm, cleared out the larder the night before, so that now there was nothing left in the house.
 e:axel=unhappy
-
-Martha had, without thinking any harm, cleared out the larder the night before, so that now there was nothing left in the house.
-
 
 Still I held out; I made it a point of honour.
 e:axel=serious
@@ -1004,25 +1001,25 @@ Surely he was not going out, to shut us in again! No, never!
 e:axel=fearful
 
 “Uncle!” I cried.
-s=axel;e:axel=upset;x:prof=hat
+s=axel;e:axel=upset;x:prof=hat;e:axel=weary;i=
 
 He seemed not to hear me.
 s=none
 
 “Uncle Liedenbrock!” I cried, lifting up my voice.
-s=axel;e:axel=upset;i=2
+s=axel;e:axel=upset;i=2;e:axel=weary;i=2
 
 “Ay,” he answered like a man suddenly waking.
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslookdown;i=
 
 “Uncle, that key!”
-s=axel;e:axel=seriouslook
+s=axel;e:axel=seriouslook;e:axel=upset;i=
 
 “What key? The door key?”
-s=prof;e:prof=confused
+s=prof;e:prof=confused;e:prof=confusedscowling;i=
 
 “No, no!” I cried. “The key of the document.”
-s=axel;e:axel=upset
+s=axel;e:axel=upset;e:axel=fearful;i=3
 
 The Professor stared at me over his spectacles; no doubt he saw something unusual in the expression of my countenance; for he laid hold of my arm, and speechlessly questioned me with his eyes. Yes, never was a question more forcibly put.
 s=none;e:prof=surprised
@@ -1030,38 +1027,32 @@ s=none;e:prof=surprised
 I nodded my head up and down.
 
 
-He shook his pityingly, as if he was dealing with a lunatic.
-
-
-I gave a more affirmative gesture.
+He shook his pityingly, as if he was dealing with a lunatic. I gave a more affirmative gesture.
 e:axel=nervous
 
 His eyes glistened and sparkled with live fire, his hand was shaken threateningly.
 e:prof=excited
 
-This mute conversation at such a momentous crisis would have riveted the attention of the most indifferent.
+This mute conversation at such a momentous crisis would have riveted the attention of the most indifferent.<e>Riveting!</e>
 
 
-And the fact really was that I dared not speak now, so intense was the excitement for fear lest my uncle should smother me in his first joyful embraces.
+And the fact really was that I dared not speak now, so intense was the excitement for fear lest my uncle should smother me in his first joyful embraces. But he became so urgent that I was at last compelled to answer.
 e:axel=fearful
 
-But he became so urgent that I was at last compelled to answer.
-
-
 “Yes, that key, chance﻿—”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=unhappy;i=2
 
 “What is that you are saying?” he shouted with indescribable emotion.
-s=prof;e:prof=confusedscowling
+s=prof;e:prof=confusedscowling;e:prof=angry;i=
 
 “There, read that!” I said,
-s=axel;e:axel=upsetlookdown;m=break,1
+s=axel;e:axel=upsetlookdown;m=break,1;e:axel=serious;i=2;e:axel=upset;i=2
 
 presenting a sheet of paper on which I had written.
 m=;s=
 
 “But there is nothing in this,” he answered,
-s=prof;e:prof=annoyedlookdown;m=break,1
+s=prof;e:prof=annoyedlookdown;m=break,1;e:prof=annoyedlookdown;i=
 
 crumpling up the paper.
 s=
@@ -1072,11 +1063,8 @@ s=axel;e:axel=unhappy
 I had not finished my sentence when the Professor broke out into a cry, nay, a roar. A new revelation burst in upon him. He was transformed!
 s=none;e:prof=surprised
 
-“Aha, clever Saknussemm!” he cried.
-s=prof;e:prof=excited
-
-“You had first written out your sentence the wrong way.”
-e:prof=excitedlookdown
+“Aha, clever Saknussemm!” he cried. “You had first written out your sentence the wrong way.”
+s=prof;e:prof=excited;e:prof=excitedlookdown;i=
 
 And darting upon the paper, with eyes bedimmed, and voice choked with emotion, he read the whole document from the last letter to the first.
 s=none
@@ -1090,38 +1078,38 @@ m=margin
 Which bad Latin may be translated thus:
 m=
 
-“Descend, bold traveller, into the crater of the Jökull of Snæfells, which the shadow of Scartaris touches before the kalends of July, and you will attain the centre of the earth; which I have done, Arne Saknussemm.”
+“Descend, bold traveller, into the crater of the Jökull of Snæfells, which the shadow of Scartaris touches before the kalends of July, and you will attain the centre of the earth; which I have done, Arne Saknussemm.”<e>A whole day to <i>not</i> crack the mystery of "m̄essvnkaSenrA". Seems plausible. Great """puzzle""", Verne. (Idiot.)</e>
 
 
 In reading this, my uncle gave a spring as if he had touched a Leyden jar. His audacity, his joy, and his convictions were magnificent to behold.
-e:prof=excited
+e:prof=excited;f:b:prof-study=blur(3px)
 
 He came and he went; he seized his head between both his hands; he pushed the chairs out of their places, he piled up his books; incredible as it may seem, he rattled his precious nodules of flints together; he sent a kick here, a thump there.
 
 
 At last his nerves calmed down, and like a man exhausted by too lavish an expenditure of vital power, he sank back exhausted into his armchair.
-e:prof=weary
+e:prof=weary;f:b:prof-study=
 
 “What o’clock is it?” he asked after a few moments of silence.
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=wary;i=
 
 “Three o’clock,” I replied.
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=nervous;i=
 
 “Is it really? The dinner-hour is past, and I did not know it. I am half dead with hunger. Come on, and after dinner﻿—”
 s=prof;e:prof=thinking
 
 “Well?”
-s=axel;e:axel=wary;i=2
+s=axel;e:axel=wary;i=2;e:axel=seriouslook;i=
 
 “After dinner, pack up my trunk.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=smirking;i=;e:prof=happylook;i=
 
 “What?” I cried.
 s=axel;e:axel=surprised
 
 “And yours!” replied the indefatigable Professor,
-s=prof;e:prof=excited;m=break,1
+s=prof;e:prof=excited;m=break,1;e:prof=happy;i=2;e:prof=happy;i=
 
 entering the dining-room.
 s=;f:b:prof-study=blur(3px)
