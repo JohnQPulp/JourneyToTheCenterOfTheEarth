@@ -4024,7 +4024,7 @@ f:b:snaffels-middle-chimney-up=blur(3px)
 When lying on my back, I opened my eyes and saw a bright sparkling point of light at the extremity of the gigantic tube 3,000 feet long, now a vast telescope.
 e:axel=surprised
 
-It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor.<e>Verne didn't forget the <book>Midnight Sun|midnight sun</book>. 19th-century scientists (idiots) just thought you could see stars during daytime if viewed from the bottom of a dark chimney.</e>
+It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be β Ursa Minor.<e>Verne didn't forget the <book>Midnight Sun|midnight sun</book>. 19th-century scientists (idiots) just thought you could see stars during daytime if viewed from the bottom of a dark chimney.</e>
 e:axel=thinking
 
 Then I fell fast asleep.
