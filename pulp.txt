@@ -3845,13 +3845,10 @@ My hair stood on end with terror. The bewildering feeling of vacuity laid hold u
 e:axel=fearful
 
 I felt my centre of gravity shifting its place, and giddiness mounting into my brain like drunkenness. There is nothing more treacherous than this attraction down deep abysses.
-e:axel=nervous
+e:axel=nervous;f:b:snaffels-middle-chimney=blur(3px)
 
-I was just about to drop down, when a hand laid hold of me. It was that of Hans.
+I was just about to drop down, when a hand laid hold of me. It was that of Hans. I suppose I had not taken as many lessons on gulf exploration as I ought to have done in the Frelsers Kirke at Copenhagen.
 e:hans=neutral;e:axel=surprised
-
-I suppose I had not taken as many lessons on gulf exploration as I ought to have done in the Frelsers Kirke at Copenhagen.
-e:axel=weary
 
 But, however short was my examination of this well, I had taken some account of its conformation.
 e:axel=thinking
@@ -3863,7 +3860,7 @@ But if there was no want of steps, still there was no rail. A rope fastened to t
 e:axel=wary
 
 My uncle employed a very simple expedient to obviate this difficulty.
-e:prof=neutral
+e:prof=neutral;f:b:snaffels-middle-chimney=
 
 He uncoiled a cord of the thickness of a finger, and four hundred feet long; first he dropped half of it down, then he passed it round a lava block that projected conveniently, and threw the other half down the chimney.
 e:prof=serious
@@ -3875,28 +3872,28 @@ Then the exercise would go on again *ad infinitum*.
 e:axel=neutral;x:axel=hat;x:prof=hat
 
 “Now,” said my uncle,
-s=prof;e:prof=thinking;m=break,1
+s=prof;e:prof=thinking;m=break,1;e:prof=seriouslookdown;i=
 
 after having completed these preparations,
 s=
 
 “now let us look to our loads. I will divide them into three lots; each of us will strap one upon his back. I mean only fragile articles.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslook;i=
 
 Of course, we were not included under that head.
 s=none;e:axel=smirking
 
 “Hans,” said he, “will take charge of the tools and a portion of the provisions; you, Axel, will take another third of the provisions, and the arms; and I will take the rest of the provisions and the delicate instruments.”
-s=prof;e:prof=thinkinglook
+s=prof;e:prof=thinkinglook;e:prof=serious;i=
 
 “But,” said I, “the clothes, and that mass of ladders and ropes, what is to become of them?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confusedlook;i=
 
 “They will go down by themselves.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=thinking;i=
 
 “How so?” I asked.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=wary;i=
 
 “You will see presently.”
 s=prof;e:prof=smirking
@@ -3920,7 +3917,7 @@ Now I ask any sensible man if it was possible to hear those words without a shud
 s=none;e:axel=nervous
 
 The Professor fastened his package of instruments upon his shoulders; Hans took the tools; I took the arms:
-e:prof=serious;e:hans=neutral;e:axel=serious;x:axel=hat,pack;x:prof=hat,pack;x:hans=pack
+e:prof=serious;e:hans=neutral;e:axel=serious;x:axel=hat,pack;x:prof=hat,pack;x:hans=pack;f:b:snaffels-middle-chimney=blur(3px)
 
 and the descent commenced in the following order; Hans, my uncle, and myself.
 b=snaffels-middle-chimney-down
@@ -3941,13 +3938,13 @@ When one of these slippery steps shook under the heavier form of Hans, he said i
 e:hans=neutral
 
 “*Giv akt!*”
-s=hans;e:hans=neutrallookdown
+s=hans;e:hans=neutrallookdown;e:hans=seriouslookdown;i=
 
 “Attention!” repeated my uncle.
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=
 
 In half an hour we were standing upon the surface of a rock jammed in across the chimney from one side to the other.
-s=none;e:axel=weary
+s=none;e:axel=weary;f:b:snaffels-middle-chimney-down=blur(3px)
 
 Hans pulled the rope by one of its ends, the other rose in the air; after passing the higher rock it came down again, bringing with it a rather dangerous shower of bits of stone and lava.
 e:hans=neutral;e:axel=wary
@@ -3968,19 +3965,13 @@ But the Professor, no doubt, was pursuing his observations or taking notes, for 
 e:prof=contemplative;f:b:snaffels-middle-chimney-down=
 
 “The farther I go the more confidence I feel. The order of these volcanic formations affords the strongest confirmation to the theories of Davy.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happy;i=2;e:prof=unhappy;i=
 
-“We are now among the primitive rocks, upon which the chemical operations took place which are produced by the contact of elementary bases of metals with water.”
+“We are now among the primitive rocks, upon which the chemical operations took place which are produced by the contact of elementary bases of metals with water. I repudiate the notion of central heat altogether. We shall see further proof of that very soon.”
+;e:prof=smirking;i=
 
-
-“I repudiate the notion of central heat altogether. We shall see further proof of that very soon.”
-e:prof=smirking
-
-No variation, always the same conclusion.
+No variation, always the same conclusion. Of course, I was not inclined to argue. My silence was taken for consent and the descent went on.
 s=none;e:axel=annoyed
-
-Of course, I was not inclined to argue. My silence was taken for consent and the descent went on.
-e:axel=weary
 
 Another three hours, and I saw no bottom to the chimney yet.
 e:axel=wary;f:b:snaffels-middle-chimney-down=blur(3px)
@@ -4007,19 +3998,19 @@ I stopped short just as I was going to place my feet upon my uncle’s head.
 s=none;e:axel=surprised
 
 “We are there,” he cried.
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=excitedlookdown;i=
 
 “Where?” said I, stepping near to him.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=wary;i=
 
 “At the bottom of the perpendicular chimney,” he answered.
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=happylook;i=
 
 “Is there no way farther?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confused;i=
 
 “Yes; there is a sort of passage which inclines to the right. We will see about that tomorrow. Let us have our supper, and go to sleep.”
-s=prof;e:prof=happylook
+s=prof;e:prof=happylook;e:prof=unhappy;i=
 
 The darkness was not yet complete.
 s=none;e:axel=neutral
@@ -4033,7 +4024,7 @@ f:b:snaffels-middle-chimney-up=blur(3px)
 When lying on my back, I opened my eyes and saw a bright sparkling point of light at the extremity of the gigantic tube 3,000 feet long, now a vast telescope.
 e:axel=surprised
 
-It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor.<e>Verne didn't forget the <book>Midnight Sun|midnight sun</book>. 19th-century scientists just thought you could see stars during the day from the bottom of dark chimneys. (Because they were stupid.)</e>
+It was a star which, seen from this depth, had lost all scintillation, and which by my computation should be 46; Ursa Minor.<e>Verne didn't forget the <book>Midnight Sun|midnight sun</book>. 19th-century scientists (idiots) just thought you could see stars during daytime if viewed from the bottom of a dark chimney.</e>
 e:axel=thinking
 
 Then I fell fast asleep.
