@@ -1170,11 +1170,7 @@ The instruments were:
 
 2. An aneroid barometer, to indicate extreme pressures of the atmosphere. An ordinary barometer would not have answered the purpose, as the pressure would increase during our descent to a point which the mercurial barometer would not register.
 
-3. A chronometer, made by Boissonnas Jun., of Geneva, accurately set to the meridian of Hamburg.
-
-4. Two compasses, viz., a common compass and a dipping needle.
-
-5. A night glass.
+3. A chronometer, made by Boissonnas Jun., of Geneva, accurately set to the meridian of Hamburg.<br>4. Two compasses, viz., a common compass and a dipping needle.<br>5. A night glass.
 
 6. Two of Ruhmkorff’s apparatus, which, by means of an electric current, supplied a safe and handy portable light.
 
