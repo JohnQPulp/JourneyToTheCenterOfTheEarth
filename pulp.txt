@@ -4502,7 +4502,7 @@ s=prof;e:prof=serious;e:prof=scowling;i=2
 r=title
 
 In fact, we had to ration ourselves. Our provision of water could not last more than three days.
-s=none;e:axel=unhappy;b=tunnel-3;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;f:b:tunnel-3=blur(3px)
+s=none;e:axel=unhappy;b=tunnel-3;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;f:b:tunnel-3=blur(6px)
 
 I found that out for certain when suppertime came. And, to our sorrow, we had little reason to expect to find a spring in these transition beds.
 e:axel=weary
@@ -4555,35 +4555,29 @@ e:axel=weary;f:b:tunnel-gallery-2=
 At one moment, the tunnel becoming very narrow, I leaned against the wall.
 e:axel=weary
 
-When I removed my hand it was black.
+When I removed my hand it was black. I looked nearer, and found we were in a coal formation.
 
-
-I looked nearer, and found we were in a coal formation.
-e:axel=curious
 
 “A coal mine!” I cried.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlookup;i=
 
 “A mine without miners,” my uncle replied.
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=unhappy;i=;e:prof=contemplative;i=
 
 “Who knows?” I asked.
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=seriouslookdown;i=
 
 “I know,” the Professor pronounced decidedly,
 s=prof;e:prof=serious
 
-“I am certain that this gallery driven through beds of coal was never pierced by the hand of man.”
-
-
-“But whether it be the hand of nature or not does not matter. Supper time is come; let us sup.”
-e:prof=thinking;i=2
+“I am certain that this gallery driven through beds of coal was never pierced by the hand of man. But whether it be the hand of nature or not does not matter. Supper time is come; let us sup.”
+;e:prof=annoyed;i=
 
 Hans prepared some food. I scarcely ate, and I swallowed down the few drops of water rationed out to me. One flask half full was all we had left to slake the thirst of three men.
 s=none;e:hans=neutral
 
 After their meal my two companions laid themselves down upon their rugs, and found in sleep a solace for their fatigue. But I could not sleep, and I counted every hour until morning.
-e:prof=weary;e:hans=weary
+e:prof=weary;e:hans=weary;f:b:tunnel-gallery-2=blur(3px)
 
 On Saturday, at six, we started afresh.
 e:axel=neutral
@@ -4654,11 +4648,8 @@ e:axel=wary
 Happily, our light was from Ruhmkorff’s ingenious apparatus. If unfortunately we had explored this gallery with torches, a terrible explosion would have put an end to travelling and travellers at one stroke.
 e:axel=neutral
 
-This excursion through the coal mine lasted till night. My uncle scarcely could restrain his impatience at the horizontal road.
-e:axel=weary
-
-The darkness, always deep twenty yards before us, prevented us from estimating the length of the gallery; and I was beginning to think it must be endless,
-m=break,1
+This excursion through the coal mine lasted till night. My uncle scarcely could restrain his impatience at the horizontal road. The darkness, always deep twenty yards before us, prevented us from estimating the length of the gallery; and I was beginning to think it must be endless,
+m=break,1;f:b:tunnel-cavern-3=blur(5px)
 
 when suddenly at six o’clock a wall very unexpectedly stood before us.
 e:axel=surprised;b=tunnel-end
@@ -4667,28 +4658,25 @@ Right or left, top or bottom, there was no road farther; we were at the end of a
 e:axel=upset
 
 “Very well, it’s all right!” cried my uncle,
-s=prof;e:prof=unhappy
+s=prof;e:prof=unhappy;e:prof=serious;i=
 
-“now, at any rate, we shall know what we are about.”
-e:prof=thinking
-
-“We are not in Saknussemm’s road, and all we have to do is to go back. Let us take a night’s rest, and in three days we shall get to the fork in the road.”
-e:prof=serious
+“now, at any rate, we shall know what we are about. We are not in Saknussemm’s road, and all we have to do is to go back. Let us take a night’s rest, and in three days we shall get to the fork in the road.”
+e:prof=thinking;e:prof=contemplative;i=
 
 “Yes,” said I, “if we have any strength left.”
 s=axel;e:axel=weary
 
 “Why not?”
-s=prof;e:prof=thinking;i=2
+s=prof;e:prof=thinking;i=2;e:prof=suspicious;i=
 
 “Because tomorrow we shall have no water.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=unhappy;i=2
 
 “Nor courage either?” asked my uncle severely.
 s=prof;e:prof=annoyed
 
 I dared make no answer.
-s=none;e:axel=fearful
+s=none;e:axel=fearful;f:b:tunnel-end=blur(3px)
 
 ## XXI. Compassion Fuses the Professor’s Heart
 r=title
