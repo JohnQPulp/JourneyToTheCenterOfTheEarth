@@ -3008,10 +3008,10 @@ On our arrival the master came with outstretched hands, and without more ceremon
 
 
 To accompany him down the long, narrow, dark passage, would have been impossible. Therefore, we followed, as he bid us.
-
+f:b:gardar-wide=blur(3px)
 
 The building was constructed of roughly squared timbers, with rooms on both sides, four in number, all opening out into the one passage: these were the kitchen, the weaving shop, the *badstofa*, or family sleeping-room, and the visitors’ room, which was the best of all.
-b=gardar-rooms
+b=gardar-rooms;f:b:gardar-rooms=blur(3px)
 
 My uncle, whose height had not been thought of in building the house, of course hit his head several times against the beams that projected from the ceilings.
 e:prof=annoyed
@@ -3052,10 +3052,10 @@ e:prof=happy;e:axel=happy
 Those who could speak kept repeating *Sællvertu*, in every conceivable tone; those that could not speak made up for that want by shrill cries.
 
 
-This concert was brought to a close by the announcement of dinner.
-e:axel=neutral
+This concert was brought to a close by the announcement of dinner. At that moment our hunter returned, who had been seeing his horses provided for;
+e:axel=neutral;f:b:gardar-rooms=
 
-At that moment our hunter returned, who had been seeing his horses provided for; that is to say, he had economically let them loose in the fields, where the poor beasts had to content themselves with the scanty moss they could pull off the rocks and a few meagre sea weeds, and the next day they would not fail to come of themselves and resume the labours of the previous day.
+that is to say, he had economically let them loose in the fields, where the poor beasts had to content themselves with the scanty moss they could pull off the rocks and a few meagre sea weeds, and the next day they would not fail to come of themselves and resume the labours of the previous day.
 e:hans=neutral
 
 “*Sællvertu*,” said Hans.
@@ -3065,13 +3065,13 @@ Then calmly, automatically, and dispassionately he kissed the host, the hostess,
 s=none
 
 This ceremony over, we sat at table, twenty-four in number, and therefore one upon another. The luckiest had only two urchins upon their knees.
-
+;f:b:gardar-rooms=blur(3px)
 
 But silence reigned in all this little world at the arrival of the soup, and the national taciturnity resumed its empire even over the children.
 
 
 The host served out to us a soup made of lichen and by no means unpleasant, then an immense piece of dried fish floating in butter rancid with twenty years’ keeping, and, therefore, according to Icelandic gastronomy, much preferable to fresh butter.
-
+;f:b:gardar-rooms=blur(3px)
 
 Along with this, we had *skye*, a sort of clotted milk, with biscuits, and a liquid prepared from juniper berries; for beverage we had a thin milk mixed with water, called in this country *blanda*.
 
@@ -3089,7 +3089,7 @@ Our hostess hospitably offered us her assistance in undressing, according to Ice
 e:axel=weary
 
 At five next morning we bade our host farewell, my uncle with difficulty persuading him to accept a proper remuneration; and Hans signalled the start.
-e:axel=neutral;f:b:gardar-rooms=
+e:axel=neutral;b=gardar-wide
 
 At a hundred yards from Gardär the soil began to change its aspect; it became boggy and less favourable to progress.
 b=iceland-trip-2
@@ -3103,20 +3103,17 @@ e:axel=nervous;m=break,1
 and I was filled with loathing at the sight of a huge deformed head, the skin shining and hairless, and repulsive sores visible through the gaps in the poor creature’s wretched rags.
 
 
-The unhappy being forbore to approach us and offer his misshapen hand.
-
-
-He fled away, but not before Hans had saluted him with the customary *Sællvertu*.
+The unhappy being forbore to approach us and offer his misshapen hand. He fled away, but not before Hans had saluted him with the customary *Sællvertu*.
 
 
 “*Spetelsk*,” said he.
-s=hans;e:hans=contemplativelook
+s=hans;e:hans=contemplativelook;e:hans=seriouslook;i=
 
 “A leper!” my uncle repeated.
-s=prof;e:prof=scowling
+s=prof;e:prof=scowling;e:prof=annoyed;i=2
 
 This word produced a repulsive effect. The horrible disease of leprosy is too common in Iceland; it is not contagious, but hereditary, and lepers are forbidden to marry.
-s=none;e:axel=upset
+s=none;e:axel=upset;f:b:iceland-trip-2=blur(3px)
 
 These apparitions were not cheerful, and did not throw any charm over the less and less attractive landscapes.
 
@@ -3131,7 +3128,7 @@ I felt melancholy under this savage aspect of nature, and my thoughts went away 
 e:axel=unhappy;f:b:iceland-trip-2=blur(3px)
 
 We had to cross a few narrow fjords, and at last quite a wide gulf; the tide, then high, allowed us to pass over without delay, and to reach the hamlet of Álftanes, one mile beyond.
-
+;f:b:iceland-trip-2=blur(6px)
 
 That evening, after having forded two rivers full of trout and pike, called Alfa and Heta, we were obliged to spend the night in a deserted building worthy to be haunted by all the elfins of Scandinavia.
 e:axel=wary
@@ -3143,7 +3140,7 @@ No particular event marked the next day. Bogs, dead levels, melancholy desert tr
 
 
 On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country *hraun*;
-b=iceland-trip-3
+b=iceland-trip-3;f:b:iceland-trip-3=blur(3px)
 
 the writhen surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions.
 
@@ -3151,23 +3148,17 @@ the writhen surface presented the appearance of distorted, twisted cables, somet
 Yet here and there were a few jets of steam from hot springs.
 
 
-We had no time to watch these phenomena; we had to proceed on our way.
-
-
-Soon at the foot of the mountains the boggy land reappeared, intersected by little lakes.
+We had no time to watch these phenomena; we had to proceed on our way. Soon at the foot of the mountains the boggy land reappeared, intersected by little lakes.
 
 
 Our route now lay westward; we had turned the great bay of Faxa, and the twin peaks of Snæfells rose white into the cloudy sky at the distance of at least five miles.
 
 
-The horses did their duty well, no difficulties stopped them in their steady career.
-
-
-I was getting tired; but my uncle was as firm and straight as he was at our first start. I could not help admiring his persistency, as well as the hunter’s, who treated our expedition like a mere promenade.
+The horses did their duty well, no difficulties stopped them in their steady career. I was getting tired; but my uncle was as firm and straight as he was at our first start. I could not help admiring his persistency, as well as the hunter’s, who treated our expedition like a mere promenade.
 e:axel=weary;e:prof=serious
 
 June 20. At six p.m. we reached Büdir, a village on the sea shore; and the guide there claiming his due, my uncle settled with him.
-f:b:iceland-trip-3=blur(3px)
+f:b:iceland-trip-3=blur(6px)
 
 It was Hans’ own family, that is, his uncles and cousins, who gave us hospitality; we were kindly received, and without taxing too much the goodness of these folks, I would willingly have tarried here to recruit after my fatigues.
 
