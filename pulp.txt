@@ -8918,7 +8918,7 @@ The diffused light revealed the smallest object in the dense and distant thicket
 e:axel=surprised
 
 They were gigantic animals; it was a herd of mastodons﻿—not fossil remains, but living and resembling those the bones of which were found in the marshes of Ohio in 1801.
-b=tunnel-shadowless-forest-mastodons
+b=tunnel-shadowless-forest
 
 I saw those huge elephants whose long, flexible trunks were grouting and turning up the soil under the trees like a legion of serpents.
 
@@ -8957,10 +8957,10 @@ I looked, shaking my head incredulously.
 s=none;e:axel=suspicious
 
 But though at first I was unbelieving I had to yield to the evidence of my senses.
-e:axel=surprised;f:b:tunnel-shadowless-forest-mastodons=blur(3px)
+e:axel=surprised
 
 In fact, at a distance of a quarter of a mile, leaning against the trunk of a gigantic kauri, stood a human being, the Proteus of those subterranean regions, a new son of Neptune, watching this countless herd of mastodons.
-b=tunnel-shadowless-forest-mastodons-man
+
 
 <span class='italics'>Immanis pecoris custos, immanior ipse.</span><f>“The shepherd of gigantic herds, and huger still himself.”</f>
 m=margin
@@ -8984,7 +8984,7 @@ e:axel=fearful
 s=axel;e:axel=fearfullook;m=break,1
 
 who for once allowed himself to be persuaded.
-s=;f:b:tunnel-shadowless-forest-mastodons-man=blur(3px)
+s=;
 
 In another quarter of an hour our nimble heels had carried us beyond the reach of this horrible monster.
 s=none;e:axel=nervous;b=tunnel-shadowless-forest;f:b:tunnel-shadowless-forest=blur(3px)
