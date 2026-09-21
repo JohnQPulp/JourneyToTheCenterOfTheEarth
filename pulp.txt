@@ -2807,13 +2807,10 @@ I threw myself wholly into the pleasure of the trip, and enjoyed the feeling of 
 
 
 “Besides,” I said to myself, “where’s the risk? Here we are travelling all through a most interesting country! We are about to climb a very remarkable mountain; at the worst we are going to scramble down an extinct crater.”
-s=axel;e:axel=thinking;x:axel=hat
+s=axel;e:axel=thinking;x:axel=hat;e:axel=annoyed;i=;e:axel=nervouslookup;i=
 
-“It is evident that Saknussemm did nothing more than this. As for a passage leading to the centre of the globe, it is mere rubbish! Perfectly impossible!”
-e:axel=serious
-
-“Very well, then; let us get all the good we can out of this expedition, and don’t let us haggle about the chances.”
-e:axel=contemplativelook
+“It is evident that Saknussemm did nothing more than this. As for a passage leading to the centre of the globe, it is mere rubbish! Perfectly impossible! Very well, then; let us get all the good we can out of this expedition, and don’t let us haggle about the chances.”
+e:axel=serious;e:axel=nervous;i=;e:axel=annoyed;i=
 
 This reasoning having settled my mind, we got out of Reykjavík.
 s=none;e:axel=happy;b=iceland-trip-1
@@ -2846,19 +2843,19 @@ e:axel=smirking
 s=prof;e:prof=happylookdown;x:prof=hat
 
 “You will see, Axel, that there is no more sagacious animal than the Icelandic horse. He is stopped by neither snow, nor storm, nor impassable roads, nor rocks, glaciers, or anything. He is courageous, sober, and sure-footed. He never makes a false step, never shies.”
-e:prof=happy
+e:prof=happy;e:prof=happylook;i=
 
 “If there is a river or fjord to cross (and we shall meet with many) you will see him plunge in at once, just as if he were amphibious, and gain the opposite bank. But we must not hurry him; we must let him have his way, and we shall get on at the rate of thirty miles a day.”
-e:prof=happylook
+e:prof=happylook;e:prof=curious;i=
 
 “*We* may; but how about our guide?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confused;i=
 
 “Oh, never mind him. People like him get over the ground without a thought.”
 s=prof;e:prof=neutral
 
 “There is so little action in this man that he will never get tired; and besides, if he wants it, he shall have my horse. I shall get cramped if I don’t have a little action. The arms are all right, but the legs want exercise.”
-
+;e:prof=annoyedlookdown;i=
 
 We were advancing at a rapid pace.
 s=none;e:axel=neutral
@@ -2885,7 +2882,7 @@ We were to know them before long, but on consulting Olsen’s map, I saw that th
 
 
 In fact, the great plutonic action is confined to the central portion of the island; there, rocks of the “trappean” and volcanic class, including trachyte, basalt, and tuffs and agglomerates associated with streams of lava, have made this a land of supernatural horrors.
-e:axel=wary;f:b:iceland-trip-1=blur(3px)
+e:axel=wary
 
 I had no idea of the spectacle which was awaiting us in the peninsula of Snæfells, where these ruins of a fiery nature have formed a frightful chaos.
 e:axel=fearful
@@ -2900,13 +2897,13 @@ I consulted the map to see where Gardär was. I saw there was a small town of th
 
 
 “Four miles only!” he exclaimed; “four miles out of twenty-eight. What a nice little walk!”
-s=prof;e:prof=thinkinglookdown
+s=prof;e:prof=thinkinglookdown;e:prof=smirking;i=
 
 He was about to make an observation to the guide, who without answering resumed his place at the head, and went on his way.
 s=none;e:hans=neutral
 
 Three hours later, still treading on the colourless grass of the pasture land, we had to work round the Kollafjord, a longer way but an easier one than across that inlet.
-
+f:b:iceland-trip-wide=blur(3px)
 
 We soon entered into a *pingstaœr* or parish called Ejulberg, from whose steeple twelve o’clock would have struck, if Icelandic churches were rich enough to possess clocks.
 
@@ -2918,7 +2915,7 @@ There our horses were baited; then taking the narrow path to left between a chai
 
 
 It was now four o’clock, and we had gone four Icelandic miles, or twenty-four English miles.
-
+f:b:iceland-trip-wide=
 
 In that place the fjord was at least three English miles wide; the waves rolled with a rushing din upon the sharp-pointed rocks; this inlet was confined between walls of rock, precipices crowned by sharp peaks 2,000 feet high, and remarkable for the brown strata which separated the beds of reddish tuff.
 
@@ -2942,61 +2939,58 @@ At last the clever little pony, with a bend of his knees, started from under the
 
 
 “Confounded brute!” cried the unhorsed horseman,
-s=prof;e:prof=angry;m=break,1
+s=prof;e:prof=angry;m=break,1;e:prof=confusedscowling;i=
 
 suddenly degraded into a pedestrian, just as ashamed as a cavalry officer degraded to a foot soldier.
 s=
 
 “*Färja*,” said the guide, touching his shoulder.
-s=hans;e:hans=neutrallook
+s=hans;e:hans=neutrallook;e:hans=seriouslook;i=;e:hans=contemplative;i=
 
 “What! A boat?”
-s=prof;e:prof=surprised
+s=prof;e:prof=surprised;e:prof=confused;i=
 
 “*Der*,” replied Hans, pointing to one.
-s=hans;e:hans=neutrallook
+s=hans;e:hans=neutrallook;e:hans=contemplativelook;i=;e:hans=seriouslook;i=
 
 “Yes,” I cried; “there is a boat.”
-s=axel;e:axel=surprisedlook
+s=axel;e:axel=surprisedlook;e:axel=confusedlook;i=
 
 “Why did not you say so then? Well, let us go on.”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=annoyed;i=2
 
 “*Tidvatten*,” said the guide.
-s=hans;e:hans=;i=2;z:hans=86,54,9
+s=hans;e:hans=;i=2;z:hans=86,54,9;e:hans=thinking;i=
 
 “What is he saying?”
 s=axel;e:axel=confused
 
 “He says tide,” said my uncle, translating the Danish word.
-e:prof=serious;s=prof
+e:prof=serious;s=prof;e:prof=;i=
 
 “No doubt we must wait for the tide.”
-e:prof=annoyed
+e:prof=annoyed;e:prof=annoyedlookdown;i=
 
 “*Förbida*,” said my uncle.
-e:prof=thinking
+e:prof=thinking;e:prof=wary;i=
 
 “*Ja*,” replied Hans.
-s=hans
+s=hans;e:hans=;i=2
 
 My uncle stamped with his foot, while the horses went on to the boat.
 s=none;e:prof=angry
 
-I perfectly understood the necessity of abiding a particular moment of the tide to undertake the crossing of the fjord, when, the sea having reached its greatest height, it should be slack water.
+I perfectly understood the necessity of abiding a particular moment of the tide to undertake the crossing of the fjord, when, the sea having reached its greatest height, it should be slack water. Then the ebb and flow have no sensible effect, and the boat does not risk being carried either to the bottom or out to sea.
 e:axel=neutral
 
-Then the ebb and flow have no sensible effect, and the boat does not risk being carried either to the bottom or out to sea.
-
-
 That favourable moment arrived only with six o’clock; when my uncle, myself, the guide, two other passengers and the four horses, trusted ourselves to a somewhat fragile raft.
-
+;f:b:iceland-trip-wide=blur(3px)
 
 Accustomed as I was to the swift and sure steamers on the Elbe, I found the oars of the rowers rather a slow means of propulsion. It took us more than an hour to cross the fjord; but the passage was effected without any mishap.
 
 
 In another half hour we had reached the *aðalkirkja* of Gardär.
-b=gardar-wide
+b=gardar-wide;f:b:gardar-wide=blur(3px)
 
 ## XIII. Hospitality Under the Arctic Circle
 r=title
