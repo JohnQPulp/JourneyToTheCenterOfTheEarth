@@ -4286,19 +4286,19 @@ e:axel=contemplative;f:b:tunnel-cavern-1=blur(3px)
 r=title
 
 Next day, Tuesday, June 30, at 6 a.m., the descent began again.
-b=tunnel-intersection;f:b:tunnel-intersection=blur(3px)
+b=tunnel-cavern-1;f:b:tunnel-cavern-1=blur(3px)
 
 We were still following the gallery of lava, a real natural staircase, and as gently sloping as those inclined planes which in some old houses are still found instead of flights of steps.
 
 
 And so we went on until 12:17, the precise moment when we overtook Hans, who had stopped.
-e:hans=neutral;f:b:tunnel-intersection=
+e:hans=neutral;b=tunnel-intersection
 
 “Ah! Here we are,” exclaimed my uncle,
-s=prof;e:prof=excited;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack
+s=prof;e:prof=excited;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;e:prof=happy;i=
 
 “at the very end of the chimney.”
-e:prof=smirking
+e:prof=smirking;e:prof=happylook;i=
 
 I looked around me. We were standing at the intersection of two roads, both dark and narrow.
 s=none
@@ -4306,17 +4306,14 @@ s=none
 Which were we to take? This was a difficulty.
 e:axel=confused
 
-Still my uncle refused to admit an appearance of hesitation, either before me or the guide; he pointed out the eastern tunnel,
-e:prof=serious;m=break,1
-
-and we were soon all three in it.
-b=tunnel-2
+Still my uncle refused to admit an appearance of hesitation, either before me or the guide; he pointed out the eastern tunnel, and we were soon all three in it.
+e:prof=serious;f:b:tunnel-intersection=blur(3px)
 
 Besides there would have been interminable hesitation before this choice of roads; for since there was no indication whatever to guide our choice, we were obliged to trust to chance.
 e:axel=thinking
 
 The slope of this gallery was scarcely perceptible, and its sections very unequal.
-e:axel=neutral
+e:axel=neutral;b=tunnel-2;f:b:tunnel-2=blur(3px)
 
 Sometimes we passed a series of arches succeeding each other like the majestic arcades of a Gothic cathedral. Here the architects of the middle ages might have found studies for every form of the sacred art which sprang from the development of the pointed arch.
 e:axel=contemplative
@@ -4327,10 +4324,7 @@ A mile farther we had to bow our heads under corniced elliptic arches in the Rom
 In other places this magnificence gave way to narrow channels between low structures which looked like beaver’s huts, and we had to creep along through extremely narrow passages.
 
 
-The heat was perfectly bearable.
-
-
-Involuntarily I began to think of its heat when the lava thrown out by Snæfells was boiling and working through this now silent road.
+The heat was perfectly bearable. Involuntarily I began to think of its heat when the lava thrown out by Snæfells was boiling and working through this now silent road.
 e:axel=thinking;f:b:tunnel-2=blur(3px)
 
 I imagined the torrents of fire hurled back at every angle in the gallery, and the accumulation of intensely heated vapours in the midst of this confined channel.
@@ -4346,19 +4340,16 @@ By six in the evening, after a not very fatiguing walk, we had gone two leagues 
 e:prof=weary
 
 My uncle said it was time to go to sleep. We ate without talking, and went to sleep without reflection.
-e:axel=neutral;f:b:tunnel-2=blur(6px)
+e:axel=neutral;b=night;f:b:night=blur(3px)
 
-Our arrangements for the night were very simple; a railway rug each, into which we rolled ourselves, was our sole covering.
-
-
-We had neither cold nor intrusive visits to fear.
+Our arrangements for the night were very simple; a railway rug each, into which we rolled ourselves, was our sole covering. We had neither cold nor intrusive visits to fear.
 
 
 Travellers who penetrate into the wilds of central Africa, and into the pathless forests of the New World, are obliged to watch over each other by night. But we enjoyed absolute safety and utter seclusion; no savages or wild beasts infested these silent depths.
 e:axel=contemplative
 
 Next morning, we awoke fresh and in good spirits. The road was resumed.
-e:axel=happy;f:b:tunnel-2=blur(3px)
+e:axel=happy;f:b:tunnel-2=blur(3px);b=tunnel-2
 
 As the day before, we followed the path of the lava. It was impossible to tell what rocks we were passing: the tunnel, instead of tending lower, approached more and more nearly to a horizontal direction, I even fancied a slight rise.
 e:axel=neutral
@@ -4370,13 +4361,13 @@ e:axel=weary;f:b:tunnel-2=
 s=prof;e:prof=annoyed
 
 “Well, I cannot stand it any longer,” I replied.
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=wary;i=2
 
 “What! After three hours’ walk over such easy ground.”
-s=prof;e:prof=scowling
+s=prof;e:prof=scowling;e:prof=serious;i=
 
 “It may be easy, but it is tiring all the same.”
-s=axel;e:axel=unhappy;i=2
+s=axel;e:axel=unhappy;i=2;e:axel=seriouslookdown;i=
 
 “What, when we have nothing to do but keep going down!”
 s=prof;e:prof=angry
@@ -4385,10 +4376,10 @@ s=prof;e:prof=angry
 s=axel;e:axel=serious
 
 “Going up!” said my uncle, with a shrug.
-s=prof;e:prof=scowling;i=2
+s=prof;e:prof=scowling;i=2;e:prof=annoyed;i=
 
 “No doubt, for the last half-hour the inclines have gone the other way, and at this rate we shall soon arrive upon the level soil of Iceland.”
-s=axel;e:axel=serious;i=2
+s=axel;e:axel=serious;i=2;e:axel=confusedlookup;i=
 
 The Professor nodded slowly and uneasily like a man that declines to be convinced.
 s=none;e:prof=wary
@@ -4397,7 +4388,7 @@ I tried to resume the conversation. He answered not a word, and gave the signal 
 e:axel=neutral
 
 Still I had courageously shouldered my burden again, and was rapidly following Hans, whom my uncle preceded. I was anxious not to be left behind. My greatest care was not to lose sight of my companions.
-e:axel=serious
+e:axel=serious;f:b:tunnel-2=blur(3px)
 
 I shuddered at the thought of being lost in the mazes of this vast subterranean labyrinth.
 e:axel=fearful
@@ -4406,7 +4397,7 @@ Besides, if the ascending road did become steeper, I was comforted with the thou
 e:axel=thinking
 
 There was hope in this. Every step confirmed me in it, and I was rejoicing at the thought of meeting my little Gräuben again.
-e:axel=happy;f:b:tunnel-2=blur(3px)
+e:axel=happy;f:b:tunnel-2=blur(5px)
 
 By midday there was a change in the appearance of this wall of the gallery.
 e:axel=neutral;b=tunnel-3
@@ -4418,28 +4409,28 @@ The mass was composed of inclined and sometimes vertical strata. We were passing
 e:axel=thinking
 
 “It is evident,” I cried, “the marine deposits formed in the second period, these shales, limestones, and sandstones. We are turning away from the primary granite.”
-s=axel;e:axel=thinkinglook
+s=axel;e:axel=thinkinglook;e:axel=wary;i=
 
 “We are just as if we were people of Hamburg going to Lübeck by way of Hanover!”
-e:axel=upset
+e:axel=upset;e:axel=serious;i=2
 
 I had better have kept my observations to myself. But my geological instinct was stronger than my prudence, and uncle Liedenbrock heard my exclamation.
 s=none;e:axel=annoyed
 
 “What’s that you are saying?” he asked.
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=suspicious;i=
 
 “See,” I said,
-s=axel;e:axel=seriouslook;m=break,1
+s=axel;e:axel=seriouslook;m=break,1;e:axel=unhappy;i=
 
 pointing to the varied series of sandstones and limestones, and the first indication of slate.
 s=
 
 “Well?”
-s=prof;e:prof=suspicious
+s=prof;e:prof=suspicious;e:prof=serious;i=2
 
 “We are at the period when the first plants and animals appeared.”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=seriouslookdown;i=
 
 “Do you think so?”
 s=prof;e:prof=suspicious;i=2
@@ -4447,11 +4438,8 @@ s=prof;e:prof=suspicious;i=2
 “Look close, and examine.”
 s=axel;e:axel=serious;i=2
 
-I obliged the Professor to move his lamp over the walls of the gallery.
+I obliged the Professor to move his lamp over the walls of the gallery. I expected some signs of astonishment; but he spoke not a word, and went on.
 s=none;e:axel=neutral
-
-I expected some signs of astonishment; but he spoke not a word, and went on.
-e:prof=serious;e:axel=confused
 
 Had he understood me or not? Did he refuse to admit, out of self-love as an uncle and a philosopher, that he had mistaken his way when he chose the eastern tunnel? Or was he determined to examine this passage to its farthest extremity?
 e:axel=thinking;f:b:tunnel-3=blur(3px)
@@ -4466,7 +4454,7 @@ If I am right, I thought, I must soon find some fossil remains of primitive life
 e:axel=thinking
 
 I had not gone a hundred paces before incontestable proofs presented themselves.
-e:axel=excited;f:b:tunnel-3=
+e:axel=excited
 
 It could not be otherwise, for in the Silurian age the seas contained at least fifteen hundred vegetable and animal species.
 e:axel=thinking
@@ -4477,35 +4465,38 @@ e:axel=curious
 Professor Liedenbrock could not be mistaken, I thought, and yet he pushed on, with, I suppose, his eyes resolutely shut.
 e:axel=annoyed
 
-This was only invincible obstinacy. I could hold out no longer. I picked up a perfectly formed shell, which had belonged to an animal not unlike the woodlouse: then, joining my uncle, I said:
-e:axel=curious
+This was only invincible obstinacy. I could hold out no longer.
+
+
+I picked up a perfectly formed shell, which had belonged to an animal not unlike the woodlouse: then, joining my uncle, I said:
+e:axel=curious;;f:b:tunnel-3=
 
 “Look at this!”
-s=axel;e:axel=seriouslook
+s=axel;e:axel=seriouslook;e:axel=serious;i=2
 
 “Very well,” said he quietly, “it is the shell of a crustacean, of an extinct species called a trilobite. Nothing more.”
 s=prof;e:prof=contemplativelookdown
 
 “But don’t you conclude﻿—?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=wary;i=
 
 “Just what you conclude yourself. Yes; I do, perfectly. We have left the granite and the lava. It is possible that I may be mistaken.”
 s=prof;e:prof=thinking
 
 “But I cannot be sure of that until I have reached the very end of this gallery.”
-e:prof=serious
+e:prof=serious;e:prof=annoyed;i=
 
 “You are right in doing this, my uncle, and I should quite approve of your determination, if there were not a danger threatening us nearer and nearer.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=wary;i=2
 
 “What danger?”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=suspicious;i=
 
 “The want of water.”
-s=axel;e:axel=unhappy;i=2
+s=axel;e:axel=unhappy;i=2;e:axel=seriouslookdown;i=
 
 “Well, Axel, we will put ourselves upon rations.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=scowling;i=2
 
 ## XX. The First Signs of Distress
 r=title
