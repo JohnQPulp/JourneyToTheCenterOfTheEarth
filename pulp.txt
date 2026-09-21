@@ -3434,7 +3434,7 @@ The vast quantity of this unworked fuel would be sufficient to warm the whole po
 e:axel=thinking
 
 As a true nephew of the Professor Liedenbrock, and in spite of my dismal prospects, I could not help observing with interest the mineralogical curiosities which lay about me as in a vast museum, and I constructed for myself a complete geological account of Iceland.
-e:axel=curious;e:prof=neutral;f:b:snafells-wide=blur(3px)
+e:axel=curious;e:prof=neutral
 
 This most curious island has evidently been projected from the bottom of the sea at a comparatively recent date. Possibly, it may still be subject to gradual elevation.
 
@@ -3446,7 +3446,7 @@ This hypothesis led me to examine with more attention the appearance of the surf
 
 
 Iceland, which is entirely devoid of alluvial soil, is wholly composed of volcanic tufa, that is to say, an agglomeration of porous rocks and stones.
-
+f:b:snafells-wide=blur(3px)
 
 Before the volcanoes broke out it consisted of trap rocks slowly upraised to the level of the sea by the action of central forces. The internal fires had not yet forced their way through.
 
@@ -3482,10 +3482,10 @@ Such was the succession of phenomena which produced Iceland, all arising from th
 e:axel=smirking
 
 So I felt a little comforted as we advanced to the assault of Snæfells.
-e:axel=happy
+
 
 The way was growing more and more arduous, the ascent steeper and steeper; the loose fragments of rock trembled beneath us, and the utmost care was needed to avoid dangerous falls.
-e:axel=weary;f:b:snafells-wide=
+e:axel=weary
 
 Hans went on as quietly as if he were on level ground; sometimes he disappeared altogether behind the huge blocks, then a shrill whistle would direct us on our way to him.
 
@@ -3494,7 +3494,7 @@ Sometimes he would halt, pick up a few bits of stone, build them up into a recog
 
 
 Three hours’ fatiguing march had only brought us to the base of the mountain. There Hans bid us come to a halt, and a hasty breakfast was served out.
-b=snafells-scaling
+
 
 My uncle swallowed two mouthfuls at a time to get on faster. But, whether he liked it or not, this was a rest as well as a breakfast hour and he had to wait till it pleased our guide to move on, which came to pass in an hour.
 
@@ -3503,7 +3503,7 @@ The three Icelanders, just as taciturn as their comrade the hunter, never spoke,
 
 
 We were now beginning to scale the steep sides of Snæfells. Its snowy summit, by an optical illusion not infrequent in mountains, seemed close to us, and yet how many weary hours it took to reach it!
-e:axel=weary
+e:axel=weary;b=snafells-scaling;f:b:snafells-scaling=blur(3px)
 
 The stones, adhering by no soil or fibrous roots of vegetation, rolled away from under our feet, and rushed down the precipice below with the swiftness of an avalanche.
 
@@ -3541,35 +3541,32 @@ Three thousand two hundred feet below us stretched the sea. We had passed the li
 The cold was excessively keen. The wind was blowing violently. I was exhausted.
 e:axel=weary
 
-The Professor saw that my limbs were refusing to perform their office, and in spite of his impatience he decided on stopping.
-e:prof=annoyed
-
-He therefore spoke to the hunter, who shook his head, saying:
-s=none
+The Professor saw that my limbs were refusing to perform their office, and in spite of his impatience he decided on stopping. He therefore spoke to the hunter, who shook his head, saying:
+e:prof=annoyed;f:b:snafells-scaling=
 
 “*Ofvanför.*”
 s=hans;e:hans=thinking
 
 “It seems we must go higher,” said my uncle.
-s=prof;e:prof=serious;x:prof=hat
+s=prof;e:prof=serious;x:prof=hat;e:prof=wary;i=
 
 Then he asked Hans for his reason.
 s=none
 
 “*Mistour*,” replied the guide.
-s=hans;e:hans=
+s=hans;e:hans=;e:hans=neutrallookup;i=
 
 “*Ja mistour*,” said one of the Icelanders in a tone of alarm.
 n:icelander1=?;s=icelander1;e:icelander1=fearfullook;z:icelander1=83,52,9
 
 “What does that word mean?” I asked uneasily.
-s=axel;e:axel=nervous;x:axel=hat
+s=axel;e:axel=nervous;x:axel=hat;e:axel=confused;i=
 
 “Look!” said my uncle.
 s=prof;e:prof=surprisedlook
 
 I looked down upon the plain.
-s=none
+s=none;f:b:snafells-scaling=blur(3px)
 
 An immense column of pulverized pumice, sand and dust was rising with a whirling circular motion like a waterspout; the wind was lashing it on to that side of Snæfells where we were holding on; this dense veil, hung across the sun, threw a deep shadow over the mountain.
 e:axel=fearful;b=snafells-storm
@@ -3581,25 +3578,22 @@ If that huge revolving pillar sloped down, it would involve us in its whirling e
 s=hans;e:hans=serious
 
 Without knowing Danish I understood at once that we must follow Hans at the top of our speed. He began to circle round the cone of the crater, but in a diagonal direction so as to facilitate our progress.
-s=none;e:axel=nervous
+s=none;e:axel=nervous;f:b:snafells-storm=blur(3px)
 
 Presently the dust storm fell upon the mountain, which quivered under the shock; the loose stones, caught with the irresistible blasts of wind, flew about in a perfect hail as in an eruption.
-f:b:snafells-storm=blur(3px)
+f:b:snafells-storm=blur(6px)
 
 Happily we were on the opposite side, and sheltered from all harm. But for the precaution of our guide, our mangled bodies, torn and pounded into fragments, would have been carried afar like the ruins hurled along by some unknown meteor.
+f:b:snafells-storm=blur(6px)
 
-
-Yet Hans did not think it prudent to spend the night upon the sides of the cone. We continued our zigzag climb.
-b=night;f:b:night=blur(3px)
-
-The fifteen hundred remaining feet took us five hours to clear; the circuitous route, the diagonal and the counter marches, must have measured at least three leagues.
-
+Yet Hans did not think it prudent to spend the night upon the sides of the cone. We continued our zigzag climb. The fifteen hundred remaining feet took us five hours to clear; the circuitous route, the diagonal and the counter marches, must have measured at least three leagues.
+b=snafells-scaling;f:b:snafells-scaling=blur(6px)
 
 I could stand it no longer. I was yielding to the effects of hunger and cold. The rarefied air scarcely gave play to the action of my lungs.
-e:axel=weary
+e:axel=weary;f:b:snafells-scaling=blur(10px)
 
 At last, at eleven in the sunlight night, the summit of Snæfells was reached, and before going in for shelter into the crater I had time to observe the midnight sun, at his lowest point, gilding with his pale rays the island that slept at my feet.
-e:axel=happy;b=snafells-view;f:b:snafells-view=blur(3px)
+e:axel=happy;b=snafells-view;f:b:snafells-view=blur(5px)
 
 ## XVI. Boldly Down the Crater
 r=title
