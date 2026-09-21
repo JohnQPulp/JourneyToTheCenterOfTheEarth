@@ -4043,28 +4043,28 @@ There was light enough to distinguish surrounding objects.
 
 
 “Well, Axel, what do you say to it?” cried my uncle, rubbing his hands.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=curious;i=
 
 “Did you ever spend a quieter night in our little house at Königsberg? No noise of cart wheels, no cries of basket women, no boatmen shouting!”
-
+e:prof=happylookup
 
 “No doubt it is very quiet at the bottom of this well, but there is something alarming in the quietness itself.”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confusedlook;i=
 
 “Now come!” my uncle cried;
 s=prof;e:prof=annoyed
 
 “if you are frightened already, what will you be by and by? We have not gone a single inch yet into the bowels of the earth.”
-e:prof=smirking
+e:prof=smirking;e:prof=wary;i=2
 
 “What do you mean?”
 s=axel;e:axel=confused
 
-“I mean that we have only reached the level of the island, long vertical tube, which terminates at the mouth of the crater, has its lower end only at the level of the sea.”
-s=prof;e:prof=neutral
+“I mean that we have only reached the level of the island, long vertical tube, which terminates at the mouth of the crater, has its lower end only at the level of the sea.”<e>Grammar?</e>
+s=prof;e:prof=neutral;e:prof=annoyedlookdown;i=
 
 “Are you sure of that?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “Quite sure. Consult the barometer.”
 s=prof;e:prof=smirking;i=2
@@ -4079,13 +4079,13 @@ And in truth this instrument would become useless as soon as the weight of the a
 s=none;e:axel=thinking
 
 “But,” I said, “is there not reason to fear that this ever-increasing pressure will become at last very painful to bear?”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=serious;i=2
 
 “No; we shall descend at a slow rate, and our lungs will become inured to a denser atmosphere. Aeronauts find the want of air as they rise to high elevations, but we shall perhaps have too much: of the two, this is what I should prefer.”
 s=prof;e:prof=neutral
 
 “Don’t let us lose a moment. Where is the bundle we sent down before us?”
-e:prof=serious
+e:prof=serious;e:prof=suspicious;i=2
 
 I then remembered that we had searched for it in vain the evening before.
 s=none;e:axel=surprised
@@ -4106,7 +4106,7 @@ Immediately the Icelander climbed up like a cat, and in a few minutes the packag
 e:hans=neutral;e:axel=happy
 
 “Now,” said my uncle, “let us breakfast; but we must lay in a good stock, for we don’t know how long we may have to go on.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=contemplativelookdown;i=
 
 The biscuit and extract of meat were washed down with a draught of water mingled with a little gin.
 s=none;e:axel=neutral
@@ -4121,10 +4121,10 @@ This last observation applied to the dark gallery, and was indicated by the comp
 s=none;e:axel=neutral
 
 “Now, Axel,” cried the Professor with enthusiasm,
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=excited;i=2;x:prof=hat,pack;e:prof=happy;i=
 
 “now we are really going into the interior of the earth. At this precise moment the journey commences.”
-
+;e:prof=smirking;i=2;e:prof=smirking;i=
 
 So saying, my uncle took in one hand Ruhmkorff’s apparatus, which was hanging from his neck; and with the other he formed an electric communication with the coil in the lantern, and a sufficiently bright light dispersed the darkness of the passage.
 s=none;e:prof=serious
@@ -4133,10 +4133,10 @@ Hans carried the other apparatus, which was also put into action. This ingenious
 e:hans=neutral;e:axel=thinking
 
 “Now, march!” cried my uncle.
-s=prof;e:prof=excited;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack
+s=prof;e:prof=excited;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;e:prof=happylook;i=
 
 Each shouldered his package. Hans drove before him the load of cords and clothes; and, myself walking last, we entered the gallery.
-s=none;e:axel=serious
+s=none;e:axel=serious;f:b:snaffels-middle-chimney-up=blur(3px)
 
 At the moment of becoming engulfed in this dark gallery, I raised my head, and saw for the last time through the length of that vast tube the sky of Iceland, which I was never to behold again.
 e:axel=sadsmile;f:b:snaffels-middle-chimney-up=blur(3px)
@@ -4157,21 +4157,21 @@ It seemed as if the genii of the depths were lighting up their palace to receive
 e:axel=happy
 
 “It is magnificent!” I cried spontaneously.
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=confusedlookup;i=
 
 “My uncle, what a sight! Don’t you admire those blending hues of lava, passing from reddish brown to bright yellow by imperceptible shades? And these crystals are just like globes of light.”
-e:axel=excitedlook
+e:axel=excitedlook;e:axel=excitedlook;i=
 
 “Aye, you think so, do you, Axel, my boy? Well, you will see greater splendours than these, I hope.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=happy;i=2
 
 “Now let us march: march!”
-e:prof=serious
+e:prof=serious;e:prof=unhappy;i=
 
 He had better have said slide, for we did nothing but drop down the steep inclines.
-s=
+s=;f:b:tunnel-1=blur(3px)
 
-It was the *facilis descensus Averni* of Virgil.<e>Supposed to be "the descent to hell is easy", but Verne pulled a <a href="https://www.youtube.com/watch?v=0lczHvB3Y9s">"they go the house"</a> and so it actually says "the descent of hell is easy".</e>
+It was the *facilis descensus Averni* of Virgil.<e>Verne meant to write "the descent to hell is easy", but the funnier read here is "the descent <i>of</i> hell is easy", because he used "<i>Averni</i>" instead of "<i>Averno</i>". (Possibly it's still technically correct anyway, but let's laugh at him regardless.)</e>
 s=none;e:axel=weary
 
 The compass, which I consulted frequently, gave our direction as southeast with inflexible steadiness. This lava stream deviated neither to the right nor to the left.
@@ -4195,74 +4195,68 @@ e:axel=neutral
 What atmospheric disturbance was the cause of them? I could not answer that question at the moment. Hunger and fatigue made me incapable of reasoning.
 e:axel=confused
 
-A descent of seven hours consecutively is not made without considerable expenditure of strength. I was exhausted.
+A descent of seven hours consecutively is not made without considerable expenditure of strength. I was exhausted. The order to “halt” therefore gave me pleasure. Hans laid our provisions upon a block of lava, and we ate with a good appetite.
 e:axel=weary
 
-The order to “halt” therefore gave me pleasure. Hans laid our provisions upon a block of lava, and we ate with a good appetite.
-e:axel=happy
-
-But one thing troubled me, our supply of water was half consumed.
+But one thing troubled me, our supply of water was half consumed. My uncle reckoned upon a fresh supply from subterranean sources, but hitherto we had met with none. I could not help drawing his attention to this circumstance.
 e:axel=wary
 
-My uncle reckoned upon a fresh supply from subterranean sources, but hitherto we had met with none. I could not help drawing his attention to this circumstance.
-e:axel=nervous
-
 “Are you surprised at this want of springs?” he said.
-s=prof;e:prof=curious;x:prof=;x:axel=
+s=prof;e:prof=curious;x:prof=;x:axel=;e:prof=thinking;i=
 
 “More than that, I am anxious about it; we have only water enough for five days.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=weary;i=2;e:axel=confused;i=
 
 “Don’t be uneasy, Axel, we shall find more than we want.”
 s=prof;e:prof=happy
 
 “When?”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=unhappylookdown;i=
 
 “When we have left this bed of lava behind us. How could springs break through such walls as these?”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=happylook;i=
 
 “But perhaps this passage runs to a very great depth. It seems to me that we have made no great progress vertically.”
 s=axel;e:axel=serious
 
 “Why do you suppose that?”
-s=prof;e:prof=curious;i=2
+s=prof;e:prof=curious;i=2;e:prof=;i=
 
 “Because if we had gone deep into the crust of earth, we should have encountered greater heat.”
 s=axel;e:axel=serious;i=2
 
 “According to your system,” said my uncle.
-s=prof;e:prof=smirking
+s=prof;e:prof=curious
 
 “But what does the thermometer say?”
-e:prof=curious
+e:prof=smirking
 
 “Hardly fifteen degrees (59° Fahr.), nine degrees only since our departure.”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=contemplativelookdown;i=2
 
 “Well, what is your conclusion?”
-s=prof;e:prof=smirking;i=2
+s=prof;e:prof=smirking;i=2;e:prof=smirkingthinking;i=
 
 “This is my conclusion. According to exact observations, the increase of temperature in the interior of the globe advances at the rate of one degree (1⅘° Fahr.) for every hundred feet. But certain local conditions may modify this rate.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=unhappy;i=2
 
 “Thus at Yakutsk in Siberia the increase of a degree is ascertained to be reached every 36 feet. This difference depends upon the heat-conducting power of the rocks. Moreover, in the neighbourhood of an extinct volcano, through gneiss, it has been observed that the increase of a degree is only attained at every 125 feet.”
-
+;e:axel=wary;i=2
 
 “Let us therefore assume this last hypothesis as the most suitable to our situation, and calculate.”
-e:axel=serious;i=2
+e:axel=serious;i=2;e:axel=serious;e:axel=seriouslook;i=
 
 “Well, do calculate, my boy.”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=curious;i=
 
 “Nothing is easier,” said I,
-s=axel;e:axel=contemplative;m=break,1
+s=axel;e:axel=contemplative;m=break,1;e:axel=curiouswarylookdown;i=;e:axel=unhappylookdown;i=
 
 putting down figures in my note book.
 s=
 
 “Nine times a hundred and twenty-five feet gives a depth of eleven hundred and twenty-five feet.”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=serious;i=2;e:axel=;i=2;e:axel=confusedlook;i=
 
 “Very accurate indeed.”
 s=prof;e:prof=neutral
@@ -4271,21 +4265,21 @@ s=prof;e:prof=neutral
 s=axel;e:axel=confused
 
 “By my observation we are at 10,000 feet below the level of the sea.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=contemplativesmirking;i=
 
 “Is that possible?”
-s=axel;e:axel=suspicious
+s=axel;e:axel=suspicious;e:axel=confused;i=2
 
 “Yes, or figures are of no use.”
-s=prof;e:prof=happy;i=2
+s=prof;e:prof=happy;i=2;e:prof=smirkingthinking;i=
 
 The Professor’s calculations were quite correct. We had already attained a depth of six thousand feet beyond that hitherto reached by the foot of man, such as the mines of Kitzbichl in Tyrol, and those of Württemberg in Bohemia.
-s=none;e:axel=surprised
+s=none;e:axel=surprised;f:b:tunnel-cavern-1=blur(3px)
 
 The temperature, which ought to have been 81° (178° Fahr.) was scarcely 15° (59° Fahr.)
 e:axel=curious
 
-Here was cause for reflection.
+Here was cause for reflection.<e>"Here was cause for <a href="https://www.youtube.com/watch?v=QfhUSYq7jEs">Reflection</a>." —Jules Raine</e>
 e:axel=contemplative;f:b:tunnel-cavern-1=blur(3px)
 
 ## XIX. Geological Studies *In Situ*
