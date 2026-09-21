@@ -10433,7 +10433,7 @@ And as he spoke, my uncle, half undressed, in rags, a perfect scarecrow, with hi
 s=none;e:axel=sadsmile
 
 One hour after we had left the grove of olives, we arrived at the little port of San Vicenzo, where Hans claimed his thirteen weeks’ wages, which was counted out to him with a hearty shaking of hands all round.
-e:axel=happy;b=med-wide;f:b:med-wide=blur(3px)
+e:axel=happy;f:b:med-mountain-country=blur(3px)
 
 At that moment, if he did not share our natural emotion, at least his countenance expanded in a manner very unusual with him, and while with the ends of his fingers he lightly pressed our hands, I believe he smiled.
 e:hans=sadsmile
@@ -10442,7 +10442,7 @@ e:hans=sadsmile
 r=title
 
 Such is the conclusion of a history which I cannot expect everybody to believe, for some people will believe nothing against the testimony of their own experience.
-e:axel=contemplative;b=med-wide;f:b:med-wide=blur(3px)
+e:axel=contemplative;b=med-mountain-country;;f:b:med-mountain-country=blur(3px)
 
 However, I am indifferent to their incredulity, and they may believe as much or as little as they please.
 e:axel=smirking
@@ -10451,7 +10451,7 @@ The Stromboliotes received us kindly as shipwrecked mariners. They gave us food 
 e:axel=neutral
 
 After waiting forty-eight hours, on the 31st of August, a small craft took us to Messina, where a few days’ rest completely removed the effect of our fatigues.
-e:axel=happy
+e:axel=happy;b=light;f:b:light=blur(3px)
 
 On Friday, September the 4th, we embarked on the steamer *Volturno*, employed by the French *Messageries Impériales*, and in three days more we were at Marseilles, having no care on our minds except that abominable deceitful compass, which we had mislaid somewhere and could not now examine; but its inexplicable behaviour exercised my mind fearfully.
 e:axel=wary
