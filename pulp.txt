@@ -8081,7 +8081,7 @@ e:axel=surprised;f:b:tunnel-sea-raft-wide-storm=blur(3px)
 r=title
 
 Here I end what I may call my log, happily saved from the wreck, and I resume my narrative as before.
-e:axel=neutral;b=storm;f:b:storm=blur(3px)
+e:axel=neutral;b=storm;f:b:storm=blur(5px)
 
 What happened when the raft was dashed upon the rocks is more than I can tell. I felt myself hurled into the waves; and if I escaped from death, and if my body was not torn over the sharp edges of the rocks, it was because the powerful arm of Hans came to my rescue.
 
@@ -8098,11 +8098,11 @@ e:axel=weary
 But a deluge of rain was still falling, though with that violence which generally denotes the near cessation of a storm.
 
 
-A few overhanging rocks afforded us some shelter from the storm.
+A few overhanging rocks afforded us some shelter from the storm. Hans prepared some food, which I could not touch;
 
 
-Hans prepared some food, which I could not touch; and each of us, exhausted with three sleepless nights, fell into a broken and painful sleep.
-f:b:storm=blur(3px)
+and each of us, exhausted with three sleepless nights, fell into a broken and painful sleep.
+b=night;f:b:night=blur(5px)
 
 The next day the weather was splendid.
 e:axel=happy;b=tunnel-sea-grotto
@@ -8114,7 +8114,7 @@ The exhilarating voice of the Professor fell upon my ears as I awoke; he was omi
 e:prof=happy
 
 “Well, my boy,” he cried, “have you slept well?”
-s=prof
+s=prof;e:prof=happylookdown;i=
 
 Would not anyone have thought that we were still in our cheerful little house on the Königstrasse and that I was only just coming down to breakfast, and that I was to be married to Gräuben that day?
 s=none;e:axel=surprised
@@ -8129,58 +8129,58 @@ All these painful reflections rapidly crossed my mind before I could answer my u
 e:axel=sadsmile
 
 “Well, now,” he repeated, “won’t you tell me how you have slept?”
-s=prof;e:prof=happy;i=2
+s=prof;e:prof=happy;i=2;e:prof=smirkingthinking;i=
 
 “Oh, very well,” I said. “I am only a little knocked up, but I shall soon be better.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=wary;i=2
 
 “Oh,” says my uncle, “that’s nothing to signify. You are only a little bit tired.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=wary;i=2
 
 “But you, uncle, you seem in very good spirits this morning.”
 s=axel;e:axel=confused
 
 “Delighted, my boy, delighted. We have got there.”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=happy;i=
 
 “To our journey’s end?”
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=confusedhappy;i=
 
 “No; but we have got to the end of that endless sea. Now we shall go by land, and really begin to go down! down! down!”
-s=prof;i=2
+s=prof;i=2;e:prof=excitedlookdown;i=
 
 “But, my dear uncle, do let me ask you one question.”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confusedlook;i=
 
 “Of course, Axel.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=curious;i=
 
 “How about returning?”
-s=axel;i=2
+s=axel;i=2;e:axel=fearful;i=3
 
 “Returning? Why, you are talking about the return before the arrival.”
 s=prof;e:prof=annoyed
 
 “No, I only want to know how that is to be managed.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=unhappy;i=2
 
 “In the simplest way possible. When we have reached the centre of the globe, either we shall find some new way to get back, or we shall come back like decent folks the way we came.”
 s=prof;e:prof=;i=2
 
 “I feel pleased at the thought that it is sure not to be shut against us.”
-e:prof=happy
+e:prof=happy;e:prof=smirkingthinking;i=
 
 “But then we shall have to refit the raft.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “Of course.”
-s=prof;i=2
+s=prof;i=2;e:prof=serious;i=3
 
 “Then, as to provisions, have we enough to last?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=weary;i=
 
 “Yes; to be sure we have. Hans is a clever fellow, and I am sure he must have saved a large part of our cargo. But still let us go and make sure.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=suspicious;i=
 
 We left this grotto which lay open to every wind.
 s=none;e:axel=neutral;f:b:tunnel-sea-grotto=blur(3px)
@@ -8198,16 +8198,16 @@ Not that we had suffered no losses. For instance, our firearms; but we might do 
 e:axel=thinking
 
 “Well,” cried the Professor, “as we have no guns we cannot hunt, that’s all.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=
 
 “Yes, but how about the instruments?”
-s=axel;e:axel=contemplative;i=3
+s=axel;e:axel=contemplative;i=3;e:axel=curiouswary;i=
 
 “Here is the aneroid, the most useful of all, and for which I would have given all the others.”
-s=prof;e:prof=happylookdown
+s=prof;e:prof=happylookdown;e:prof=happylookdown;i=
 
 “By means of it I can calculate the depth and know when we have reached the centre; without it we might very likely go beyond, and come out at the antipodes!”
-e:prof=excited
+e:prof=excited;e:prof=happylook;i=
 
 Such high spirits as these were rather too strong.
 s=none;e:axel=wary
@@ -8216,7 +8216,7 @@ s=none;e:axel=wary
 s=axel;e:axel=confused
 
 “Here it is, upon this rock, in perfect condition, as well as the thermometers and the chronometer. The hunter is a splendid fellow.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=curious;i=
 
 There was no denying it. We had all our instruments.
 s=none;e:axel=happy
@@ -8228,55 +8228,55 @@ Still there was the question of provisions to be settled, and I asked﻿—
 m=allowbreak,1;m=nospace,1
 
 “How are we off for provisions?”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=wary;i=2
 
 The boxes containing these were in a line upon the shore, in a perfect state of preservation; for the most part the sea had spared them, and what with biscuits, salt meat, spirits, and salt fish, we might reckon on four months’ supply.
 s=none;e:axel=happy
 
 “Four months!” cried the Professor.
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=excited;i=2
 
 “We have time to go and to return; and with what is left I will give a grand dinner to my friends at the Johannæum.”
-e:prof=happy
+e:prof=happy;e:prof=smirking;i=
 
 I ought by this time to have been quite accustomed to my uncle’s ways; yet there was always something fresh about him to astonish me.
 s=none;e:axel=surprised
 
 “Now,” said he, “we will replenish our supply of water with the rain which the storm has left in all these granite basins; therefore we shall have no reason to fear anything from thirst.”
-s=prof;e:prof=happy;i=2
+s=prof;e:prof=happy;i=2;e:prof=happylook;i=
 
 “As for the raft, I will recommend Hans to do his best to repair it, although I don’t expect it will be of any further use to us.”
-e:prof=smirking
+e:prof=smirking;e:prof=serious;i=3
 
 “How so?” I cried.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confused;i=2
 
 “An idea of my own, my lad. I don’t think we shall come out by the way that we went in.”
-s=prof;e:prof=smirking;i=2
+s=prof;e:prof=smirking;i=2;e:prof=smirkingthinking;i=
 
 I stared at the Professor with a good deal of mistrust. I asked, was he not touched in the brain? And yet there was method in his madness.
 s=none;e:axel=suspicious
 
 “And now let us go to breakfast,” said he.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happylook;i=
 
 I followed him to a headland, after he had given his instructions to the hunter.
-s=none;e:axel=neutral
+s=none;e:axel=neutral;f:b:tunnel-sea-shore=blur(3px)
 
 There preserved meat, biscuit, and tea made us an excellent meal, one of the best I ever remember. Hunger, the fresh air, the calm quiet weather, after the commotions we had gone through, all contributed to give me a good appetite.
 e:axel=happy
 
 Whilst breakfasting I took the opportunity to put to my uncle the question where we were now.
-e:axel=thinking
+e:axel=thinking;f:b:tunnel-sea-shore=
 
 “That seems to me,” I said, “rather difficult to make out.”
-s=axel
+s=axel;e:axel=unhappy;i=2
 
 “Yes, it is difficult,” he said, “to calculate exactly; perhaps even impossible, since during these three stormy days I have been unable to keep any account of the rate or direction of the raft; but still we may get an approximation.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=3
 
 “The last observation,” I remarked, “was made on the island, when the geyser was﻿—”
-s=axel;e:axel=thinking;i=2
+s=axel;e:axel=thinking;i=2;e:axel=confused;i=
 
 “You mean Axel Island. Don’t decline the honour of having given your name to the first island ever discovered in the central parts of the globe.”
 s=prof;e:prof=smirking
@@ -8288,25 +8288,25 @@ s=axel;e:axel=contemplative
 s=prof;e:prof=thinking
 
 “That is right; and this would make three hundred leagues more.”
-s=axel;i=2
+s=axel;i=2;e:axel=curiouswary;i=2
 
 “Yes, and the Liedenbrock sea would be six hundred leagues from shore to shore. Surely, Axel, it may vie in size with the Mediterranean itself.”
 s=prof;e:prof=happy
 
 “Especially,” I replied, “if it happens that we have only crossed it in its narrowest part.”
-s=axel;i=3
+s=axel;i=3;e:axel=confusedlook;i=
 
 “And it is a curious circumstance,” I added, “that if my computations are right, and we are nine hundred leagues from Reykjavík, we have now the Mediterranean above our head.”
-e:axel=contemplativelookup
+e:axel=contemplativelookup;e:axel=happywary;i=
 
 “That is a good long way, my friend. But whether we are under Turkey or the Atlantic depends very much upon the question in what direction we have been moving. Perhaps we have deviated.”
 s=prof;e:prof=;i=2
 
 “No, I think not. Our course has been the same all along, and I believe this shore is southeast of Port Gräuben.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=confused;i=3
 
 “Well,” replied my uncle, “we may easily ascertain this by consulting the compass. Let us go and see what it says.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=suspicious;i=
 
 The Professor moved towards the rock upon which Hans had laid down the instruments. He was gay and full of spirits; he rubbed his hands, he studied his attitudes.
 s=none;e:axel=neutral
@@ -8327,7 +8327,7 @@ He motioned to me to look. An exclamation of astonishment burst from me.
 s=none
 
 The north pole of the needle was turned to what we supposed to be the south. It pointed to the shore instead of to the open sea!
-
+f:b:tunnel-sea-shore=blur(3px)
 
 I shook the box, examined it again, it was in perfect condition. In whatever position I placed the box the needle pertinaciously returned to this unexpected quarter.
 e:axel=confused
