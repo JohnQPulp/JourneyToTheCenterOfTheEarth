@@ -9704,49 +9704,49 @@ The mineral crust of the globe threatened to burst up, the granite foundations t
 e:axel=fearful;x:axel=undressed;x:prof=undressed
 
 “My uncle,” I cried, “we are lost now, utterly lost!”
-s=axel;e:axel=upset;f:b:tunnel-abyss-2=
+s=axel;e:axel=upset;f:b:tunnel-abyss-2=;e:axel=fearful;i=
 
 “What are you in a fright about now?” was the calm rejoinder.
 s=prof;e:prof=neutral
 
 “What is the matter with you?”
-e:prof=serious
+e:prof=serious;e:prof=angry;i=
 
 “The matter? Look at those quaking walls! look at those shivering rocks. Don’t you feel the burning heat?”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=confused;i=2
 
 “Don’t you see how the water boils and bubbles? Are you blind to the dense vapours and steam growing thicker and denser every minute?”
-
+;e:axel=upset;i=
 
 “See this agitated compass needle. It is an earthquake that is threatening us.”
-e:axel=unhappylookdown
+e:axel=unhappylookdown;e:axel=unhappy;i=
 
 My undaunted uncle calmly shook his head.
 s=none
 
 “Do you think,” said he, “an earthquake is coming?”
-s=prof;e:prof=neutral;i=2
+s=prof;e:prof=neutral;i=2;e:prof=angrylookdown;i=
 
 “I do.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confused;i=
 
 “Well, I think you are mistaken.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=
 
 “What! don’t you recognise the symptoms?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=unhappy;i=
 
 “Of an earthquake? no! I am looking out for something better.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=angry;i=
 
 “What can you mean? Explain?”
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=wary;i=
 
 “It is an eruption, Axel.”
-s=prof;e:prof=serious;i=2
+s=prof;e:prof=serious;i=2;e:prof=seriouslook;i=
 
 “An eruption! Do you mean to affirm that we are running up the shaft of a volcano?”
-s=axel;e:axel=surprised
+s=axel;e:axel=surprised;e:axel=fearful;i=
 
 “I believe we are,” said the indomitable Professor with an air of perfect self-possession;
 s=prof;e:prof=thinking;i=2
@@ -9757,20 +9757,20 @@ e:prof=smirking
 The best thing! Was my uncle stark mad? What did the man mean? and what was the use of saying facetious things at a time like this?
 s=none;e:axel=confused
 
-“What!” I shouted. “Are we being taken up in an eruption?”
-s=axel;e:axel=upset
+“What!” I shouted. “Are we being taken up in an eruption? Our fate has flung us here among burning lavas, molten rocks, boiling waters, and all kinds of volcanic matter;”
+s=axel;e:axel=upset;e:axel=confused;i=
 
-“Our fate has flung us here among burning lavas, molten rocks, boiling waters, and all kinds of volcanic matter; we are going to be pitched out, expelled, tossed up, vomited, spit out high into the air, along with fragments of rock, showers of ashes and scoria, in the midst of a towering rush of smoke and flames;”
-e:axel=unhappy
+“we are going to be pitched out, expelled, tossed up, vomited, spit out high into the air, along with fragments of rock, showers of ashes and scoria, in the midst of a towering rush of smoke and flames;”
+e:axel=unhappy;e:axel=upset;i=
 
 “and it is the best thing that could happen to us!”
 e:axel=angry
 
 “Yes,” replied the Professor, eyeing me over his spectacles,
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslook;i=
 
 “I don’t see any other way of reaching the surface of the earth.”
-
+;e:prof=seriouslookup;i=
 
 I pass rapidly over the thousand ideas which passed through my mind.
 s=none;e:axel=thinking;f:b:tunnel-abyss-2=blur(3px)
@@ -9778,13 +9778,19 @@ s=none;e:axel=thinking;f:b:tunnel-abyss-2=blur(3px)
 My uncle was right, undoubtedly right; and never had he seemed to me more daring and more confirmed in his notions than at this moment when he was calmly contemplating the chances of being shot out of a volcano!
 
 
-In the meantime up we went; the night passed away in continual ascent; the din and uproar around us became more and more intensified; I was stifled and stunned; I thought my last hour was approaching; and yet imagination is such a strong thing that even in this supreme hour I was occupied with strange and almost childish speculations.
-e:axel=weary
+In the meantime up we went; the night passed away in continual ascent; the din and uproar around us became more and more intensified;
+e:axel=weary;f:b:tunnel-abyss-2=blur(6px)
+
+I was stifled and stunned; I thought my last hour was approaching; and yet imagination is such a strong thing that even in this supreme hour I was occupied with strange and almost childish speculations.
+
 
 But I was the victim, not the master, of my own thoughts.
 
 
-It was very evident that we were being hurried upward upon the crest of a wave of eruption; beneath our raft were boiling waters, and under these the more sluggish lava was working its way up in a heated mass, together with shoals of fragments of rock which, when they arrived at the crater, would be dispersed in all directions high and low.
+It was very evident that we were being hurried upward upon the crest of a wave of eruption;
+
+
+beneath our raft were boiling waters, and under these the more sluggish lava was working its way up in a heated mass, together with shoals of fragments of rock which, when they arrived at the crater, would be dispersed in all directions high and low.
 e:axel=contemplative
 
 We were imprisoned in the shaft or chimney of some volcano. There was no room to doubt of that.
@@ -9812,7 +9818,7 @@ Certainly there was no lack of craters, and there were some capacious enough to 
 e:axel=curious
 
 Towards morning the ascending movement became accelerated.
-e:axel=nervous;b=tunnel-abyss-3;f:b:tunnel-abyss-3=blur(3px)
+e:axel=nervous;b=tunnel-abyss-3;f:b:tunnel-abyss-3=blur(6px)
 
 If the heat increased, instead of diminishing, as we approached nearer to the surface of the globe, this effect was due to local causes alone, and those volcanic.
 e:axel=thinking
@@ -9824,40 +9830,37 @@ But to what numberless dangers it exposed us!
 e:axel=fearful
 
 Soon lurid lights began to penetrate the vertical gallery which widened as we went up.
-e:axel=surprised;f:b:tunnel-abyss-3=
+e:axel=surprised;f:b:tunnel-abyss-3=blur(3px)
 
 Right and left I could see deep channels, like huge tunnels, out of which escaped dense volumes of smoke; tongues of fire lapped the walls, which crackled and sputtered under the intense heat.
 e:axel=nervous
 
 “See, see, my uncle!” I cried.
-s=axel;e:axel=fearfullook
+s=axel;e:axel=fearfullook;f:b:tunnel-abyss-3=
 
 “Well, those are only sulphurous flames and vapours, which one must expect to see in an eruption. They are quite natural.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=scowling;i=
 
 “But suppose they should wrap us round.”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=upset;i=
 
 “But they won’t wrap us round.”
-s=prof;e:prof=neutral;i=2
+s=prof;e:prof=neutral;i=2;e:prof=annoyed;i=
 
 “But we shall be stifled.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=fearful;i=
 
 “We shall not be stifled at all. The gallery is widening, and if it becomes necessary, we shall abandon the raft, and creep into a crevice.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=angrylook;i=
 
 “But the water—the rising water?”
-s=axel;i=2
+s=axel;i=2;e:axel=nervous;i=
 
 “There is no more water, Axel; only a lava paste, which is bearing us up on its surface to the top of the crater.”<e>♫Raft a river of lava♫</e>
-s=prof;e:prof=seriouslookup
+s=prof;e:prof=seriouslookup;e:prof=serious;i=2
 
-The liquid column had indeed disappeared, to give place to dense and still boiling eruptive matter of all kinds.
-s=none;e:axel=serious
-
-The temperature was becoming unbearable. A thermometer exposed to this atmosphere would have marked 150°.
-e:axel=weary;f:b:tunnel-abyss-3=blur(3px)
+The liquid column had indeed disappeared, to give place to dense and still boiling eruptive matter of all kinds. The temperature was becoming unbearable. A thermometer exposed to this atmosphere would have marked 150°.
+e:axel=weary;f:b:tunnel-abyss-3=blur(3px);s=
 
 The perspiration streamed from my body. But for the rapidity of our ascent we should have been suffocated.
 
@@ -9869,16 +9872,16 @@ About eight in the morning a new incident occurred. The upward movement ceased. 
 e:axel=surprised;f:b:tunnel-abyss-3=
 
 “What is this?” I asked, shaken by this sudden stoppage as if by a shock.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confused;i=2
 
 “It is a halt,” replied my uncle.
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=;i=
 
 “Is the eruption checked?” I asked.
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=unhappy;i=
 
 “I hope not.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=angrylookdown;i=
 
 I rose, and tried to look around me.
 s=none;e:axel=curious
@@ -9890,13 +9893,13 @@ But it was not so. The blast of ashes, scoriae, and rubbish had ceased to rise.
 e:axel=surprised
 
 “Has the eruption stopped?” I cried.
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=fearfullook;i=
 
 “Ah!” said my uncle between his clenched teeth,
-s=prof;e:prof=scowling
+s=prof;e:prof=scowling;e:prof=angry;i=
 
 “you are afraid. But don’t alarm yourself—this lull cannot last long. It has lasted now five minutes, and in a short time we shall resume our journey to the mouth of the crater.”
-e:prof=serious
+e:prof=serious;e:prof=annoyed;i=2;e:prof=angrylookdown;i=
 
 As he spoke, the Professor continued to consult his chronometer, and he was again right in his prognostications.
 s=none;e:axel=neutral
@@ -9904,11 +9907,8 @@ s=none;e:axel=neutral
 The raft was soon hurried and driven forward with a rapid but irregular movement, which lasted about ten minutes, and then stopped again.
 e:axel=nervous
 
-“Very good,” said my uncle; “in ten minutes more we shall be off again, for our present business lies with an intermittent volcano.”
-s=prof;e:prof=thinking
-
-“It gives us time now and then to take breath.”
-e:prof=smirking
+“Very good,” said my uncle; “in ten minutes more we shall be off again, for our present business lies with an intermittent volcano. It gives us time now and then to take breath.”
+s=prof;e:prof=thinking;e:prof=annoyed;i=2
 
 This was perfectly true. When the ten minutes were over we started off again with renewed and increased speed.
 s=none;e:axel=nervous;f:b:tunnel-abyss-3=blur(3px)
@@ -9923,7 +9923,7 @@ At any rate it was clear that we were not in the main shaft of the volcano, but 
 
 
 How often this operation was repeated I cannot say. All I know is, that at each fresh impulse we were hurled forward with a greatly increased force, and we seemed as if we were mere projectiles.
-e:axel=fearful
+e:axel=fearful;f:b:tunnel-abyss-3=blur(6px)
 
 During the short halts we were stifled with the heat; whilst we were being projected forward the hot air almost stopped my breath.
 e:axel=weary
@@ -9935,7 +9935,7 @@ My overheated brain conjured up visions of white plains of cool snow, where I mi
 
 
 Little by little my brain, weakened by so many constantly repeated shocks, seemed to be giving way altogether.
-e:axel=weary;f:b:tunnel-abyss-3=blur(6px)
+e:axel=weary;f:b:tunnel-abyss-3=blur(10px)
 
 But for the strong arm of Hans I should more than once have had my head broken against the granite roof of our burning dungeon.
 
@@ -9944,7 +9944,7 @@ I have therefore no exact recollection of what took place during the following h
 
 
 I have a confused impression left of continuous explosions, loud detonations, a general shaking of the rocks all around us, and of a spinning movement with which our raft was once whirled helplessly round.
-e:axel=fearful;f:b:tunnel-abyss-3=blur(10px)
+e:axel=fearful;f:b:tunnel-abyss-3=blur(15px)
 
 It rocked upon the lava torrent, amidst a dense fall of ashes. Snorting flames darted their fiery tongues at us.
 
