@@ -6211,7 +6211,7 @@ s=none
 “Yes.”
 s=axel;e:axel=serious;e:axel=fearful;i=3
 
-……
+…﻿
 s=none
 
 “Now, attention. I am going to call your name.”
