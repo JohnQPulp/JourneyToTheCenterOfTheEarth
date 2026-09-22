@@ -5846,7 +5846,7 @@ Lost at an immeasurable depth! Thirty leagues of rock seemed to weigh upon my sh
 e:axel=weary
 
 I tried to carry back my ideas to things on the surface of the earth. I could scarcely succeed.
-e:axel=thinking;f:b:tunnel-8=blur(3px)
+e:axel=thinking;f:b:tunnel-8=blur(6px)
 
 Hamburg, the house in the Königstrasse, my poor Gräuben, all that busy world underneath which I was wandering about, was passing in rapid confusion before my terrified memory.
 e:axel=nervous
@@ -5864,16 +5864,16 @@ Who could place my feet on the right path, and bring me back to my company?
 
 
 “Oh, my uncle!” burst from my lips in the tone of despair.
-s=axel;e:axel=upset;f:b:tunnel-8=;x:axel=hat,pack
+s=axel;e:axel=upset;f:b:tunnel-8=;x:axel=hat,pack;e:axel=weary;i=
 
 It was my only word of reproach, for I knew how much he must be suffering in seeking me, wherever he might be.
-s=none;e:axel=sadsmile
+s=none;e:axel=sadsmile;f:b:tunnel-8=blur(3px)
 
 When I saw myself thus far removed from all earthly help I had recourse to heavenly succour.
 e:axel=serious
 
 The remembrance of my childhood, the recollection of my mother, whom I had only known in my tender early years, came back to me, and I knelt in prayer imploring for the Divine help of which I was so little worthy.
-e:axel=sadsmile;f:b:tunnel-8=blur(3px)
+e:axel=sadsmile;f:b:tunnel-8=blur(6px)
 
 This return of trust in God’s providence allayed the turbulence of my fears, and I was enabled to concentrate upon my situation all the force of my intelligence.
 e:axel=serious
@@ -5894,19 +5894,19 @@ Why had I not thought of that sooner? Here was evidently a chance of safety. The
 e:axel=surprised
 
 I rose, and leaning upon my iron-pointed stick I ascended the gallery. The slope was rather steep. I walked on without hope but without indecision, like a man who has made up his mind.
-e:axel=neutral
+e:axel=neutral;f:b:tunnel-8=blur(3px)
 
 For half an hour I met with no obstacle.
 
 
-I tried to recognise my way by the form of the tunnel, by the projections of certain rocks, by the disposition of the fractures.
+I tried to recognise my way by the form of the tunnel, by the projections of certain rocks, by the disposition of the fractures. But no particular sign appeared, and I soon saw that this gallery could not bring me back to the turning point.
 e:axel=thinking
 
-But no particular sign appeared, and I soon saw that this gallery could not bring me back to the turning point. It came to an abrupt end.
+It came to an abrupt end.
 e:axel=surprised;b=tunnel-wall
 
 I struck against an impenetrable wall, and fell down upon the rock.
-e:axel=fearful;f:b:tunnel-wall=blur(3px) brightness(85%)
+e:axel=fearful;f:b:tunnel-wall=blur(3px)
 
 Unspeakable despair then seized upon me. I lay overwhelmed, aghast! My last hope was shattered against this granite wall.
 e:axel=upset
@@ -5924,19 +5924,19 @@ In the midst of my agony a new terror laid hold of me.
 e:axel=fearful
 
 In falling my lamp had got wrong. I could not set it right, and its light was paling and would soon disappear altogether.
-e:axel=nervous;f:b:tunnel-wall=brightness(70%)
+e:axel=nervous;f:b:tunnel-wall=blur(3px) brightness(85%)
 
 I gazed painfully upon the luminous current growing weaker and weaker in the wire coil. A dim procession of moving shadows seemed slowly unfolding down the darkening walls.
-e:axel=weary;;f:b:tunnel-wall=brightness(60%)
+e:axel=weary;;f:b:tunnel-wall=blur(5px) brightness(75%)
 
 I scarcely dared to shut my eyes for one moment, for fear of losing the least glimmer of this precious light. Every instant it seemed about to vanish and the dense blackness to come rolling in palpably upon me.
-;;f:b:tunnel-wall=brightness(50%)
+f:b:tunnel-wall=blur(7px) brightness(65%)
 
 One last trembling glimmer shot feebly up. I watched it in trembling and anxiety; I drank it in as if I could preserve it, concentrating upon it the full power of my eyes, as upon the very last sensation of light which they were ever to experience,
-e:axel=nervous;m=break,1;f:b:tunnel-wall=brightness(50%) blur(3px)
+e:axel=nervous;m=break,1;f:b:tunnel-wall=blur(10px) brightness(50%)
 
 and the next moment I lay in the heavy gloom of deep, thick, unfathomable darkness.
-e:axel=weary;b=night;f:b:night=blur(3px)
+e:axel=weary;;b=night;f:b:night=blur(10px)
 
 A terrible cry of anguish burst from me.
 e:axel=upset
@@ -5951,19 +5951,19 @@ I began to run wildly, hurrying through the inextricable maze, still descending,
 e:axel=upset;m=break,1
 
 soon bruised by contact with the jagged rock, falling and rising again bleeding, trying to drink the blood which covered my face, and even waiting for some rock to shatter my skull against.
-;f:b:night=blur(5px)
+;f:b:night=blur(15px)
 
 I shall never know whither my mad career took me.
 e:axel=weary
 
 After the lapse of some hours, no doubt exhausted, I fell like a lifeless lump at the foot of the wall, and lost all consciousness.
-;f:b:night=blur(8px)
+
 
 ## XXVIII. The Rescue in the Whispering Gallery
 r=title
 
 When I returned to partial life my face was wet with tears. How long that state of insensibility had lasted I cannot say.
-e:axel=sadsmile;b=night
+e:axel=sadsmile;b=night;f:b:night=blur(3px)
 
 I had no means now of taking account of time. Never was solitude equal to this, never had any living being been so utterly forsaken.
 e:axel=unhappy
