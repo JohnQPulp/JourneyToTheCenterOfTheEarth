@@ -8507,7 +8507,7 @@ s=prof;e:prof=excitedlookdown
 r=title
 
 To understand this apostrophe of my uncle’s, made to absent French savants, it will be necessary to allude to an event of high importance in a palaeontological point of view, which had occurred a little while before our departure.
-e:axel=thinking;b=light
+e:axel=thinking;b=tunnel-sea-shore-2;f:b:tunnel-sea-shore-2=blur(10px)
 
 On the 28th of March, 1863, some excavators working under the direction of M. Boucher de Perthes, in the stone quarries of Moulin Quignon, near Abbeville, in the department of Somme, found a human jawbone fourteen feet beneath the surface.
 
@@ -8558,7 +8558,7 @@ Such then was the state of palaeontological science, and what we knew of it was 
 f:b:light=blur(3px)
 
 Anyone may now understand the frenzied excitement of my uncle, when, twenty yards farther on, he found himself face to face with a primitive man!
-e:axel=excited;b=tunnel-sea-shore-2
+e:axel=excited;b=tunnel-sea-shore-2;f:b:tunnel-sea-shore-2=blur(3px)
 
 It was a perfectly recognisable human body. Had some particular soil, like that of the cemetery St. Michel, at Bordeaux, preserved it thus for so many ages? It might be so.
 e:axel=thinking
@@ -8567,7 +8567,7 @@ But this dried corpse, with its parchment-like skin drawn tightly over the bony 
 e:axel=surprised
 
 I stood mute before this apparition of remote antiquity. My uncle, usually so garrulous, was struck dumb likewise.
-e:prof=surprised
+e:prof=surprised;f:b:tunnel-sea-shore-2=
 
 We raised the body. We stood it up against a rock. It seemed to stare at us out of its empty orbits. We sounded with our knuckles his hollow frame.
 e:axel=wary
@@ -8587,14 +8587,14 @@ s=prof;e:prof=serious
 “Eminent geologists have denied his existence, others no less eminent have affirmed it. The St. Thomases of palaeontology, if they were here, might now touch him with their fingers, and would be obliged to acknowledge their error.”
 e:prof=smirking
 
-“I am quite aware that science has to be on its guard with discoveries of this kind. I know what capital enterprising individuals like Barnum have made out of fossil men.”<e>P.T. Barnum, of Feejee mermaid fame. (Put a pin in this.)</e>
-e:prof=serious;i=2
+“I am quite aware that science has to be on its guard with discoveries of this kind. I know what capital enterprising individuals like Barnum have made out of fossil men.”<e>P. T. Barnum, of Feejee mermaid fame. (Put a pin in this.)</e>
+e:prof=serious;i=2;e:prof=thinking;i=2
 
 “I have heard the tale of the kneepan of Ajax, the pretended body of Orestes claimed to have been found by the Spartans, and of the body of Asterius, ten cubits long, of which Pausanias speaks.”
-e:prof=thinking
+e:prof=thinking;e:prof=wary;i=2
 
 “I have read the reports of the skeleton of Trapani, found in the fourteenth century, and which was at the time identified as that of Polyphemus; and the history of the giant unearthed in the sixteenth century near Palermo.”
-
+;e:prof=;i=2
 
 “You know as well as I do, gentlemen, the analysis made at Lucerne in 1577 of those huge bones which the celebrated Dr. Felix Plater affirmed to be those of a giant nineteen feet high.”
 e:prof=serious
@@ -8603,25 +8603,25 @@ e:prof=serious
 
 
 “In the eighteenth century I would have stood up for Scheuchzer’s pre-adamite man against Peter Campet. I have perused a writing, entitled *Gigan*﻿—”
-e:prof=contemplative
+e:prof=contemplative;e:prof=seriousthinking;i=
 
 Here my uncle’s unfortunate infirmity met him﻿—that of being unable in public to pronounce hard words.
 s=none;e:axel=smirking
 
 “The pamphlet entitled *Gigan*﻿—”
-s=prof;i=2
+s=prof;i=2;e:prof=annoyed;i=
 
 He could get no further.
 s=none
 
 “*Giganteo*﻿—”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=serious;i=3
 
 It was not to be done. The unlucky word would not come out. At the Johannæum there would have been a laugh.
 s=none
 
 “*Gigantosteologie*,”
-s=prof;e:prof=angry;m=break,1
+s=prof;e:prof=angry;m=break,1;e:prof=angry;i=2
 
 at last the Professor burst out, between two words which I shall not record here.<e><i>"Gottverdammt Gigantosteologie Himmelkreuzdonnerwetter"</i></e>
 s=
@@ -8630,58 +8630,55 @@ Then rushing on with renewed vigour, and with great animation:
 s=none;e:prof=excited
 
 “Yes, gentlemen, I know all these things, and more. I know that Cuvier and Blumenbach have recognised in these bones nothing more remarkable than the bones of the mammoth and other mammals of the post-tertiary period.”
-s=prof
+s=prof;e:prof=annoyed;i=2
 
 “But in the presence of this specimen to doubt would be to insult science. There stands the body! You may see it, touch it. It is not a mere skeleton; it is an entire body, preserved for a purely anthropological end and purpose.”
-e:prof=smirkinglook
+e:prof=smirkinglook;e:prof=curious;i=
 
 I was good enough not to contradict this startling assertion.
 s=none;e:axel=smirking
 
 “If I could only wash it in a solution of sulphuric acid,” pursued my uncle,
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=serious;i=2
 
-“I should be able to clear it from all the earthy particles and the shells which are incrusted about it. But I do not possess that valuable solvent.”
-
-
-“Yet, such as it is, the body shall tell us its own wonderful story.”
-e:prof=happy
+“I should be able to clear it from all the earthy particles and the shells which are incrusted about it. But I do not possess that valuable solvent. Yet, such as it is, the body shall tell us its own wonderful story.”
+;e:prof=contemplative;i=2;e:prof=contemplativelookdown;i=2
 
 Here the Professor laid hold of the fossil skeleton, and handled it with the skill of a dexterous showman.
 s=none;e:prof=excited
 
 “You see,” he said, “that it is not six feet long, and that we are still separated by a long interval from the pretended race of giants.”
-s=prof;e:prof=happylookdown
+s=prof;e:prof=happylookdown;e:prof=happylookdown;i=
 
 “As for the family to which it belongs, it is evidently Caucasian. It is the white race, our own. The skull of this fossil is a regular oval, or rather ovoid. It exhibits no prominent cheekbones, no projecting jaws.”
-e:prof=smirking
+e:prof=smirking;e:prof=smirking;i=2;e:prof=contemplative;i=2
 
 “It presents no appearance of that prognathism which diminishes the facial angle.<f>The facial angle is formed by two lines, one touching the brow and the front teeth, the other from the orifice of the ear to the lower line of the nostrils. The greater this angle, the higher intelligence denoted by the formation of the skull. Prognathism is that projection of the jawbones which sharpens or lessens this angle.</f> Measure that angle. It is nearly ninety degrees.”
-e:prof=contemplativelookdown
+e:prof=contemplativelookdown;e:prof=curious;i=;e:prof=wary;i=2
 
 “But I will go further in my deductions, and I will affirm that this specimen of the human family is of the Japhetic race, which has since spread from the Indies to the Atlantic. Don’t smile, gentlemen.”
-e:prof=thinking
+e:prof=curious
 
 Nobody was smiling; but the learned Professor was frequently disturbed by the broad smiles provoked by his learned eccentricities.
 s=none;e:axel=smirking
 
 “Yes,” he pursued with animation, “this is a fossil man, the contemporary of the mastodons whose remains fill this amphitheatre.”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=happy;i=
 
 “But if you ask me how he came there, how those strata on which he lay slipped down into this enormous hollow in the globe, I confess I cannot answer that question.”
-e:prof=thinking
+e:prof=thinking;e:prof=upset;i=
 
 “No doubt in the post-tertiary period considerable commotions were still disturbing the crust of the earth. The long-continued cooling of the globe produced chasms, fissures, clefts, and faults, into which, very probably, portions of the upper earth may have fallen.”
-
+;e:prof=serious;i=2
 
 “I make no rash assertions; but there is the man surrounded by his own works, by hatchets, by flint arrowheads, which are the characteristics of the stone age.”
-e:prof=serious
+e:prof=serious;e:prof=serious;i=3
 
 “And unless he came here, like myself, as a tourist on a visit and as a pioneer of science, I can entertain no doubt of the authenticity of his remote origin.”
-e:prof=smirking
+e:prof=smirking;e:prof=smirking;i=2;e:prof=happylook;i=
 
 The Professor ceased to speak, and the audience broke out into loud and unanimous applause. For of course my uncle was right, and wiser men than his nephew would have had some trouble to refute his statements.
-s=none;e:axel=happy
+s=none;e:axel=happy;f:b:tunnel-sea-shore-2=blur(3px)
 
 Another remarkable thing. This fossil body was not the only one in this immense catacomb.
 
@@ -8699,7 +8696,7 @@ Had all those creatures slid through a great fissure in the crust of the earth, 
 e:axel=thinking
 
 Until the present time we had seen alive only marine monsters and fishes. Might not some living man, some native of the abyss, be yet a wanderer below on this desert strand?
-e:axel=fearful
+e:axel=fearful;
 
 ## XXXIX. Forest Scenery Illuminated by Electricity
 r=title
