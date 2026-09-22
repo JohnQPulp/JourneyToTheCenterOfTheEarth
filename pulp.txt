@@ -5324,7 +5324,7 @@ e:axel=happy;f:b:tunnel-6-water=blur(3px)
 r=title
 
 By the next day we had forgotten all our sufferings.
-e:axel=happy;b=tunnel-6-water
+e:axel=happy;b=tunnel-6-water;f:b:tunnel-6-water=blur(3px)
 
 At first, I was wondering that I was no longer thirsty, and I was for asking for the reason. The answer came in the murmuring of the stream at my feet.
 e:axel=curious
@@ -5339,7 +5339,7 @@ Such were the magnificent plans which struggled for mastery within me. If it had
 e:axel=serious
 
 Most fortunately, all we had to do was to descend.
-e:axel=happy
+e:axel=happy;f:b:tunnel-6-water=
 
 “Let us start!” I cried,
 s=axel;e:axel=excited;m=break,1
@@ -5347,10 +5347,7 @@ s=axel;e:axel=excited;m=break,1
 awakening by my shouts the echoes of the vaulted hollows of the earth.
 s=
 
-On Thursday, at 8 a.m., we started afresh.
-s=none;e:axel=neutral
-
-The granite tunnel winding from side to side, carried us past unexpected turns, and seemed almost to form a labyrinth; but, on the whole, its direction seemed to be southeasterly.
+On Thursday, at 8 a.m., we started afresh. The granite tunnel winding from side to side, carried us past unexpected turns, and seemed almost to form a labyrinth; but, on the whole, its direction seemed to be southeasterly.
 f:b:tunnel-6-water=blur(3px)
 
 My uncle never ceased to consult his compass, to keep account of the ground gone over.
@@ -5375,7 +5372,7 @@ From time to time, a steeper path appeared; our naiad then began to tumble befor
 
 
 On the whole, that day and the next we made considerable way horizontally, very little vertically.
-
+f:b:tunnel-6-water=blur(5px)
 
 On Friday evening, the 10th of July, according to our calculations, we were thirty leagues southeast of Reykjavík, and at a depth of two leagues and a half.
 b=tunnel-abyss
@@ -5390,7 +5387,7 @@ The ropes were so fastened by Hans as to guard against accident, and the descent
 s=none;e:axel=neutral;e:hans=serious
 
 I can hardly call it perilous, for I was beginning to be familiar with this kind of exercise.
-
+f:b:tunnel-abyss=blur(3px)
 
 This well, or abyss, was a narrow cleft in the mass of the granite, called by geologists a “fault,” and caused by the unequal cooling of the globe of the earth.
 e:axel=thinking
@@ -5414,10 +5411,10 @@ At this moment it reminded me of my worthy uncle, in his frequent fits of impati
 e:axel=smirking
 
 On the 6th and 7th of July we kept following the spiral curves of this singular well, penetrating in actual distance no more than two leagues; but being carried to a depth of five leagues below the level of the sea.
-e:axel=neutral;f:b:tunnel-abyss=blur(3px)
+e:axel=neutral;f:b:tunnel-abyss=blur(5px)
 
 But on the 8th, about noon, the fault took, towards the southeast, a much gentler slope, one of about forty-five degrees.
-
+b=tunnel-7;f:b:tunnel-7=blur(3px)
 
 Then the road became monotonously easy. It could not be otherwise, for there was no landscape to vary the stages of our journey.
 
@@ -5438,13 +5435,13 @@ e:axel=surprised;f:b:tunnel-7=
 s=prof;e:prof=suspicious
 
 “I was reflecting that if your calculations are correct we are no longer under Iceland.”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlookup;i=
 
 “Do you think so?”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;e:prof=suspicious;i=2
 
 “I am not mistaken,” I said,
-s=axel;e:axel=serious;m=break,1
+s=axel;e:axel=serious;m=break,1;e:axel=wary;i=2
 
 and examining the map, I added,
 s=
@@ -5452,17 +5449,17 @@ s=
 “We have passed Cape Portland, and those fifty leagues bring us under the wide expanse of ocean.”
 s=axel;e:axel=seriouslookdown
 
-“Under the sea,” my uncle repeated, rubbing his hands with delight.<e>Under the sea! Under the sea! Not the right <book>20,000 Leagues|Verne book</book>, can't actually look, at <a href="https://www.youtube.com/watch?v=CP3_sOEo8gg">Kirk Douglas feet</a>!</e>
-s=prof;e:prof=excited
+“Under the sea,” my uncle repeated, rubbing his hands with delight.<e>Under the sea, <book>20,000 Leagues|under the sea</book>? (With <a href="https://www.youtube.com/watch?v=CP3_sOEo8gg">Kirk Douglas</a>?)</e>
+s=prof;e:prof=excited;e:prof=happy;i=
 
 “Can it be?” I said. “Is the ocean spread above our heads?”
 s=axel;e:axel=confusedlookup
 
 “Of course, Axel. What can be more natural? At Newcastle are there not coal mines extending far under the sea?”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=thinking;i=
 
 It was all very well for the Professor to call this so simple, but I could not feel quite easy at the thought that the boundless ocean was rolling over my head.
-s=none;e:axel=nervous
+s=none;e:axel=nervous;f:b:tunnel-7=blur(3px)
 
 And yet it really mattered very little whether it was the plains and mountains that covered our heads, or the Atlantic waves, as long as we were arched over by solid granite.
 e:axel=contemplative
