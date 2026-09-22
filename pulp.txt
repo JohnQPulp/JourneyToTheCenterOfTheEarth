@@ -8978,7 +8978,7 @@ s=prof;e:prof=excited;e:prof=excitedlookdown;i=;e:prof=sadsmilelookdown;i=
 r=title
 
 Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise.
-e:axel=neutral;b=tunnel-sea-tunnel;o=glyph-3,20
+e:axel=neutral;b=tunnel-sea-tunnel;f:b:tunnel-sea-tunnel=blur(3px)
 
 Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement.
 e:axel=surprised
@@ -8990,16 +8990,16 @@ I could no longer doubt of the existence of that wonderful traveller and of the 
 e:axel=serious
 
 Whilst these reflections were occupying me, Professor Liedenbrock had launched into a somewhat rhapsodical eulogium, of which Arne Saknussemm was, of course, the hero.
-e:prof=excited;o=
+e:prof=excited;o=;f:b:tunnel-sea-tunnel=
 
 “Thou marvellous genius!” he cried, “thou hast not forgotten one indication which might serve to lay open to mortals the road through the terrestrial crust; and thy fellow-creatures may even now, after the lapse of three centuries, again trace thy footsteps through these deep and darksome ways.”
-s=prof
+s=prof;e:prof=excited;i=2
 
 “You reserved the contemplation of these wonders for other eyes besides your own. Your name, graven from stage to stage, leads the bold follower of your footsteps to the very centre of our planet’s core, and there again we shall find your own name written with your own hand.”
-
+;e:prof=happy;i=3
 
 “I too will inscribe my name upon this dark granite page. But forever henceforth let this cape that advances into the sea discovered by yourself be known by your own illustrious name﻿—Cape Saknussemm.”
-e:prof=happy
+e:prof=happy;e:prof=happylook;i=
 
 Such were the glowing words of panegyric which fell upon my attentive ear, and I could not resist the sentiment of enthusiasm with which I too was infected.
 s=none;e:axel=excited
@@ -9011,43 +9011,40 @@ That which another had done I supposed we might also do, and nothing that was no
 e:axel=serious
 
 “Forward! forward!” I cried.
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=excitedlook;i=;e:axel=sadsmile;i=
 
 I was already darting down the gloomy tunnel when the Professor stopped me; he, the man of impulse, counselled patience and coolness.
 s=none;e:prof=serious
 
 “Let us first return to Hans,” he said, “and bring the raft to this spot.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=smirkingthinking;i=
 
 I obeyed, not without dissatisfaction,
-s=none;e:axel=annoyed;m=break,1
+s=none;e:axel=annoyed;m=break,1;f:b:tunnel-sea-tunnel=blur(3px)
 
 and passed out rapidly among the rocks on the shore.
-b=tunnel-sea-shore
+b=tunnel-sea-shore;f:b:tunnel-sea-shore=blur(3px)
 
 I said:
-
+f:b:tunnel-sea-shore=
 
 “Uncle, do you know it seems to me that circumstances have wonderfully befriended us hitherto?”
-s=axel;e:axel=happy
+s=axel;e:axel=happy;e:axel=happylookdown;i=
 
 “You think so, Axel?”
 s=prof;e:prof=curious
 
 “No doubt; even the tempest has put us on the right way. Blessings on that storm! It has brought us back to this coast from which fine weather would have carried us far away.”
-s=axel;i=2
+s=axel;i=2;e:axel=confusedhappy;i=
 
-“Suppose we had touched with our prow (the prow of a rudder!) the southern shore of the Liedenbrock sea, what would have become of us?”
-e:axel=contemplative
-
-“We should never have seen the name of Saknussemm, and we should at this moment be imprisoned on a rockbound, impassable coast.”
-
+“Suppose we had touched with our prow (the prow of a rudder!) the southern shore of the Liedenbrock sea, what would have become of us? We should never have seen the name of Saknussemm, and we should at this moment be imprisoned on a rockbound, impassable coast.”
+e:axel=contemplative;e:axel=wary;i=2
 
 “Yes, Axel, it is providential that whilst supposing we were steering south we should have just got back north at Cape Saknussemm. I must say that this is astonishing, and that I feel I have no way to explain it.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=unhappy;i=
 
 “What does that signify, uncle? Our business is not to explain facts, but to use them!”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=
 
 “Certainly; but﻿—”
 s=prof;e:prof=thinking;i=2
@@ -9056,16 +9053,16 @@ s=prof;e:prof=thinking;i=2
 s=axel;e:axel=serious
 
 “Yes, Axel, you are right. It is all for the best, since we have left that weary, horizontal sea, which led us nowhere.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=suspicious;i=
 
 “Now we shall go down, down, down! Do you know that it is now only 1,500 leagues to the centre of the globe?”
-e:prof=excited
+e:prof=excited;e:prof=excitedlookdown;i=
 
 “Is that all?” I cried. “Why, that’s nothing. Let us start: march!”
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=curioussmirking;i=
 
 All this crazy talk was going on still when we met the hunter. Everything was made ready for our instant departure. Every bit of cordage was put on board.
-s=none;e:hans=neutral
+s=none;e:hans=neutral;f:b:tunnel-sea-shore=blur(3px)
 
 We took our places, and with our sail set, Hans steered us along the coast to Cape Saknussemm.
 f:b:tunnel-sea-shore=blur(3px)
@@ -9080,19 +9077,16 @@ At last, after three hours’ sailing, about six in the evening we reached a pla
 b=tunnel-sea-tunnel;f:b:tunnel-sea-tunnel=blur(3px)
 
 I jumped ashore, followed by my uncle and the Icelander. This short passage had not served to cool my ardour.
-e:axel=excited
+e:axel=excited;f:b:tunnel-sea-tunnel=
 
-On the contrary, I even proposed to burn “our ship,” to prevent the possibility of return; but my uncle would not consent to that.
+On the contrary, I even proposed to burn “our ship,” to prevent the possibility of return; but my uncle would not consent to that. I thought him singularly lukewarm.
 
-
-I thought him singularly lukewarm.
-e:prof=serious;f:b:tunnel-sea-tunnel=
 
 “At least,” I said, “don’t let us lose a minute.”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=sadsmile;i=2
 
 “Yes, yes, lad,” he replied; “but first let us examine this new gallery, to see if we shall require our ladders.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=smirkingthinking;i=
 
 My uncle put his Ruhmkorff’s apparatus in action; the raft moored to the shore was left alone; the mouth of the tunnel was not twenty yards from us; and our party, with myself at the head, made for it without a moment’s delay.
 s=none
@@ -9128,19 +9122,19 @@ s=axel;e:axel=upset
 s=prof;e:prof=serious
 
 “No, no,” I replied with animation.
-s=axel;e:axel=upset;i=2
+s=axel;e:axel=upset;i=2;e:axel=annoyed;i=
 
 “This fragment of rock has been shaken down by some shock or convulsion, or by one of those magnetic storms which agitate these regions, and has blocked up the passage which lay open to him.”
-e:axel=unhappy
+e:axel=unhappy;e:axel=annoyedunhappy;i=
 
 “Many years have elapsed since the return of Saknussemm to the surface and the fall of this huge fragment. Is it not evident that this gallery was once the way open to the course of the lava, and that at that time there must have been a free passage?”
-e:axel=serious
+e:axel=serious;e:axel=confused;i=
 
 “See here are recent fissures grooving and channelling the granite roof. This roof itself is formed of fragments of rock carried down, of enormous stones, as if by some giant’s hand; but at one time the expulsive force was greater than usual, and this block, like the falling keystone of a ruined arch, has slipped down to the ground and blocked up the way.”
-
+;e:axel=suspicious;i=
 
 “It is only an accidental obstruction, not met by Saknussemm, and if we don’t destroy it we shall be unworthy to reach the centre of the earth.”
-e:axel=unhappy;i=2
+e:axel=unhappy;i=2;e:axel=fearful;i=3
 
 Such was my sentence! The soul of the Professor had passed into me. The genius of discovery possessed me wholly. I forgot the past, I scorned the future.
 s=none;e:axel=excited
@@ -9149,31 +9143,31 @@ I gave not a thought to the things of the surface of this globe into which I had
 
 
 “Well,” cried my uncle, “let us make a way with our pickaxes.”
-s=prof;e:prof=serious;i=2
+s=prof;e:prof=serious;i=2;e:prof=serious;i=
 
 “Too hard for the pickaxe.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=upset;i=
 
 “Well, then, the spade.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=serious;i=2
 
 “That would take us too long.”
-s=axel;i=2
+s=axel;i=2;e:axel=annoyed;i=
 
 “What, then?”
 s=prof;e:prof=confused
 
 “Why gunpowder, to be sure! Let us mine the obstacle and blow it up.”
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=annoyedunhappy;i=
 
 “Oh, yes, it is only a bit of rock to blast!”
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=sadsmilesmirking;i=
 
 “Hans, to work!” cried my uncle.
-e:prof=excitedlook
+e:prof=excitedlook;e:prof=excitedlook;i=
 
 The Icelander returned to the raft and soon came back with an iron bar which he made use of to bore a hole for the charge.
-s=none;e:hans=neutral
+s=none;e:hans=neutral;f:b:tunnel-sea-tunnel=blur(3px)
 
 This was no easy work. A hole was to be made large enough to hold fifty pounds of guncotton, whose expansive force is four times that of gunpowder.
 
@@ -9182,19 +9176,19 @@ I was terribly excited. Whilst Hans was at work I was actively helping my uncle 
 e:axel=excited
 
 “This will do it,” I said.
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=serious;i=;f:b:tunnel-sea-tunnel=
 
 “It will,” replied my uncle.
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslookdown;i=
 
 By midnight our mining preparations were over; the charge was rammed into the hole, and the slow match uncoiled along the gallery showed its end outside the opening.
-s=none
+s=none;f:b:tunnel-sea-tunnel=blur(3px)
 
 A spark would now develop the whole of our preparations into activity.
 
 
 “Tomorrow,” said the Professor.
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=serious;i=;f:b:tunnel-sea-tunnel=
 
 I had to be resigned and to wait six long hours.
 s=none;e:axel=weary;f:b:tunnel-sea-tunnel=blur(3px)
@@ -9203,7 +9197,7 @@ s=none;e:axel=weary;f:b:tunnel-sea-tunnel=blur(3px)
 r=title
 
 The next day, Thursday, August 27, is a well-remembered date in our subterranean journey. It never returns to my memory without sending through me a shudder of horror and a palpitation of the heart.
-e:axel=fearful;b=tunnel-sea-tunnel
+e:axel=fearful;b=tunnel-sea-tunnel;f:b:tunnel-sea-tunnel=blur(3px)
 
 From that hour we had no further occasion for the exercise of reason, or judgement, or skill, or contrivance. We were henceforth to be hurled along, the playthings of the fierce elements of the deep.
 
