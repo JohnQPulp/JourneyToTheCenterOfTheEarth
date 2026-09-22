@@ -6812,10 +6812,10 @@ e:axel=weary;f:b:tunnel-sea=blur(10px)
 r=title
 
 The next morning I awoke feeling perfectly well.
-e:axel=happy;b=tunnel-wake
+e:axel=happy;b=tunnel-wake;f:b:tunnel-wake=blur(3px)
 
 I thought a bath would do me good, and I went to plunge for a few minutes into the waters of this mediterranean sea, for assuredly it better deserved this name than any other sea.
-b=tunnel-sea
+b=tunnel-sea;f:b:tunnel-sea=blur(3px)
 
 I came back to breakfast with a good appetite.
 b=tunnel-wake
@@ -6827,70 +6827,67 @@ For dessert he gave us a few cups of coffee, and never was coffee so delicious.
 e:axel=happy
 
 “Now,” said my uncle, “now is the time for high tide, and we must not lose the opportunity to study this phenomenon.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;f:b:tunnel-wake=;e:prof=seriouslook;i=
 
-“What! the tide!” I cried.
-s=axel;e:axel=confused
-
-“Can the influence of the sun and moon be felt down here?”
-e:axel=contemplative
+“What! the tide!” I cried. “Can the influence of the sun and moon be felt down here?”
+s=axel;e:axel=confused;e:axel=confused;i=2
 
 “Why not? Are not all bodies subject throughout their mass to the power of universal attraction? This mass of water cannot escape the general law.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=2
 
 “And in spite of the heavy atmospheric pressure on the surface, you will see it rise like the Atlantic itself.”
 e:prof=smirking
 
 At the same moment we reached the sand on the shore, and the waves were by slow degrees encroaching on the shore.
-s=none;b=tunnel-sea
+s=none;b=tunnel-sea;f:b:tunnel-sea=
 
 “Here is the tide rising,” I cried.
-s=axel;e:axel=confusedlookdown
+s=axel;e:axel=confusedlookdown;e:axel=confusedlook;i=
 
 “Yes, Axel; and judging by these ridges of foam, you may observe that the sea will rise about twelve feet.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=curious;i=2;e:prof=wary;i=2
 
 “This is wonderful,” I said.
-s=axel;e:axel=happy
+s=axel;e:axel=happy;e:axel=happylookdown;i=;e:axel=confusedhappy;i=
 
 “No; it is quite natural.”
 s=prof;e:prof=;i=2
 
 “You may say so, uncle; but to me it is most extraordinary, and I can hardly believe my eyes.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=sadsmile;i=2
 
 “Who would ever have imagined, under this terrestrial crust, an ocean with ebbing and flowing tides, with winds and storms?”
-e:axel=contemplative
+e:axel=contemplative;e:axel=curiouswary;i=2
 
 “Well,” replied my uncle, “is there any scientific reason against it?”
 s=prof;e:prof=curious
 
 “No; I see none, as soon as the theory of central heat is given up.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=wary;i=2
 
 “So then, thus far,” he answered, “the theory of Sir Humphry Davy is confirmed.”
 s=prof;e:prof=happy
 
 “Evidently it is; and now there is no reason why there should not be seas and continents in the interior of the earth.”
-s=axel;e:axel=thinking;i=2
+s=axel;e:axel=thinking;i=2;e:axel=confusedlook;i=
 
 “No doubt,” said my uncle; “and inhabited too.”
 s=prof;e:prof=happy;i=2
 
 “To be sure,” said I; “and why should not these waters yield to us fishes of unknown species?”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=contemplativelookdown;i=2
 
 “At any rate,” he replied, “we have not seen any yet.”
 s=prof;e:prof=neutral
 
 “Well, let us make some lines, and see if the bait will draw here as it does in sublunary regions.”
-s=axel;e:axel=happy
+s=axel;e:axel=happy;e:axel=curiouswary;i=
 
 “We will try, Axel, for we must penetrate all secrets of these newly discovered regions.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslook;i=
 
 “But where are we, uncle? for I have not yet asked you that question, and your instruments must be able to furnish the answer.”
-s=axel;e:axel=curious
+s=axel;e:axel=curious;e:axel=nervous;i=
 
 “Horizontally, three hundred and fifty leagues from Iceland.”
 s=prof;e:prof=neutral
@@ -6899,121 +6896,115 @@ s=prof;e:prof=neutral
 s=axel;e:axel=surprised
 
 “I am sure of not being a mile out of my reckoning.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=3
 
 “And does the compass still show southeast?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=curiouswary;i=
 
 “Yes; with a westerly deviation of nineteen degrees forty-five minutes, just as above ground.”
-s=prof;e:prof=neutral;i=2
+s=prof;e:prof=neutral;i=2;e:prof=curious;i=
 
 “As for its dip, a curious fact is coming to light, which I have observed carefully: that the needle, instead of dipping towards the pole as in the northern hemisphere, on the contrary, rises from it.”
-e:prof=thinking
+e:prof=thinking;e:prof=smirkingthinking;i=
 
 “Would you then conclude,” I said, “that the magnetic pole is somewhere between the surface of the globe and the point where we are?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=curiouswary;i=2
 
 “Exactly so; and it is likely enough that if we were to reach the spot beneath the polar regions, about that seventy-first degree where Sir James Ross has discovered the magnetic pole to be situated, we should see the needle point straight up.”
 s=prof;e:prof=happy
 
 “Therefore that mysterious centre of attraction is at no great depth.”
-e:prof=thinking
+e:prof=thinking;e:prof=;i=
 
 I remarked:
 s=
 
 “It is so; and here is a fact which science has scarcely suspected.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confused;i=3
 
 “Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=smirkingthinking;i=
 
 “What depth have we now reached?”
-s=axel;e:axel=curious
+s=axel;e:axel=curious;e:axel=nervous;i=;e:axel=seriouslook;i=
 
 “We are thirty-five leagues below the surface.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=smirkinglook;i=
 
 “So,” I said, examining the map, “the Highlands of Scotland are over our heads, and the Grampians are raising their rugged summits above us.”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=contemplativelookdown;i=2
 
 “Yes,” answered the Professor laughing.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happy;i=2
 
 “It is rather a heavy weight to bear, but a solid arch spans over our heads. The great Architect has built it of the best materials; and never could man have given it so wide a stretch.”
-
+;e:prof=smirking;i=2
 
 “What are the finest arches of bridges and the arcades of cathedrals, compared with this far reaching vault, with a radius of three leagues, beneath which a wide and tempest-tossed ocean may flow at its ease?”
-i=3
+i=3;e:prof=happylook;i=
 
-“Oh, I am not afraid that it will fall down upon my head.”
-s=axel;e:axel=neutral
-
-“But now what are your plans? Are you not thinking of returning to the surface now?”
-e:axel=suspicious
+“Oh, I am not afraid that it will fall down upon my head. But now what are your plans? Are you not thinking of returning to the surface now?”
+s=axel;e:axel=neutral;e:axel=confusedlook;i=
 
 “Return! no, indeed! We will continue our journey, everything having gone on well so far.”
 s=prof;e:prof=serious
 
 “But how are we to get down below this liquid surface?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=nervous;i=
 
 “Oh, I am not going to dive head foremost.”
-s=prof;e:prof=smirking;i=2
+s=prof;e:prof=smirking;i=2;e:prof=smirkingthinking;i=
 
 “But if all oceans are properly speaking but lakes, since they are encompassed by land, of course this internal sea will be surrounded by a coast of granite, and on the opposite shores we shall find fresh passages opening.”
-e:prof=thinking
+e:prof=thinking;e:prof=wary;i=2
 
 “How long do you suppose this sea to be?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=confused;i=
 
 “Thirty or forty leagues; so that we have no time to lose, and we shall set sail tomorrow.”
-s=prof;i=2
+s=prof;i=2;e:prof=seriouslookup;i=
 
 I looked about for a ship.
 s=none;e:axel=curious
 
 “Set sail, shall we? But I should like to see my boat first.”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=
 
 “It will not be a boat at all, but a good, well-made raft.”
-s=prof;e:prof=smirking
+s=prof;e:prof=
 
 “Why,” I said, “a raft would be just as hard to make as a boat, and I don’t see﻿—”
-s=axel;e:axel=confusedlook
+s=axel;e:axel=confusedlook;e:axel=curiouswary;i=
 
 “I know you don’t see; but you might hear if you would listen. Don’t you hear the hammer at work? Hans is already busy at it.”
-s=prof;e:prof=wry
+s=prof;e:prof=wry;e:prof=annoyed;i=2
 
 “What, has he already felled the trees?”
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=curiouswary;i=2
 
 “Oh, the trees were already down. Come, and you will see for yourself.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=;i=2
 
-After half an hour’s walking, on the other side of the promontory which formed the little natural harbour, I perceived Hans at work.
+After half an hour’s walking, on the other side of the promontory which formed the little natural harbour, I perceived Hans at work. In a few more steps I was at his side.
 s=none;e:axel=neutral;b=tunnel-sea-beach
-
-In a few more steps I was at his side.
-
 
 To my great surprise a half-finished raft was already lying on the sand, made of a peculiar kind of wood, and a great number of planks, straight and bent, and of frames, were covering the ground, enough almost for a little fleet.
 e:axel=surprised
 
 “Uncle, what wood is this?” I cried.
-s=axel;e:axel=confusedlookdown
+s=axel;e:axel=confusedlookdown;e:axel=confusedlook;i=
 
 “It is fir, pine, or birch, and other northern Coniferae, mineralised by the action of the sea. It is called surturbrand, a variety of brown coal or lignite, found chiefly in Iceland.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=
 
 “But surely, then, like other fossil wood, it must be as hard as stone, and cannot float?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confused;i=2
 
 “Sometimes that may happen; some of these woods become true anthracites; but others, such as this, have only gone through the first stage of fossil transformation.”
-s=prof;e:prof=;i=2
+s=prof;e:prof=;i=2;e:prof=wary;i=2
 
 “Just look,” added my uncle,
-e:prof=smirking;m=break,1
+e:prof=smirking;m=break,1;e:prof=curious;i=
 
 throwing into the sea one of those precious waifs.
 s=
@@ -7022,10 +7013,10 @@ The bit of wood, after disappearing, returned to the surface and oscillated to a
 s=none
 
 “Are you convinced?” said my uncle.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=contemplativesmirking;i=
 
 “I am quite convinced, although it is incredible!”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedhappy;i=
 
 By next evening, thanks to the industry and skill of our guide, the raft was made.
 s=none;e:axel=happy;f:b:tunnel-sea-beach=blur(3px)
