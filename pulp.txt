@@ -9218,13 +9218,13 @@ I prepared to fulfil my task with some anxiety.
 e:axel=nervous
 
 After a hasty meal, my uncle and the hunter embarked whilst I remained on shore. I was supplied with a lighted lantern to set fire to the fuse.
-
+;f:b:tunnel-sea-tunnel=
 
 “Now go,” said my uncle, “and return immediately to us.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=2
 
 “Don’t be uneasy,” I replied. “I will not play by the way.”
-s=axel;e:axel=nervous
+s=axel;e:axel=nervous;e:axel=seriouslook;i=
 
 I immediately proceeded to the mouth of the tunnel. I opened my lantern. I laid hold of the end of the match. The Professor stood, chronometer in hand.
 s=none;e:prof=serious
@@ -9236,16 +9236,13 @@ s=prof
 s=axel;e:axel=serious
 
 “Fire!”
-s=prof;e:axel=serious;i=2
+s=prof;e:axel=serious;i=2;e:prof=annoyed;i=
 
-I instantly plunged the end of the fuse into the lantern.
+I instantly plunged the end of the fuse into the lantern. It spluttered and flamed, and I ran at the top of my speed to the raft.
 s=none;e:axel=excited
 
-It spluttered and flamed, and I ran at the top of my speed to the raft.
-
-
 “Come on board quickly, and let us push off.”
-s=prof;e:prof=serious;i=3
+s=prof;e:prof=serious;i=3;e:prof=angry;i=
 
 Hans, with a vigorous thrust, sent us from the shore. The raft shot twenty fathoms out to sea.
 s=none;e:hans=serious;f:b:tunnel-sea-tunnel=blur(3px)
@@ -9263,19 +9260,16 @@ s=none;e:axel=nervous
 
 
 What took place at that moment? I believe I did not hear the dull roar of the explosion.
-s=none;e:axel=confused;m=;f:b:tunnel-sea-tunnel=blur(5px)
+s=none;e:axel=confused;m=;f:b:tunnel-sea-tunnel=blur(10px)
 
 But the rocks suddenly assumed a new arrangement: they rent asunder like a curtain. I saw a bottomless pit open on the shore.
-e:axel=surprised;b=explosion;f:b:explosion=blur(5px)
+e:axel=surprised;b=explosion;f:b:explosion=blur(10px)
 
 The sea, lashed into sudden fury, rose up in an enormous billow, on the ridge of which the unhappy raft was uplifted bodily in the air with all its crew and cargo.
 
 
-We all three fell down flat.
-e:axel=fearful
-
-In less than a second we were in deep, unfathomable darkness.
-b=night;f:b:night=blur(5px)
+We all three fell down flat. In less than a second we were in deep, unfathomable darkness.
+;f:b:explosion=blur(15px) brightness(50%)
 
 Then I felt as if not only myself but the raft also had no support beneath. I thought it was sinking; but it was not so.
 
@@ -9320,7 +9314,7 @@ The skilful huntsman had succeeded in lighting the lantern; and although it flic
 
 
 I was right in my supposition. It was a wide gallery. The dim light could not show us both its walls at once.
-e:axel=contemplative
+e:axel=contemplative;f:b:tunnel-abyss-1=
 
 The fall of the waters which were carrying us away exceeded that of the swiftest rapids in American rivers. Its surface seemed composed of a sheaf of arrows hurled with inconceivable force; I cannot convey my impressions by a better comparison.
 
@@ -9341,7 +9335,7 @@ We kept our backs to the wind, not to be stifled by the rapidity of a movement w
 
 
 Hours passed away. No change in our situation; but a discovery came to complicate matters and make them worse.
-e:axel=wary
+e:axel=wary;f:b:tunnel-abyss-1=blur(3px)
 
 In seeking to put our cargo into somewhat better order, I found that the greater part of the articles embarked had disappeared at the moment of the explosion, when the sea broke in upon us with such violence.
 
@@ -9383,10 +9377,10 @@ But I had the courage to preserve silence. I wished to leave him cool and self-p
 e:axel=serious
 
 At that moment the light from our lantern began to sink by little and little, and then went out entirely. The wick had burnt itself out.
-f:b:tunnel-abyss-1=blur(5px) brightness(75%)
+f:b:tunnel-abyss-1=blur(10px) brightness(50%)
 
 Black night reigned again; and there was no hope left of being able to dissipate the palpable darkness. We had yet a torch left, but we could not have kept it alight.
-b=night;f:b:night=blur(3px)
+b=night;f:b:night=blur(10px)
 
 Then, like a child, I closed my eyes firmly, not to see the darkness.
 e:axel=fearful
@@ -9401,16 +9395,13 @@ My uncle’s hand, and the vigorous arm of Hans, held me fast.
 e:prof=serious;e:hans=serious
 
 Suddenly, after a space of time that I could not measure, I felt a shock. The raft had not struck against any hard resistance, but had suddenly been checked in its fall.
-f:b:night=blur(5px)
+;f:b:night=blur(15px)
 
 A waterspout, an immense liquid column, was beating upon the surface of the waters. I was suffocating! I was drowning!
 e:axel=fearful
 
-But this sudden flood was not of long duration. In a few seconds I found myself in the air again, which I inhaled with all the force of my lungs.
-e:axel=surprised;f:b:night=
-
-My uncle and Hans were still holding me fast by the arms; and the raft was still carrying us.
-
+But this sudden flood was not of long duration. In a few seconds I found myself in the air again, which I inhaled with all the force of my lungs. My uncle and Hans were still holding me fast by the arms; and the raft was still carrying us.
+e:axel=surprised
 
 ## XLII. Headlong Speed Upward Through the Horrors of Darkness
 r=title
@@ -9419,10 +9410,10 @@ It might have been, as I guessed, about ten at night. The first of my senses whi
 b=night
 
 All at once I could hear; and it was a real exercise of the sense of hearing. I could hear the silence in the gallery after the din which for hours had stunned me.
-
+f:b:night=blur(3px)
 
 At last these words of my uncle’s came to me like a vague murmuring:
-
+f:b:night=
 
 “We are going up.”
 s=prof;m=nospeaker
