@@ -9970,23 +9970,26 @@ e:axel=surprised;f:b:med-mountain=
 Hans had saved me from death whilst I lay rolling on the edge of the crater.
 e:axel=serious
 
-“Where are we?” asked my uncle irascibly, as if he felt much injured by being landed upon the earth again.
-s=prof;e:prof=annoyed
+“Where are we?” asked my uncle irascibly,
+s=prof;e:prof=annoyed;m=break,1;e:prof=angry;i=
+
+as if he felt much injured by being landed upon the earth again.
+s=
 
 The hunter shook his head in token of complete ignorance.
 s=none;e:hans=neutral
 
 “Is it Iceland?” I asked.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=weary;i=
 
 “*Nej*,” replied Hans.
 s=hans;e:hans=neutral;x:hans=undressed
 
 “What! Not Iceland?” cried the Professor.
-s=prof;e:prof=surprised
+s=prof;e:prof=surprised;e:prof=angrylook;i=
 
 “Hans must be mistaken,” I said, raising myself up.
-s=axel;e:axel=suspicious
+s=axel;e:axel=suspicious;e:axel=confused;i=
 
 This was our final surprise after all the astonishing events of our wonderful journey.
 s=none;e:axel=surprised
@@ -10019,10 +10022,10 @@ s=prof;e:prof=contemplative
 s=axel;e:axel=confused;i=2
 
 “Nor that either,” he answered. “This is no northern mountain; here are no granite peaks capped with snow.”
-s=prof;e:prof=contemplative;i=2
+s=prof;e:prof=contemplative;i=2;e:prof=serious;i=
 
 “Look, Axel, look!”
-e:prof=seriouslook
+e:prof=seriouslook;e:prof=seriouslookup;i=
 
 Above our heads, at a height of five hundred feet or more, we saw the crater of a volcano, through which, at intervals of fifteen minutes or so, there issued with loud explosions lofty columns of fire, mingled with pumice stones, ashes, and flowing lava.
 s=none;e:axel=surprised;b=med-mountain-view
@@ -10040,7 +10043,7 @@ I was forced to confess that there was nothing arctic here.
 e:axel=contemplative
 
 When the eye passed beyond these green surroundings it rested on a wide, blue expanse of sea or lake, which appeared to enclose this enchanting island, within a compass of only a few leagues.
-e:axel=surprised
+e:axel=surprised;f:b:med-mountain-view=blur(3px)
 
 Eastward lay a pretty little white seaport town or village, with a few houses scattered around it, and in the harbour of which a few vessels of peculiar rig were gently swayed by the softly swelling waves.
 
@@ -10055,10 +10058,10 @@ To the northward lay spread a vast sheet of water, sparkling and dancing under t
 
 
 This unforeseen spectacle was most charming to eyes long used to underground darkness.
-e:axel=happy
+e:axel=happy;f:b:med-mountain-view=
 
 “Where are we? Where are we?” I asked faintly.
-s=axel;e:axel=weary
+s=axel;e:axel=weary;e:axel=wary;i=;e:axel=weary;i=
 
 Hans closed his eyes with lazy indifference. What did it matter to him?
 s=none;e:hans=bored
@@ -10067,31 +10070,31 @@ My uncle looked round with dumb surprise.
 e:prof=surprised
 
 “Well, whatever mountain this may be,” he said at last, “it is very hot here.”
-s=prof;e:prof=confused
+s=prof;e:prof=confused;e:prof=contemplative;i=
 
 “The explosions are going on still, and I don’t think it would look well to have come out by an eruption, and then to get our heads broken by bits of falling rock. Let us get down. Then we shall know better what we are about.”
-e:prof=serious
+e:prof=serious;e:prof=annoyed;i=2
 
 “Besides, I am starving, and parching with thirst.”
-e:prof=thinking
+e:prof=thinking;e:prof=angrylookdown;i=
 
 Decidedly the Professor was not given to contemplation.
-s=none;e:axel=sadsmile
+s=none;e:axel=sadsmile;f:b:med-mountain-view=blur(3px)
 
 For my part, I could for another hour or two have forgotten my hunger and my fatigue to enjoy the lovely scene before me; but I had to follow my companions.
-e:axel=contemplative
+e:axel=contemplative;f:b:med-mountain-view=blur(3px)
 
 The slope of the volcano was in many places of great steepness. We slid down screes of ashes, carefully avoiding the lava streams which glided sluggishly by us like fiery serpents.
 e:axel=wary
 
 As we went I chattered and asked all sorts of questions as to our whereabouts, for I was too much excited not to talk a great deal.
-e:axel=excited
+e:axel=excited;f:b:med-mountain-view=
 
 “We are in Asia,” I cried, “on the coasts of India, in the Malay Islands, or in Oceania. We have passed through half the globe, and come out nearly at the antipodes.”
 s=axel;e:axel=confusedexcited
 
 “But the compass?” said my uncle.
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=contemplative;i=2
 
 “Aye, the compass!” I said, greatly puzzled.
 s=axel;e:axel=confused
@@ -10100,16 +10103,16 @@ s=axel;e:axel=confused
 
 
 “Has it lied?”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=scowling;i=
 
 “Surely not. Could it lie?”
 s=axel;e:axel=wary
 
 “Unless, indeed, this is the North Pole!”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=confused;i=
 
 “Oh, no, it is not the Pole; but—”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=unhappy;i=2
 
 Well, here was something that baffled us completely. I could not tell what to say.
 s=none;e:axel=confused
@@ -10142,19 +10145,19 @@ My uncle began to encourage him as well as he could, and said to him in good Ger
 e:prof=happy
 
 “*Was heißt diesen Berg, mein Knablein? Sage mir geschwind!*”
-s=prof
+s=prof;e:prof=serious;i=
 
-(“What is this mountain called, my little friend?”)<e>Couldn't be bothered translating that second sentence huh.</e>
+(“What is this mountain called, my little friend?”)<e>(Malleson couldn't be bothered translating that second sentence.)</e>
 s=none
 
 The child made no answer.
 e:axel=curious
 
 “Very well,” said my uncle.
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=;i=
 
 “I infer that we are not in Germany.”
-
+;e:prof=annoyed;i=2
 
 He put the same question in English.
 s=none;e:prof=neutral
@@ -10162,23 +10165,23 @@ s=none;e:prof=neutral
 We got no forwarder. I was a good deal puzzled.
 
 
-“Is the child dumb?” cried the Professor,<e>Non-Germanic language speakers btfo.</e>
+“Is the child dumb?” cried the Professor,<e>Non-Germanic languages BTFO.</e>
 s=prof;e:prof=annoyed;m=break,1
 
 who, proud of his knowledge of many languages, now tried French:
 s=
 
 “*Comment appelle t’on cette montagne, mon enfant?*”
-s=prof;i=2
+s=prof;i=2;e:prof=serious;i=
 
 Silence still.
 s=none
 
 “Now let us try Italian,” said my uncle; and he said:<e>"said my uncle; and he said"</e>
-e:prof=serious;s=prof
+e:prof=serious;s=prof;e:prof=scowling;i=
 
 “*Dove noi siamo?*”
-s=prof;i=2
+s=prof;e:prof=serious;i=2
 
 “Yes, where are we?” I impatiently repeated.
 s=axel;e:axel=annoyed
@@ -10187,13 +10190,13 @@ But there was no answer still.
 s=none
 
 “Will you speak when you are told?” exclaimed my uncle,
-s=prof;e:prof=angry;m=break,1
+s=prof;e:prof=angry;m=break,1;e:prof=annoyed;i=
 
 shaking the urchin by the ears.
 s=
 
 “*Come si noma questa isola?*”
-s=prof;e:prof=angrylookdown
+s=prof;e:prof=angrylookdown;e:prof=serious;i=
 
 “**Stromboli**,” replied the little herdboy,
 n:boy=?;s=boy;e:boy=fearful;m=break,1;z:boy=82,,7
@@ -10211,7 +10214,7 @@ And those distant blue mountains in the east were the mountains of Calabria. And
 
 
 “Stromboli, Stromboli!” I repeated.
-s=axel;e:axel=surprised;i=2
+s=axel;e:axel=surprised;i=2;e:axel=weary;i=;e:axel=confused;i=
 
 My uncle kept time to my exclamations with hands and feet, as well as with words. We seemed to be chanting in chorus!
 s=none;e:prof=excited
@@ -10241,10 +10244,10 @@ On my way I could hear my uncle murmuring:
 ;f:b:med-mountain-country=
 
 “But the compass! that compass! It pointed due north. How are we to explain that fact?”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=scowling;i=
 
 “My opinion is,” I replied disdainfully, “that it is best not to explain it. That is the easiest way to shelve the difficulty.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=unhappy;i=2
 
 “Indeed, sir! The occupant of a professorial chair at the Johannæum unable to explain the reason of a cosmical phenomenon! Why, it would be simply disgraceful!”
 s=prof;e:prof=angrylook
