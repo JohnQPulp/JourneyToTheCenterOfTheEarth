@@ -4682,12 +4682,12 @@ s=none;e:axel=fearful;f:b:tunnel-end=blur(3px)
 r=title
 
 Next day we started early. We had to hasten forward. It was a three days’ march to the cross roads.
-e:axel=weary;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;b=tunnel-cavern-3
+e:axel=weary;x:prof=hat,pack;x:axel=hat,pack;x:hans=pack;b=tunnel-cavern-3;f:b:tunnel-cavern-3=blur(3px)
 
 I will not speak of the sufferings we endured in our return.
 e:axel=unhappy;f:b:tunnel-cavern-3=blur(3px)
 
-My uncle bore them with the angry impatience of a man obliged to own his weakness; Hans with the resignation of his passive nature; I, I confess, with complaints and expressions of despair.
+My uncle bore them with the angry impatience of a man obliged to own his weakness; Hans with the resignation of his passive nature; I, I confess, with complaints and expressions of despair.<e>Waah waah waah.</e>
 e:prof=angry;e:hans=neutral;e:axel=upset
 
 I had no spirit to oppose this ill fortune.
@@ -4699,17 +4699,14 @@ e:axel=weary;b=tunnel-gallery-2;f:b:tunnel-gallery-2=blur(3px)
 Our fluid aliment was now nothing but gin; but this infernal fluid burned my throat, and I could not even endure the sight of it.
 e:axel=unhappy
 
-I found the temperature and the air stifling. Fatigue paralysed my limbs.
-
-
-More than once I dropped down motionless. Then there was a halt; and my uncle and the Icelander did their best to restore me.
+I found the temperature and the air stifling. Fatigue paralysed my limbs. More than once I dropped down motionless. Then there was a halt; and my uncle and the Icelander did their best to restore me.
 e:prof=serious
 
 But I saw that the former was struggling painfully against excessive fatigue and the tortures of thirst.
 e:prof=weary
 
 At last, on Tuesday, July 8, we arrived on our hands and knees, and half dead, at the junction of the two roads.
-b=tunnel-intersection
+b=tunnel-intersection;f:b:tunnel-intersection=blur(3px)
 
 There I dropped like a lifeless lump, extended on the lava soil. It was ten in the morning.
 e:axel=weary
@@ -4718,10 +4715,10 @@ Hans and my uncle, clinging to the wall, tried to nibble a few bits of biscuit. 
 e:hans=weary;e:prof=weary
 
 After some time my uncle approached me and raised me in his arms.
-e:prof=serious
+e:prof=serious;f:b:tunnel-intersection=
 
 “Poor boy!” said he, in genuine tones of compassion.
-s=prof;e:prof=sadsmile
+s=prof;e:prof=sadsmile;;x:prof=;x:axel=;e:prof=weary;i=
 
 I was touched with these words, not being accustomed to see the excitable Professor in a softened mood.
 s=none;e:axel=surprised
@@ -4733,7 +4730,7 @@ Then I saw him take the flask that was hanging at his side. To my amazement he p
 e:axel=surprised
 
 “Drink!” said he.
-s=prof;e:prof=weary;x:prof=;x:axel=
+s=prof;e:prof=weary;x:prof=;x:axel=;e:prof=sadsmilelookdown;i=
 
 Had I heard him? Was my uncle beside himself?
 s=none;e:axel=confused
@@ -4742,7 +4739,7 @@ I stared at him stupidly, and felt as if I could not understand him.
 
 
 “Drink!” he said again.
-s=prof;e:prof=upset
+s=prof;e:prof=upset;e:prof=serious;i=3
 
 And raising his flask he emptied it every drop between my lips.
 s=none
@@ -4754,19 +4751,19 @@ I thanked my uncle with clasped hands.
 e:axel=excited
 
 “Yes,” he said, “a draught of water; but it is the very last—you hear!—the last.”
-s=prof;e:prof=weary;i=2
+s=prof;e:prof=weary;i=2;e:prof=upset;i=
 
 “I had kept it as a precious treasure at the bottom of my flask. Twenty times, nay, a hundred times, have I fought against a frightful impulse to drink it off. But no, Axel, I kept it for you.”
-e:prof=sadsmile
+e:prof=sadsmile;e:prof=sadsmilelookdown;i=
 
 “My dear uncle,” I said, whilst hot tears trickled down my face.
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=fearful;i=
 
 “Yes, my poor boy, I knew that as soon as you arrived at these cross roads you would drop half dead, and I kept my last drop of water to reanimate you.”
 s=prof;e:prof=weary
 
 “Thank you, thank you,” I said.
-s=axel;e:axel=unhappy;i=2
+s=axel;e:axel=unhappy;i=2;e:axel=weary;i=
 
 Although my thirst was only partially quenched, yet some strength had returned.
 s=none;e:axel=neutral
@@ -4775,58 +4772,58 @@ The muscles of my throat, until then contracted, now relaxed again; and the infl
 
 
 “Let us see,” I said, “we have now but one thing to do. We have no water; we must go back.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=weary;i=2
 
 While I spoke my uncle avoided looking at me; he hung his head down; his eyes avoided mine.
 s=none;e:prof=wary
 
 “We must return,” I exclaimed vehemently;
-s=axel;e:axel=serious
+s=axel;e:axel=serious;e:axel=upset;i=
 
 “we must go back on our way to Snæfells. May God give us strength to climb up the crater again!”
-
+;e:axel=upset;i=2;e:axel=weary;i=2
 
 “Return!” said my uncle,
-s=prof;e:prof=upset;m=break,1
+s=prof;e:prof=upset;m=break,1;e:prof=seriouslookdown;i=2
 
 as if he was rather answering himself than me.
 s=
 
 “Yes, return, without the loss of a minute.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=weary;i=
 
 A long silence followed.
 s=none
 
 “So then, Axel,” replied the Professor ironically, “you have found no courage or energy in these few drops of water?”
-s=prof;e:prof=sadsmilesmirking
+s=prof;e:prof=sadsmilesmirking;e:prof=sadsmilelookdown;i=
 
 “Courage?”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=nervous;i=
 
 “I see you just as feebleminded as you were before, and still expressing only despair!”
-s=prof;e:prof=upset
+s=prof;e:prof=upset;e:prof=weary;i=
 
 What sort of a man was this I had to do with, and what schemes was he now revolving in his fearless mind?
 s=none;e:axel=wary
 
 “What! you won’t go back?”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=upset;i=
 
 “Should I renounce this expedition just when we have the fairest chance of success! Never!”
-s=prof;e:prof=angry
+s=prof;e:prof=angry;e:prof=annoyed;i=
 
 “Then must we resign ourselves to destruction?”
-s=axel;e:axel=unhappy;i=2
+s=axel;e:axel=unhappy;i=2;e:axel=weary;i=2
 
 “No, Axel, no; go back. Hans will go with you. Leave me to myself!”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=3
 
 “Leave you here!”
 s=axel;e:axel=upset
 
 “Leave me, I tell you. I have undertaken this expedition. I will carry it out to the end, and I will not return.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=upset;i=;e:prof=annoyed;i=
 
 “Go, Axel, go!”
 e:prof=scowling
@@ -4856,10 +4853,10 @@ I drew near to Hans. I placed my hand upon his. He made no movement. My parted l
 e:hans=neutral
 
 “Master.”
-s=hans;x:hans=;e:hans=contemplativelook
+s=hans;x:hans=;e:hans=contemplativelook;e:hans=contemplative;i=
 
 “Master!” I shouted; “you madman! no, he is not the master of our life; we must fly, we must drag him. Do you hear me? Do you understand?”
-s=axel;e:axel=angry
+s=axel;e:axel=angry;e:axel=upset;i=
 
 I had seized Hans by the arm. I wished to oblige him to rise. I strove with him.
 s=none
@@ -4868,16 +4865,16 @@ My uncle interposed.
 e:prof=serious
 
 “Be calm, Axel! you will get nothing from that immovable servant. Therefore, listen to my proposal.”
-s=prof;e:prof=seriouslook
+s=prof;e:prof=seriouslook;e:prof=wary;i=2;e:prof=seriousthinking;i=
 
 I crossed my arms, and confronted my uncle boldly.
 s=none;e:axel=serious
 
 “The want of water,” he said, “is the only obstacle in our way.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=2
 
 “In this eastern gallery made up of lavas, schists, and coal, we have not met with a single particle of moisture. Perhaps we shall be more fortunate if we follow the western tunnel.”
-
+;e:prof=wary;i=2
 
 I shook my head incredulously.
 s=none;e:axel=annoyed
@@ -4886,25 +4883,25 @@ s=none;e:axel=annoyed
 s=prof;e:prof=serious
 
 “Whilst you were lying there motionless, I went to examine the conformation of that gallery. It penetrates directly downward, and in a few hours it will bring us to the granite rocks. There we must meet with abundant springs.”
-
+;e:prof=;i=2
 
 “The nature of the rock assures me of this, and instinct agrees with logic to support my conviction. Now, this is my proposal.”
-e:prof=thinking
+e:prof=thinking;e:prof=serious;i=2
 
 “When Columbus asked of his ships’ crews for three days more to discover a new world, those crews, disheartened and sick as they were, recognised the justice of the claim, and he discovered America.”
-
+;e:prof=thinking;i=2
 
 “I am the Columbus of this nether world, and I only ask for one more day. If in a single day I have not met with the water that we want, I swear to you we will return to the surface of the earth.”
-e:prof=serious
+e:prof=serious;e:prof=suspicious;i=
 
 In spite of my irritation I was moved with these words, as well as with the violence my uncle was doing to his own wishes in making so hazardous a proposal.
 s=none;e:axel=surprised
 
 “Well,” I said, “do as you will, and God reward your superhuman energy. You have now but a few hours to tempt fortune.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=upset;i=2
 
 “Let us start!”
-e:axel=upset
+e:axel=upset;e:axel=thinking;i=
 
 ## XXII. Total Failure of Water
 r=title
