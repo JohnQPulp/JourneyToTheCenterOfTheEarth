@@ -7028,13 +7028,13 @@ It was ten feet by five; the planks of surturbrand, braced strongly together wit
 r=title
 
 On the 13th of August we awoke early.
-e:axel=neutral;b=tunnel-wake
+e:axel=neutral;b=tunnel-wake;f:b:tunnel-wake=blur(3px)
 
 We were now to begin to adopt a mode of travelling both more expeditious and less fatiguing than hitherto.
 
 
 A mast was made of two poles spliced together, a yard was made of a third, a blanket borrowed from our coverings made a tolerable sail.
-b=tunnel-sea-beach
+b=tunnel-sea-beach;f:b:tunnel-sea-beach=blur(3px)
 
 There was no want of cordage for the rigging, and everything was well and firmly made.
 
@@ -7042,35 +7042,26 @@ There was no want of cordage for the rigging, and everything was well and firmly
 The provisions, the baggage, the instruments, the guns, and a good quantity of fresh water from the rocks around, all found their proper places on board; and at six the Professor gave the signal to embark.
 
 
-Hans had fitted up a rudder to steer his vessel. He took the tiller, and unmoored;
+Hans had fitted up a rudder to steer his vessel. He took the tiller, and unmoored; the sail was set, and we were soon afloat.
 e:hans=neutral
 
-the sail was set, and we were soon afloat.
-b=tunnel-sea
-
 At the moment of leaving the harbour, my uncle, who was tenaciously fond of naming his new discoveries, wanted to give it a name, and proposed mine amongst others.
-e:prof=happy
+e:prof=happy;;f:b:tunnel-sea-beach=
 
-“But I have a better to propose,” I said:
-s=axel;e:axel=happy
-
-“Gräuben. Let it be called Port Gräuben; it will look very well upon the map.”
-
+“But I have a better to propose,” I said: “Gräuben. Let it be called Port Gräuben; it will look very well upon the map.”
+s=axel;e:axel=happy;e:axel=contemplativehappy;i=
 
 “Port Gräuben let it be then.”
 s=prof;e:prof=happy
 
 And so the cherished remembrance of my *Virlandaise* became associated with our adventurous expedition.
-s=none;e:axel=sadsmile
+s=none;e:axel=sadsmile;f:b:tunnel-sea-beach=blur(3px)
 
 The wind was from the northwest. We went with it at a high rate of speed. The dense atmosphere acted with great force and impelled us swiftly on.
-e:axel=neutral
+e:axel=neutral;b=tunnel-sea-raft-wide;f:b:tunnel-sea-raft-wide=blur(3px)
 
-In an hour my uncle had been able to estimate our progress.
-e:prof=thinking;b=tunnel-sea-raft-wide
-
-At this rate, he said, we shall make thirty leagues in twenty-four hours, and we shall soon come in sight of the opposite shore.
-e:prof=happy
+In an hour my uncle had been able to estimate our progress. At this rate, he said, we shall make thirty leagues in twenty-four hours, and we shall soon come in sight of the opposite shore.
+e:prof=thinking;b=tunnel-sea-raft-wide;f:b:tunnel-sea-raft-wide=blur(3px)
 
 I made no answer, but went and sat forward. The northern shore was already beginning to dip under the horizon. The eastern and western strands spread wide as if to bid us farewell.
 e:axel=neutral
@@ -7096,14 +7087,11 @@ e:axel=neutral;e:axel=happy
 What natural force could have produced such plants, and what must have been the appearance of the earth in the first ages of its formation, when, under the action of heat and moisture, the vegetable kingdom alone was developing on its surface?
 e:axel=curious
 
-Evening came, and, as on the previous day, I perceived no change in the luminous condition of the air.
+Evening came, and, as on the previous day, I perceived no change in the luminous condition of the air. It was a constant condition, the permanency of which might be relied upon.
 e:axel=neutral
 
-It was a constant condition, the permanency of which might be relied upon.
-
-
 After supper I laid myself down at the foot of the mast, and fell asleep in the midst of fantastic reveries.
-e:axel=weary;f:b:tunnel-sea-raft-wide=blur(3px)
+e:axel=weary;b=light;f:b:light=blur(3px)
 
 Hans, keeping fast by the helm, let the raft run on, which, after all, needed no steering, the wind blowing directly aft.
 e:hans=neutral
@@ -7114,20 +7102,20 @@ e:axel=neutral
 I shall therefore reproduce here these daily notes, written, so to speak, as the course of events directed, in order to furnish an exact narrative of our passage.
 
 
-*Friday, August 14*.﻿—Wind steady, N. W. The raft makes rapid way in a direct line. Coast thirty leagues to leeward. Nothing in sight before us. Intensity of light the same. Weather fine; that is to say, that the clouds are flying high, are light, and bathed in a white atmosphere resembling silver in a state of fusion. Therm. 89° Fahr.
+*Friday, August 14*.﻿—Wind steady, N. W. The raft makes rapid way in a direct line. Coast thirty leagues to leeward. Nothing in sight before us. Intensity of light the same.
+b=tunnel-sea-raft-wide;;f:b:tunnel-sea-raft-wide=blur(3px)
+
+Weather fine; that is to say, that the clouds are flying high, are light, and bathed in a white atmosphere resembling silver in a state of fusion. Therm. 89° Fahr.
 
 
-At noon Hans prepared a hook at the end of a line. He baited it with a small piece of meat and flung it into the sea.
+At noon Hans prepared a hook at the end of a line. He baited it with a small piece of meat and flung it into the sea. For two hours nothing was caught. Are these waters, then, bare of inhabitants?
 e:hans=neutral;
-
-For two hours nothing was caught. Are these waters, then, bare of inhabitants?
-e:axel=curious
 
 No, there’s a pull at the line. Hans draws it in and brings out a struggling fish.
 e:axel=excited;e:hans=neutral;f:b:tunnel-sea-raft-wide=
 
 “A sturgeon,” I cried; “a small sturgeon.”
-s=axel;e:axel=happylookdown
+s=axel;e:axel=happylookdown;e:axel=surprisedlookdown;i=
 
 The Professor eyes the creature attentively, and his opinion differs from mine.
 s=none;e:prof=thinking
@@ -7135,26 +7123,23 @@ s=none;e:prof=thinking
 The head of this fish was flat, but rounded in front, and the anterior part of its body was plated with bony, angular scales; it had no teeth, its pectoral fins were large, and of tail there was none.
 e:axel=curious
 
-The animal belonged to the same order as the sturgeon, but differed from that fish in many essential particulars.
+The animal belonged to the same order as the sturgeon, but differed from that fish in many essential particulars. After a short examination my uncle pronounced his opinion.
 
-
-After a short examination my uncle pronounced his opinion.
-e:prof=serious
 
 “This fish belongs to an extinct family, of which only fossil traces are found in the Devonian formations.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=seriouslookdown;i=2
 
 “What!” I cried. “Have we taken alive an inhabitant of the seas of primitive ages?”
-s=axel;e:axel=surprised
+s=axel;e:axel=surprised;e:axel=confusedlook;i=
 
 “Yes; and you will observe that these fossil fishes have no identity with any living species. To have in one’s possession a living specimen is a happy event for a naturalist.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happylookdown;i=
 
 “But to what family does it belong?”
-s=axel;e:axel=curious;i=2
+s=axel;e:axel=curious;i=2;e:axel=nervous;i=
 
 “It is of the order of ganoids, of the family of the Cephalaspidae; and a species of *Pterichthys*.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=
 
 “But this one displays a peculiarity confined to all fishes that inhabit subterranean waters. It is blind, and not only blind, but actually has no eyes at all.”
 e:prof=contemplativelookdown
@@ -7166,7 +7151,7 @@ But supposing it might be a solitary case, we baited afresh, and threw out our l
 e:axel=curious
 
 Surely this ocean is well peopled with fish, for in another couple of hours we took a large quantity of *Pterichthyodes*, as well as of others belonging to the extinct family of the dipterids, but of which my uncle could not tell the species; none had organs of sight.
-e:axel=happy
+e:axel=happy;f:b:tunnel-sea-raft-wide=blur(3px)
 
 This unhoped-for catch recruited our stock of provisions.
 
@@ -7187,7 +7172,7 @@ I survey the whole space that stretches overhead; it is as desert as the shore w
 e:axel=neutral
 
 Still my imagination carried me away amongst the wonderful speculations of palaeontology. Though awake I fell into a dream.
-e:axel=contemplative;f:b:tunnel-sea-raft-wide=blur(3px)
+e:axel=contemplative;f:b:tunnel-sea-raft-wide=blur(6px)
 
 I thought I could see floating on the surface of the waters enormous *Chelonia*, pre-adamite tortoises, resembling floating islands.
 e:axel=surprised
@@ -7198,7 +7183,10 @@ Over the dimly lighted strand there trod the huge mammals of the first ages of t
 Farther on, the pachydermatous *Lophiodon* (crested toothed), a gigantic tapir, hides behind the rocks to dispute its prey with the *Anoplotherium* (unarmed beast), a strange creature, which seemed a compound of horse, rhinoceros, camel, and hippopotamus, as if the creator, pressed for time in the first hours of the world, had assembled several animals into one.
 e:axel=excited
 
-The colossal mastodon (nipple-toothed) twists and untwists his trunk, and brays and pounds with his huge tusks the fragments of rock that cover the shore; whilst the *Megatherium* (huge beast), buttressed upon his enormous hinder paws, grubs in the soil, awaking the sonorous echoes of the granite rocks with his tremendous roarings.<e>"nipple-toothed"</e>
+The colossal mastodon (nipple-toothed) twists and untwists his trunk, and brays and pounds with his huge tusks the fragments of rock that cover the shore;<e>"(nipple-toothed)"</e>
+
+
+whilst the *Megatherium* (huge beast), buttressed upon his enormous hinder paws, grubs in the soil, awaking the sonorous echoes of the granite rocks with his tremendous roarings.
 
 
 Higher up, the *Protopitheca*﻿—the first monkey that appeared on the globe﻿—is climbing up the steep ascents. Higher yet, the pterodactyl (wing-fingered) darts in irregular zigzags to and fro in the heavy air.
@@ -7211,7 +7199,7 @@ All this fossil world rises to life again in my vivid imagination. I return to t
 e:axel=thinking
 
 Then my dream backed even farther still into the ages before the creation of living beings.
-e:axel=contemplative;f:b:tunnel-sea-raft-wide=blur(5px)
+e:axel=contemplative;f:b:tunnel-sea-raft-wide=blur(10px)
 
 The mammals disappear, then the birds vanish, then the reptiles of the secondary period, and finally the fish, the crustaceans, molluscs, and articulated beings. Then the zoophytes of the transition period also return to nothing.
 
@@ -7228,7 +7216,10 @@ I glide like a shade amongst arborescent ferns, treading with unsteady feet the 
 Ages seem no more than days! I am passed, against my will, in retrograde order, through the long series of terrestrial changes.
 e:axel=fearful
 
-Plants disappear; granite rocks soften; intense heat converts solid bodies into thick fluids; the waters again cover the face of the earth; they boil, they rise in whirling eddies of steam; white and ghastly mists wrap round the shifting forms of the earth, which by imperceptible degrees dissolves into a gaseous mass, glowing fiery red and white, as large and as shining as the sun.
+Plants disappear; granite rocks soften; intense heat converts solid bodies into thick fluids; the waters again cover the face of the earth; they boil, they rise in whirling eddies of steam;
+
+
+white and ghastly mists wrap round the shifting forms of the earth, which by imperceptible degrees dissolves into a gaseous mass, glowing fiery red and white, as large and as shining as the sun.
 
 
 And I myself am floating with wild caprice in the midst of this nebulous mass of fourteen hundred thousand times the volume of the earth into which it will one day be condensed, and carried forward amongst the planetary bodies.
@@ -7250,13 +7241,13 @@ I have forgotten everything that surrounds me. The Professor, the guide, the raf
 e:axel=upset
 
 “What is the matter?” my uncle breaks in.
-s=prof;e:prof=wary;f:b:tunnel-sea-raft-wide=
+s=prof;e:prof=wary;f:b:tunnel-sea-raft-wide=;e:prof=wary;i=2
 
 My staring eyes are fixed vacantly upon him.
 s=none;e:axel=confused
 
 “Take care, Axel, or you will fall overboard.”
-s=prof;e:prof=wary;i=2
+s=prof;e:prof=wary;i=2;e:prof=weary;i=
 
 At that moment I felt the sinewy hand of Hans seizing me vigorously.
 s=none;e:hans=serious
@@ -7265,19 +7256,19 @@ But for him, carried away by my dream, I should have thrown myself into the sea.
 e:axel=fearful
 
 “Is he mad?” cried the Professor.
-s=prof;e:prof=upset
+s=prof;e:prof=upset;e:prof=nervous;i=
 
 “What is it all about?” at last I cried, returning to myself.
-s=axel;e:axel=confused;i=3
+s=axel;e:axel=confused;i=3;e:axel=fearful;i=3
 
 “Do you feel ill?” my uncle asked.
-s=prof;e:prof=suspicious
+s=prof;e:prof=suspicious;e:prof=confused;i=
 
 “No; but I have had a strange hallucination; it is over now. Is all going on right?”
 s=axel;e:axel=weary
 
 “Yes, it is a fair wind and a fine sea; we are sailing rapidly along, and if I am not out in my reckoning, we shall soon land.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=seriouslook;i=
 
 At these words I rose and gazed round upon the horizon, still everywhere bounded by clouds alone.
 s=none;e:axel=neutral
