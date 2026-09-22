@@ -4907,13 +4907,13 @@ e:axel=upset;e:axel=thinking;i=
 r=title
 
 This time the descent commenced by the new gallery. Hans walked first as was his custom.
-e:hans=neutral;b=tunnel-4
+e:hans=neutral;b=tunnel-4;f:b:tunnel-4=blur(3px)
 
 We had not gone a hundred yards when the Professor, moving his lantern along the walls, cried:
-e:prof=curious
+e:prof=curious;f:b:tunnel-4=
 
 “Here are primitive rocks. Now we are in the right way. Forward!”
-s=prof;e:prof=sadsmile;x:prof=hat,pack
+s=prof;e:prof=sadsmile;x:prof=hat,pack;e:prof=serious;i=
 
 When in its early stages the earth was slowly cooling, its contraction gave rise in its crust to disruptions, distortions, fissures, and chasms.
 s=none;e:axel=thinking;
@@ -4927,10 +4927,10 @@ As fast as we descended, the succession of beds forming the primitive foundation
 Geologists consider this primitive matter to be the base of the mineral crust of the earth, and have ascertained it to be composed of three different formations, schist, gneiss, and mica schist, resting upon that unchangeable foundation, the granite.
 
 
-Never had mineralogists found themselves in so marvellous a situation to study nature *in situ*.<e>See also: <book>Basin and Range|interstates</book>.</e>
+Never had mineralogists found themselves in so marvellous a situation to study nature *in situ*.
 e:axel=excited
 
-What the boring machine, an insensible, inert instrument, was unable to bring to the surface of the inner structure of the globe, we were able to peruse with our own eyes and handle with our own hands.
+What the boring machine, an insensible, inert instrument, was unable to bring to the surface of the inner structure of the globe, we were able to peruse with our own eyes and handle with our own hands.<e>Verne would have loved <book>Basin and Range|highway cuts</book>.</e>
 
 
 Through the beds of schist, coloured with delicate shades of green, ran in winding course threads of copper and manganese, with traces of platinum and gold.
@@ -4973,13 +4973,13 @@ At last I failed utterly; I uttered a cry and fell.
 e:axel=upset
 
 “Come to me, I am dying.”
-s=axel;e:axel=weary;x:axel=hat,pack
+s=axel;e:axel=weary;x:axel=hat,pack;e:axel=weary;i=
 
 My uncle retraced his steps. He gazed upon me with his arms crossed; then these muttered words passed his lips:
 s=none;e:prof=serious
 
 “It’s all over!”
-s=prof;e:prof=upset
+s=prof;e:prof=upset;e:prof=serious;i=
 
 The last thing I saw was a fearful gesture of rage,
 s=none;e:prof=angry;f:b:tunnel-5=blur(3px);m=break,1
@@ -4988,7 +4988,7 @@ and my eyes closed.
 b=night;f:b:night=blur(3px)
 
 When I reopened them I saw my two companions motionless and rolled up in their coverings.
-e:axel=confused;b=tunnel-5;f:b:tunnel-5=
+e:axel=confused;b=tunnel-5;f:b:tunnel-5=blur(3px) brightness(85%)
 
 Were they asleep?
 
@@ -5012,7 +5012,7 @@ Yet in the midst of my stupefaction I seemed to be aware of a noise.
 e:axel=surprised
 
 It was dark down the tunnel, but I seemed to see the Icelander vanishing from our sight with the lamp in his hand.
-e:axel=curious;f:b:tunnel-5=brightness(85%)
+e:axel=curious
 
 Why was he leaving us? Was Hans going to forsake us?
 e:axel=fearful
@@ -5021,7 +5021,7 @@ My uncle was fast asleep. I wanted to shout, but my voice died upon my parched a
 
 
 The darkness became deeper, and the last sound died away in the far distance.
-;f:b:tunnel-5=brightness(75%)
+;f:b:tunnel-5=blur(5px) brightness(75%)
 
 “Hans has abandoned us,” I cried. “Hans! Hans!”
 m=dialogue
