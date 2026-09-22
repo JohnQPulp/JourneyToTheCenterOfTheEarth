@@ -5723,7 +5723,7 @@ But would this state of things last in the strange place we had come to? Perhaps
 e:axel=thinking
 
 For several days steeper inclines, some even frightfully near to the perpendicular, brought us deeper and deeper into the mass of the interior of the earth. Some days we advanced nearer to the centre by a league and a half, or nearly two leagues.
-e:axel=serious
+e:axel=serious;f:b:tunnel-grotto=blur(5px)
 
 These were perilous descents, in which the skill and marvellous coolness of Hans were invaluable to us.
 e:hans=neutral
@@ -5744,16 +5744,13 @@ During the fortnight following our last conversation, no incident occurred worth
 e:axel=neutral
 
 But I have good reason for remembering one very serious event which took place at this time, and of which I could scarcely now forget the smallest details.
-e:axel=serious
+e:axel=serious;b=tunnel-8;f:b:tunnel-8=blur(3px)
 
 By the 7th of August our successive descents had brought us to a depth of thirty leagues; that is, that for a space of thirty leagues there were over our heads solid beds of rock, ocean, continents, and towns. We must have been two hundred leagues from Iceland.
 e:axel=thinking;b=tunnel-8;f:b:tunnel-8=blur(3px)
 
-On that day the tunnel went down a gentle slope. I was ahead of the others.
+On that day the tunnel went down a gentle slope. I was ahead of the others. My uncle was carrying one of Ruhmkorff’s lamps and I the other. I was examining the beds of granite.
 e:axel=neutral
-
-My uncle was carrying one of Ruhmkorff’s lamps and I the other. I was examining the beds of granite.
-
 
 Suddenly turning round I observed that I was alone.
 e:axel=surprised;f:b:tunnel-8=
@@ -5764,41 +5761,32 @@ e:axel=thinking
 Come, this won’t do; I must join them. Fortunately there is not much of an ascent.
 e:axel=nervous
 
-I retraced my steps. I walked for a quarter of an hour.
-e:axel=serious;f:b:tunnel-8=blur(3px)
-
-I gazed into the darkness. I shouted.
-e:axel=wary
-
-No reply: my voice was lost in the midst of the cavernous echoes which alone replied to my call.
-e:axel=fearful
+I retraced my steps. I walked for a quarter of an hour. I gazed into the darkness. I shouted. No reply: my voice was lost in the midst of the cavernous echoes which alone replied to my call.
+e:axel=serious;
 
 I began to feel uneasy. A shudder ran through me.
 e:axel=nervous
 
 “Calmly!” I said aloud to myself,
-s=axel;e:axel=wary;f:b:tunnel-8=;x:axel=hat,pack
+s=axel;e:axel=wary;f:b:tunnel-8=;x:axel=hat,pack;e:axel=unhappy;i=2
 
 “I am sure to find my companions again. There are not two roads. I was too far ahead. I will return!”
+;e:axel=wary;i=
 
+For half an hour I climbed up. I listened for a call, and in that dense atmosphere a voice could reach very far. But there was a dreary silence in all that long gallery.
+s=none;e:axel=serious;
 
-For half an hour I climbed up. I listened for a call, and in that dense atmosphere a voice could reach very far.
-s=none;e:axel=serious;f:b:tunnel-8=blur(3px)
-
-But there was a dreary silence in all that long gallery. I stopped.
-e:axel=fearful
-
-I could not believe that I was lost. I was only bewildered for a time, not lost. I was sure I should find my way again.
+I stopped. I could not believe that I was lost. I was only bewildered for a time, not lost. I was sure I should find my way again.
 e:axel=nervous
 
 “Come,” I repeated, “since there is but one road, and they are on it, I *must* find them again. I have but to ascend still.”
-s=axel;e:axel=unhappy;f:b:tunnel-8=
+s=axel;e:axel=unhappy;f:b:tunnel-8=;e:axel=unhappy;i=2;e:axel=seriouslookdown;i=
 
 “Unless, indeed, missing me, and supposing me to be behind, they too should have gone back. But even in this case I have only to make the greater haste. I shall find them, I am sure.”
-e:axel=weary
+e:axel=weary;e:axel=confused;i=;e:axel=unhappy;i=2
 
 I repeated these words in the fainter tones of a half-convinced man. Besides, to associate even such simple ideas with words, and reason with them, was a work of time.
-s=none;e:axel=nervous
+s=none;e:axel=nervous;f:b:tunnel-8=blur(3px)
 
 A doubt then seized upon me. Was I indeed in advance when we became separated?
 e:axel=fearful
@@ -5819,13 +5807,13 @@ Before starting afresh I thought a wash would do me good. I stooped to bathe my 
 e:axel=neutral
 
 To my stupefaction and utter dismay my feet trod only—the rough dry granite. The stream was no longer at my feet.
-e:axel=fearful;f:b:tunnel-8=blur(3px)
+e:axel=fearful;f:b:tunnel-8=blur(6px)
 
 ## XXVII. Lost in the Bowels of the Earth
 r=title
 
 To describe my despair would be impossible. No words could tell it. I was buried alive, with the prospect before me of dying of hunger and thirst.
-e:axel=upset;b=tunnel-8
+e:axel=upset;b=tunnel-8;f:b:tunnel-8=blur(3px)
 
 Mechanically I swept the ground with my hands. How dry and hard the rock seemed to me!
 e:axel=weary
