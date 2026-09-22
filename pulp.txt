@@ -5473,35 +5473,35 @@ e:axel=weary;e:hans=happy;b=tunnel-grotto;f:b:tunnel-grotto=blur(3px)
 ## XXV. De Profundis
 r=title
 
-I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it. And, besides, we were beginning to get accustomed to this troglodyte<f>The name of an Ethiopian tribe who lived in caves and holes. *Τρώγλη*, a hole, and *δύω*, to creep into.</f> life.
+I therefore awoke next day relieved from the preoccupation of an immediate start. Although we were in the very deepest of known depths, there was something not unpleasant about it.
 e:axel=neutral;b=tunnel-grotto;f:b:tunnel-grotto=blur(3px)
+
+And, besides, we were beginning to get accustomed to this troglodyte<f>The name of an Ethiopian tribe who lived in caves and holes. *Τρώγλη*, a hole, and *δύω*, to creep into.</f> life.
+
 
 I no longer thought of sun, moon, and stars, trees, houses, and towns, nor of any of those terrestrial superfluities which are necessaries of men who live upon the earth’s surface. Being fossils, we looked upon all those things as mere jokes.
 e:axel=contemplative
 
-The grotto was an immense apartment. Along its granite floor ran our faithful stream.
-;f:b:tunnel-grotto=
+The grotto was an immense apartment. Along its granite floor ran our faithful stream. At this distance from its spring the water was scarcely tepid, and we drank of it with pleasure.
 
-At this distance from its spring the water was scarcely tepid, and we drank of it with pleasure.
-e:axel=happy
 
 After breakfast the Professor gave a few hours to the arrangement of his daily notes.
-e:prof=thinking
+e:prof=thinking;f:b:tunnel-grotto=
 
 “First,” said he, “I will make a calculation to ascertain our exact position.”
-s=prof;e:prof=serious
+s=prof;e:prof=serious;e:prof=serious;i=3
 
 “I hope, after our return, to draw a map of our journey, which will be in reality a vertical section of the globe, containing the track of our expedition.”
-
+;e:prof=suspicious;i=
 
 “That will be curious, uncle; but are your observations sufficiently accurate to enable you to do this correctly?”
-s=axel;e:axel=curious
+s=axel;e:axel=curious;e:axel=seriouslook;i=;e:axel=confusedlook;i=
 
 “Yes; I have everywhere observed the angles and the inclines. I am sure there is no error.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=2
 
 “Let us see where we are now. Take your compass, and note the direction.”
-e:prof=serious
+e:prof=serious;e:prof=suspicious;i=2
 
 I looked, and replied carefully:
 s=none;e:axel=serious
@@ -5510,7 +5510,7 @@ s=none;e:axel=serious
 s=axel;e:axel=contemplativelookdown
 
 “Well,” answered the Professor,
-s=prof;e:prof=thinking;m=break,1
+s=prof;e:prof=thinking;m=break,1;e:prof=contemplative;i=2;e:prof=thinking;i=
 
 after a rapid calculation,
 s=
@@ -5522,61 +5522,61 @@ e:prof=smirking;s=prof
 s=axel;e:axel=surprised
 
 “To be sure we are.”
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=happy;i=2
 
 “And perhaps at this very moment there is a storm above, and ships over our heads are being rudely tossed by the tempest.”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confusedlook;i=
 
 “Quite probable.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=;i=
 
 “And whales are lashing the roof of our prison with their tails?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=curiouswary;i=
 
 “It may be, Axel, but they won’t shake us here.”
 s=prof;e:prof=smirking
 
 “But let us go back to our calculation. Here we are eighty-five leagues southeast of Snæfells, and I reckon that we are at a depth of sixteen leagues.”
-e:prof=thinking;i=2
+e:prof=thinking;i=2;e:prof=wary;i=2
 
 “Sixteen leagues?” I cried.
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=nervous;i=;e:axel=unhappy;i=
 
 “No doubt.”
 s=prof;e:prof=neutral;i=2
 
 “Why, this is the very limit assigned by science to the thickness of the crust of the earth.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=wary;i=2
 
 “I don’t deny it.”
-s=prof
+s=prof;e:prof=curious;i=
 
 “And here, according to the law of increasing temperature, there ought to be a heat of 2,732° Fahr.!”
-s=axel;e:axel=confused;i=2
+s=axel;e:axel=confused;i=2;e:axel=confusedlook;i=
 
 “So there should, my lad.”
 s=prof;e:prof=smirking;i=2
 
 “And all this solid granite ought to be running in fusion.”
-s=axel;e:axel=suspicious
+s=axel;e:axel=suspicious;e:axel=unhappy;i=2
 
 “You see that it is not so, and that, as so often happens, facts come to overthrow theories.”
 s=prof;e:prof=happy
 
 “I am obliged to agree; but, after all, it is surprising.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=nervous;i=
 
 “What does the thermometer say?”
 s=prof;e:prof=curious
 
 “Twenty-seven, six tenths (82° Fahr.)”
-s=axel;e:axel=neutral
+s=axel;e:axel=neutral;e:axel=confused;i=
 
 “Therefore the savants are wrong by 2,705°, and the proportional increase is a mistake. Therefore Humphry Davy was right, and I am not wrong in following him. What do you say now?”
-s=prof;e:prof=smirking
+s=prof;e:prof=smirking;e:prof=smirkingthinking;i=
 
 “Nothing.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=wary;i=2
 
 In truth, I had a good deal to say. I gave way in no respect to Davy’s theory. I still held to the central heat, although I did not feel its effects.
 s=none;e:axel=contemplative
@@ -5591,31 +5591,31 @@ e:axel=neutral
 s=axel;e:axel=serious
 
 “What is it. Speak freely.”
-s=prof;e:prof=neutral
+s=prof;e:prof=neutral;e:prof=;i=2
 
 “At the latitude of Iceland, where we now are, the radius of the earth, the distance from the centre to the surface is about 1,583 leagues; let us say in round numbers 1,600 leagues, or 4,800 miles.”
-s=axel;e:axel=thinking
+s=axel;e:axel=thinking;e:axel=confusedlook;i=;e:axel=wary;i=2
 
 “Out of 1,600 leagues we have gone twelve!”
-e:axel=serious
+e:axel=serious;e:axel=confusedlook;i=
 
 “So you say.”
 s=prof;e:prof=thinking
 
 “And these twelve at a cost of 85 leagues diagonally?”
-s=axel;i=2
+s=axel;i=2;e:axel=confused;i=3
 
 “Exactly so.”
-s=prof;i=2
+s=prof;i=2;e:prof=wary;i=2
 
 “In twenty days?”
 s=axel
 
 “Yes.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=seriousthinking;i=
 
 “Now, sixteen leagues are the hundredth part of the earth’s radius. At this rate we shall be two thousand days, or nearly five years and a half, in getting to the centre.”
-s=axel;e:axel=annoyed
+s=axel;e:axel=annoyed;e:axel=confused;i=;e:axel=nervous;i=
 
 No answer was vouchsafed to this rational conclusion.
 s=none;e:prof=annoyed
@@ -5627,13 +5627,13 @@ s=axel;e:axel=unhappy
 s=prof;e:prof=scowling
 
 “What is the basis of them all? How do you know that this passage does not run straight to our destination? Besides, there is a precedent. What one man has done, another may do.”
-
+;e:prof=angry;i=2
 
 “I hope so; but, still, I may be permitted—”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=weary;i=
 
 “You shall have my leave to hold your tongue, Axel, but not to talk in that irrational way.”
-s=prof;e:prof=annoyed
+s=prof;e:prof=annoyed;e:prof=scowling;i=2
 
 I could see the awful Professor bursting through my uncle’s skin, and I took timely warning.
 s=none;e:axel=nervous
@@ -5642,73 +5642,73 @@ s=none;e:axel=nervous
 s=prof;e:prof=serious
 
 “It says we are under considerable pressure.”
-s=axel;e:axel=contemplativelookdown
+s=axel;e:axel=contemplativelookdown;e:axel=annoyed;i=2
 
 “Very good; so you see that by going gradually down, and getting accustomed to the density of the atmosphere, we don’t suffer at all.”
-s=prof;e:prof=serious;i=2
+s=prof;e:prof=serious;i=2;e:prof=wary;i=2
 
 “Nothing, except a little pain in the ears.”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=wary;i=2
 
 “That’s nothing, and you may get rid of even that by quick breathing whenever you feel the pain.”
-s=prof;e:prof=suspicious
+s=prof;e:prof=suspicious;e:prof=annoyed;i=2
 
 “Exactly so,” I said,
-s=axel;e:axel=wary;m=break,1
+s=axel;e:axel=wary;m=break,1;e:axel=confusedlook;i=
 
 determined not to say a word that might cross my uncle’s prejudices.
 s=
 
 “There is even positive pleasure in living in this dense atmosphere. Have you observed how intense sound is down here?”
-e:axel=curious
+e:axel=curious;s=axel;e:axel=confused;i=3
 
 “No doubt it is. A deaf man would soon learn to hear perfectly.”
-s=prof;e:prof=thinking
+s=prof;e:prof=thinking;e:prof=wary;i=2
 
 “But won’t this density augment?”
-s=axel;e:axel=contemplative
+s=axel;e:axel=contemplative;e:axel=seriouslook;i=
 
 “Yes; according to a rather obscure law. It is well known that the weight of bodies diminishes as fast as we descend. You know that it is at the surface of the globe that weight is most sensibly felt, and that at the centre there is no weight at all.”
-s=prof;e:prof=thinking;i=2
+s=prof;e:prof=thinking;i=2;e:prof=suspicious;i=2
 
 “I am aware of that; but, tell me, will not air at last acquire the density of water?”
-s=axel;i=2
+s=axel;i=2;e:axel=confused;i=;e:axel=wary;i=2
 
 “Of course, under a pressure of seven hundred and ten atmospheres.”
-s=prof;
+s=prof;;e:prof=;i=2
 
 “And how, lower down still?”
-s=axel;e:axel=wary
+s=axel;e:axel=wary;e:axel=confused;i=
 
 “Lower down the density will still increase.”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=serious;i=3
 
 “But how shall we go down then.”
-s=axel;e:axel=confused
+s=axel;e:axel=confused;e:axel=confusedlook;i=;e:axel=wary;i=2
 
-“Why, we must fill our pockets with stones.”<e>Virginia Woolf plagiarism.</e>
+“Why, we must fill our pockets with stones.”<e>Virginia Woolf reference.</e>
 s=prof;e:prof=annoyed
 
 “Well, indeed, my worthy uncle, you are never at a loss for an answer.”
-s=axel;e:axel=unhappy
+s=axel;e:axel=unhappy;e:axel=confusedlook;i=
 
 I dared venture no farther into the region of probabilities, for I might presently have stumbled upon an impossibility, which would have brought the Professor on the scene when he was not wanted.
-s=none;e:axel=wary
+s=none;e:axel=wary;f:b:tunnel-grotto=blur(3px)
 
 Still, it was evident that the air, under a pressure which might reach that of thousands of atmospheres, would at last reach the solid state, and then, even if our bodies could resist the strain, we should be stopped, and no reasonings would be able to get us on any farther.
 e:axel=thinking
 
-But I did not advance this argument.
+But I did not advance this argument. My uncle would have met it with his inevitable Saknussemm, a precedent which possessed no weight with me;
 
 
-My uncle would have met it with his inevitable Saknussemm, a precedent which possessed no weight with me; for even if the journey of the learned Icelander were really attested, there was one very simple answer, that in the sixteenth century there was neither barometer or aneroid and therefore Saknussemm could not tell how far he had gone.
+for even if the journey of the learned Icelander were really attested, there was one very simple answer, that in the sixteenth century there was neither barometer or aneroid and therefore Saknussemm could not tell how far he had gone.
 e:axel=annoyed
 
 But I kept this objection to myself, and waited the course of events.
 e:axel=weary
 
 The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of Professor Liedenbrock, and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.
-e:axel=neutral;e:hans=neutral;f:b:tunnel-grotto=blur(3px)
+e:axel=neutral;e:hans=neutral;f:b:tunnel-grotto=blur(5px)
 
 ## XXVI. The Worst Peril of All
 r=title
