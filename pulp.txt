@@ -10265,7 +10265,7 @@ e:hans=sadsmile
 r=title
 
 Such is the conclusion of a history which I cannot expect everybody to believe, for some people will believe nothing against the testimony of their own experience.
-e:axel=contemplative;b=med-mountain-country;;f:b:med-mountain-country=blur(3px)
+e:axel=contemplative;b=med-mountain-country;;f:b:med-mountain-country=blur(6px)
 
 However, I am indifferent to their incredulity, and they may believe as much or as little as they please.
 e:axel=smirking
@@ -10274,28 +10274,28 @@ The Stromboliotes received us kindly as shipwrecked mariners. They gave us food 
 e:axel=neutral
 
 After waiting forty-eight hours, on the 31st of August, a small craft took us to Messina, where a few days’ rest completely removed the effect of our fatigues.
-e:axel=happy;b=light;f:b:light=blur(3px)
+e:axel=happy
 
 On Friday, September the 4th, we embarked on the steamer *Volturno*, employed by the French *Messageries Impériales*, and in three days more we were at Marseilles, having no care on our minds except that abominable deceitful compass, which we had mislaid somewhere and could not now examine; but its inexplicable behaviour exercised my mind fearfully.
-e:axel=wary
+e:axel=wary;f:b:med-mountain-country=blur(12px)
 
 On the 9th of September, in the evening, we arrived at Hamburg.
-e:axel=excited;b=hamburg-wide
+e:axel=excited;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 
 I cannot describe to you the astonishment of Martha or the joy of Gräuben.
-e:martha=surprised;e:grauben=happy;b=prof-dining
+e:martha=surprised;e:grauben=happy;b=prof-dining;f:b:prof-dining=blur(3px)
 
 “Now you are a hero, Axel,” said to me my blushing fiancée, my betrothed,
-s=grauben;e:grauben=sadsmile;e:axel=happy
+s=grauben;e:grauben=sadsmile;e:axel=happy;f:b:prof-dining=
 
 “you will not leave me again!”
 
 
 I looked tenderly upon her, and she smiled through her tears.
-s=none;e:grauben=sadsmile
+s=none;e:grauben=sadsmile;f:b:prof-dining=blur(3px)
 
 How can I describe the extraordinary sensation produced by the return of Professor Liedenbrock?
-e:axel=excited;e:prof=happy;f:b:prof-dining=blur(3px)
+e:axel=excited;e:prof=happy;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
 
 Thanks to Martha’s ineradicable tattling, the news that the Professor had gone to discover a way to the centre of the earth had spread over the whole civilised world.
 e:martha=smirking;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
@@ -10324,7 +10324,7 @@ e:prof=neutral
 There were those who envied him his fame; and as his theories, resting upon known facts, were in opposition to the systems of science upon the question of the central fire, he sustained with his pen and by his voice remarkable discussions with the learned of every country.
 e:prof=serious
 
-For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.<e>Somehow the most anti-scientific line in the book.</e>
+For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.<e>The most anti-science line in the book, somehow.</e>
 e:axel=serious
 
 But I admit that certain circumstances not yet sufficiently understood may tend to modify in places the action of natural phenomena.
@@ -10340,7 +10340,7 @@ He was seized with the *mal de pays*, a complaint for which we have not even a n
 e:hans=unhappy
 
 “*Farval*,” said he one day;
-s=hans;e:hans=happy;f:b:prof-wide=
+s=hans;e:hans=happy;f:b:prof-wide=;e:hans=;i=2
 
 and with that simple word he left us and sailed for Reykjavík, which he reached in safety.
 ;f:b:prof-wide=blur(3px);s=
@@ -10348,16 +10348,13 @@ and with that simple word he left us and sailed for Reykjavík, which he reached
 We were strongly attached to our brave eiderdown hunter; though far away in the remotest north, he will never be forgotten by those whose lives he protected, and certainly I shall not fail to endeavour to see him once more before I die.
 s=none;e:axel=contemplative
 
-To conclude, I have to add that this “Journey into the Interior of the Earth” created a wonderful sensation in the world.
+To conclude, I have to add that this “Journey into the Interior of the Earth” created a wonderful sensation in the world. It was translated into all civilised languages.
 e:axel=happy;b=hamburg-wide;f:b:hamburg-wide=blur(3px)
-
-It was translated into all civilised languages.<e>And Italian.</e>
-
 
 The leading newspapers extracted the most interesting passages, which were commented upon, picked to pieces, discussed, attacked, and defended with equal enthusiasm and determination, both by believers and sceptics.
 e:axel=excited
 
-Rare privilege! my uncle enjoyed during his lifetime the glory he had deservedly won; and he may even boast the distinguished honour of an offer from Mr. Barnum, to exhibit him on most advantageous terms in all the principal cities in the United States!<e>Good P.T. Barnum brick joke.</e>
+Rare privilege! my uncle enjoyed during his lifetime the glory he had deservedly won; and he may even boast the distinguished honour of an offer from Mr. Barnum, to exhibit him on most advantageous terms in all the principal cities in the United States!<e>The P. T. Barnum brick joke.</e>
 e:prof=smirking
 
 But there was one “dead fly” amidst all this glory and honour; one fact, one incident, of the journey remained a mystery.
@@ -10367,19 +10364,19 @@ Now to a man eminent for his learning, an unexplained phenomenon is an unbearabl
 e:prof=annoyed
 
 One day, while arranging a collection of minerals in his cabinet, I noticed in a corner this unhappy compass, which we had long lost sight of; I opened it, and began to watch it.
-e:axel=curious;b=prof-study
+e:axel=curious;b=prof-study;f:b:prof-study=blur(3px)
 
 It had been in that corner for six months, little mindful of the trouble it was giving.
 
 
 Suddenly, to my intense astonishment, I noticed a strange fact, and I uttered a cry of surprise.
-e:axel=surprised
+e:axel=surprised;f:b:prof-study=
 
 “What is the matter?” my uncle asked.
-s=prof;e:prof=surprised
+s=prof;e:prof=surprised;e:prof=unhappy;i=
 
 “That compass!”
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=surprisedlookdown;i=
 
 “Well?”
 s=prof;e:prof=confused
@@ -10388,10 +10385,10 @@ s=prof;e:prof=confused
 s=axel;e:axel=excitedlook
 
 “Reversed?”
-s=prof;e:prof=surprised;i=2
+s=prof;e:prof=surprised;i=2;e:prof=surprisedlookdown;i=
 
 “Yes, they point the wrong way.”
-s=axel;e:axel=excited;i=2
+s=axel;e:axel=excited;i=2;e:axel=happylookdown;i=
 
 My uncle looked, he compared, and the house shook with his triumphant leap of exultation.
 s=none;e:prof=excited
@@ -10400,37 +10397,37 @@ A light broke in upon his spirit and mine.
 
 
 “See there,” he cried, as soon as he was able to speak.
-s=prof;e:prof=excited
+s=prof;e:prof=excited;e:prof=excited;i=2;e:prof=serious;i=2
 
 “After our arrival at Cape Saknussemm the north pole of the needle of this confounded compass began to point south instead of north.”
-
+;e:prof=seriousthinking;i=
 
 “Evidently!”
 s=axel;e:axel=excited
 
 “Here, then, is the explanation of our mistake. But what phenomenon could have caused this reversal of the poles?”
-s=prof;e:prof=contemplative
+s=prof;e:prof=contemplative;e:prof=weary;i=
 
 “The reason is evident, uncle.”
-s=axel;e:axel=happy
+s=axel;e:axel=happy;e:axel=confusedhappy;i=
 
 “Tell me, then, Axel.”
-s=prof;e:prof=curious
+s=prof;e:prof=curious;e:prof=serious;i=2
 
 “During the electric storm on the Liedenbrock sea, that ball of fire, which magnetised all the iron on board, reversed the poles of our magnet!”
-s=axel;e:axel=excited
+s=axel;e:axel=excited;e:axel=happy;i=;e:axel=confusedlook;i=
 
 “Aha! aha!” shouted the Professor with a loud laugh.
-s=prof;e:prof=happy
+s=prof;e:prof=happy;e:prof=excited;i=2
 
 “So it was just an electric joke!”
-
+;e:prof=happy;i=2;e:prof=happylookup;i=
 
 From that day forth the Professor was the most glorious of savants, and I was the happiest of men; for my pretty *Virlandaise*, resigning her place as ward, took her position in the old house on the Königstrasse in the double capacity of niece to my uncle and wife to a certain happy youth.
 s=none;e:axel=happy;f:b:prof-study=blur(3px)
 
-What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?
+What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?<e>"What is the need"?</e>
 e:axel=smirking
 
-<e>The End. What is the need, indeed. Good to close out with another pointless bit of repetition. I mean, maybe Verne doesn't have the best prose in the world, and maybe Malleson the translator exacerbated that issue, but to focus on the important point: Why do Verne novel titles always promise going further underground than they actually deliver on? (Maybe that's why Malleson went with "Journey to the <i>Interior</i> of the Earth". Less catchy though.</e>
+<e>The End. A fine book overall, but what's the deal with Verne novels always promising in their titles that they'll go deeper underground than they end up delivering on? (Twice is a pattern.)</e>
 
