@@ -1,8 +1,14 @@
 ### *Journey to the Center of the Earth: The Visual Novel*
 
-This repository will contain the metadata and images for the visual novel transformation (pulpification) of Jules Verne's book *Journey to the Center of the Earth*.
+This repository contains the metadata and images for the visual novel transformation (pulpification) of Jules Verne's book *Journey to the Center of the Earth*.
 
-This VN is a work-in-progress.
+You can read it in a few ways:
+
+* Online at https://publicdomainpulp.com/vn/JourneyToTheCenterOfTheEarth
+* Locally at http://localhost:1929/vn/JourneyToTheCenterOfTheEarth running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
+* Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
+
+![Preview](images/preview.avif)
 
 ### License Information
 
