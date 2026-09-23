@@ -1570,7 +1570,7 @@ s=axel;e:axel=confused;e:axel=serious;i=
 “It is true.”
 s=grauben;e:grauben=thinking;e:grauben=;i=
 
-Ah! Women and young girls, how incomprehensible are your feminine hearts! When you are not the timidest, you are the bravest of creatures. Reason has nothing to do with your actions.<e>Waah waah waah. (You don't see <book>The Picture of Dorian Gray|Oscar Wilde</book> sounding so whiny when he's mocking women.)</e>
+Ah! Women and young girls, how incomprehensible are your feminine hearts! When you are not the timidest, you are the bravest of creatures. Reason has nothing to do with your actions.<e>Waah waah waah. (Leave the women-mocking to <book>The Picture of Dorian Gray|someone who's good at it</book>.)</e>
 s=none;e:axel=confused
 
 What! Did this child encourage me in such an expedition! Would she not be afraid to join it herself? And she was driving me to it, one whom she loved!
@@ -3664,7 +3664,7 @@ Imagine the aspect of such a reservoir, brim full and running over with liquid f
 The bottom of the funnel was about 250 feet in circuit, so that the gentle slope allowed its lower brim to be reached without much difficulty.
 
 
-Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.<e>In this instance the revised translation is superior: "grenade launcher".</e>
+Involuntarily I compared the whole crater to an enormous erected mortar, and the comparison put me in a terrible fright.<e>The 2005 revised translation uses the superior "grenade launcher" here.</e>
 e:axel=fearful
 
 “What madness,” I thought, “to go down into a mortar, perhaps a loaded mortar, to be shot up into the air at a moment’s notice!”
@@ -10324,7 +10324,7 @@ e:prof=neutral
 There were those who envied him his fame; and as his theories, resting upon known facts, were in opposition to the systems of science upon the question of the central fire, he sustained with his pen and by his voice remarkable discussions with the learned of every country.
 e:prof=serious
 
-For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.<e>The most anti-science line in the book, somehow.</e>
+For my part I cannot agree with his theory of gradual cooling: in spite of what I have seen and felt, I believe, and always shall believe, in the central heat.<e>The most anti-science line in the book, somehow. (Also one last waah waah waah.)</e>
 e:axel=serious
 
 But I admit that certain circumstances not yet sufficiently understood may tend to modify in places the action of natural phenomena.
@@ -10429,5 +10429,5 @@ s=none;e:axel=happy;f:b:prof-study=blur(3px)
 What is the need of adding that the illustrious Otto Liedenbrock, corresponding member of all the scientific, geographical, and mineralogical societies of all the civilised world, was now her uncle and mine?<e>"What is the need"?</e>
 e:axel=smirking
 
-<e>The End. A fine book overall, but what's the deal with Verne novels always promising in their titles that they'll go deeper underground than they end up delivering on? (Twice is a pattern.)</e>
+<e>The End. A fine book overall, but what's the deal with Verne novels always promising in their titles that they'll go deeper underground than they end up delivering on? (Spoiler: they never make it 20,000 leagues under the sea.)</e>
 
