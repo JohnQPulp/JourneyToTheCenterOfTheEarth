@@ -5,7 +5,7 @@ r=title;t=author;z:author=85,,11
 r=prof-wide
 
 On the 24th of May, 1863, my uncle, Professor Liedenbrock, rushed into his little house, No. 19 Königstrasse, one of the oldest streets in the oldest portion of the city of Hamburg.
-n:axel=Axel;n:prof=Professor Liedenbrock;e:axel=neutral;e:prof=excited
+n:axel=?;n:prof=Professor Liedenbrock;e:axel=neutral;e:prof=excited
 
 Martha must have concluded that she was very much behindhand, for the dinner had only just been put into the oven.
 n:martha=Martha;e:martha=nervous;b=prof-dining
@@ -35,7 +35,7 @@ s=axel;e:axel=thinking;e:axel=wary;i=2
 s=martha;e:martha=nervous;e:martha=wary;i=
 
 And Martha retreated in safety into her own dominions.
-s=none;e:martha=neutral
+s=none;e:martha=neutral;n:axel=Axel
 
 I was left alone. But how was it possible for a man of my undecided turn of mind to argue successfully with so irascible a person as the Professor?
 e:axel=nervous
